@@ -31,6 +31,8 @@ readline.createInterface({
   i++;
 }).on('close', function() {
   jsonfile.writeFile(file, cities, {spaces: 2}, function (err) {
-    console.error(err)
+    if (err) {
+      console.error(err)
+    }
   })
 });
