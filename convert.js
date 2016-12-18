@@ -1,4 +1,3 @@
-var parse = require('csv-parse');
 var fs = require('fs');
 var jsonfile  = require('jsonfile');
 var readline  = require('readline');
