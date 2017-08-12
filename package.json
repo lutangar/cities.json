@@ -1,6 +1,6 @@
 {
   "name": "cities.json",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Cities of the world in Json based on Americas Open Geocode dataset",
   "main": "cities.json",
   "scripts": {
@@ -16,7 +16,7 @@
     "json"
   ],
   "author": "lutangar",
-  "license": "MIT",
+  "license": "CC-BY-3.0",
   "bugs": {
     "url": "https://github.com/lutangar/cities.json/issues"
   },
