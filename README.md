@@ -1,7 +1,7 @@
 # Cities of the World
 [![Creative Commons License](https://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)
 
-This cities comes from GeoNames Gazetteer:
+These cities comes from GeoNames Gazetteer:
 http://www.geonames.org
 
 Here is the description of the original dataset:
