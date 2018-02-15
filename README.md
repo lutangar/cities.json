@@ -7,6 +7,26 @@ http://www.geonames.org
 Here is the description of the original dataset:
 > all cities with a population > 1000 or seats of adm div (ca 150.000) [...]
 
+## Install
+```
+npm install --save cities.json
+```
+
+## Usage
+Either on **node** or the **browser** (with `webpack`) it get as simple as this:
+**ES5**
+```
+const cities = require('cities.json');
+```
+
+**ES6**
+```
+import cities from 'cities.json';
+```
+
+> Since webpack >= v2.0.0, importing of JSON files will work by default.
+
+## Description
 This Json version is an array of object of the following shape:
 - ISO 3166-1 alpha-2 country code
 - name
