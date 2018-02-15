@@ -14,6 +14,7 @@ npm install --save cities.json
 
 ## Usage
 Either on **node** or the **browser** (with `webpack`) it get as simple as this:
+
 **ES5**
 ```
 const cities = require('cities.json');
