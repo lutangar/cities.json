@@ -1,5 +1,5 @@
 # Cities of the World
-[![Creative Commons License](https://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/)
 
 These cities comes from GeoNames Gazetteer:
 http://www.geonames.org
@@ -47,3 +47,7 @@ This Json version is an array of object of the following shape:
 
 > These cities can pretty easily be matched with countries by code using the following dataset:
 > https://github.com/annexare/Countries
+
+## Licence
+
+This work is licensed under a [https://creativecommons.org/licenses/by/3.0/).
