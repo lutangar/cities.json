@@ -50,4 +50,4 @@ This Json version is an array of object of the following shape:
 
 ## Licence
 
-This work is licensed under a [https://creativecommons.org/licenses/by/3.0/).
+This work is licensed under a [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
