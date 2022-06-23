@@ -38,4 +38,13 @@ docs
 # Lerna packages
 packages
 
+.idea/
+
+# Project
 convert.js
+download.js
+cities1000.txt
+cities1000.zip
+cities1000.zip
+.prettierignore
+.prettierrc
