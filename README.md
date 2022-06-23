@@ -8,7 +8,7 @@ These cities comes from [GeoNames Gazetteer](http://www.geonames.org).
 
 Here is the description of the original dataset:
 
-> *all cities with a population > 1000 or seats of adm div (ca 150.000) [...]*
+> _all cities with a population > 1000 or seats of adm div (ca 150.000) [...]_
 
 ## Install
 

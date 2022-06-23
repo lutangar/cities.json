@@ -4,7 +4,7 @@
   "description": "Cities of the world in Json based on GeoNames Gazetteer",
   "main": "cities.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node test",
     "convert": "node convert",
     "download": "node download",
     "build": "npm run download && npm run convert",
