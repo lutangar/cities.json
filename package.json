@@ -8,7 +8,8 @@
     "convert": "node convert",
     "download": "node download",
     "build": "npm run download && npm run convert",
-    "prettier": "prettier -w -u ."
+    "prettier": "prettier -w -u .",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
     "jsonfile": "^2.4.0",
     "prettier": "^2.7.1",
     "readline": "^1.3.0",
+    "release-it": "^15.1.0",
     "yauzl": "^2.10.0"
   }
 }
