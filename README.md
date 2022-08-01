@@ -1,6 +1,4 @@
-# Cities of the World
-
-[![Creative Commons License](https://i.creativecommons.org/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/)
+# :cityscape: Cities of the World [![Creative Commons License](https://i.creativecommons.org/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/)
 
 These cities comes from [GeoNames Gazetteer](http://www.geonames.org).
 
