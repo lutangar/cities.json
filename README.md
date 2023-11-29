@@ -96,6 +96,10 @@ For [./admin2.json] concatenate `country`, `admin1` code and the `admin2` code:
 
 - `US.MA.025` → **Suffolk County**
 
+## Resource
+
+- https://download.geonames.org/export/dump/
+
 ## Licence
 
 This work is licensed under a [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
