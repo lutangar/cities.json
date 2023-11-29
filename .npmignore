@@ -41,11 +41,14 @@ packages
 .idea/
 
 # Project
-convert.js
-download.js
+.github/
+.prettierignore
+.prettierrc
+.release-it.json
 admin1CodesASCII.txt
 admin2Codes.txt
 cities1000.txt
 cities1000.zip
-.prettierignore
-.prettierrc
+convert.js
+download.js
+test.js
