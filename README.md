@@ -44,8 +44,8 @@ This Json version is an array of object of the following shape:
 - name
 - Latitude
 - Longitude
-- Admin code 1 (_names in **English** for administrative division_ see [./admin1Codes.json])
-- Admin code 2 (_names in **English** for administrative subdivision_ see [./admin2Codes.json])
+- Admin code 1: the code of an administrative division (see [Administrative divisions](#administrative-divisions))
+- Admin code 2: the code of an administrative subdivision (see [Administrative divisions](#administrative-divisions))
 
 ```jsonc
 [
@@ -54,8 +54,8 @@ This Json version is an array of object of the following shape:
     "lat": "45.74846",
     "lng": "4.84671",
     "country": "FR",
-    "admin1_code": "84",
-    "admin2_code": "69"
+    "admin1": "84",
+    "admin2": "69"
   }
   // etc.
 ]
@@ -64,9 +64,13 @@ This Json version is an array of object of the following shape:
 > These cities can pretty easily be matched with countries by code using the following dataset:
 > https://github.com/annexare/Countries
 
-## Administrative divisions and subdivisions
+## Administrative divisions
 
-Names and depth of these divisions are very different from country to country thus the use of the keys `admin1Code`, `admin2code`, etc.
+Names and depth of these divisions (and subdivisions) may vary greatly between countries, thus the use of these less expressive property names :
+
+- `admin1Code`
+- `admin2code`
+- _etc._
 
 For example `admin1Code` for a **US** city,j would stand for the **state** :
 
@@ -77,23 +81,20 @@ For example `admin1Code` for a **US** city,j would stand for the **state** :
     "lat": "42.35843",
     "lng": "-71.05977",
     "country": "US",
-    "admin1_code": "MA",
-    "admin2_code": "025"
+    "admin1": "MA",
+    "admin2": "025"
   }
 ]
 ```
 
-You may map the `admin1_code` to the full **English** name with [./admin1Codes.json]
-where `code` is the concatenation of the `country` and the `admin1_code`, for example :
+You may map the `admin1` code to the full **English** name through the [./admin1Codes.json] file.
+Where the `code` is the concatenation of the `country` code and the `admin1` code, for example :
 
-- `US.MA` → __Massachusetts__
+- `US.MA` → **Massachusetts**
 
-For [./admin2Codes.json] concatenate `country`, `admin1_code` and `admin2_code`,
-- `US.MA.025` → __Suffolk County__
+For [./admin2Codes.json] concatenate `country`, `admin1` code and the `admin2` code :
 
-
-admin1CodesASCII.txt : names in English for admin divisions. Columns: code, name, name ascii, geonameid
-admin2Codes.txt : names for administrative subdivision 'admin2 code' (UTF8), Format : concatenated codes <tab>name <tab> asciiname <tab> geonameId
+- `US.MA.025` → **Suffolk County**
 
 ## Licence
 

@@ -69,8 +69,8 @@ txtToJson('cities1000', {
   1: 'name',
   4: 'lat',
   5: 'lng',
-  10: 'admin1_code',
-  11: 'admin2_code',
+  10: 'admin1',
+  11: 'admin2',
 }, './cities.json');
 
 txtToJson('admin1CodesASCII', {
