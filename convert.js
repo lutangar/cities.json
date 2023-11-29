@@ -64,21 +64,33 @@ const txtToJson = (filename, columnNameMapping = {}, jsonFilePath) => {
 // dem               : digital elevation model, srtm3 or gtopo30, average elevation of 3''x3'' (ca 90mx90m) or 30''x30'' (ca 900mx900m) area in meters, integer. srtm processed by cgiar/ciat.
 // timezone          : the iana timezone id (see file timeZone.txt) varchar(40)
 // modification date : date of last modification in yyyy-MM-dd format
-txtToJson('cities1000', {
-  8: 'country',
-  1: 'name',
-  4: 'lat',
-  5: 'lng',
-  10: 'admin1',
-  11: 'admin2',
-}, './cities.json');
+txtToJson(
+  'cities1000',
+  {
+    8: 'country',
+    1: 'name',
+    4: 'lat',
+    5: 'lng',
+    10: 'admin1',
+    11: 'admin2',
+  },
+  './cities.json'
+);
 
-txtToJson('admin1CodesASCII', {
-  0: 'code',
-  1: 'name',
-}, './admin1Codes.json');
+txtToJson(
+  'admin1CodesASCII',
+  {
+    0: 'code',
+    1: 'name',
+  },
+  './admin1.json'
+);
 
-txtToJson('admin2Codes', {
-  0: 'code',
-  1: 'name',
-});
+txtToJson(
+  'admin2Codes',
+  {
+    0: 'code',
+    1: 'name',
+  },
+  './admin2.json'
+);
