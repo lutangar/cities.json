@@ -1,14 +1,12 @@
 # :cityscape: Cities of the World [![Creative Commons License](https://i.creativecommons.org/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/)
 
-These cities comes from [GeoNames Gazetteer](http://www.geonames.org).
-
-> See https://www.geonames.org/datasources/ for the list of data sources.
-
-Here is the description of the original dataset:
+These **cities** are coming from the [GeoNames Gazetteer](http://www.geonames.org).
 
 > _all cities with a population > 1000 or seats of adm div (ca 150.000) [...]_
 
 _Thus, this file is updated **monthly** and new cities are added as world population rises._
+
+> See https://www.geonames.org/datasources/ for the list of data sources used by **GeoNames**.
 
 ## Install
 
@@ -66,11 +64,11 @@ This Json version is an array of object of the following shape:
 
 Names and depth of these divisions (and subdivisions) may vary greatly between countries, thus the use of these less expressive property names :
 
-- `admin1Code`
-- `admin2code`
+- `admin1` code
+- `admin2` code
 - _etc._
 
-For example `admin1Code` for a **US** city,j would stand for the **state** :
+For example `admin1` code for a **US** city, would stand for the **state** :
 
 ```jsonc
 [
@@ -79,7 +77,7 @@ For example `admin1Code` for a **US** city,j would stand for the **state** :
     "lat": "42.35843",
     "lng": "-71.05977",
     "country": "US",
-    "admin1": "MA",
+    "admin1": "MA", // Massachusetts
     "admin2": "025"
   }
 ]
