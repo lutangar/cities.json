@@ -90,7 +90,7 @@ Where the `code` is the concatenation of the `country` code and the `admin1` cod
 
 - `US.MA` → **Massachusetts**
 
-For [./admin1.json](./admin2.json) concatenate `country`, `admin1` code and the `admin2` code:
+For [./admin2.json](./admin2.json) concatenate `country`, `admin1` code and the `admin2` code:
 
 - `US.MA.025` → **Suffolk County**
 
