@@ -43,8 +43,9 @@ packages
 # Project
 convert.js
 download.js
+admin1CodesASCII.txt
+admin2Codes.txt
 cities1000.txt
-cities1000.zip
 cities1000.zip
 .prettierignore
 .prettierrc

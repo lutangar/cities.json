@@ -8,6 +8,8 @@ Here is the description of the original dataset:
 
 > _all cities with a population > 1000 or seats of adm div (ca 150.000) [...]_
 
+_Thus, this file is updated **monthly** and new cities are added as world population rises._
+
 ## Install
 
 ```
@@ -40,21 +42,61 @@ This Json version is an array of object of the following shape:
 - name
 - Latitude
 - Longitude
+- Admin code 1: the code of an administrative division (see [Administrative divisions](#administrative-divisions))
+- Admin code 2: the code of an administrative subdivision (see [Administrative divisions](#administrative-divisions))
 
-```
+```jsonc
 [
   {
-    "country": "FR",
     "name": "Lyon",
-    "lat": "45.75",
-    "lng": "4.583333"
-  },
-  ...
+    "lat": "45.74846",
+    "lng": "4.84671",
+    "country": "FR",
+    "admin1": "84",
+    "admin2": "69"
+  }
+  // etc.
 ]
 ```
 
 > These cities can pretty easily be matched with countries by code using the following dataset:
 > https://github.com/annexare/Countries
+
+## Administrative divisions
+
+Names and depth of these divisions (and subdivisions) may vary greatly between countries, thus the use of these less expressive property names :
+
+- `admin1Code`
+- `admin2code`
+- _etc._
+
+For example `admin1Code` for a **US** city,j would stand for the **state** :
+
+```jsonc
+[
+  {
+    "name": "Boston",
+    "lat": "42.35843",
+    "lng": "-71.05977",
+    "country": "US",
+    "admin1": "MA",
+    "admin2": "025"
+  }
+]
+```
+
+You may map the `admin1` code to the full **English** name through the [./admin1.json](./admin1.json) file.
+Where the `code` is the concatenation of the `country` code and the `admin1` code, for example:
+
+- `US.MA` → **Massachusetts**
+
+For [./admin1.json](./admin2.json) concatenate `country`, `admin1` code and the `admin2` code:
+
+- `US.MA.025` → **Suffolk County**
+
+## Resource
+
+- https://download.geonames.org/export/dump/
 
 ## Licence
 
