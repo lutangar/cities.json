@@ -10,7 +10,7 @@ Here is the description of the original dataset:
 
 > _all cities with a population > 1000 or seats of adm div (ca 150.000) [...]_
 
-_Thus, this file is updated **monthly**, new cities are appended to this set, as world population rises..._
+_Thus, this file is updated **monthly** and new cities are added as world population rises._
 
 ## Install
 
@@ -87,12 +87,12 @@ For example `admin1Code` for a **US** city,j would stand for the **state** :
 ]
 ```
 
-You may map the `admin1` code to the full **English** name through the [./admin1.json] file.
+You may map the `admin1` code to the full **English** name through the (./admin1.json)[./admin1.json] file.
 Where the `code` is the concatenation of the `country` code and the `admin1` code, for example:
 
 - `US.MA` → **Massachusetts**
 
-For [./admin2.json] concatenate `country`, `admin1` code and the `admin2` code:
+For (./admin1.json)[./admin2.json] concatenate `country`, `admin1` code and the `admin2` code:
 
 - `US.MA.025` → **Suffolk County**
 
