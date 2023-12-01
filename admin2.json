@@ -33185,7 +33185,7 @@
   },
   {
     "code": "BY.05.626951",
-    "name": "Kapyl’ski Rayon"
+    "name": "Kapyĺski Rajon"
   },
   {
     "code": "BY.01.627146",
@@ -142852,10 +142852,6 @@
     "name": "Vesyegonsky District"
   },
   {
-    "code": "RU.78.12625771",
-    "name": "Ishim Urban District"
-  },
-  {
     "code": "RU.78.12625773",
     "name": "Ishim Urban District"
   },
@@ -143818,6 +143814,86 @@
   {
     "code": "RU.79.12640315",
     "name": "Mongun-Tayginsky District"
+  },
+  {
+    "code": "RU.79.12640345",
+    "name": "Tes-Khemsky District"
+  },
+  {
+    "code": "RU.79.12640346",
+    "name": "Piy-Khemsky District"
+  },
+  {
+    "code": "RU.79.12640348",
+    "name": "Tandinsky District"
+  },
+  {
+    "code": "RU.79.12640349",
+    "name": "Ulug-Khemsky District"
+  },
+  {
+    "code": "RU.79.12640350",
+    "name": "Chaa-Kholsky District"
+  },
+  {
+    "code": "RU.77.12640351",
+    "name": "Udomelsky District"
+  },
+  {
+    "code": "RU.77.12640352",
+    "name": "Vyshnevolotsky District"
+  },
+  {
+    "code": "RU.76.12640353",
+    "name": "Belyovsky District"
+  },
+  {
+    "code": "RU.59.12640372",
+    "name": "Alexandrovsky District"
+  },
+  {
+    "code": "RU.75.12640373",
+    "name": "ZATO Seversk"
+  },
+  {
+    "code": "RU.75.12640374",
+    "name": "Asino Region"
+  },
+  {
+    "code": "RU.75.12640375",
+    "name": "Kedrovy Urban District"
+  },
+  {
+    "code": "RU.75.12640379",
+    "name": "Strezhevoy Urban District"
+  },
+  {
+    "code": "RU.75.12640383",
+    "name": "Pervomay Region"
+  },
+  {
+    "code": "RU.75.12640387",
+    "name": "Parabelsky District"
+  },
+  {
+    "code": "RU.71.12640390",
+    "name": "Sosvinsky City District"
+  },
+  {
+    "code": "RU.71.12640391",
+    "name": "Artinsky District"
+  },
+  {
+    "code": "RU.71.12640392",
+    "name": "Uralsky"
+  },
+  {
+    "code": "RU.71.12640394",
+    "name": "Tavdinsky Urban District"
+  },
+  {
+    "code": "RU.61.12640399",
+    "name": "Kamensk-Sha Urban District"
   },
   {
     "code": "RW.11.52",
