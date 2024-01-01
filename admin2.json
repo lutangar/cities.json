@@ -4669,7 +4669,7 @@
   },
   {
     "code": "AR.23.94028",
-    "name": "Antártida Argentina"
+    "name": "Argentine Antarctica"
   },
   {
     "code": "AR.23.94021",
@@ -32981,7 +32981,7 @@
   },
   {
     "code": "BY.06.622033",
-    "name": "Shklowski Rayon"
+    "name": "Škloŭski Rajon"
   },
   {
     "code": "BY.03.622114",
@@ -33021,7 +33021,7 @@
   },
   {
     "code": "BY.07.623283",
-    "name": "Polatski Rayon"
+    "name": "Polotskiy Rayon"
   },
   {
     "code": "BY.01.623548",
@@ -33065,7 +33065,7 @@
   },
   {
     "code": "BY.03.624498",
-    "name": "Novogrudskiy Rayon"
+    "name": "Navahrudski rajon"
   },
   {
     "code": "BY.05.624699",
@@ -33209,7 +33209,7 @@
   },
   {
     "code": "BY.02.627360",
-    "name": "Khoynitski Rayon"
+    "name": "Chojnicki rajon"
   },
   {
     "code": "BY.06.627380",
@@ -33217,7 +33217,7 @@
   },
   {
     "code": "BY.01.627709",
-    "name": "Kamenetskiy Rayon"
+    "name": "Kamianiecki rajon"
   },
   {
     "code": "BY.02.627748",
@@ -33257,7 +33257,7 @@
   },
   {
     "code": "BY.07.628404",
-    "name": "Hlybotski Rayon"
+    "name": "Hlybocki Rajon"
   },
   {
     "code": "BY.01.628532",
@@ -53217,7 +53217,7 @@
   },
   {
     "code": "FR.32.59",
-    "name": "Nord"
+    "name": "Département du Nord"
   },
   {
     "code": "FR.27.58",
@@ -59421,67 +59421,67 @@
   },
   {
     "code": "HR.21.8531816",
-    "name": "Gradska četvrt Donji grad"
+    "name": "Donji grad"
   },
   {
     "code": "HR.21.8531817",
-    "name": "Gradska četvrt Gornji Grad - Medvescak"
+    "name": "Gornji grad – Medveščak"
   },
   {
     "code": "HR.21.8531820",
-    "name": "Gradska četvrt Trnje"
+    "name": "Trnje"
   },
   {
     "code": "HR.21.8531822",
-    "name": "Gradska četvrt Maksimir"
+    "name": "Maksimir"
   },
   {
     "code": "HR.21.8531823",
-    "name": "Gradska cetvrt Pescenica - Zitnjak"
+    "name": "Peščenica – Žitnjak"
   },
   {
     "code": "HR.21.8531824",
-    "name": "Gradska cetvrt Novi Zagreb - istok"
+    "name": "Novi Zagreb – istok"
   },
   {
     "code": "HR.21.8531825",
-    "name": "Gradska četvrt Novi Zagreb - zapad"
+    "name": "Novi Zagreb - zapad"
   },
   {
     "code": "HR.21.8531826",
-    "name": "Gradska četvrt Tresnjevka - sjever"
+    "name": "Trešnjevka – sjever"
   },
   {
     "code": "HR.21.8531827",
-    "name": "Gradska četvrt Tresnjevka - jug"
+    "name": "Trešnjevka – jug"
   },
   {
     "code": "HR.21.8531828",
-    "name": "Gradska četvrt Črnomerec"
+    "name": "Črnomerec"
   },
   {
     "code": "HR.21.8531829",
-    "name": "Gradska četvrt Gornja Dubrava"
+    "name": "Gornja Dubrava"
   },
   {
     "code": "HR.21.8531830",
-    "name": "Gradska četvrt Donja Dubrava"
+    "name": "Donja Dubrava"
   },
   {
     "code": "HR.21.8531831",
-    "name": "Gradska četvrt Stenjevec"
+    "name": "Stenjevec"
   },
   {
     "code": "HR.21.8531832",
-    "name": "Podsused - Vrapce"
+    "name": "Podsused - Vrapče"
   },
   {
     "code": "HR.21.8531833",
-    "name": "Gradska četvrt Podsljeme"
+    "name": "Podsljeme"
   },
   {
     "code": "HR.21.8531834",
-    "name": "Gradska četvrt Brezovica"
+    "name": "Brezovica"
   },
   {
     "code": "HR.13.9076750",
@@ -64589,7 +64589,7 @@
   },
   {
     "code": "IN.29.242",
-    "name": "West District"
+    "name": "Gyalshing"
   },
   {
     "code": "IN.16.504",
@@ -64725,7 +64725,7 @@
   },
   {
     "code": "IN.29.243",
-    "name": "South District"
+    "name": "Namchi"
   },
   {
     "code": "IN.10.076",
@@ -65009,7 +65009,7 @@
   },
   {
     "code": "IN.29.241",
-    "name": "North District"
+    "name": "Mangan"
   },
   {
     "code": "IN.03.315",
@@ -65549,7 +65549,7 @@
   },
   {
     "code": "IN.36.177",
-    "name": "Faizābād"
+    "name": "Ayodhya"
   },
   {
     "code": "IN.36.161",
@@ -65581,7 +65581,7 @@
   },
   {
     "code": "IN.29.244",
-    "name": "East District"
+    "name": "Gangtok"
   },
   {
     "code": "IN.37.409",
@@ -66636,7 +66636,7 @@
     "name": "Barnala"
   },
   {
-    "code": "IN.23.8407166",
+    "code": "IN.23.651",
     "name": "Fazilka"
   },
   {
@@ -66648,7 +66648,7 @@
     "name": "Shahid Bhagat Singh Nagar"
   },
   {
-    "code": "IN.23.8408318",
+    "code": "IN.23.662",
     "name": "Pathankot"
   },
   {
@@ -67329,7 +67329,7 @@
   },
   {
     "code": "IN.40.686",
-    "name": "Warangal Urban"
+    "name": "Hanamkonda"
   },
   {
     "code": "IN.40.697",
@@ -67480,16 +67480,132 @@
     "name": "Lepa Rada"
   },
   {
-    "code": "IN.31.12572555",
+    "code": "IN.31.727",
     "name": "Saitual"
   },
   {
-    "code": "IN.31.12572556",
+    "code": "IN.31.728",
     "name": "Khawzawl"
   },
   {
-    "code": "IN.31.12572557",
+    "code": "IN.31.726",
     "name": "Hnahthial"
+  },
+  {
+    "code": "IN.02.745",
+    "name": "Alluri Sitharama Raju"
+  },
+  {
+    "code": "IN.02.744",
+    "name": "Anakapalli"
+  },
+  {
+    "code": "IN.02.753",
+    "name": "Annamayya"
+  },
+  {
+    "code": "IN.03.739",
+    "name": "Bajali"
+  },
+  {
+    "code": "IN.02.750",
+    "name": "Bapatla"
+  },
+  {
+    "code": "IN.20.758",
+    "name": "Chumoukedima"
+  },
+  {
+    "code": "IN.18.740",
+    "name": "Eastern West Khasi Hills"
+  },
+  {
+    "code": "IN.02.748",
+    "name": "Eluru"
+  },
+  {
+    "code": "IN.37.734",
+    "name": "Gaurella Pendra Marwahi"
+  },
+  {
+    "code": "IN.37.759",
+    "name": "Khairgarh Chhuikhadan Gandai"
+  },
+  {
+    "code": "IN.02.747",
+    "name": "Konaseema"
+  },
+  {
+    "code": "IN.23.737",
+    "name": "Malerkotla"
+  },
+  {
+    "code": "IN.37.760",
+    "name": "Manendragarh Chirimiri Bharatpur"
+  },
+  {
+    "code": "IN.37.761",
+    "name": "Mohla Manpur Ambagarh Chouki"
+  },
+  {
+    "code": "IN.02.755",
+    "name": "Nandyal"
+  },
+  {
+    "code": "IN.20.736",
+    "name": "Noklak"
+  },
+  {
+    "code": "IN.02.749",
+    "name": "NTR"
+  },
+  {
+    "code": "IN.29.741",
+    "name": "Pakyong"
+  },
+  {
+    "code": "IN.02.751",
+    "name": "Palnadu"
+  },
+  {
+    "code": "IN.02.743",
+    "name": "Parvathipuram Manyam"
+  },
+  {
+    "code": "IN.37.762",
+    "name": "Sakti"
+  },
+  {
+    "code": "IN.37.763",
+    "name": "Sarangarh Bilaigarh"
+  },
+  {
+    "code": "IN.02.746",
+    "name": "Kakinada"
+  },
+  {
+    "code": "IN.29.742",
+    "name": "Soreng"
+  },
+  {
+    "code": "IN.02.754",
+    "name": "Sri Sathya Sai"
+  },
+  {
+    "code": "IN.02.752",
+    "name": "Tirupati"
+  },
+  {
+    "code": "IN.20.757",
+    "name": "Tseminyu"
+  },
+  {
+    "code": "IN.19.738",
+    "name": "Vijayanagar"
+  },
+  {
+    "code": "IN.03.756",
+    "name": "Tamulpur"
   },
   {
     "code": "IQ.08.89569",
@@ -72205,7 +72321,7 @@
   },
   {
     "code": "JM.16.1070",
-    "name": "Lenox Bigwoods"
+    "name": "Lennox Bigwoods"
   },
   {
     "code": "JM.16.1072",
@@ -74229,7 +74345,7 @@
   },
   {
     "code": "JP.09.1850200",
-    "name": "Toki-shi"
+    "name": "Toki Shi"
   },
   {
     "code": "JP.29.1850218",
@@ -74349,7 +74465,7 @@
   },
   {
     "code": "JP.09.1851192",
-    "name": "Tajimi-shi"
+    "name": "Tajimi Shi"
   },
   {
     "code": "JP.01.1851258",
@@ -74429,7 +74545,7 @@
   },
   {
     "code": "JP.37.1851714",
-    "name": "Shizuoka-shi"
+    "name": "Shizuoka Shi"
   },
   {
     "code": "JP.34.1851882",
@@ -74781,7 +74897,7 @@
   },
   {
     "code": "JP.09.1854700",
-    "name": "Ōgaki-shi"
+    "name": "Ōgaki Shi"
   },
   {
     "code": "JP.19.1854744",
@@ -74949,7 +75065,7 @@
   },
   {
     "code": "JP.09.1855750",
-    "name": "Nakatsugawa-shi"
+    "name": "Nakatsugawa Shi"
   },
   {
     "code": "JP.17.1855768",
@@ -75061,7 +75177,7 @@
   },
   {
     "code": "JP.09.1856666",
-    "name": "Mizunami-shi"
+    "name": "Mizunami Shi"
   },
   {
     "code": "JP.11.1856691",
@@ -75129,7 +75245,7 @@
   },
   {
     "code": "JP.09.1857051",
-    "name": "Minokamo-shi"
+    "name": "Mino-kamo Shi"
   },
   {
     "code": "JP.45.1857072",
@@ -75353,7 +75469,7 @@
   },
   {
     "code": "JP.26.1858938",
-    "name": "Komagane-shi"
+    "name": "Komagane Shi"
   },
   {
     "code": "JP.40.1858941",
@@ -75601,7 +75717,7 @@
   },
   {
     "code": "JP.09.1860193",
-    "name": "Kani-shi"
+    "name": "Kani Shi"
   },
   {
     "code": "JP.15.1860240",
@@ -75645,7 +75761,7 @@
   },
   {
     "code": "JP.09.1860734",
-    "name": "Kakamigahara-shi"
+    "name": "Kakamigahara Shi"
   },
   {
     "code": "JP.32.1860764",
@@ -75729,7 +75845,7 @@
   },
   {
     "code": "JP.37.1861167",
-    "name": "Iwata-shi"
+    "name": "Iwata Shi"
   },
   {
     "code": "JP.45.1861209",
@@ -75793,7 +75909,7 @@
   },
   {
     "code": "JP.26.1861606",
-    "name": "Ina-shi"
+    "name": "Ina Shi"
   },
   {
     "code": "JP.40.1861634",
@@ -75837,7 +75953,7 @@
   },
   {
     "code": "JP.26.1861858",
-    "name": "Iida-shi"
+    "name": "Iida Shi"
   },
   {
     "code": "JP.23.1861901",
@@ -76001,7 +76117,7 @@
   },
   {
     "code": "JP.09.1863084",
-    "name": "Hashima-shi"
+    "name": "Hashima Shi"
   },
   {
     "code": "JP.09.1863085",
@@ -76029,7 +76145,7 @@
   },
   {
     "code": "JP.37.1863288",
-    "name": "Hamamatsu-shi"
+    "name": "Hamamatsu Shi"
   },
   {
     "code": "JP.36.1863308",
@@ -76089,7 +76205,7 @@
   },
   {
     "code": "JP.09.1863639",
-    "name": "Gifu-shi"
+    "name": "Gifu Shi"
   },
   {
     "code": "JP.09.1863645",
@@ -76125,7 +76241,7 @@
   },
   {
     "code": "JP.37.1863944",
-    "name": "Fukuroi-shi"
+    "name": "Fukuroi Shi"
   },
   {
     "code": "JP.07.1863955",
@@ -77785,7 +77901,7 @@
   },
   {
     "code": "JP.09.7419031",
-    "name": "Gujō-shi"
+    "name": "Gujō Shi"
   },
   {
     "code": "JP.09.7419032",
@@ -77793,19 +77909,19 @@
   },
   {
     "code": "JP.09.7419033",
-    "name": "Mino-shi"
+    "name": "Mino Shi"
   },
   {
     "code": "JP.09.7419034",
-    "name": "Mizuho-shi"
+    "name": "Mizuho Shi"
   },
   {
     "code": "JP.09.7419035",
-    "name": "Motosu-shi"
+    "name": "Motosu Shi"
   },
   {
     "code": "JP.09.7419036",
-    "name": "Yamagata-shi"
+    "name": "Yamagata Shi"
   },
   {
     "code": "JP.12.7428076",
@@ -78461,7 +78577,7 @@
   },
   {
     "code": "JP.37.8301108",
-    "name": "Kosai-shi"
+    "name": "Kosai Shi"
   },
   {
     "code": "JP.27.8301120",
@@ -136089,7 +136205,7 @@
   },
   {
     "code": "RU.19.486197",
-    "name": "Sunzhenskiy Rayon"
+    "name": "Sernovodskiy Rayon"
   },
   {
     "code": "RU.33.486207",
@@ -137245,7 +137361,7 @@
   },
   {
     "code": "RU.37.529502",
-    "name": "Manturovskiy Rayon"
+    "name": "Gorodskoy Okrug Manturovo"
   },
   {
     "code": "RU.41.529503",
@@ -143894,6 +144010,78 @@
   {
     "code": "RU.61.12640399",
     "name": "Kamensk-Sha Urban District"
+  },
+  {
+    "code": "RU.37.12648950",
+    "name": "Gorodskoy Okrug Kostroma"
+  },
+  {
+    "code": "RU.37.12648951",
+    "name": "Gorodskoy Okrug Buy"
+  },
+  {
+    "code": "RU.37.12648952",
+    "name": "Gorodskoy Okrug Shar'ya"
+  },
+  {
+    "code": "RU.12.12650623",
+    "name": "Gorodskoy Okrug Groznyy"
+  },
+  {
+    "code": "RU.12.12650624",
+    "name": "Sharoyskiy Rayon"
+  },
+  {
+    "code": "RU.12.12650625",
+    "name": "Shatoyskiy Rayon"
+  },
+  {
+    "code": "RU.12.12650626",
+    "name": "Gudermesskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.19.12653089",
+    "name": "Gorodskoy Okrug Karabulak"
+  },
+  {
+    "code": "RU.45.12661325",
+    "name": "Gorodskoy Okrug Koz'modemy'ansk"
+  },
+  {
+    "code": "RU.51.12662531",
+    "name": "Gorodskoy Okrug Nizhniy Novgorod"
+  },
+  {
+    "code": "RU.51.12662532",
+    "name": "Gorodskoy Okrug Arzamas"
+  },
+  {
+    "code": "RU.51.12662533",
+    "name": "Gorodskoy Okrug Sokol'skiy"
+  },
+  {
+    "code": "RU.51.12662534",
+    "name": "Gorodskoy Okrug Sarov"
+  },
+  {
+    "code": "RU.51.12662535",
+    "name": "Gorodskoy Okrug Vorotynskiy"
+  },
+  {
+    "code": "RU.51.12662536",
+    "name": "Gorodskoy Okrug Dzerzhinsk"
+  },
+  {
+    "code": "RU.28.12663427",
+    "name": "Petrozavodskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.28.12663428",
+    "name": "Kostomukshskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.43.12666369",
+    "name": "Gorodskoy Okrug Lipetsk"
   },
   {
     "code": "RW.11.52",
@@ -160613,7 +160801,7 @@
   },
   {
     "code": "UA.27.1808",
-    "name": "Zviahel Miskrada"
+    "name": "Zviahel Raion"
   },
   {
     "code": "UA.13.3202",
@@ -178261,7 +178449,7 @@
   },
   {
     "code": "VN.46.543",
-    "name": "Huyện Hoài Nhơn"
+    "name": "Thị Xã Hoài Nhơn"
   },
   {
     "code": "VN.46.546",
@@ -178889,7 +179077,7 @@
   },
   {
     "code": "VN.88.654",
-    "name": "Huyện Krông Păk"
+    "name": "Huyện Krông Pắk"
   },
   {
     "code": "VN.88.651",

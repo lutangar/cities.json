@@ -673,7 +673,7 @@
   },
   {
     "code": "AZ.35",
-    "name": "Nakhichevan"
+    "name": "Nakhichevan ASSR"
   },
   {
     "code": "AZ.32",
@@ -2485,7 +2485,7 @@
   },
   {
     "code": "CN.21",
-    "name": "Ningxia Hui Autonomous Region"
+    "name": "Ningxia"
   },
   {
     "code": "CN.03",
@@ -7649,7 +7649,7 @@
   },
   {
     "code": "MD.51",
-    "name": "Găgăuzia"
+    "name": "Gagauzia"
   },
   {
     "code": "MD.62",
@@ -7754,6 +7754,10 @@
   {
     "code": "ME.24",
     "name": "Tuzi"
+  },
+  {
+    "code": "ME.25",
+    "name": "ME.25"
   },
   {
     "code": "MG.71",
@@ -9901,7 +9905,7 @@
   },
   {
     "code": "PE.22",
-    "name": "San Martín"
+    "name": "San Martín Department"
   },
   {
     "code": "PE.20",
@@ -9921,11 +9925,11 @@
   },
   {
     "code": "PE.10",
-    "name": "Huanuco"
+    "name": "Huánuco Department"
   },
   {
     "code": "PE.06",
-    "name": "Cajamarca"
+    "name": "Cajamarca Department"
   },
   {
     "code": "PE.02",
@@ -9949,7 +9953,7 @@
   },
   {
     "code": "PE.18",
-    "name": "Moquegua"
+    "name": "Moquegua Department"
   },
   {
     "code": "PE.17",
@@ -9957,7 +9961,7 @@
   },
   {
     "code": "PE.LMA",
-    "name": "Lima"
+    "name": "Lima Province"
   },
   {
     "code": "PE.15",
@@ -9977,7 +9981,7 @@
   },
   {
     "code": "PE.08",
-    "name": "Cusco"
+    "name": "Cuzco Department"
   },
   {
     "code": "PE.07",
@@ -9993,7 +9997,7 @@
   },
   {
     "code": "PE.03",
-    "name": "Apurímac"
+    "name": "Apurímac Department"
   },
   {
     "code": "PF.04",
@@ -10849,23 +10853,23 @@
   },
   {
     "code": "RO.39",
-    "name": "Vâlcea"
+    "name": "Vâlcea County"
   },
   {
     "code": "RO.38",
-    "name": "Vaslui"
+    "name": "Vaslui County"
   },
   {
     "code": "RO.37",
-    "name": "Tulcea"
+    "name": "Tulcea County"
   },
   {
     "code": "RO.36",
-    "name": "Timiș"
+    "name": "Timiș County"
   },
   {
     "code": "RO.35",
-    "name": "Teleorman"
+    "name": "Teleorman County"
   },
   {
     "code": "RO.34",
@@ -10873,15 +10877,15 @@
   },
   {
     "code": "RO.33",
-    "name": "Sibiu"
+    "name": "Sibiu County"
   },
   {
     "code": "RO.32",
-    "name": "Satu Mare"
+    "name": "Satu Mare County"
   },
   {
     "code": "RO.31",
-    "name": "Sălaj"
+    "name": "Sălaj County"
   },
   {
     "code": "RO.30",
@@ -10893,15 +10897,15 @@
   },
   {
     "code": "RO.28",
-    "name": "Neamț"
+    "name": "Neamț County"
   },
   {
     "code": "RO.27",
-    "name": "Mureș"
+    "name": "Mureș County"
   },
   {
     "code": "RO.26",
-    "name": "Mehedinți"
+    "name": "Mehedinți County"
   },
   {
     "code": "RO.25",
@@ -10909,31 +10913,31 @@
   },
   {
     "code": "RO.23",
-    "name": "Iași"
+    "name": "Iași County"
   },
   {
     "code": "RO.22",
-    "name": "Ialomița"
+    "name": "Ialomița County"
   },
   {
     "code": "RO.21",
-    "name": "Hunedoara"
+    "name": "Hunedoara County"
   },
   {
     "code": "RO.20",
-    "name": "Harghita"
+    "name": "Harghita County"
   },
   {
     "code": "RO.19",
-    "name": "Gorj"
+    "name": "Gorj County"
   },
   {
     "code": "RO.42",
-    "name": "Giurgiu"
+    "name": "Giurgiu County"
   },
   {
     "code": "RO.18",
-    "name": "Galați"
+    "name": "Galați County"
   },
   {
     "code": "RO.17",
@@ -10941,31 +10945,31 @@
   },
   {
     "code": "RO.16",
-    "name": "Dâmbovița"
+    "name": "Dâmbovița County"
   },
   {
     "code": "RO.15",
-    "name": "Covasna"
+    "name": "Covasna County"
   },
   {
     "code": "RO.14",
-    "name": "Constanța"
+    "name": "Constanța County"
   },
   {
     "code": "RO.13",
-    "name": "Cluj"
+    "name": "Cluj County"
   },
   {
     "code": "RO.12",
-    "name": "Caraș-Severin"
+    "name": "Caraș-Severin County"
   },
   {
     "code": "RO.41",
-    "name": "Călărași"
+    "name": "Călărași County"
   },
   {
     "code": "RO.11",
-    "name": "Buzău"
+    "name": "Buzău County"
   },
   {
     "code": "RO.10",
@@ -10973,27 +10977,27 @@
   },
   {
     "code": "RO.09",
-    "name": "Brașov"
+    "name": "Brașov County"
   },
   {
     "code": "RO.08",
-    "name": "Brăila"
+    "name": "Brăila County"
   },
   {
     "code": "RO.07",
-    "name": "Botoșani"
+    "name": "Botoșani County"
   },
   {
     "code": "RO.06",
-    "name": "Bistrița-Năsăud"
+    "name": "Bistrița-Năsăud County"
   },
   {
     "code": "RO.05",
-    "name": "Bihor"
+    "name": "Bihor County"
   },
   {
     "code": "RO.04",
-    "name": "Bacău"
+    "name": "Bacău County"
   },
   {
     "code": "RO.03",
@@ -11001,11 +11005,11 @@
   },
   {
     "code": "RO.02",
-    "name": "Arad"
+    "name": "Arad County"
   },
   {
     "code": "RO.01",
-    "name": "Alba"
+    "name": "Alba County"
   },
   {
     "code": "RO.43",
@@ -12601,35 +12605,35 @@
   },
   {
     "code": "SK.03",
-    "name": "Košický kraj"
+    "name": "Košice Region"
   },
   {
     "code": "SK.05",
-    "name": "Prešovský kraj"
+    "name": "Prešov Region"
   },
   {
     "code": "SK.08",
-    "name": "Žilinský kraj"
+    "name": "Žilina Region"
   },
   {
     "code": "SK.01",
-    "name": "Banskobystrický kraj"
+    "name": "Banská Bystrica Region"
   },
   {
     "code": "SK.02",
-    "name": "Bratislavský Kraj"
+    "name": "Bratislava Region"
   },
   {
     "code": "SK.04",
-    "name": "Nitriansky kraj"
+    "name": "Nitra Region"
   },
   {
     "code": "SK.06",
-    "name": "Trenčiansky kraj"
+    "name": "Trenčín Region"
   },
   {
     "code": "SK.07",
-    "name": "Trnava"
+    "name": "Trnava Region"
   },
   {
     "code": "SL.04",
@@ -12817,23 +12821,23 @@
   },
   {
     "code": "SR.19",
-    "name": "Wanica"
+    "name": "Wanica District"
   },
   {
     "code": "SR.18",
-    "name": "Sipaliwini"
+    "name": "Sipaliwini District"
   },
   {
     "code": "SR.17",
-    "name": "Saramacca"
+    "name": "Saramacca District"
   },
   {
     "code": "SR.16",
-    "name": "Paramaribo"
+    "name": "Paramaribo District"
   },
   {
     "code": "SR.15",
-    "name": "Para"
+    "name": "Para District"
   },
   {
     "code": "SR.14",
@@ -12841,19 +12845,19 @@
   },
   {
     "code": "SR.13",
-    "name": "Marowijne"
+    "name": "Marowijne District"
   },
   {
     "code": "SR.12",
-    "name": "Coronie"
+    "name": "Coronie District"
   },
   {
     "code": "SR.11",
-    "name": "Commewijne"
+    "name": "Commewijne District"
   },
   {
     "code": "SR.10",
-    "name": "Brokopondo"
+    "name": "Brokopondo District"
   },
   {
     "code": "SS.07",
@@ -13533,7 +13537,7 @@
   },
   {
     "code": "TL.DI",
-    "name": "Díli"
+    "name": "Dili Municipality"
   },
   {
     "code": "TL.BO",
@@ -14885,35 +14889,35 @@
   },
   {
     "code": "VN.58",
-    "name": "Nghệ An"
+    "name": "Nghệ An Province"
   },
   {
     "code": "VN.59",
-    "name": "Ninh Bình"
+    "name": "Ninh Bình Province"
   },
   {
     "code": "VN.60",
-    "name": "Ninh Thuận"
+    "name": "Ninh Thuận Province"
   },
   {
     "code": "VN.65",
-    "name": "Sóc Trăng"
+    "name": "Sóc Trăng Province"
   },
   {
     "code": "VN.67",
-    "name": "Trà Vinh"
+    "name": "Trà Vinh Province"
   },
   {
     "code": "VN.68",
-    "name": "Tuyên Quang"
+    "name": "Tuyên Quang Province"
   },
   {
     "code": "VN.69",
-    "name": "Vĩnh Long"
+    "name": "Vĩnh Long Province"
   },
   {
     "code": "VN.70",
-    "name": "Yên Bái"
+    "name": "Yên Bái Province"
   },
   {
     "code": "VN.90",
@@ -14925,7 +14929,7 @@
   },
   {
     "code": "VN.66",
-    "name": "Thừa Thiên-Huế"
+    "name": "Thừa Thiên Huế Province"
   },
   {
     "code": "VN.55",
@@ -14937,7 +14941,7 @@
   },
   {
     "code": "VN.35",
-    "name": "Thái Bình"
+    "name": "Thái Bình Province"
   },
   {
     "code": "VN.33",
@@ -14949,7 +14953,7 @@
   },
   {
     "code": "VN.64",
-    "name": "Quảng Trị"
+    "name": "Quảng Trị Province"
   },
   {
     "code": "VN.30",
@@ -14961,15 +14965,15 @@
   },
   {
     "code": "VN.62",
-    "name": "Quảng Bình"
+    "name": "Quảng Bình Province"
   },
   {
     "code": "VN.61",
-    "name": "Phú Yên"
+    "name": "Phú Yên Province"
   },
   {
     "code": "VN.53",
-    "name": "Hòa Bình"
+    "name": "Hòa Bình Province"
   },
   {
     "code": "VN.24",
@@ -15005,11 +15009,11 @@
   },
   {
     "code": "VN.50",
-    "name": "Hà Giang"
+    "name": "Hà Giang Province"
   },
   {
     "code": "VN.49",
-    "name": "Gia Lai"
+    "name": "Gia Lai Province"
   },
   {
     "code": "VN.44",
@@ -15025,15 +15029,15 @@
   },
   {
     "code": "VN.47",
-    "name": "Bình Thuận"
+    "name": "Bình Thuận Province"
   },
   {
     "code": "VN.09",
-    "name": "Đồng Tháp"
+    "name": "Đồng Tháp Province"
   },
   {
     "code": "VN.43",
-    "name": "Đồng Nai"
+    "name": "Đồng Nai Province"
   },
   {
     "code": "VN.88",
@@ -15041,23 +15045,23 @@
   },
   {
     "code": "VN.45",
-    "name": "Bà Rịa-Vũng Tàu"
+    "name": "Bà Rịa–Vũng Tàu Province"
   },
   {
     "code": "VN.05",
-    "name": "Cao Bằng"
+    "name": "Cao Bằng Province"
   },
   {
     "code": "VN.46",
-    "name": "Bình Định"
+    "name": "ình Định Province"
   },
   {
     "code": "VN.03",
-    "name": "Bến Tre"
+    "name": "Bến Tre Province"
   },
   {
     "code": "VN.01",
-    "name": "An Giang"
+    "name": "An Giang Province"
   },
   {
     "code": "VN.91",
@@ -15065,15 +15069,15 @@
   },
   {
     "code": "VN.92",
-    "name": "Ðiện Biên"
+    "name": "Điện Biên Province"
   },
   {
     "code": "VN.74",
-    "name": "Bắc Ninh"
+    "name": "Bắc Ninh Province"
   },
   {
     "code": "VN.71",
-    "name": "Bắc Giang"
+    "name": "Bắc Giang Province"
   },
   {
     "code": "VN.78",
@@ -15081,55 +15085,55 @@
   },
   {
     "code": "VN.75",
-    "name": "Bình Dương"
+    "name": "Bình Dương Province"
   },
   {
     "code": "VN.76",
-    "name": "Bình Phước"
+    "name": "Bình Phước Province"
   },
   {
     "code": "VN.85",
-    "name": "Thái Nguyên"
+    "name": "Thái Nguyên Province"
   },
   {
     "code": "VN.84",
-    "name": "Quảng Nam"
+    "name": "Quảng Nam Province"
   },
   {
     "code": "VN.83",
-    "name": "Phú Thọ"
+    "name": "Phú Thọ Province"
   },
   {
     "code": "VN.82",
-    "name": "Nam Định"
+    "name": "Nam Định Province"
   },
   {
     "code": "VN.80",
-    "name": "Hà Nam"
+    "name": "Hà Nam Province"
   },
   {
     "code": "VN.72",
-    "name": "Bắc Kạn"
+    "name": "Bắc Kạn Province"
   },
   {
     "code": "VN.73",
-    "name": "Bạc Liêu"
+    "name": "Bạc Liêu Province"
   },
   {
     "code": "VN.77",
-    "name": "Cà Mau"
+    "name": "Cà Mau Province"
   },
   {
     "code": "VN.79",
-    "name": "Hải Dương"
+    "name": "Hải Dương Province"
   },
   {
     "code": "VN.81",
-    "name": "Hưng Yên"
+    "name": "Hưng Yên Province"
   },
   {
     "code": "VN.86",
-    "name": "Vĩnh Phúc"
+    "name": "Vĩnh Phúc Province"
   },
   {
     "code": "VN.93",
