@@ -4141,7 +4141,7 @@
   },
   {
     "code": "GE.04",
-    "name": "Achara"
+    "name": "Adjara"
   },
   {
     "code": "GE.68",
@@ -7757,7 +7757,7 @@
   },
   {
     "code": "ME.25",
-    "name": "ME.25"
+    "name": "Zeta"
   },
   {
     "code": "MG.71",
@@ -9600,8 +9600,28 @@
     "name": "Flevoland"
   },
   {
+    "code": "NO.05",
+    "name": "Finnmark"
+  },
+  {
+    "code": "NO.20",
+    "name": "Vestfold"
+  },
+  {
+    "code": "NO.18",
+    "name": "Troms"
+  },
+  {
+    "code": "NO.17",
+    "name": "Telemark"
+  },
+  {
     "code": "NO.14",
     "name": "Rogaland"
+  },
+  {
+    "code": "NO.13",
+    "name": "Østfold"
   },
   {
     "code": "NO.12",
@@ -9616,28 +9636,24 @@
     "name": "Møre og Romsdal"
   },
   {
-    "code": "NO.21",
-    "name": "Trøndelag"
+    "code": "NO.04",
+    "name": "Buskerud"
   },
   {
-    "code": "NO.30",
-    "name": "Viken"
+    "code": "NO.01",
+    "name": "Akershus"
+  },
+  {
+    "code": "NO.21",
+    "name": "Trøndelag"
   },
   {
     "code": "NO.42",
     "name": "Agder"
   },
   {
-    "code": "NO.54",
-    "name": "Troms og Finnmark"
-  },
-  {
     "code": "NO.34",
     "name": "Innlandet"
-  },
-  {
-    "code": "NO.38",
-    "name": "Vestfold og Telemark"
   },
   {
     "code": "NO.46",
