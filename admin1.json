@@ -189,27 +189,27 @@
   },
   {
     "code": "AG.08",
-    "name": "Saint Philip"
+    "name": "Saint Philip Parish"
   },
   {
     "code": "AG.07",
-    "name": "Saint Peter"
+    "name": "Saint Peter Parish"
   },
   {
     "code": "AG.06",
-    "name": "Saint Paul"
+    "name": "Saint Paul Parish"
   },
   {
     "code": "AG.05",
-    "name": "Saint Mary"
+    "name": "Saint Mary Parish"
   },
   {
     "code": "AG.04",
-    "name": "Saint John"
+    "name": "Saint John Parish"
   },
   {
     "code": "AG.03",
-    "name": "Saint George"
+    "name": "Saint George Parish"
   },
   {
     "code": "AG.09",
@@ -641,11 +641,11 @@
   },
   {
     "code": "AZ.69",
-    "name": "Zǝngilan"
+    "name": "Zangilan District"
   },
   {
     "code": "AZ.66",
-    "name": "Yardımlı"
+    "name": "Yardimli District"
   },
   {
     "code": "AZ.55",
@@ -653,11 +653,11 @@
   },
   {
     "code": "AZ.49",
-    "name": "Salyan"
+    "name": "Salyan District"
   },
   {
     "code": "AZ.46",
-    "name": "Sabirabad"
+    "name": "Sabirabad District"
   },
   {
     "code": "AZ.45",
@@ -665,7 +665,7 @@
   },
   {
     "code": "AZ.13",
-    "name": "Bilǝsuvar"
+    "name": "Bilasuvar District"
   },
   {
     "code": "AZ.36",
@@ -681,7 +681,7 @@
   },
   {
     "code": "AZ.31",
-    "name": "Lerik"
+    "name": "Lerik District"
   },
   {
     "code": "AZ.29",
@@ -701,7 +701,7 @@
   },
   {
     "code": "AZ.18",
-    "name": "Füzuli"
+    "name": "Fuzuli District"
   },
   {
     "code": "AZ.14",
@@ -741,7 +741,7 @@
   },
   {
     "code": "AZ.57",
-    "name": "Tǝrtǝr"
+    "name": "Tartar District"
   },
   {
     "code": "AZ.61",
@@ -757,7 +757,7 @@
   },
   {
     "code": "AZ.70",
-    "name": "Zaqatala"
+    "name": "Zaqatala District"
   },
   {
     "code": "AZ.67",
@@ -773,7 +773,7 @@
   },
   {
     "code": "AZ.58",
-    "name": "Tovuz"
+    "name": "Tovuz District"
   },
   {
     "code": "AZ.50",
@@ -789,15 +789,15 @@
   },
   {
     "code": "AZ.27",
-    "name": "Kürdǝmir"
+    "name": "Kurdamir District"
   },
   {
     "code": "AZ.38",
-    "name": "Qǝbǝlǝ"
+    "name": "Qabala District"
   },
   {
     "code": "AZ.44",
-    "name": "Qusar"
+    "name": "Qusar District"
   },
   {
     "code": "AZ.42",
@@ -821,7 +821,7 @@
   },
   {
     "code": "AZ.21",
-    "name": "Goranboy"
+    "name": "Goranboy District"
   },
   {
     "code": "AZ.39",
@@ -829,7 +829,7 @@
   },
   {
     "code": "AZ.25",
-    "name": "İsmayıllı"
+    "name": "Ismayilli District"
   },
   {
     "code": "AZ.22",
@@ -845,7 +845,7 @@
   },
   {
     "code": "AZ.10",
-    "name": "Balakǝn"
+    "name": "Balakan District"
   },
   {
     "code": "AZ.11",
@@ -861,7 +861,7 @@
   },
   {
     "code": "AZ.06",
-    "name": "Ağsu"
+    "name": "Agsu District"
   },
   {
     "code": "AZ.04",
@@ -869,7 +869,7 @@
   },
   {
     "code": "AZ.19",
-    "name": "Gǝdǝbǝy"
+    "name": "Gadabay District"
   },
   {
     "code": "AZ.05",
@@ -981,7 +981,7 @@
   },
   {
     "code": "BD.81",
-    "name": "Dhaka"
+    "name": "Dhaka Division"
   },
   {
     "code": "BD.84",
@@ -989,15 +989,15 @@
   },
   {
     "code": "BD.82",
-    "name": "Khulna"
+    "name": "Khulna Division"
   },
   {
     "code": "BD.85",
-    "name": "Barisāl"
+    "name": "Barisal Division"
   },
   {
     "code": "BD.86",
-    "name": "Sylhet"
+    "name": "Sylhet Division"
   },
   {
     "code": "BD.87",
@@ -1025,7 +1025,7 @@
   },
   {
     "code": "BF.02",
-    "name": "Cascades"
+    "name": "Cascades Region"
   },
   {
     "code": "BF.03",
@@ -1837,7 +1837,7 @@
   },
   {
     "code": "BZ.06",
-    "name": "Toledo"
+    "name": "Toledo District"
   },
   {
     "code": "BZ.05",
@@ -1849,15 +1849,15 @@
   },
   {
     "code": "BZ.03",
-    "name": "Corozal"
+    "name": "Corozal District"
   },
   {
     "code": "BZ.02",
-    "name": "Cayo"
+    "name": "Cayo District"
   },
   {
     "code": "BZ.01",
-    "name": "Belize"
+    "name": "Belize District"
   },
   {
     "code": "CA.01",
@@ -2241,7 +2241,7 @@
   },
   {
     "code": "CI.76",
-    "name": "Bas-Sassandra"
+    "name": "Bas-Sassandra District"
   },
   {
     "code": "CI.94",
@@ -2249,7 +2249,7 @@
   },
   {
     "code": "CI.77",
-    "name": "Denguélé"
+    "name": "Denguélé District"
   },
   {
     "code": "CI.95",
@@ -2257,11 +2257,11 @@
   },
   {
     "code": "CI.81",
-    "name": "Lacs"
+    "name": "Lacs District"
   },
   {
     "code": "CI.82",
-    "name": "Lagunes"
+    "name": "Lagunes District"
   },
   {
     "code": "CI.78",
@@ -2273,11 +2273,11 @@
   },
   {
     "code": "CI.87",
-    "name": "Savanes"
+    "name": "Savanes District"
   },
   {
     "code": "CI.90",
-    "name": "Vallée du Bandama"
+    "name": "Vallée du Bandama District"
   },
   {
     "code": "CI.97",
@@ -2285,7 +2285,7 @@
   },
   {
     "code": "CI.92",
-    "name": "Zanzan"
+    "name": "Zanzan District"
   },
   {
     "code": "CI.93",
@@ -2389,7 +2389,7 @@
   },
   {
     "code": "CL.16",
-    "name": "Arica y Parinacota"
+    "name": "Arica y Parinacota Region"
   },
   {
     "code": "CL.17",
@@ -2565,7 +2565,7 @@
   },
   {
     "code": "CO.31",
-    "name": "Vichada"
+    "name": "Vichada Department"
   },
   {
     "code": "CO.30",
@@ -2573,19 +2573,19 @@
   },
   {
     "code": "CO.29",
-    "name": "Valle del Cauca"
+    "name": "Valle del Cauca Department"
   },
   {
     "code": "CO.28",
-    "name": "Tolima"
+    "name": "Tolima Department"
   },
   {
     "code": "CO.27",
-    "name": "Sucre"
+    "name": "Sucre Department"
   },
   {
     "code": "CO.26",
-    "name": "Santander"
+    "name": "Santander Department"
   },
   {
     "code": "CO.25",
@@ -2593,15 +2593,15 @@
   },
   {
     "code": "CO.24",
-    "name": "Risaralda"
+    "name": "Risaralda Department"
   },
   {
     "code": "CO.23",
-    "name": "Quindío"
+    "name": "Quindío Department"
   },
   {
     "code": "CO.22",
-    "name": "Putumayo"
+    "name": "Putumayo Department"
   },
   {
     "code": "CO.21",
@@ -2613,11 +2613,11 @@
   },
   {
     "code": "CO.19",
-    "name": "Meta"
+    "name": "Meta Department"
   },
   {
     "code": "CO.38",
-    "name": "Magdalena"
+    "name": "Magdalena Department"
   },
   {
     "code": "CO.17",
@@ -2625,11 +2625,11 @@
   },
   {
     "code": "CO.16",
-    "name": "Huila"
+    "name": "Huila Department"
   },
   {
     "code": "CO.14",
-    "name": "Guaviare"
+    "name": "Guaviare Department"
   },
   {
     "code": "CO.15",
@@ -2649,11 +2649,11 @@
   },
   {
     "code": "CO.10",
-    "name": "Cesar"
+    "name": "Cesar Department"
   },
   {
     "code": "CO.09",
-    "name": "Cauca"
+    "name": "Cauca Department"
   },
   {
     "code": "CO.32",
@@ -2685,7 +2685,7 @@
   },
   {
     "code": "CO.03",
-    "name": "Departamento de Arauca"
+    "name": "Arauca Department"
   },
   {
     "code": "CO.02",
@@ -2693,7 +2693,7 @@
   },
   {
     "code": "CO.01",
-    "name": "Amazonas"
+    "name": "Amazonas Department"
   },
   {
     "code": "CR.08",
@@ -2729,7 +2729,7 @@
   },
   {
     "code": "CU.15",
-    "name": "Santiago de Cuba"
+    "name": "Santiago de Cuba Province"
   },
   {
     "code": "CU.14",
@@ -2745,7 +2745,7 @@
   },
   {
     "code": "CU.13",
-    "name": "Las Tunas"
+    "name": "Las Tunas Province"
   },
   {
     "code": "CU.04",
@@ -3065,47 +3065,47 @@
   },
   {
     "code": "DM.11",
-    "name": "Saint Peter"
+    "name": "Saint Peter Parish"
   },
   {
     "code": "DM.10",
-    "name": "Saint Paul"
+    "name": "Saint Paul Parish"
   },
   {
     "code": "DM.09",
-    "name": "Saint Patrick"
+    "name": "Saint Patrick Parish"
   },
   {
     "code": "DM.08",
-    "name": "Saint Mark"
+    "name": "Saint Mark Parish"
   },
   {
     "code": "DM.07",
-    "name": "Saint Luke"
+    "name": "Saint Luke Parish"
   },
   {
     "code": "DM.06",
-    "name": "Saint Joseph"
+    "name": "Saint Joseph Parish"
   },
   {
     "code": "DM.05",
-    "name": "Saint John"
+    "name": "Saint John Parish"
   },
   {
     "code": "DM.04",
-    "name": "Saint George"
+    "name": "Saint George Parish"
   },
   {
     "code": "DM.03",
-    "name": "Saint David"
+    "name": "Saint David Parish"
   },
   {
     "code": "DM.02",
-    "name": "Saint Andrew"
+    "name": "Saint Andrew Parish"
   },
   {
     "code": "DO.27",
-    "name": "Valverde"
+    "name": "Valverde Province"
   },
   {
     "code": "DO.26",
@@ -3113,7 +3113,7 @@
   },
   {
     "code": "DO.25",
-    "name": "Santiago"
+    "name": "Santiago Province"
   },
   {
     "code": "DO.24",
@@ -3121,7 +3121,7 @@
   },
   {
     "code": "DO.23",
-    "name": "San Juan"
+    "name": "San Juan Province"
   },
   {
     "code": "DO.33",
@@ -3149,7 +3149,7 @@
   },
   {
     "code": "DO.16",
-    "name": "Pedernales"
+    "name": "Pedernales Province"
   },
   {
     "code": "DO.34",
@@ -3157,11 +3157,11 @@
   },
   {
     "code": "DO.32",
-    "name": "Monte Plata"
+    "name": "Monte Plata Province"
   },
   {
     "code": "DO.15",
-    "name": "Monte Cristi"
+    "name": "Monte Cristi Province"
   },
   {
     "code": "DO.31",
@@ -3181,7 +3181,7 @@
   },
   {
     "code": "DO.10",
-    "name": "La Altagracia"
+    "name": "La Altagracia Province"
   },
   {
     "code": "DO.09",
@@ -3189,11 +3189,11 @@
   },
   {
     "code": "DO.29",
-    "name": "Hato Mayor"
+    "name": "Hato Mayor Province"
   },
   {
     "code": "DO.08",
-    "name": "Espaillat"
+    "name": "Espaillat Province"
   },
   {
     "code": "DO.28",
@@ -3205,7 +3205,7 @@
   },
   {
     "code": "DO.06",
-    "name": "Duarte"
+    "name": "Duarte Province"
   },
   {
     "code": "DO.04",
@@ -3213,15 +3213,15 @@
   },
   {
     "code": "DO.03",
-    "name": "Barahona"
+    "name": "Barahona Province"
   },
   {
     "code": "DO.02",
-    "name": "Baoruco"
+    "name": "Baoruco Province"
   },
   {
     "code": "DO.01",
-    "name": "Azua"
+    "name": "Azua Province"
   },
   {
     "code": "DO.36",
@@ -3229,7 +3229,7 @@
   },
   {
     "code": "DO.37",
-    "name": "Santo Domingo"
+    "name": "Santo Domingo Province"
   },
   {
     "code": "DZ.15",
@@ -3465,11 +3465,11 @@
   },
   {
     "code": "EC.20",
-    "name": "Zamora-Chinchipe"
+    "name": "Zamora Chinchipe"
   },
   {
     "code": "EC.19",
-    "name": "Tungurahua"
+    "name": "Tungurahua Province"
   },
   {
     "code": "EC.18",
@@ -3477,7 +3477,7 @@
   },
   {
     "code": "EC.17",
-    "name": "Pastaza"
+    "name": "Pastaza Province"
   },
   {
     "code": "EC.23",
@@ -3485,7 +3485,7 @@
   },
   {
     "code": "EC.15",
-    "name": "Morona-Santiago"
+    "name": "Morona-Santiago Province"
   },
   {
     "code": "EC.14",
@@ -3525,7 +3525,7 @@
   },
   {
     "code": "EC.06",
-    "name": "Chimborazo"
+    "name": "Chimborazo Province"
   },
   {
     "code": "EC.05",
@@ -3549,7 +3549,7 @@
   },
   {
     "code": "EC.24",
-    "name": "Orellana"
+    "name": "Orellana Province"
   },
   {
     "code": "EC.26",
@@ -3965,11 +3965,11 @@
   },
   {
     "code": "FM.04",
-    "name": "Yap"
+    "name": "Yap State"
   },
   {
     "code": "FM.02",
-    "name": "Pohnpei"
+    "name": "Pohnpei State"
   },
   {
     "code": "FM.01",
@@ -4109,27 +4109,27 @@
   },
   {
     "code": "GD.06",
-    "name": "Saint Patrick"
+    "name": "Saint Patrick Parish"
   },
   {
     "code": "GD.05",
-    "name": "Saint Mark"
+    "name": "Saint Mark Parish"
   },
   {
     "code": "GD.04",
-    "name": "Saint John"
+    "name": "Saint John Parish"
   },
   {
     "code": "GD.03",
-    "name": "Saint George"
+    "name": "Saint George Parish"
   },
   {
     "code": "GD.02",
-    "name": "Saint David"
+    "name": "Saint David Parish"
   },
   {
     "code": "GD.01",
-    "name": "Saint Andrew"
+    "name": "Saint Andrew Parish"
   },
   {
     "code": "GD.10",
@@ -4137,7 +4137,7 @@
   },
   {
     "code": "GE.51",
-    "name": "T'bilisi"
+    "name": "Tbilisi"
   },
   {
     "code": "GE.04",
@@ -4345,7 +4345,7 @@
   },
   {
     "code": "GN.B",
-    "name": "Boke"
+    "name": "Boké Region"
   },
   {
     "code": "GN.F",
@@ -4353,7 +4353,7 @@
   },
   {
     "code": "GN.K",
-    "name": "Kankan"
+    "name": "Kankan Region"
   },
   {
     "code": "GN.D",
@@ -4361,15 +4361,15 @@
   },
   {
     "code": "GN.L",
-    "name": "Labe"
+    "name": "Labé Region"
   },
   {
     "code": "GN.M",
-    "name": "Mamou"
+    "name": "Mamou Region"
   },
   {
     "code": "GN.N",
-    "name": "Nzerekore"
+    "name": "Nzérékoré Region"
   },
   {
     "code": "GP.GP",
@@ -4957,7 +4957,7 @@
   },
   {
     "code": "HT.14",
-    "name": "GrandʼAnse"
+    "name": "Grand'Anse"
   },
   {
     "code": "HT.07",
@@ -4981,7 +4981,7 @@
   },
   {
     "code": "HU.11",
-    "name": "Heves"
+    "name": "Heves County"
   },
   {
     "code": "HU.10",
@@ -5001,7 +5001,7 @@
   },
   {
     "code": "HU.24",
-    "name": "Zala"
+    "name": "Zala County"
   },
   {
     "code": "HU.23",
@@ -5009,19 +5009,19 @@
   },
   {
     "code": "HU.22",
-    "name": "Vas"
+    "name": "Vas County"
   },
   {
     "code": "HU.21",
-    "name": "Tolna"
+    "name": "Tolna County"
   },
   {
     "code": "HU.17",
-    "name": "Somogy"
+    "name": "Somogy County"
   },
   {
     "code": "HU.16",
-    "name": "Pest"
+    "name": "Pest County"
   },
   {
     "code": "HU.14",
@@ -5553,7 +5553,7 @@
   },
   {
     "code": "IQ.03",
-    "name": "Al Muthanná"
+    "name": "Al Muthanna Governorate"
   },
   {
     "code": "IQ.01",
@@ -5573,7 +5573,7 @@
   },
   {
     "code": "IR.40",
-    "name": "Yazd"
+    "name": "Yazd Province"
   },
   {
     "code": "IR.25",
@@ -5593,7 +5593,7 @@
   },
   {
     "code": "IR.16",
-    "name": "Kordestān"
+    "name": "Kurdistan Province"
   },
   {
     "code": "IR.05",
@@ -5605,7 +5605,7 @@
   },
   {
     "code": "IR.13",
-    "name": "Kermānshāh"
+    "name": "Kermanshah Province"
   },
   {
     "code": "IR.29",
@@ -5621,11 +5621,11 @@
   },
   {
     "code": "IR.09",
-    "name": "Hamadān"
+    "name": "Hamadan Province"
   },
   {
     "code": "IR.08",
-    "name": "Gīlān"
+    "name": "Gilan Province"
   },
   {
     "code": "IR.07",
@@ -5649,7 +5649,7 @@
   },
   {
     "code": "IR.32",
-    "name": "Ardabīl"
+    "name": "Ardabil Province"
   },
   {
     "code": "IR.28",
@@ -5661,11 +5661,11 @@
   },
   {
     "code": "IR.38",
-    "name": "Qazvīn"
+    "name": "Qazvin Province"
   },
   {
     "code": "IR.39",
-    "name": "Qom"
+    "name": "Qom Province"
   },
   {
     "code": "IR.04",
@@ -5853,19 +5853,19 @@
   },
   {
     "code": "JM.15",
-    "name": "Trelawny"
+    "name": "Trelawny Parish"
   },
   {
     "code": "JM.14",
-    "name": "St. Thomas"
+    "name": "Saint Thomas Parish"
   },
   {
     "code": "JM.13",
-    "name": "St. Mary"
+    "name": "Saint Mary Parish"
   },
   {
     "code": "JM.12",
-    "name": "St. James"
+    "name": "Saint James Parish"
   },
   {
     "code": "JM.11",
@@ -5873,19 +5873,19 @@
   },
   {
     "code": "JM.10",
-    "name": "Saint Catherine"
+    "name": "Saint Catherine Parish"
   },
   {
     "code": "JM.09",
-    "name": "St Ann"
+    "name": "Saint Ann Parish"
   },
   {
     "code": "JM.08",
-    "name": "St. Andrew"
+    "name": "Saint Andrew Parish"
   },
   {
     "code": "JM.07",
-    "name": "Portland"
+    "name": "Portland Parish"
   },
   {
     "code": "JM.04",
@@ -6141,19 +6141,19 @@
   },
   {
     "code": "KE.55",
-    "name": "West Pokot"
+    "name": "West Pokot County"
   },
   {
     "code": "KE.54",
-    "name": "Wajir"
+    "name": "Wajir County"
   },
   {
     "code": "KE.52",
-    "name": "Uasin Gishu"
+    "name": "Uasin Gishu County"
   },
   {
     "code": "KE.51",
-    "name": "Turkana"
+    "name": "Turkana County"
   },
   {
     "code": "KE.50",
@@ -6165,19 +6165,19 @@
   },
   {
     "code": "KE.48",
-    "name": "Tana River"
+    "name": "Tana River County"
   },
   {
     "code": "KE.46",
-    "name": "Siaya"
+    "name": "Siaya County"
   },
   {
     "code": "KE.45",
-    "name": "Samburu"
+    "name": "Samburu County"
   },
   {
     "code": "KE.05",
-    "name": "Nairobi Area"
+    "name": "Nairobi County"
   },
   {
     "code": "KE.38",
@@ -6185,19 +6185,19 @@
   },
   {
     "code": "KE.37",
-    "name": "Mombasa"
+    "name": "Mombasa County"
   },
   {
     "code": "KE.35",
-    "name": "Meru"
+    "name": "Meru County"
   },
   {
     "code": "KE.34",
-    "name": "Marsabit"
+    "name": "Marsabit County"
   },
   {
     "code": "KE.33",
-    "name": "Mandera"
+    "name": "Mandera County"
   },
   {
     "code": "KE.29",
@@ -6205,59 +6205,59 @@
   },
   {
     "code": "KE.28",
-    "name": "Kwale"
+    "name": "Kwale County"
   },
   {
     "code": "KE.27",
-    "name": "Kitui"
+    "name": "Kitui County"
   },
   {
     "code": "KE.26",
-    "name": "Kisumu"
+    "name": "Kisumu County"
   },
   {
     "code": "KE.25",
-    "name": "Kisii"
+    "name": "Kisii County"
   },
   {
     "code": "KE.24",
-    "name": "Kirinyaga"
+    "name": "Kirinyaga County"
   },
   {
     "code": "KE.23",
-    "name": "Kilifi"
+    "name": "Kilifi County"
   },
   {
     "code": "KE.22",
-    "name": "Kiambu"
+    "name": "Kiambu County"
   },
   {
     "code": "KE.21",
-    "name": "Kericho"
+    "name": "Kericho County"
   },
   {
     "code": "KE.20",
-    "name": "Kakamega"
+    "name": "Kakamega County"
   },
   {
     "code": "KE.18",
-    "name": "Isiolo"
+    "name": "Isiolo County"
   },
   {
     "code": "KE.16",
-    "name": "Garissa"
+    "name": "Garissa County"
   },
   {
     "code": "KE.15",
-    "name": "Embu"
+    "name": "Embu County"
   },
   {
     "code": "KE.13",
-    "name": "Busia"
+    "name": "Busia County"
   },
   {
     "code": "KE.12",
-    "name": "Bungoma"
+    "name": "Bungoma County"
   },
   {
     "code": "KE.10",
@@ -6265,11 +6265,11 @@
   },
   {
     "code": "KE.43",
-    "name": "Nyandarua"
+    "name": "Nyandarua County"
   },
   {
     "code": "KE.53",
-    "name": "Vihiga"
+    "name": "Vihiga County"
   },
   {
     "code": "KE.30",
@@ -6277,11 +6277,11 @@
   },
   {
     "code": "KE.31",
-    "name": "Machakos"
+    "name": "Machakos County"
   },
   {
     "code": "KE.32",
-    "name": "Makueni"
+    "name": "Makueni County"
   },
   {
     "code": "KE.14",
@@ -6293,35 +6293,35 @@
   },
   {
     "code": "KE.19",
-    "name": "Kajiado"
+    "name": "Kajiado County"
   },
   {
     "code": "KE.44",
-    "name": "Nyeri"
+    "name": "Nyeri County"
   },
   {
     "code": "KE.17",
-    "name": "Homa Bay"
+    "name": "Homa Bay County"
   },
   {
     "code": "KE.11",
-    "name": "Bomet"
+    "name": "Bomet County"
   },
   {
     "code": "KE.36",
-    "name": "Migori"
+    "name": "Migori County"
   },
   {
     "code": "KE.39",
-    "name": "Nakuru"
+    "name": "Nakuru County"
   },
   {
     "code": "KE.41",
-    "name": "Narok"
+    "name": "Narok County"
   },
   {
     "code": "KE.42",
-    "name": "Nyamira"
+    "name": "Nyamira county"
   },
   {
     "code": "KE.40",
@@ -6329,7 +6329,7 @@
   },
   {
     "code": "KG.08",
-    "name": "Osh"
+    "name": "Osh Region"
   },
   {
     "code": "KG.09",
@@ -6337,11 +6337,11 @@
   },
   {
     "code": "KG.06",
-    "name": "Talas"
+    "name": "Talas Region"
   },
   {
     "code": "KG.04",
-    "name": "Naryn"
+    "name": "Naryn Region"
   },
   {
     "code": "KG.07",
@@ -6353,11 +6353,11 @@
   },
   {
     "code": "KG.03",
-    "name": "Jalal-Abad"
+    "name": "Jalal-Abad Region"
   },
   {
     "code": "KG.02",
-    "name": "Chüy"
+    "name": "Chuy Region"
   },
   {
     "code": "KG.10",
@@ -6441,7 +6441,7 @@
   },
   {
     "code": "KH.04",
-    "name": "Kampong Speu"
+    "name": "Kampong Speu Province"
   },
   {
     "code": "KH.03",
@@ -6665,7 +6665,7 @@
   },
   {
     "code": "KW.05",
-    "name": "Al Jahrāʼ"
+    "name": "Al Jahra Governorate"
   },
   {
     "code": "KW.07",
@@ -6801,11 +6801,11 @@
   },
   {
     "code": "LA.20",
-    "name": "Savannahkhét"
+    "name": "Savannakhet Province"
   },
   {
     "code": "LA.19",
-    "name": "Salavan"
+    "name": "Salavan Province"
   },
   {
     "code": "LA.18",
@@ -6817,7 +6817,7 @@
   },
   {
     "code": "LA.17",
-    "name": "Louangphabang"
+    "name": "Luang Prabang Province"
   },
   {
     "code": "LA.16",
@@ -6825,7 +6825,7 @@
   },
   {
     "code": "LA.15",
-    "name": "Khammouan"
+    "name": "Khammouane Province"
   },
   {
     "code": "LA.03",
@@ -6833,7 +6833,7 @@
   },
   {
     "code": "LA.02",
-    "name": "Champasak"
+    "name": "Champasak Province"
   },
   {
     "code": "LA.01",
@@ -6889,7 +6889,7 @@
   },
   {
     "code": "LB.11",
-    "name": "Baalbek-Hermel"
+    "name": "Baalbek-Hermel Governorate"
   },
   {
     "code": "LC.10",
@@ -6977,31 +6977,31 @@
   },
   {
     "code": "LK.36",
-    "name": "Western"
+    "name": "Western Province"
   },
   {
     "code": "LK.35",
-    "name": "Uva"
+    "name": "Uva Province"
   },
   {
     "code": "LK.34",
-    "name": "Southern"
+    "name": "Southern Province"
   },
   {
     "code": "LK.33",
-    "name": "Sabaragamuwa"
+    "name": "Sabaragamuwa Province"
   },
   {
     "code": "LK.32",
-    "name": "North Western"
+    "name": "North Western Province"
   },
   {
     "code": "LK.30",
-    "name": "North Central"
+    "name": "North Central Province"
   },
   {
     "code": "LK.29",
-    "name": "Central"
+    "name": "Central Province"
   },
   {
     "code": "LK.38",
@@ -7013,7 +7013,7 @@
   },
   {
     "code": "LR.10",
-    "name": "Sinoe"
+    "name": "Sinoe County"
   },
   {
     "code": "LR.09",
@@ -7021,55 +7021,55 @@
   },
   {
     "code": "LR.14",
-    "name": "Montserrado"
+    "name": "Montserrado County"
   },
   {
     "code": "LR.13",
-    "name": "Maryland"
+    "name": "Maryland County"
   },
   {
     "code": "LR.20",
-    "name": "Lofa"
+    "name": "Lofa County"
   },
   {
     "code": "LR.19",
-    "name": "Grand Gedeh"
+    "name": "Grand Gedeh County"
   },
   {
     "code": "LR.12",
-    "name": "Grand Cape Mount"
+    "name": "Grand Cape Mount County"
   },
   {
     "code": "LR.11",
-    "name": "Grand Bassa"
+    "name": "Grand Bassa County"
   },
   {
     "code": "LR.01",
-    "name": "Bong"
+    "name": "Bong County"
   },
   {
     "code": "LR.15",
-    "name": "Bomi"
+    "name": "Bomi County"
   },
   {
     "code": "LR.16",
-    "name": "Grand Kru"
+    "name": "Grand Kru County"
   },
   {
     "code": "LR.17",
-    "name": "Margibi"
+    "name": "Margibi County"
   },
   {
     "code": "LR.18",
-    "name": "River Cess"
+    "name": "River Cess County"
   },
   {
     "code": "LR.21",
-    "name": "Gbarpolu"
+    "name": "Gbarpolu County"
   },
   {
     "code": "LR.22",
-    "name": "River Gee"
+    "name": "River Gee County"
   },
   {
     "code": "LS.19",
@@ -7081,23 +7081,23 @@
   },
   {
     "code": "LS.17",
-    "name": "Qachaʼs Nek"
+    "name": "Qacha's Nek District"
   },
   {
     "code": "LS.16",
-    "name": "Mokhotlong"
+    "name": "Mokhotlong District"
   },
   {
     "code": "LS.15",
-    "name": "Mohaleʼs Hoek"
+    "name": "Mohale's Hoek District"
   },
   {
     "code": "LS.14",
-    "name": "Maseru"
+    "name": "Maseru District"
   },
   {
     "code": "LS.13",
-    "name": "Mafeteng"
+    "name": "Mafeteng District"
   },
   {
     "code": "LS.12",
@@ -7201,7 +7201,7 @@
   },
   {
     "code": "LV.33",
-    "name": "Ventspils Rajons"
+    "name": "Ventspils Municipality"
   },
   {
     "code": "LV.32",
@@ -7401,7 +7401,7 @@
   },
   {
     "code": "LY.75",
-    "name": "Sabhā"
+    "name": "Sabha District"
   },
   {
     "code": "LY.74",
@@ -7409,7 +7409,7 @@
   },
   {
     "code": "LY.73",
-    "name": "Murzuq"
+    "name": "Murzuq District"
   },
   {
     "code": "LY.72",
@@ -7537,7 +7537,7 @@
   },
   {
     "code": "MD.87",
-    "name": "Raionul Soroca"
+    "name": "Soroca District"
   },
   {
     "code": "MD.84",
@@ -7613,7 +7613,7 @@
   },
   {
     "code": "MD.72",
-    "name": "Dubăsari"
+    "name": "Dubăsari District"
   },
   {
     "code": "MD.71",
@@ -7745,15 +7745,15 @@
   },
   {
     "code": "ME.22",
-    "name": "Gusinje"
+    "name": "Gusinje Municipality"
   },
   {
     "code": "ME.23",
-    "name": "Petnjica"
+    "name": "Petnjica Municipality"
   },
   {
     "code": "ME.24",
-    "name": "Tuzi"
+    "name": "Tuzi Municipality"
   },
   {
     "code": "ME.25",
@@ -8313,15 +8313,15 @@
   },
   {
     "code": "MM.12",
-    "name": "Tanintharyi"
+    "name": "Tanintharyi Region"
   },
   {
     "code": "MM.11",
-    "name": "Shan"
+    "name": "Shan State"
   },
   {
     "code": "MM.10",
-    "name": "Sagain"
+    "name": "Sagaing Region"
   },
   {
     "code": "MM.17",
@@ -8333,7 +8333,7 @@
   },
   {
     "code": "MM.16",
-    "name": "Bago"
+    "name": "Bago Region"
   },
   {
     "code": "MM.13",
@@ -8341,7 +8341,7 @@
   },
   {
     "code": "MM.08",
-    "name": "Mandalay"
+    "name": "Mandalay Region"
   },
   {
     "code": "MM.15",
@@ -8349,15 +8349,15 @@
   },
   {
     "code": "MM.06",
-    "name": "Kayah"
+    "name": "Kayah State"
   },
   {
     "code": "MM.05",
-    "name": "Kayin"
+    "name": "Kayin State"
   },
   {
     "code": "MM.04",
-    "name": "Kachin"
+    "name": "Kachin State"
   },
   {
     "code": "MM.03",
@@ -8365,7 +8365,7 @@
   },
   {
     "code": "MM.02",
-    "name": "Chin"
+    "name": "Chin State"
   },
   {
     "code": "MM.18",
@@ -8409,7 +8409,7 @@
   },
   {
     "code": "MN.16",
-    "name": "Selenge"
+    "name": "Selenge Province"
   },
   {
     "code": "MN.15",
@@ -9193,7 +9193,7 @@
   },
   {
     "code": "MZ.09",
-    "name": "Zambézia"
+    "name": "Zambezia Province"
   },
   {
     "code": "MZ.08",
@@ -9205,7 +9205,7 @@
   },
   {
     "code": "MZ.07",
-    "name": "Niassa"
+    "name": "Niassa Province"
   },
   {
     "code": "MZ.06",
@@ -9221,15 +9221,15 @@
   },
   {
     "code": "MZ.03",
-    "name": "Inhambane"
+    "name": "Inhambane Province"
   },
   {
     "code": "MZ.02",
-    "name": "Gaza"
+    "name": "Gaza Province"
   },
   {
     "code": "MZ.01",
-    "name": "Cabo Delgado"
+    "name": "Cabo Delgado Province"
   },
   {
     "code": "MZ.11",
@@ -9237,51 +9237,51 @@
   },
   {
     "code": "NA.28",
-    "name": "Zambezi"
+    "name": "Zambezi Region"
   },
   {
     "code": "NA.21",
-    "name": "Khomas"
+    "name": "Khomas Region"
   },
   {
     "code": "NA.29",
-    "name": "Erongo"
+    "name": "Erongo Region"
   },
   {
     "code": "NA.30",
-    "name": "Hardap"
+    "name": "Hardap Region"
   },
   {
     "code": "NA.31",
-    "name": "Karas"
+    "name": "Karas Region"
   },
   {
     "code": "NA.32",
-    "name": "Kunene"
+    "name": "Kunene Region"
   },
   {
     "code": "NA.33",
-    "name": "Ohangwena"
+    "name": "Ohangwena Region"
   },
   {
     "code": "NA.35",
-    "name": "Omaheke"
+    "name": "Omaheke Region"
   },
   {
     "code": "NA.36",
-    "name": "Omusati"
+    "name": "Omusati Region"
   },
   {
     "code": "NA.37",
-    "name": "Oshana"
+    "name": "Oshana Region"
   },
   {
     "code": "NA.38",
-    "name": "Oshikoto"
+    "name": "Oshikoto Region"
   },
   {
     "code": "NA.39",
-    "name": "Otjozondjupa"
+    "name": "Otjozondjupa Region"
   },
   {
     "code": "NA.40",
@@ -9305,19 +9305,19 @@
   },
   {
     "code": "NE.07",
-    "name": "Zinder"
+    "name": "Zinder Region"
   },
   {
     "code": "NE.06",
-    "name": "Tahoua"
+    "name": "Tahoua Region"
   },
   {
     "code": "NE.04",
-    "name": "Maradi"
+    "name": "Maradi Region"
   },
   {
     "code": "NE.03",
-    "name": "Dosso"
+    "name": "Dosso Region"
   },
   {
     "code": "NE.02",
@@ -9329,7 +9329,7 @@
   },
   {
     "code": "NE.09",
-    "name": "Tillabéri"
+    "name": "Tillabéri Region"
   },
   {
     "code": "NE.08",
@@ -9341,27 +9341,27 @@
   },
   {
     "code": "NG.50",
-    "name": "Rivers"
+    "name": "Rivers State"
   },
   {
     "code": "NG.49",
-    "name": "Plateau"
+    "name": "Plateau State"
   },
   {
     "code": "NG.32",
-    "name": "Oyo"
+    "name": "Oyo State"
   },
   {
     "code": "NG.48",
-    "name": "Ondo"
+    "name": "Ondo State"
   },
   {
     "code": "NG.16",
-    "name": "Ogun"
+    "name": "Ogun State"
   },
   {
     "code": "NG.31",
-    "name": "Niger"
+    "name": "Niger State"
   },
   {
     "code": "NG.05",
@@ -9369,35 +9369,35 @@
   },
   {
     "code": "NG.30",
-    "name": "Kwara"
+    "name": "Kwara State"
   },
   {
     "code": "NG.24",
-    "name": "Katsina"
+    "name": "Katsina State"
   },
   {
     "code": "NG.29",
-    "name": "Kano"
+    "name": "Kano State"
   },
   {
     "code": "NG.23",
-    "name": "Kaduna"
+    "name": "Kaduna State"
   },
   {
     "code": "NG.28",
-    "name": "Imo"
+    "name": "Imo State"
   },
   {
     "code": "NG.22",
-    "name": "Cross River"
+    "name": "Cross River State"
   },
   {
     "code": "NG.27",
-    "name": "Borno"
+    "name": "Borno State"
   },
   {
     "code": "NG.26",
-    "name": "Benue"
+    "name": "Benue State"
   },
   {
     "code": "NG.46",
@@ -9409,7 +9409,7 @@
   },
   {
     "code": "NG.21",
-    "name": "Akwa Ibom"
+    "name": "Akwa Ibom State"
   },
   {
     "code": "NG.11",
@@ -9417,7 +9417,7 @@
   },
   {
     "code": "NG.45",
-    "name": "Abia"
+    "name": "Abia State"
   },
   {
     "code": "NG.36",
@@ -9429,39 +9429,39 @@
   },
   {
     "code": "NG.37",
-    "name": "Edo"
+    "name": "Edo State"
   },
   {
     "code": "NG.47",
-    "name": "Enugu"
+    "name": "Enugu State"
   },
   {
     "code": "NG.39",
-    "name": "Jigawa"
+    "name": "Jigawa State"
   },
   {
     "code": "NG.52",
-    "name": "Bayelsa"
+    "name": "Bayelsa State"
   },
   {
     "code": "NG.53",
-    "name": "Ebonyi"
+    "name": "Ebonyi State"
   },
   {
     "code": "NG.54",
-    "name": "Ekiti"
+    "name": "Ekiti State"
   },
   {
     "code": "NG.55",
-    "name": "Gombe"
+    "name": "Gombe State"
   },
   {
     "code": "NG.56",
-    "name": "Nassarawa"
+    "name": "Nasarawa State"
   },
   {
     "code": "NG.57",
-    "name": "Zamfara"
+    "name": "Zamfara State"
   },
   {
     "code": "NG.40",
@@ -9469,23 +9469,23 @@
   },
   {
     "code": "NG.41",
-    "name": "Kogi"
+    "name": "Kogi State"
   },
   {
     "code": "NG.42",
-    "name": "Osun"
+    "name": "Osun State"
   },
   {
     "code": "NG.43",
-    "name": "Taraba"
+    "name": "Taraba State"
   },
   {
     "code": "NG.44",
-    "name": "Yobe"
+    "name": "Yobe State"
   },
   {
     "code": "NI.15",
-    "name": "Rivas"
+    "name": "Rivas Department"
   },
   {
     "code": "NI.14",
@@ -9533,7 +9533,7 @@
   },
   {
     "code": "NI.03",
-    "name": "Chinandega"
+    "name": "Chinandega Department"
   },
   {
     "code": "NI.02",
@@ -9689,63 +9689,63 @@
   },
   {
     "code": "NR.14",
-    "name": "Yaren"
+    "name": "Yaren District"
   },
   {
     "code": "NR.13",
-    "name": "Uaboe"
+    "name": "Uaboe District"
   },
   {
     "code": "NR.12",
-    "name": "Nibok"
+    "name": "Nibok District"
   },
   {
     "code": "NR.11",
-    "name": "Meneng"
+    "name": "Meneng District"
   },
   {
     "code": "NR.10",
-    "name": "Ijuw"
+    "name": "Ijuw District"
   },
   {
     "code": "NR.09",
-    "name": "Ewa"
+    "name": "Ewa District"
   },
   {
     "code": "NR.08",
-    "name": "Denigomodu"
+    "name": "Denigomodu District"
   },
   {
     "code": "NR.07",
-    "name": "Buada"
+    "name": "Buada District"
   },
   {
     "code": "NR.06",
-    "name": "Boe"
+    "name": "Boe District"
   },
   {
     "code": "NR.05",
-    "name": "Baiti"
+    "name": "Baiti District"
   },
   {
     "code": "NR.04",
-    "name": "Anibare"
+    "name": "Anibare District"
   },
   {
     "code": "NR.03",
-    "name": "Anetan"
+    "name": "Anetan District"
   },
   {
     "code": "NR.02",
-    "name": "Anabar"
+    "name": "Anabar District"
   },
   {
     "code": "NR.01",
-    "name": "Aiwo"
+    "name": "Aiwo District"
   },
   {
     "code": "NZ.G2",
-    "name": "Wellington"
+    "name": "Wellington Region"
   },
   {
     "code": "NZ.F3",
@@ -9753,15 +9753,15 @@
   },
   {
     "code": "NZ.G1",
-    "name": "Waikato"
+    "name": "Waikato Region"
   },
   {
     "code": "NZ.TAS",
-    "name": "Tasman"
+    "name": "Tasman District"
   },
   {
     "code": "NZ.F9",
-    "name": "Taranaki"
+    "name": "Taranaki Region"
   },
   {
     "code": "NZ.F8",
@@ -9781,7 +9781,7 @@
   },
   {
     "code": "NZ.F2",
-    "name": "Hawke's Bay"
+    "name": "Hawke's Bay Region"
   },
   {
     "code": "NZ.F1",
@@ -9801,7 +9801,7 @@
   },
   {
     "code": "NZ.F5",
-    "name": "Nelson"
+    "name": "Nelson Region"
   },
   {
     "code": "NZ.F7",
@@ -9857,7 +9857,7 @@
   },
   {
     "code": "PA.10",
-    "name": "Veraguas"
+    "name": "Veraguas Province"
   },
   {
     "code": "PA.09",
@@ -9869,11 +9869,11 @@
   },
   {
     "code": "PA.07",
-    "name": "Los Santos"
+    "name": "Los Santos Province"
   },
   {
     "code": "PA.06",
-    "name": "Herrera"
+    "name": "Herrera Province"
   },
   {
     "code": "PA.05",
@@ -9901,7 +9901,7 @@
   },
   {
     "code": "PA.12",
-    "name": "Ngöbe-Buglé"
+    "name": "Ngöbe-Buglé Comarca"
   },
   {
     "code": "PA.13",
@@ -10037,7 +10037,7 @@
   },
   {
     "code": "PG.17",
-    "name": "West New Britain"
+    "name": "West New Britain Province"
   },
   {
     "code": "PG.06",
@@ -10045,15 +10045,15 @@
   },
   {
     "code": "PG.16",
-    "name": "Western Highlands"
+    "name": "Western Highlands Province"
   },
   {
     "code": "PG.05",
-    "name": "Southern Highlands"
+    "name": "Southern Highlands Province"
   },
   {
     "code": "PG.18",
-    "name": "Sandaun"
+    "name": "Sandaun Province"
   },
   {
     "code": "PG.07",
@@ -10061,7 +10061,7 @@
   },
   {
     "code": "PG.04",
-    "name": "Northern Province"
+    "name": "Oro Province"
   },
   {
     "code": "PG.15",
@@ -10073,43 +10073,43 @@
   },
   {
     "code": "PG.14",
-    "name": "Morobe"
+    "name": "Morobe Province"
   },
   {
     "code": "PG.13",
-    "name": "Manus"
+    "name": "Manus Province"
   },
   {
     "code": "PG.12",
-    "name": "Madang"
+    "name": "Madang Province"
   },
   {
     "code": "PG.02",
-    "name": "Gulf"
+    "name": "Gulf Province"
   },
   {
     "code": "PG.19",
-    "name": "Enga"
+    "name": "Enga Province"
   },
   {
     "code": "PG.11",
-    "name": "East Sepik"
+    "name": "East Sepik Province"
   },
   {
     "code": "PG.10",
-    "name": "East New Britain"
+    "name": "East New Britain Province"
   },
   {
     "code": "PG.09",
-    "name": "Eastern Highlands"
+    "name": "Eastern Highlands Province"
   },
   {
     "code": "PG.08",
-    "name": "Chimbu"
+    "name": "Chimbu Province"
   },
   {
     "code": "PG.03",
-    "name": "Milne Bay"
+    "name": "Milne Bay Province"
   },
   {
     "code": "PG.01",
@@ -10117,11 +10117,11 @@
   },
   {
     "code": "PG.21",
-    "name": "Hela"
+    "name": "Hela Province"
   },
   {
     "code": "PG.22",
-    "name": "Jiwaka"
+    "name": "Jiwaka Province"
   },
   {
     "code": "PH.14",
@@ -10181,11 +10181,11 @@
   },
   {
     "code": "PH.11",
-    "name": "Davao"
+    "name": "Davao Region"
   },
   {
     "code": "PH.05",
-    "name": "Bicol"
+    "name": "Bicol Region"
   },
   {
     "code": "PH.NCR",
@@ -10745,7 +10745,7 @@
   },
   {
     "code": "PW.13",
-    "name": "Ngaremlengui"
+    "name": "Ngeremlengui"
   },
   {
     "code": "PW.14",
@@ -10757,7 +10757,7 @@
   },
   {
     "code": "PY.17",
-    "name": "San Pedro"
+    "name": "San Pedro Department"
   },
   {
     "code": "PY.16",
@@ -10773,7 +10773,7 @@
   },
   {
     "code": "PY.12",
-    "name": "Misiones"
+    "name": "Misiones Department"
   },
   {
     "code": "PY.11",
@@ -10785,7 +10785,7 @@
   },
   {
     "code": "PY.08",
-    "name": "Cordillera"
+    "name": "Cordillera Department"
   },
   {
     "code": "PY.07",
@@ -10793,7 +10793,7 @@
   },
   {
     "code": "PY.06",
-    "name": "Central"
+    "name": "Central Department"
   },
   {
     "code": "PY.19",
@@ -10809,7 +10809,7 @@
   },
   {
     "code": "PY.02",
-    "name": "Amambay"
+    "name": "Amambay Department"
   },
   {
     "code": "PY.01",
@@ -10837,7 +10837,7 @@
   },
   {
     "code": "QA.09",
-    "name": "Baladīyat Umm Şalāl"
+    "name": "Umm Salal Municipality"
   },
   {
     "code": "QA.06",
@@ -10853,7 +10853,7 @@
   },
   {
     "code": "QA.13",
-    "name": "Baladīyat az̧ Z̧a‘āyin"
+    "name": "Al Daayen"
   },
   {
     "code": "QA.14",
@@ -11229,7 +11229,7 @@
   },
   {
     "code": "RU.16",
-    "name": "Chuvashia"
+    "name": "Chuvash Republic"
   },
   {
     "code": "RU.12",
@@ -11449,15 +11449,15 @@
   },
   {
     "code": "SB.03",
-    "name": "Malaita"
+    "name": "Malaita Province"
   },
   {
     "code": "SB.07",
-    "name": "Isabel"
+    "name": "Isabel Province"
   },
   {
     "code": "SB.06",
-    "name": "Guadalcanal"
+    "name": "Guadalcanal Province"
   },
   {
     "code": "SB.10",
@@ -11465,19 +11465,19 @@
   },
   {
     "code": "SB.09",
-    "name": "Temotu"
+    "name": "Temotu Province"
   },
   {
     "code": "SB.08",
-    "name": "Makira"
+    "name": "Makira-Ulawa Province"
   },
   {
     "code": "SB.12",
-    "name": "Choiseul"
+    "name": "Choiseul Province"
   },
   {
     "code": "SB.13",
-    "name": "Rennell and Bellona"
+    "name": "Rennell and Bellona Province"
   },
   {
     "code": "SB.14",
@@ -11497,7 +11497,7 @@
   },
   {
     "code": "SC.20",
-    "name": "Pointe Larue"
+    "name": "Pointe La Rue"
   },
   {
     "code": "SC.19",
@@ -11513,11 +11513,11 @@
   },
   {
     "code": "SC.26",
-    "name": "English River"
+    "name": "La Rivière Anglaise"
   },
   {
     "code": "SC.25",
-    "name": "La Digue"
+    "name": "La Digue and Inner Islands"
   },
   {
     "code": "SC.24",
@@ -11769,7 +11769,7 @@
   },
   {
     "code": "SI.E7",
-    "name": "Zagorje ob Savi"
+    "name": "Zagorje ob Savi Municipality"
   },
   {
     "code": "SI.E5",
@@ -11821,7 +11821,7 @@
   },
   {
     "code": "SI.B6",
-    "name": "Sevnica"
+    "name": "Sevnica Municipality"
   },
   {
     "code": "SI.L7",
@@ -11877,7 +11877,7 @@
   },
   {
     "code": "SI.J2",
-    "name": "Maribor"
+    "name": "Maribor City Municipality"
   },
   {
     "code": "SI.64",
@@ -11897,7 +11897,7 @@
   },
   {
     "code": "SI.57",
-    "name": "Laško"
+    "name": "Laško Municipality"
   },
   {
     "code": "SI.54",
@@ -11937,7 +11937,7 @@
   },
   {
     "code": "SI.34",
-    "name": "Hrastnik"
+    "name": "Hrastnik Municipality"
   },
   {
     "code": "SI.32",
@@ -11957,7 +11957,7 @@
   },
   {
     "code": "SI.17",
-    "name": "Črnomelj"
+    "name": "Črnomelj Municipality"
   },
   {
     "code": "SI.13",
@@ -11973,7 +11973,7 @@
   },
   {
     "code": "SI.01",
-    "name": "Ajdovščina"
+    "name": "Ajdovščina Municipality"
   },
   {
     "code": "SI.35",
@@ -11989,7 +11989,7 @@
   },
   {
     "code": "SI.I7",
-    "name": "Loška Dolina"
+    "name": "Loška Dolina Municipality"
   },
   {
     "code": "SI.66",
@@ -12009,7 +12009,7 @@
   },
   {
     "code": "SI.37",
-    "name": "Ig"
+    "name": "Ig Municipality"
   },
   {
     "code": "SI.09",
@@ -12037,7 +12037,7 @@
   },
   {
     "code": "SI.44",
-    "name": "Kanal"
+    "name": "Kanal ob Soči Municipality"
   },
   {
     "code": "SI.F2",
@@ -12049,11 +12049,11 @@
   },
   {
     "code": "SI.F1",
-    "name": "Železniki"
+    "name": "Železniki Municipality"
   },
   {
     "code": "SI.27",
-    "name": "Gorenja Vas-Poljane"
+    "name": "Občina Gorenja vas-Poljane"
   },
   {
     "code": "SI.G4",
@@ -12061,7 +12061,7 @@
   },
   {
     "code": "SI.46",
-    "name": "Kobarid"
+    "name": "Kobarid Municipality"
   },
   {
     "code": "SI.06",
@@ -12069,7 +12069,7 @@
   },
   {
     "code": "SI.04",
-    "name": "Bohinj"
+    "name": "Bohinj Municipality"
   },
   {
     "code": "SI.03",
@@ -12141,7 +12141,7 @@
   },
   {
     "code": "SI.16",
-    "name": "Črna na Koroškem"
+    "name": "Črna na Koroškem Municipality"
   },
   {
     "code": "SI.62",
@@ -12161,7 +12161,7 @@
   },
   {
     "code": "SI.99",
-    "name": "Radeče"
+    "name": "Radeče Municipality"
   },
   {
     "code": "SI.39",
@@ -12197,7 +12197,7 @@
   },
   {
     "code": "SI.F3",
-    "name": "Zreče"
+    "name": "Zreče Municipality"
   },
   {
     "code": "SI.76",
@@ -12205,7 +12205,7 @@
   },
   {
     "code": "SI.L3",
-    "name": "Ruše"
+    "name": "Ruše Municipality"
   },
   {
     "code": "SI.55",
@@ -12341,7 +12341,7 @@
   },
   {
     "code": "SI.M2",
-    "name": "Solčava"
+    "name": "Solčava Municipality"
   },
   {
     "code": "SI.H8",
@@ -12405,7 +12405,7 @@
   },
   {
     "code": "SI.J6",
-    "name": "Mirna Peč"
+    "name": "Mirna Peč Municipality"
   },
   {
     "code": "SI.F5",
@@ -12421,7 +12421,7 @@
   },
   {
     "code": "SI.J8",
-    "name": "Oplotnica"
+    "name": "Oplotnica Municipality"
   },
   {
     "code": "SI.K2",
@@ -12485,7 +12485,7 @@
   },
   {
     "code": "SI.M3",
-    "name": "Sveta Ana"
+    "name": "Sveta Ana Municipality"
   },
   {
     "code": "SI.I1",
@@ -12557,7 +12557,7 @@
   },
   {
     "code": "SI.O7",
-    "name": "Mokronog-Trebelno"
+    "name": "Mokronog-Trebelno Municipality"
   },
   {
     "code": "SI.O8",
@@ -12605,7 +12605,7 @@
   },
   {
     "code": "SI.P9",
-    "name": "Ankaran"
+    "name": "Ankaran Municipality"
   },
   {
     "code": "SI.O6",
@@ -12745,7 +12745,7 @@
   },
   {
     "code": "SN.03",
-    "name": "Diourbel"
+    "name": "Diourbel Region"
   },
   {
     "code": "SN.01",
@@ -12857,7 +12857,7 @@
   },
   {
     "code": "SR.14",
-    "name": "Nickerie"
+    "name": "Nickerie District"
   },
   {
     "code": "SR.13",
@@ -12929,23 +12929,23 @@
   },
   {
     "code": "SV.13",
-    "name": "Sonsonate"
+    "name": "Sonsonate Department"
   },
   {
     "code": "SV.12",
-    "name": "San Vicente"
+    "name": "San Vicente Department"
   },
   {
     "code": "SV.11",
-    "name": "Santa Ana"
+    "name": "Santa Ana Department"
   },
   {
     "code": "SV.10",
-    "name": "San Salvador"
+    "name": "San Salvador Department"
   },
   {
     "code": "SV.09",
-    "name": "San Miguel"
+    "name": "San Miguel Department"
   },
   {
     "code": "SV.08",
@@ -12957,11 +12957,11 @@
   },
   {
     "code": "SV.06",
-    "name": "La Paz"
+    "name": "La Paz Department"
   },
   {
     "code": "SV.05",
-    "name": "La Libertad"
+    "name": "La Libertad Department"
   },
   {
     "code": "SV.04",
@@ -12969,7 +12969,7 @@
   },
   {
     "code": "SV.03",
-    "name": "Chalatenango"
+    "name": "Chalatenango Department"
   },
   {
     "code": "SV.02",
@@ -13041,15 +13041,15 @@
   },
   {
     "code": "SZ.03",
-    "name": "Manzini"
+    "name": "Manzini Region"
   },
   {
     "code": "SZ.02",
-    "name": "Lubombo"
+    "name": "Lubombo Region"
   },
   {
     "code": "SZ.01",
-    "name": "Hhohho"
+    "name": "Hhohho Region"
   },
   {
     "code": "TD.13",
@@ -13209,7 +13209,7 @@
   },
   {
     "code": "TH.59",
-    "name": "Ranong"
+    "name": "Ranong province"
   },
   {
     "code": "TH.57",
@@ -13285,7 +13285,7 @@
   },
   {
     "code": "TH.51",
-    "name": "Suphanburi"
+    "name": "Suphan Buri"
   },
   {
     "code": "TH.68",
@@ -13481,7 +13481,7 @@
   },
   {
     "code": "TH.79",
-    "name": "Nong Bua Lam Phu"
+    "name": "Nong Bua Lamphu"
   },
   {
     "code": "TH.80",
@@ -13501,7 +13501,7 @@
   },
   {
     "code": "TJ.02",
-    "name": "Khatlon"
+    "name": "Khatlon Province"
   },
   {
     "code": "TJ.RR",
@@ -13921,7 +13921,7 @@
   },
   {
     "code": "TR.85",
-    "name": "Zonguldak"
+    "name": "Zonguldak Province"
   },
   {
     "code": "TR.61",
@@ -13929,7 +13929,7 @@
   },
   {
     "code": "TR.60",
-    "name": "Tokat"
+    "name": "Tokat Province"
   },
   {
     "code": "TR.59",
@@ -14069,7 +14069,7 @@
   },
   {
     "code": "TT.DMN",
-    "name": "Diego Martin"
+    "name": "Diego Martin Regional Corporation"
   },
   {
     "code": "TT.PED",
@@ -14085,11 +14085,11 @@
   },
   {
     "code": "TT.SGE",
-    "name": "Sangre Grande"
+    "name": "Sangre Grande Regional Corporation"
   },
   {
     "code": "TT.SIP",
-    "name": "Siparia"
+    "name": "Siparia Regional Corporation"
   },
   {
     "code": "TT.SJL",
@@ -14233,7 +14233,7 @@
   },
   {
     "code": "TZ.23",
-    "name": "Dar es Salaam"
+    "name": "Dar es Salaam Region"
   },
   {
     "code": "TZ.26",
@@ -14717,11 +14717,11 @@
   },
   {
     "code": "UZ.12",
-    "name": "Surxondaryo"
+    "name": "Surxondaryo Region"
   },
   {
     "code": "UZ.10",
-    "name": "Samarqand"
+    "name": "Samarqand Region"
   },
   {
     "code": "UZ.08",
@@ -14733,7 +14733,7 @@
   },
   {
     "code": "UZ.14",
-    "name": "Toshkent"
+    "name": "Tashkent Region"
   },
   {
     "code": "UZ.13",
@@ -14745,7 +14745,7 @@
   },
   {
     "code": "UZ.07",
-    "name": "Navoiy"
+    "name": "Navoiy Region"
   },
   {
     "code": "UZ.06",
@@ -14753,11 +14753,11 @@
   },
   {
     "code": "UZ.05",
-    "name": "Xorazm"
+    "name": "Xorazm Region"
   },
   {
     "code": "UZ.15",
-    "name": "Jizzax"
+    "name": "Jizzakh Region"
   },
   {
     "code": "UZ.03",
@@ -14765,31 +14765,31 @@
   },
   {
     "code": "UZ.01",
-    "name": "Andijon"
+    "name": "Andijan Region"
   },
   {
     "code": "VC.05",
-    "name": "Saint Patrick"
+    "name": "Saint Patrick Parish"
   },
   {
     "code": "VC.04",
-    "name": "Saint George"
+    "name": "Saint George Parish"
   },
   {
     "code": "VC.03",
-    "name": "Saint David"
+    "name": "Saint David Parish"
   },
   {
     "code": "VC.02",
-    "name": "Saint Andrew"
+    "name": "Saint Andrew Parish"
   },
   {
     "code": "VC.06",
-    "name": "Grenadines"
+    "name": "Grenadines Parish"
   },
   {
     "code": "VC.01",
-    "name": "Charlotte"
+    "name": "Charlotte Parish"
   },
   {
     "code": "VE.23",
@@ -15197,7 +15197,7 @@
   },
   {
     "code": "WS.06",
-    "name": "Va‘a-o-Fonoti"
+    "name": "Va'a-o-Fonoti"
   },
   {
     "code": "WS.10",
@@ -15205,7 +15205,7 @@
   },
   {
     "code": "WS.09",
-    "name": "Satupa‘itea"
+    "name": "Satupa'itea"
   },
   {
     "code": "WS.08",
@@ -15213,15 +15213,15 @@
   },
   {
     "code": "WS.07",
-    "name": "Gagaifomauga"
+    "name": "Gaga'ifomauga"
   },
   {
     "code": "WS.05",
-    "name": "Gaga‘emauga"
+    "name": "Gaga'emauga"
   },
   {
     "code": "WS.04",
-    "name": "Fa‘asaleleaga"
+    "name": "Fa'asaleleaga"
   },
   {
     "code": "WS.03",
@@ -15449,7 +15449,7 @@
   },
   {
     "code": "ZA.10",
-    "name": "North-West"
+    "name": "North West"
   },
   {
     "code": "ZA.11",
@@ -15457,11 +15457,11 @@
   },
   {
     "code": "ZM.01",
-    "name": "Western"
+    "name": "Western Province"
   },
   {
     "code": "ZM.07",
-    "name": "Southern"
+    "name": "Southern Province"
   },
   {
     "code": "ZM.06",
@@ -15469,19 +15469,19 @@
   },
   {
     "code": "ZM.05",
-    "name": "Northern"
+    "name": "Northern Province"
   },
   {
     "code": "ZM.09",
-    "name": "Lusaka"
+    "name": "Lusaka Province"
   },
   {
     "code": "ZM.04",
-    "name": "Luapula"
+    "name": "Luapula Province"
   },
   {
     "code": "ZM.03",
-    "name": "Eastern"
+    "name": "Eastern Province"
   },
   {
     "code": "ZM.08",
@@ -15489,7 +15489,7 @@
   },
   {
     "code": "ZM.02",
-    "name": "Central"
+    "name": "Central Province"
   },
   {
     "code": "ZM.10",
@@ -15497,11 +15497,11 @@
   },
   {
     "code": "ZW.02",
-    "name": "Midlands"
+    "name": "Midlands Province"
   },
   {
     "code": "ZW.07",
-    "name": "Matabeleland South"
+    "name": "Matabeleland South Province"
   },
   {
     "code": "ZW.06",
@@ -15509,7 +15509,7 @@
   },
   {
     "code": "ZW.08",
-    "name": "Masvingo"
+    "name": "Masvingo Province"
   },
   {
     "code": "ZW.05",
@@ -15517,7 +15517,7 @@
   },
   {
     "code": "ZW.04",
-    "name": "Mashonaland East"
+    "name": "Mashonaland East Province"
   },
   {
     "code": "ZW.03",

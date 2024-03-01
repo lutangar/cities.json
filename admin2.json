@@ -32869,7 +32869,7 @@
   },
   {
     "code": "BY.01.618911",
-    "name": "Zhabinkovskiy Rayon"
+    "name": "Žabinkaŭski rajon"
   },
   {
     "code": "BY.03.618930",
@@ -33041,7 +33041,7 @@
   },
   {
     "code": "BY.03.623940",
-    "name": "Astravyetski Rayon"
+    "name": "Astraviecki rajon"
   },
   {
     "code": "BY.06.624028",
@@ -33229,7 +33229,7 @@
   },
   {
     "code": "BY.01.627799",
-    "name": "Ivatsevichskiy Rayon"
+    "name": "Ivacevicki rajon"
   },
   {
     "code": "BY.01.627807",
@@ -33325,7 +33325,7 @@
   },
   {
     "code": "BY.07.629639",
-    "name": "Braslawski Rayon"
+    "name": "Braslaŭski rajon"
   },
   {
     "code": "BY.02.629645",
@@ -35718,6 +35718,10 @@
   {
     "code": "CA.03.12088770",
     "name": "Riding Mountain West"
+  },
+  {
+    "code": "CA.10.18",
+    "name": "Terres-Cries-de-la-Baie-James"
   },
   {
     "code": "CD.04.01",
@@ -38385,7 +38389,7 @@
   },
   {
     "code": "CN.13.6530",
-    "name": "Qizilsu"
+    "name": "Kezilesu"
   },
   {
     "code": "CN.13.6531",
@@ -38401,7 +38405,7 @@
   },
   {
     "code": "CN.13.6532",
-    "name": "Xoten Wilayiti"
+    "name": "Hetian"
   },
   {
     "code": "CN.06.6328",
@@ -39666,6 +39670,10 @@
   {
     "code": "CN.16.4511",
     "name": "Hezhou Shi"
+  },
+  {
+    "code": "CN.13.8079473",
+    "name": "Wujiaqu Shi"
   },
   {
     "code": "CN.13.8080762",
@@ -59729,7 +59737,7 @@
   },
   {
     "code": "HR.05.11049267",
-    "name": "Bosiljevo"
+    "name": "Općina Bosiljevo"
   },
   {
     "code": "HR.05.11049268",
@@ -60997,7 +61005,7 @@
   },
   {
     "code": "HR.04.11054801",
-    "name": "Kanfanar"
+    "name": "Općina Kanfanar"
   },
   {
     "code": "HR.04.11054804",
@@ -74121,7 +74129,7 @@
   },
   {
     "code": "JP.46.1848648",
-    "name": "Yamanashi-shi"
+    "name": "Yamanashi Shi"
   },
   {
     "code": "JP.08.1848677",
@@ -74241,7 +74249,7 @@
   },
   {
     "code": "JP.46.1849556",
-    "name": "Tsuru-shi"
+    "name": "Tsuru Shi"
   },
   {
     "code": "JP.44.1849562",
@@ -74281,11 +74289,11 @@
   },
   {
     "code": "JP.01.1849840",
-    "name": "Toyokawa-shi"
+    "name": "Toyokawa Shi"
   },
   {
     "code": "JP.01.1849862",
-    "name": "Toyoake-shi"
+    "name": "Toyoake Shi"
   },
   {
     "code": "JP.42.1849870",
@@ -74341,7 +74349,7 @@
   },
   {
     "code": "JP.01.1850183",
-    "name": "Tokoname-shi"
+    "name": "Tokoname Shi"
   },
   {
     "code": "JP.09.1850200",
@@ -74353,7 +74361,7 @@
   },
   {
     "code": "JP.01.1850219",
-    "name": "Tōkai-shi"
+    "name": "Tōkai Shi"
   },
   {
     "code": "JP.41.1850247",
@@ -74373,7 +74381,7 @@
   },
   {
     "code": "JP.04.1850520",
-    "name": "Tateyama-shi"
+    "name": "Tateyama Shi"
   },
   {
     "code": "JP.18.1850587",
@@ -74561,7 +74569,7 @@
   },
   {
     "code": "JP.01.1852044",
-    "name": "Shinshiro-shi"
+    "name": "Shinshiro Shi"
   },
   {
     "code": "JP.40.1852083",
@@ -74717,7 +74725,7 @@
   },
   {
     "code": "JP.34.1853207",
-    "name": "Sakado-shi"
+    "name": "Sakado Shi"
   },
   {
     "code": "JP.25.1853223",
@@ -74777,7 +74785,7 @@
   },
   {
     "code": "JP.46.1853562",
-    "name": "Ōtsuki-shi"
+    "name": "Ōtsuki Shi"
   },
   {
     "code": "JP.10.1853626",
@@ -74857,7 +74865,7 @@
   },
   {
     "code": "JP.01.1854373",
-    "name": "Okazaki-shi"
+    "name": "Okazaki Shi"
   },
   {
     "code": "JP.26.1854378",
@@ -74921,7 +74929,7 @@
   },
   {
     "code": "JP.01.1854797",
-    "name": "Ōbu-shi"
+    "name": "Ōbu Shi"
   },
   {
     "code": "JP.06.1854843",
@@ -74985,7 +74993,7 @@
   },
   {
     "code": "JP.01.1855183",
-    "name": "Nishio-shi"
+    "name": "Nishio Shi"
   },
   {
     "code": "JP.44.1855187",
@@ -75017,7 +75025,7 @@
   },
   {
     "code": "JP.46.1855362",
-    "name": "Nirasaki-shi"
+    "name": "Nirasaki Shi"
   },
   {
     "code": "JP.02.1855401",
@@ -75629,7 +75637,7 @@
   },
   {
     "code": "JP.34.1859739",
-    "name": "Kawagoe-shi"
+    "name": "Kawagoe Shi"
   },
   {
     "code": "JP.32.1859747",
@@ -75697,7 +75705,7 @@
   },
   {
     "code": "JP.01.1860033",
-    "name": "Kariya-shi"
+    "name": "Kariya Shi"
   },
   {
     "code": "JP.38.1860097",
@@ -76097,7 +76105,7 @@
   },
   {
     "code": "JP.01.1862911",
-    "name": "Hekinan-shi"
+    "name": "Hekinan Shi"
   },
   {
     "code": "JP.11.1863017",
@@ -76137,7 +76145,7 @@
   },
   {
     "code": "JP.01.1863204",
-    "name": "Handa-shi"
+    "name": "Handa Shi"
   },
   {
     "code": "JP.40.1863251",
@@ -76217,7 +76225,7 @@
   },
   {
     "code": "JP.01.1863692",
-    "name": "Gamagōri-shi"
+    "name": "Gamagōri Shi"
   },
   {
     "code": "JP.09.1863710",
@@ -76333,7 +76341,7 @@
   },
   {
     "code": "JP.01.1864539",
-    "name": "Chita-shi"
+    "name": "Chita Shi"
   },
   {
     "code": "JP.01.1864542",
@@ -76341,7 +76349,7 @@
   },
   {
     "code": "JP.01.1864548",
-    "name": "Chiryū-shi"
+    "name": "Chiryū Shi"
   },
   {
     "code": "JP.26.1864555",
@@ -76461,7 +76469,7 @@
   },
   {
     "code": "JP.01.1865293",
-    "name": "Anjō-shi"
+    "name": "Anjō Shi"
   },
   {
     "code": "JP.39.1865306",
@@ -76577,7 +76585,7 @@
   },
   {
     "code": "JP.04.2110578",
-    "name": "Yachiyo-shi"
+    "name": "Yachiyo Shi"
   },
   {
     "code": "JP.16.2110604",
@@ -76605,7 +76613,7 @@
   },
   {
     "code": "JP.04.2110773",
-    "name": "Tōgane-shi"
+    "name": "Tōgane Shi"
   },
   {
     "code": "JP.08.2110839",
@@ -76661,7 +76669,7 @@
   },
   {
     "code": "JP.24.2111147",
-    "name": "Sendai"
+    "name": "Sendai Shi"
   },
   {
     "code": "JP.02.2111153",
@@ -76677,7 +76685,7 @@
   },
   {
     "code": "JP.04.2111215",
-    "name": "Sakura-shi"
+    "name": "Sakura Shi"
   },
   {
     "code": "JP.44.2111245",
@@ -76717,11 +76725,11 @@
   },
   {
     "code": "JP.04.2111683",
-    "name": "Narita-shi"
+    "name": "Narita Shi"
   },
   {
     "code": "JP.04.2111686",
-    "name": "Narashino-shi"
+    "name": "Narashino Shi"
   },
   {
     "code": "JP.44.2111692",
@@ -76937,7 +76945,7 @@
   },
   {
     "code": "JP.04.2112994",
-    "name": "Chōshi-shi"
+    "name": "Chōshi Shi"
   },
   {
     "code": "JP.04.2112997",
@@ -76945,11 +76953,11 @@
   },
   {
     "code": "JP.04.2113012",
-    "name": "Chiba-shi"
+    "name": "Chiba Shi"
   },
   {
     "code": "JP.04.2113074",
-    "name": "Asahi-shi"
+    "name": "Asahi Shi"
   },
   {
     "code": "JP.02.2113122",
@@ -76961,7 +76969,7 @@
   },
   {
     "code": "JP.04.2113162",
-    "name": "Abiko-shi"
+    "name": "Abiko Shi"
   },
   {
     "code": "JP.12.2127415",
@@ -77249,27 +77257,27 @@
   },
   {
     "code": "JP.01.7369797",
-    "name": "Kiyosu-shi"
+    "name": "Kiyosu Shi"
   },
   {
     "code": "JP.01.7369798",
-    "name": "Aisai-shi"
+    "name": "Aisai Shi"
   },
   {
     "code": "JP.01.7369799",
-    "name": "Iwakura-shi"
+    "name": "Iwakura Shi"
   },
   {
     "code": "JP.01.7369800",
-    "name": "Kitanagoya-shi"
+    "name": "Kitanagoya Shi"
   },
   {
     "code": "JP.01.7369801",
-    "name": "Takahama-shi"
+    "name": "Takahama Shi"
   },
   {
     "code": "JP.01.7369802",
-    "name": "Toyohashi-shi"
+    "name": "Toyohashi Shi"
   },
   {
     "code": "JP.13.7370808",
@@ -77785,23 +77793,23 @@
   },
   {
     "code": "JP.46.7415914",
-    "name": "Minami Alps-shi"
+    "name": "Minami Alps Shi"
   },
   {
     "code": "JP.46.7415915",
-    "name": "Hokuto-shi"
+    "name": "Hokuto Shi"
   },
   {
     "code": "JP.46.7415916",
-    "name": "Fuefuki-shi"
+    "name": "Fuefuki Shi"
   },
   {
     "code": "JP.46.7415917",
-    "name": "Kōshū-shi"
+    "name": "Kōshū Shi"
   },
   {
     "code": "JP.46.7415926",
-    "name": "Chūō-shi"
+    "name": "Chūō Shi"
   },
   {
     "code": "JP.26.7416552",
@@ -78205,7 +78213,7 @@
   },
   {
     "code": "JP.24.7446990",
-    "name": "Higashimatshushima Shi"
+    "name": "Higashimatsushima Shi"
   },
   {
     "code": "JP.24.7446991",
@@ -78373,11 +78381,11 @@
   },
   {
     "code": "JP.34.7464121",
-    "name": "Chichibu-shi"
+    "name": "Chichibu Shi"
   },
   {
     "code": "JP.34.7464122",
-    "name": "Hanyū-shi"
+    "name": "Hanyū Shi"
   },
   {
     "code": "JP.34.7464123",
@@ -78405,7 +78413,7 @@
   },
   {
     "code": "JP.04.7465520",
-    "name": "Yotsukaidō-shi"
+    "name": "Yotsukaidō Shi"
   },
   {
     "code": "JP.04.7465521",
@@ -78413,11 +78421,11 @@
   },
   {
     "code": "JP.04.7465522",
-    "name": "Sōsa-shi"
+    "name": "Sōsa Shi"
   },
   {
     "code": "JP.04.7465523",
-    "name": "Sanmu-shi"
+    "name": "Sanmu Shi"
   },
   {
     "code": "JP.04.7465524",
@@ -78629,7 +78637,7 @@
   },
   {
     "code": "JP.04.8304238",
-    "name": "Yachimata-shi"
+    "name": "Yachimata Shi"
   },
   {
     "code": "JP.06.8304246",
@@ -135464,12 +135472,24 @@
     "name": "Zhirnovskiy Rayon"
   },
   {
+    "code": "RU.72.463210",
+    "name": "Zherdevsky District"
+  },
+  {
     "code": "RU.41.463342",
     "name": "Zheleznogorskiy Rayon"
   },
   {
     "code": "RU.66.463424",
     "name": "Primorskiy Rayon"
+  },
+  {
+    "code": "RU.61.463636",
+    "name": "Zernogradsky District"
+  },
+  {
+    "code": "RU.57.463709",
+    "name": "Zemetchinsky District"
   },
   {
     "code": "RU.23.463825",
@@ -135492,8 +135512,16 @@
     "name": "Zavolzhskiy Rayon"
   },
   {
+    "code": "RU.61.464184",
+    "name": "Zavetinsky District"
+  },
+  {
     "code": "RU.47.464686",
     "name": "Gorodskoy Okrug Zaraysk"
+  },
+  {
+    "code": "RU.77.464879",
+    "name": "Zapadnodvinsky District"
   },
   {
     "code": "RU.76.464992",
@@ -135552,8 +135580,24 @@
     "name": "Yukhnovskiy Rayon"
   },
   {
+    "code": "RU.80.466675",
+    "name": "Yukamensky District"
+  },
+  {
     "code": "RU.38.466879",
     "name": "Yeyskiy Rayon"
+  },
+  {
+    "code": "RU.67.467093",
+    "name": "Yershovsky District"
+  },
+  {
+    "code": "RU.69.467133",
+    "name": "Yershichsky District"
+  },
+  {
+    "code": "RU.62.467250",
+    "name": "Yermishinsky District"
   },
   {
     "code": "RU.08.467259",
@@ -135562,6 +135606,10 @@
   {
     "code": "RU.07.467477",
     "name": "Yenotayevskiy Rayon"
+  },
+  {
+    "code": "RU.69.467755",
+    "name": "Yelninsky District"
   },
   {
     "code": "RU.46.467756",
@@ -135580,6 +135628,10 @@
     "name": "Yelabuzhskiy Rayon"
   },
   {
+    "code": "RU.67.468124",
+    "name": "Yekaterinovsky District"
+  },
+  {
     "code": "RU.47.468247",
     "name": "Gorodskoy Okrug Yegor'yevsk"
   },
@@ -135588,12 +135640,24 @@
     "name": "Yasnogorskiy Rayon"
   },
   {
+    "code": "RU.55.468676",
+    "name": "Yasnensky District"
+  },
+  {
     "code": "RU.24.468746",
     "name": "Yashkul’skiy Rayon"
   },
   {
     "code": "RU.24.468775",
     "name": "Yashaltinskiy Rayon"
+  },
+  {
+    "code": "RU.69.468850",
+    "name": "Yartsevsky District"
+  },
+  {
+    "code": "RU.80.468877",
+    "name": "Yarsky District"
   },
   {
     "code": "RU.88.468895",
@@ -135656,6 +135720,10 @@
     "name": "Vyaznikovskiy Rayon"
   },
   {
+    "code": "RU.69.470709",
+    "name": "Vyazemsky District"
+  },
+  {
     "code": "RU.33.470727",
     "name": "Vyatsko-Polyanskiy Rayon"
   },
@@ -135710,6 +135778,10 @@
   {
     "code": "RU.67.472276",
     "name": "Vol’skiy Rayon"
+  },
+  {
+    "code": "RU.76.472302",
+    "name": "Volovsky District"
   },
   {
     "code": "RU.43.472303",
@@ -135776,6 +135848,18 @@
     "name": "Ves’yegonskiy Rayon"
   },
   {
+    "code": "RU.81.473992",
+    "name": "Veshkaymsky District"
+  },
+  {
+    "code": "RU.61.474113",
+    "name": "Vesyolovsky District"
+  },
+  {
+    "code": "RU.56.474331",
+    "name": "Verkhovsky District"
+  },
+  {
     "code": "RU.85.474355",
     "name": "Verkhovazhskiy Rayon"
   },
@@ -135812,12 +135896,20 @@
     "name": "Verkhnekamskiy Rayon"
   },
   {
+    "code": "RU.61.475612",
+    "name": "Verkhnedonskoy District"
+  },
+  {
     "code": "RU.76.475878",
     "name": "Venëvskiy Rayon"
   },
   {
     "code": "RU.06.475937",
     "name": "Vel’skiy Rayon"
+  },
+  {
+    "code": "RU.69.475952",
+    "name": "Velizhsky District"
   },
   {
     "code": "RU.85.476029",
@@ -135830,6 +135922,10 @@
   {
     "code": "RU.12.476248",
     "name": "Vedenskiy Rayon"
+  },
+  {
+    "code": "RU.80.476341",
+    "name": "Vavozhsky District"
   },
   {
     "code": "RU.66.476815",
@@ -135856,8 +135952,24 @@
     "name": "Vadskiy Rayon"
   },
   {
+    "code": "RU.57.477417",
+    "name": "Vadinsky District"
+  },
+  {
     "code": "RU.51.477425",
     "name": "Vachskiy Rayon"
+  },
+  {
+    "code": "RU.76.477487",
+    "name": "Uzlovsky District"
+  },
+  {
+    "code": "RU.80.477602",
+    "name": "Uvinsky District"
+  },
+  {
+    "code": "RU.60.477776",
+    "name": "Usvyatsky District"
   },
   {
     "code": "RU.85.477796",
@@ -135924,6 +136036,10 @@
     "name": "Urmarskiy Rayon"
   },
   {
+    "code": "RU.56.478720",
+    "name": "Uritsky District"
+  },
+  {
     "code": "RU.51.478751",
     "name": "Urenskiy Rayon"
   },
@@ -135946,6 +136062,10 @@
   {
     "code": "RU.25.479106",
     "name": "Ul’yanovskiy Rayon"
+  },
+  {
+    "code": "RU.62.479425",
+    "name": "Ukholovsky District"
   },
   {
     "code": "RU.69.479469",
@@ -135972,6 +136092,10 @@
     "name": "Uchalinskiy Rayon"
   },
   {
+    "code": "RU.55.479870",
+    "name": "Tyulgansky District"
+  },
+  {
     "code": "RU.33.480079",
     "name": "Tuzhinskiy Rayon"
   },
@@ -135986,6 +136110,14 @@
   {
     "code": "RU.48.480141",
     "name": "Severo-Zapadnyy Administrativnyy Okrug"
+  },
+  {
+    "code": "RU.67.480248",
+    "name": "Turkovsky District"
+  },
+  {
+    "code": "RU.70.480256",
+    "name": "Turkmensky District"
   },
   {
     "code": "RU.73.480620",
@@ -136008,6 +136140,10 @@
     "name": "Tsivil’skiy Rayon"
   },
   {
+    "code": "RU.61.480873",
+    "name": "Tsimlyansky District"
+  },
+  {
     "code": "RU.81.480881",
     "name": "Tsil’ninskiy Rayon"
   },
@@ -136016,12 +136152,20 @@
     "name": "Tselinnyy Rayon"
   },
   {
+    "code": "RU.70.481182",
+    "name": "Trunovsky District"
+  },
+  {
     "code": "RU.10.481349",
     "name": "Trubchevskiy Rayon"
   },
   {
     "code": "RU.34.481547",
     "name": "Troitsko-Pechorskiy Rayon"
+  },
+  {
+    "code": "RU.55.481956",
+    "name": "Totsky District"
   },
   {
     "code": "RU.85.481962",
@@ -136132,6 +136276,14 @@
     "name": "Tatyshlinskiy Rayon"
   },
   {
+    "code": "RU.61.484016",
+    "name": "Tatsinsky District"
+  },
+  {
+    "code": "RU.55.484219",
+    "name": "Tashlinsky District"
+  },
+  {
     "code": "RU.25.484282",
     "name": "Tarusskiy Rayon"
   },
@@ -136144,6 +136296,14 @@
     "name": "Tarnogskiy Rayon"
   },
   {
+    "code": "RU.72.484637",
+    "name": "Tambovsky District"
+  },
+  {
+    "code": "RU.57.484671",
+    "name": "Tamalinsky District"
+  },
+  {
     "code": "RU.86.484722",
     "name": "Talovskiy Rayon"
   },
@@ -136154,6 +136314,14 @@
   {
     "code": "RU.17.484957",
     "name": "Tabasaranskiy Rayon"
+  },
+  {
+    "code": "RU.65.484968",
+    "name": "Syzransky District"
+  },
+  {
+    "code": "RU.80.485063",
+    "name": "Syumsinsky District"
   },
   {
     "code": "RU.34.485121",
@@ -136192,6 +136360,10 @@
     "name": "Susaninskiy Rayon"
   },
   {
+    "code": "RU.81.486044",
+    "name": "Sursky District"
+  },
+  {
     "code": "RU.84.486070",
     "name": "Surovikinskiy Rayon"
   },
@@ -136214,6 +136386,10 @@
   {
     "code": "RU.17.486360",
     "name": "Suleyman-Stal’skiy Rayon"
+  },
+  {
+    "code": "RU.90.486411",
+    "name": "Suksunsky District"
   },
   {
     "code": "RU.25.486662",
@@ -136252,6 +136428,10 @@
     "name": "Stepnovsky District"
   },
   {
+    "code": "RU.62.488204",
+    "name": "Starozhilovsky District"
+  },
+  {
     "code": "RU.46.488637",
     "name": "Staroshaygovskiy Rayon"
   },
@@ -136270,6 +136450,10 @@
   {
     "code": "RU.38.488740",
     "name": "Starominskiy Rayon"
+  },
+  {
+    "code": "RU.81.488748",
+    "name": "Staromaynsky District"
   },
   {
     "code": "RU.81.488775",
@@ -136300,6 +136484,10 @@
     "name": "Spasskiy Rayon"
   },
   {
+    "code": "RU.62.489810",
+    "name": "Spassky District"
+  },
+  {
     "code": "RU.25.489867",
     "name": "Spas-Demenskiy Rayon"
   },
@@ -136324,6 +136512,10 @@
     "name": "Sovetskiy Rayon"
   },
   {
+    "code": "RU.70.490028",
+    "name": "Sovetsky District"
+  },
+  {
     "code": "RU.22.490029",
     "name": "Cherekskiy Rayon"
   },
@@ -136336,6 +136528,22 @@
     "name": "Sosnovskiy Rayon"
   },
   {
+    "code": "RU.72.490200",
+    "name": "Sosnovsky District"
+  },
+  {
+    "code": "RU.57.490210",
+    "name": "Sosnovoborsky District"
+  },
+  {
+    "code": "RU.55.490552",
+    "name": "Sorochinsky District"
+  },
+  {
+    "code": "RU.77.490636",
+    "name": "Sonkovsky District"
+  },
+  {
     "code": "RU.48.490968",
     "name": "Zapadnyy Administrativnyy Okrug"
   },
@@ -136346,6 +136554,14 @@
   {
     "code": "RU.47.490995",
     "name": "Gorodskoy Okrug Solnechnogorsk"
+  },
+  {
+    "code": "RU.55.491017",
+    "name": "Sol-Iletsky District"
+  },
+  {
+    "code": "RU.90.491021",
+    "name": "Solikamsky District"
   },
   {
     "code": "RU.37.491024",
@@ -136364,6 +136580,10 @@
     "name": "Sobinskiy Rayon"
   },
   {
+    "code": "RU.69.491679",
+    "name": "Smolensky District"
+  },
+  {
     "code": "RU.33.491877",
     "name": "Slobodskoy Rayon"
   },
@@ -136380,8 +136600,20 @@
     "name": "Slantsevskiy Rayon"
   },
   {
+    "code": "RU.62.492371",
+    "name": "Skopinsky District"
+  },
+  {
+    "code": "RU.90.492566",
+    "name": "Sivinsky District"
+  },
+  {
     "code": "RU.21.493203",
     "name": "Shuyskiy Rayon"
+  },
+  {
+    "code": "RU.69.493403",
+    "name": "Shumyachsky District"
   },
   {
     "code": "RU.16.493464",
@@ -136396,8 +136628,24 @@
     "name": "Shimskiy Rayon"
   },
   {
+    "code": "RU.62.494404",
+    "name": "Shilovsky District"
+  },
+  {
+    "code": "RU.65.494532",
+    "name": "Shigonsky District"
+  },
+  {
+    "code": "RU.65.494875",
+    "name": "Shentalinsky District"
+  },
+  {
     "code": "RU.06.494883",
     "name": "Shenkurskiy Rayon"
+  },
+  {
+    "code": "RU.57.494899",
+    "name": "Shemysheysky District"
   },
   {
     "code": "RU.16.494919",
@@ -136432,8 +136680,20 @@
     "name": "Gorodskoy Okrug Shatura"
   },
   {
+    "code": "RU.62.495531",
+    "name": "Shatsky District"
+  },
+  {
     "code": "RU.51.495559",
     "name": "Shatkovskiy Rayon"
+  },
+  {
+    "code": "RU.55.495666",
+    "name": "Sharlyksky District"
+  },
+  {
+    "code": "RU.80.495686",
+    "name": "Sharkansky District"
   },
   {
     "code": "RU.37.495704",
@@ -136446,6 +136706,10 @@
   {
     "code": "RU.51.495765",
     "name": "Sharangskiy Rayon"
+  },
+  {
+    "code": "RU.71.495939",
+    "name": "Shalinsky District"
   },
   {
     "code": "RU.12.495940",
@@ -136484,6 +136748,10 @@
     "name": "Sergokalinskiy Rayon"
   },
   {
+    "code": "RU.65.496628",
+    "name": "Sergiyevsky District"
+  },
+  {
     "code": "RU.51.496799",
     "name": "Sergachskiy Rayon"
   },
@@ -136492,12 +136760,24 @@
     "name": "Gorodskoy Okrug Serebryannyye Prudy"
   },
   {
+    "code": "RU.57.496933",
+    "name": "Serdobsky District"
+  },
+  {
     "code": "RU.84.496956",
     "name": "Serafimovichskiy Rayon"
   },
   {
+    "code": "RU.81.497092",
+    "name": "Sengileyevsky District"
+  },
+  {
     "code": "RU.86.497203",
     "name": "Semilukskiy Rayon"
+  },
+  {
+    "code": "RU.80.497611",
+    "name": "Seltinsky District"
   },
   {
     "code": "RU.77.497660",
@@ -136528,12 +136808,20 @@
     "name": "Satkinskiy Rayon"
   },
   {
+    "code": "RU.62.498441",
+    "name": "Sasovsky District"
+  },
+  {
     "code": "RU.24.498505",
     "name": "Sarpinskiy Rayon"
   },
   {
     "code": "RU.73.498536",
     "name": "Sarmanovskiy Rayon"
+  },
+  {
+    "code": "RU.62.498642",
+    "name": "Sarayevsky District"
   },
   {
     "code": "RU.67.498661",
@@ -136548,6 +136836,10 @@
     "name": "Saraktashskiy Rayon"
   },
   {
+    "code": "RU.62.498765",
+    "name": "Sapozhkovsky District"
+  },
+  {
     "code": "RU.77.498855",
     "name": "Sandovskiy Rayon"
   },
@@ -136560,8 +136852,16 @@
     "name": "Sampurskiy Rayon"
   },
   {
+    "code": "RU.67.498943",
+    "name": "Samoylovsky District"
+  },
+  {
     "code": "RU.08.499290",
     "name": "Salavatskiy Rayon"
+  },
+  {
+    "code": "RU.55.499336",
+    "name": "Sakmarsky District"
   },
   {
     "code": "RU.69.499436",
@@ -136570,6 +136870,14 @@
   {
     "code": "RU.73.499665",
     "name": "Sabinskiy Rayon"
+  },
+  {
+    "code": "RU.77.499706",
+    "name": "Rzhevsky District"
+  },
+  {
+    "code": "RU.72.499779",
+    "name": "Rzhaksinsky District"
   },
   {
     "code": "RU.41.499888",
@@ -136608,8 +136916,20 @@
     "name": "Rutul’skiy Rayon"
   },
   {
+    "code": "RU.69.500653",
+    "name": "Rudnyansky District"
+  },
+  {
     "code": "RU.84.500654",
     "name": "Rudnyanskiy Rayon"
+  },
+  {
+    "code": "RU.67.500881",
+    "name": "Rtishchevsky District"
+  },
+  {
+    "code": "RU.67.501123",
+    "name": "Rovensky District"
   },
   {
     "code": "RU.09.501124",
@@ -136628,6 +136948,10 @@
     "name": "Romodanovskiy Rayon"
   },
   {
+    "code": "RU.67.501392",
+    "name": "Romanovsky District"
+  },
+  {
     "code": "RU.10.501624",
     "name": "Rognedinskiy Rayon"
   },
@@ -136636,8 +136960,16 @@
     "name": "Rodnikovskiy Rayon"
   },
   {
+    "code": "RU.61.501773",
+    "name": "Rodionovo-Nesvetaysky District"
+  },
+  {
     "code": "RU.86.502082",
     "name": "Rep’yevskiy Rayon"
+  },
+  {
+    "code": "RU.61.502186",
+    "name": "Remontnensky District"
   },
   {
     "code": "RU.72.502790",
@@ -136660,12 +136992,20 @@
     "name": "Rakityanskiy Rayon"
   },
   {
+    "code": "RU.81.503250",
+    "name": "Radishchevsky District"
+  },
+  {
     "code": "RU.60.503373",
     "name": "Pytalovskiy Rayon"
   },
   {
     "code": "RU.37.503399",
     "name": "Pyshchugskiy Rayon"
+  },
+  {
+    "code": "RU.62.503677",
+    "name": "Putyatinsky District"
   },
   {
     "code": "RU.60.503857",
@@ -136696,6 +137036,10 @@
     "name": "Pryazhinskiy Rayon"
   },
   {
+    "code": "RU.62.504714",
+    "name": "Pronsky District"
+  },
+  {
     "code": "RU.09.504908",
     "name": "Prokhorovskiy Rayon"
   },
@@ -136710,6 +137054,10 @@
   {
     "code": "RU.21.505049",
     "name": "Privolzhskiy Rayon"
+  },
+  {
+    "code": "RU.65.505050",
+    "name": "Privolzhsky District"
   },
   {
     "code": "RU.07.505051",
@@ -136748,6 +137096,10 @@
     "name": "Prigorodnyy Rayon"
   },
   {
+    "code": "RU.70.505554",
+    "name": "Predgorny District"
+  },
+  {
     "code": "RU.68.505586",
     "name": "Pravoberezhnyy Rayon"
   },
@@ -136776,12 +137128,20 @@
     "name": "Ponyrovskiy Rayon"
   },
   {
+    "code": "RU.55.506628",
+    "name": "Ponomaryovsky District"
+  },
+  {
     "code": "RU.37.506693",
     "name": "Ponazyrevskiy Rayon"
   },
   {
     "code": "RU.23.507290",
     "name": "Polesskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.65.507635",
+    "name": "Pokhvistnevsky District"
   },
   {
     "code": "RU.10.507867",
@@ -136816,8 +137176,20 @@
     "name": "Pochinkovskiy Rayon"
   },
   {
+    "code": "RU.69.508613",
+    "name": "Pochinkovsky District"
+  },
+  {
     "code": "RU.10.508648",
     "name": "Pochepskiy Rayon"
+  },
+  {
+    "code": "RU.06.509024",
+    "name": "Plesetsky District"
+  },
+  {
+    "code": "RU.76.509051",
+    "name": "Plavsky District"
   },
   {
     "code": "RU.33.509182",
@@ -136828,6 +137200,14 @@
     "name": "Pitkyarantskiy Rayon"
   },
   {
+    "code": "RU.67.509259",
+    "name": "Pitersky District"
+  },
+  {
+    "code": "RU.62.509272",
+    "name": "Pitelinsky District"
+  },
+  {
     "code": "RU.06.509472",
     "name": "Pinezhskiy Rayon"
   },
@@ -136836,8 +137216,24 @@
     "name": "Pil’ninskiy Rayon"
   },
   {
+    "code": "RU.72.509647",
+    "name": "Pichayevsky District"
+  },
+  {
     "code": "RU.83.509702",
     "name": "Petushinskiy Rayon"
+  },
+  {
+    "code": "RU.72.509910",
+    "name": "Petrovsky District"
+  },
+  {
+    "code": "RU.67.509911",
+    "name": "Petrovsky District"
+  },
+  {
+    "code": "RU.70.509912",
+    "name": "Petrovsky District"
   },
   {
     "code": "RU.86.510155",
@@ -136856,12 +137252,32 @@
     "name": "Pestrechinskiy Rayon"
   },
   {
+    "code": "RU.65.510346",
+    "name": "Pestravsky District"
+  },
+  {
     "code": "RU.52.510351",
     "name": "Pestovskiy Rayon"
   },
   {
+    "code": "RU.61.510614",
+    "name": "Peschanokopsky District"
+  },
+  {
     "code": "RU.88.510851",
     "name": "Pervomayskiy Rayon"
+  },
+  {
+    "code": "RU.51.510853",
+    "name": "Pervomaysky District"
+  },
+  {
+    "code": "RU.72.510854",
+    "name": "Pervomaysky District"
+  },
+  {
+    "code": "RU.51.511266",
+    "name": "Perevozsky District"
   },
   {
     "code": "RU.88.511358",
@@ -136870,6 +137286,14 @@
   {
     "code": "RU.25.511399",
     "name": "Peremyshl’skiy Rayon"
+  },
+  {
+    "code": "RU.67.511413",
+    "name": "Perelyubsky District"
+  },
+  {
+    "code": "RU.57.511553",
+    "name": "Penzensky District"
   },
   {
     "code": "RU.77.511588",
@@ -136936,6 +137360,14 @@
     "name": "Palekhskiy Rayon"
   },
   {
+    "code": "RU.57.513307",
+    "name": "Pachelmsky District"
+  },
+  {
+    "code": "RU.67.513326",
+    "name": "Ozinsky District"
+  },
+  {
     "code": "RU.47.513393",
     "name": "Ozyory Urban Okrug"
   },
@@ -136964,6 +137396,10 @@
     "name": "Ostashkovskiy Rayon"
   },
   {
+    "code": "RU.90.514426",
+    "name": "Osinsky District"
+  },
+  {
     "code": "RU.45.514738",
     "name": "Orshanskiy Rayon"
   },
@@ -136974,6 +137410,10 @@
   {
     "code": "RU.47.515022",
     "name": "Orekhovo-Zuyevskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.90.515094",
+    "name": "Ordinsky District"
   },
   {
     "code": "RU.60.515157",
@@ -137004,6 +137444,10 @@
     "name": "Ol’khovatskiy Rayon"
   },
   {
+    "code": "RU.77.515684",
+    "name": "Oleninsky District"
+  },
+  {
     "code": "RU.52.515748",
     "name": "Okulovskiy Rayon"
   },
@@ -137028,12 +137472,36 @@
     "name": "Oktyabr’skiy Rayon"
   },
   {
+    "code": "RU.61.515841",
+    "name": "Oktyabrsky District"
+  },
+  {
+    "code": "RU.90.516071",
+    "name": "Okhansky District"
+  },
+  {
+    "code": "RU.76.516192",
+    "name": "Odoyevsky District"
+  },
+  {
     "code": "RU.47.516210",
     "name": "Odintsovskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.41.516399",
     "name": "Oboyanskiy Rayon"
+  },
+  {
+    "code": "RU.61.516453",
+    "name": "Oblivsky District"
+  },
+  {
+    "code": "RU.85.516538",
+    "name": "Nyuksensky District"
+  },
+  {
+    "code": "RU.90.516573",
+    "name": "Nytvensky District"
   },
   {
     "code": "RU.13.516613",
@@ -137056,6 +137524,10 @@
     "name": "Novozybkovskiy Rayon"
   },
   {
+    "code": "RU.67.517737",
+    "name": "Novouzensky District"
+  },
+  {
     "code": "RU.86.517749",
     "name": "Novousmanskiy Rayon"
   },
@@ -137064,8 +137536,20 @@
     "name": "Novotor”yal’skiy Rayon"
   },
   {
+    "code": "RU.81.517903",
+    "name": "Novospassky District"
+  },
+  {
     "code": "RU.60.517923",
     "name": "Novosokol’nicheskiy Rayon"
+  },
+  {
+    "code": "RU.55.517973",
+    "name": "Novosergiyevsky District"
+  },
+  {
+    "code": "RU.70.518210",
+    "name": "Novoselitsky District"
   },
   {
     "code": "RU.60.518234",
@@ -137088,6 +137572,14 @@
     "name": "Novonikolayevskiy Rayon"
   },
   {
+    "code": "RU.76.518551",
+    "name": "Novomoskovsky District"
+  },
+  {
+    "code": "RU.81.518618",
+    "name": "Novomalyklinsky District"
+  },
+  {
     "code": "RU.17.518649",
     "name": "Novolakskiy Rayon"
   },
@@ -137098,6 +137590,14 @@
   {
     "code": "RU.86.518742",
     "name": "Novokhoperskiy Rayon"
+  },
+  {
+    "code": "RU.69.518911",
+    "name": "Novoduginsky District"
+  },
+  {
+    "code": "RU.67.518986",
+    "name": "Novoburassky District"
   },
   {
     "code": "RU.84.519061",
@@ -137120,6 +137620,14 @@
     "name": "Nogayskiy Rayon"
   },
   {
+    "code": "RU.71.521046",
+    "name": "Nizhneserginsky District"
+  },
+  {
+    "code": "RU.57.521090",
+    "name": "Nizhnelomovsky District"
+  },
+  {
     "code": "RU.73.521116",
     "name": "Nizhnekamskiy Rayon"
   },
@@ -137128,8 +137636,16 @@
     "name": "Nizhnedevitskiy Rayon"
   },
   {
+    "code": "RU.81.521847",
+    "name": "Nikolayevsky District"
+  },
+  {
     "code": "RU.84.521848",
     "name": "Nikolayevskiy Rayon"
+  },
+  {
+    "code": "RU.72.522223",
+    "name": "Nikiforovsky District"
   },
   {
     "code": "RU.37.522334",
@@ -137160,12 +137676,20 @@
     "name": "Nemanskiy Gorodskoy Okrug"
   },
   {
+    "code": "RU.77.522771",
+    "name": "Nelidovsky District"
+  },
+  {
     "code": "RU.88.522800",
     "name": "Nekrasovskiy Rayon"
   },
   {
     "code": "RU.88.522861",
     "name": "Nekouzskiy Rayon"
+  },
+  {
+    "code": "RU.61.522883",
+    "name": "Neklinovsky District"
   },
   {
     "code": "RU.84.522901",
@@ -137188,8 +137712,16 @@
     "name": "Navlinskiy Rayon"
   },
   {
+    "code": "RU.51.523197",
+    "name": "Navashinsky District"
+  },
+  {
     "code": "RU.12.523209",
     "name": "Naurskiy Rayon"
+  },
+  {
+    "code": "RU.57.523413",
+    "name": "Narovchatsky District"
   },
   {
     "code": "RU.47.523425",
@@ -137220,6 +137752,10 @@
     "name": "Myshkinskiy Rayon"
   },
   {
+    "code": "RU.61.523946",
+    "name": "Myasnikovsky District"
+  },
+  {
     "code": "RU.28.524099",
     "name": "Muyezerskiy Rayon"
   },
@@ -137234,6 +137770,14 @@
   {
     "code": "RU.33.524412",
     "name": "Murashinskiy Rayon"
+  },
+  {
+    "code": "RU.56.524639",
+    "name": "Mtsensky District"
+  },
+  {
+    "code": "RU.80.524697",
+    "name": "Mozhginsky District"
   },
   {
     "code": "RU.47.524708",
@@ -137260,12 +137804,36 @@
     "name": "Mosal’skiy Rayon"
   },
   {
+    "code": "RU.72.525135",
+    "name": "Morshansky District"
+  },
+  {
+    "code": "RU.61.525149",
+    "name": "Morozovsky District"
+  },
+  {
     "code": "RU.45.525261",
     "name": "Morkinskiy Rayon"
   },
   {
     "code": "RU.16.525278",
     "name": "Morgaushskiy Rayon"
+  },
+  {
+    "code": "RU.72.525322",
+    "name": "Mordovsky District"
+  },
+  {
+    "code": "RU.69.525423",
+    "name": "Monastyrshchinsky District"
+  },
+  {
+    "code": "RU.77.525506",
+    "name": "Molokovsky District"
+  },
+  {
+    "code": "RU.57.525658",
+    "name": "Mokshansky District"
   },
   {
     "code": "RU.08.526009",
@@ -137276,12 +137844,32 @@
     "name": "Mishkinskiy Rayon"
   },
   {
+    "code": "RU.70.526479",
+    "name": "Mineralovodsky District"
+  },
+  {
     "code": "RU.61.526503",
     "name": "Milyutinskiy Rayon"
   },
   {
+    "code": "RU.62.526544",
+    "name": "Miloslavsky District"
+  },
+  {
+    "code": "RU.61.526557",
+    "name": "Millerovsky District"
+  },
+  {
+    "code": "RU.62.526753",
+    "name": "Mikhaylovsky District"
+  },
+  {
     "code": "RU.84.526754",
     "name": "Mikhaylovka Urban Okrug"
+  },
+  {
+    "code": "RU.72.527182",
+    "name": "Michurinsky District"
   },
   {
     "code": "RU.10.527216",
@@ -137348,6 +137936,14 @@
     "name": "Maykopskiy Rayon"
   },
   {
+    "code": "RU.55.528462",
+    "name": "Matveyevsky District"
+  },
+  {
+    "code": "RU.61.528481",
+    "name": "Matveyevo-Kurgansky District"
+  },
+  {
     "code": "RU.61.528946",
     "name": "Martynovskiy Rayon"
   },
@@ -137386,6 +137982,10 @@
   {
     "code": "RU.52.530859",
     "name": "Malovisherskiy Rayon"
+  },
+  {
+    "code": "RU.57.530890",
+    "name": "Maloserdobinsky District"
   },
   {
     "code": "RU.27.530936",
@@ -137436,6 +138036,10 @@
     "name": "Gorodskoy Okrug Lyubertsy"
   },
   {
+    "code": "RU.67.532700",
+    "name": "Lysogorsky District"
+  },
+  {
     "code": "RU.51.532711",
     "name": "Lyskovskiy Rayon"
   },
@@ -137450,6 +138054,10 @@
   {
     "code": "RU.42.533053",
     "name": "Luzhskiy Rayon"
+  },
+  {
+    "code": "RU.57.533278",
+    "name": "Luninsky District"
   },
   {
     "code": "RU.51.533397",
@@ -137476,12 +138084,24 @@
     "name": "Gorodskoy Okrug Lotoshino"
   },
   {
+    "code": "RU.57.534172",
+    "name": "Lopatinsky District"
+  },
+  {
     "code": "RU.42.534332",
     "name": "Lomonosovskiy Rayon"
   },
   {
+    "code": "RU.60.534416",
+    "name": "Loknyansky District"
+  },
+  {
     "code": "RU.42.534562",
     "name": "Lodeynopol’skiy Rayon"
+  },
+  {
+    "code": "RU.56.534709",
+    "name": "Livensky District"
   },
   {
     "code": "RU.86.534834",
@@ -137506,6 +138126,10 @@
   {
     "code": "RU.43.535418",
     "name": "Lev-Tolstovskiy Rayon"
+  },
+  {
+    "code": "RU.70.535439",
+    "name": "Levokumsky District"
   },
   {
     "code": "RU.17.535538",
@@ -137576,6 +138200,10 @@
     "name": "Kvarkenskiy Rayon"
   },
   {
+    "code": "RU.81.537597",
+    "name": "Kuzovatovsky District"
+  },
+  {
     "code": "RU.57.537733",
     "name": "Kuznetskiy Rayon"
   },
@@ -137592,8 +138220,16 @@
     "name": "Kuybyshevskiy Rayon"
   },
   {
+    "code": "RU.61.538055",
+    "name": "Kuybyshevsky District"
+  },
+  {
     "code": "RU.77.538101",
     "name": "Kuvshinovskiy Rayon"
+  },
+  {
+    "code": "RU.55.538136",
+    "name": "Kuvandyksky District"
   },
   {
     "code": "RU.13.538327",
@@ -137614,6 +138250,14 @@
   {
     "code": "RU.70.538550",
     "name": "Kurskiy Rayon"
+  },
+  {
+    "code": "RU.55.538681",
+    "name": "Kurmanayevsky District"
+  },
+  {
+    "code": "RU.76.538727",
+    "name": "Kurkinsky District"
   },
   {
     "code": "RU.38.538835",
@@ -137704,6 +138348,10 @@
     "name": "Krasnosel’skiy Rayon"
   },
   {
+    "code": "RU.67.542275",
+    "name": "Krasnopartizansky District"
+  },
+  {
     "code": "RU.51.542285",
     "name": "Krasnooktyabr’skiy Rayon"
   },
@@ -137724,6 +138372,10 @@
     "name": "Krasnogvardeyskiy Rayon"
   },
   {
+    "code": "RU.55.542339",
+    "name": "Krasnogvardeysky District"
+  },
+  {
     "code": "RU.01.542340",
     "name": "Krasnogvardeyskiy Rayon"
   },
@@ -137732,12 +138384,20 @@
     "name": "Krasnogvardeyskiy Rayon"
   },
   {
+    "code": "RU.80.542362",
+    "name": "Krasnogorsky District"
+  },
+  {
     "code": "RU.47.542363",
     "name": "Gorodskoy Okrug Krasnogorsk"
   },
   {
     "code": "RU.10.542364",
     "name": "Krasnogorskiy Rayon"
+  },
+  {
+    "code": "RU.60.542379",
+    "name": "Krasnogorodsky District"
   },
   {
     "code": "RU.06.542421",
@@ -137752,12 +138412,20 @@
     "name": "Krasnoarmeyskiy Rayon"
   },
   {
+    "code": "RU.65.542437",
+    "name": "Krasnoarmeysky District"
+  },
+  {
     "code": "RU.67.542438",
     "name": "Krasnoarmeyskiy Rayon"
   },
   {
     "code": "RU.38.542439",
     "name": "Krasnoarmeyskiy Rayon"
+  },
+  {
+    "code": "RU.69.542483",
+    "name": "Krasninsky District"
   },
   {
     "code": "RU.43.542484",
@@ -137840,8 +138508,16 @@
     "name": "Korenevskiy Rayon"
   },
   {
+    "code": "RU.62.544999",
+    "name": "Korablinsky District"
+  },
+  {
     "code": "RU.41.545221",
     "name": "Konyshëvskiy Rayon"
+  },
+  {
+    "code": "RU.61.545268",
+    "name": "Konstantinovsky District"
   },
   {
     "code": "RU.06.545350",
@@ -137882,6 +138558,10 @@
   {
     "code": "RU.83.546520",
     "name": "Kol’chuginskiy Rayon"
+  },
+  {
+    "code": "RU.70.546775",
+    "name": "Kochubeyevsky District"
   },
   {
     "code": "RU.46.546795",
@@ -137964,6 +138644,10 @@
     "name": "Kirovskiy Rayon"
   },
   {
+    "code": "RU.70.548378",
+    "name": "Kirovsky District"
+  },
+  {
     "code": "RU.33.548394",
     "name": "Kirovo-Chepetskiy Rayon"
   },
@@ -137994,6 +138678,10 @@
   {
     "code": "RU.77.548653",
     "name": "Kimrskiy Rayon"
+  },
+  {
+    "code": "RU.76.548657",
+    "name": "Kimovsky District"
   },
   {
     "code": "RU.33.548691",
@@ -138040,6 +138728,10 @@
     "name": "Khomutovskiy Rayon"
   },
   {
+    "code": "RU.69.549717",
+    "name": "Kholm-Zhirkovsky"
+  },
+  {
     "code": "RU.52.549740",
     "name": "Kholmskiy Rayon"
   },
@@ -138058,6 +138750,10 @@
   {
     "code": "RU.17.550200",
     "name": "Khivskiy Rayon"
+  },
+  {
+    "code": "RU.69.550233",
+    "name": "Khislavichsky District"
   },
   {
     "code": "RU.47.550279",
@@ -138152,6 +138848,10 @@
     "name": "Kargopol’skiy Rayon"
   },
   {
+    "code": "RU.69.552556",
+    "name": "Kardymovsky District"
+  },
+  {
     "code": "RU.80.552829",
     "name": "Karakulinskiy Rayon"
   },
@@ -138220,6 +138920,10 @@
     "name": "Kaltasinskiy Rayon"
   },
   {
+    "code": "RU.67.554178",
+    "name": "Kalininsky District"
+  },
+  {
     "code": "RU.66.554181",
     "name": "Kalininskiy Rayon"
   },
@@ -138244,12 +138948,24 @@
     "name": "Kalachevskiy Rayon"
   },
   {
+    "code": "RU.61.554481",
+    "name": "Kagalnitsky District"
+  },
+  {
     "code": "RU.37.554500",
     "name": "Kadyyskiy Rayon"
   },
   {
     "code": "RU.85.554533",
     "name": "Kaduyskiy Rayon"
+  },
+  {
+    "code": "RU.62.554547",
+    "name": "Kadomsky District"
+  },
+  {
+    "code": "RU.70.554773",
+    "name": "Izobilnensky District"
   },
   {
     "code": "RU.43.554804",
@@ -138262,6 +138978,10 @@
   {
     "code": "RU.09.554969",
     "name": "Ivnyanskiy Rayon"
+  },
+  {
+    "code": "RU.67.555108",
+    "name": "Ivanteyevsky District"
   },
   {
     "code": "RU.21.555207",
@@ -138284,6 +139004,14 @@
     "name": "Irafskiy Rayon"
   },
   {
+    "code": "RU.70.556226",
+    "name": "Ipatovsky District"
+  },
+  {
+    "code": "RU.81.556280",
+    "name": "Inzensky District"
+  },
+  {
     "code": "RU.46.556313",
     "name": "Insarskiy Rayon"
   },
@@ -138298,6 +139026,10 @@
   {
     "code": "RU.21.557129",
     "name": "Il’inskiy Rayon"
+  },
+  {
+    "code": "RU.55.557326",
+    "name": "Ileksky District"
   },
   {
     "code": "RU.07.557391",
@@ -138372,6 +139104,10 @@
     "name": "Gribanovskiy Rayon"
   },
   {
+    "code": "RU.70.559114",
+    "name": "Grachyovsky District"
+  },
+  {
     "code": "RU.41.559401",
     "name": "Gorshechenskiy Rayon"
   },
@@ -138398,6 +139134,10 @@
   {
     "code": "RU.41.560992",
     "name": "Glushkovskiy Rayon"
+  },
+  {
+    "code": "RU.69.561211",
+    "name": "Glinkovsky District"
   },
   {
     "code": "RU.01.561514",
@@ -138428,6 +139168,10 @@
     "name": "Gavrilov-Yamskiy Rayon"
   },
   {
+    "code": "RU.72.561774",
+    "name": "Gavrilovsky District"
+  },
+  {
     "code": "RU.21.561784",
     "name": "Gavrilovo-Posadskiy Rayon"
   },
@@ -138442,6 +139186,10 @@
   {
     "code": "RU.51.562208",
     "name": "Gaginskiy Rayon"
+  },
+  {
+    "code": "RU.69.562220",
+    "name": "Gagarinsky District"
   },
   {
     "code": "RU.48.562221",
@@ -138516,6 +139264,14 @@
     "name": "Duminichskiy Rayon"
   },
   {
+    "code": "RU.69.564232",
+    "name": "Dukhovshchinsky District"
+  },
+  {
+    "code": "RU.67.564242",
+    "name": "Dukhovnitsky District"
+  },
+  {
     "code": "RU.10.564343",
     "name": "Dubrovskiy Rayon"
   },
@@ -138532,8 +139288,16 @@
     "name": "Dubenskiy Rayon"
   },
   {
+    "code": "RU.76.564804",
+    "name": "Dubensky District"
+  },
+  {
     "code": "RU.73.564943",
     "name": "Drozhzhanovskiy Rayon"
+  },
+  {
+    "code": "RU.69.565198",
+    "name": "Dorogobuzhsky District"
   },
   {
     "code": "RU.47.565379",
@@ -138554,6 +139318,10 @@
   {
     "code": "RU.43.565845",
     "name": "Dobrinskiy Rayon"
+  },
+  {
+    "code": "RU.60.565884",
+    "name": "Dnovsky District"
   },
   {
     "code": "RU.47.565909",
@@ -138582,6 +139350,14 @@
   {
     "code": "RU.52.566628",
     "name": "Demyanskiy Rayon"
+  },
+  {
+    "code": "RU.69.566718",
+    "name": "Demidovsky District"
+  },
+  {
+    "code": "RU.60.566867",
+    "name": "Dedovichsky District"
   },
   {
     "code": "RU.08.567004",
@@ -138620,12 +139396,24 @@
     "name": "Chudovskiy Rayon"
   },
   {
+    "code": "RU.62.567802",
+    "name": "Chuchkovsky District"
+  },
+  {
+    "code": "RU.51.567895",
+    "name": "Chkalovsky District"
+  },
+  {
     "code": "RU.73.567985",
     "name": "Chistopolsky District"
   },
   {
     "code": "RU.08.568013",
     "name": "Chishminskiy Rayon"
+  },
+  {
+    "code": "RU.61.568425",
+    "name": "Chertkovsky District"
   },
   {
     "code": "RU.84.568526",
@@ -138638,6 +139426,10 @@
   {
     "code": "RU.23.568594",
     "name": "Chernyakhovksiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.76.568620",
+    "name": "Chernsky District"
   },
   {
     "code": "RU.24.568626",
@@ -138704,6 +139496,10 @@
     "name": "Bykovskiy Rayon"
   },
   {
+    "code": "RU.55.570419",
+    "name": "Buzuluksky District"
+  },
+  {
     "code": "RU.08.570454",
     "name": "Buzdyakskiy Rayon"
   },
@@ -138736,8 +139532,16 @@
     "name": "Buinskiy Rayon"
   },
   {
+    "code": "RU.55.571157",
+    "name": "Buguruslansky District"
+  },
+  {
     "code": "RU.73.571167",
     "name": "Bugulminsky District"
+  },
+  {
+    "code": "RU.70.571296",
+    "name": "Budyonnovsky District"
   },
   {
     "code": "RU.38.571419",
@@ -138832,6 +139636,10 @@
     "name": "Boksitogorskiy Rayon"
   },
   {
+    "code": "RU.61.575411",
+    "name": "Bokovsky District"
+  },
+  {
     "code": "RU.86.575452",
     "name": "Bogucharskiy Rayon"
   },
@@ -138842,6 +139650,10 @@
   {
     "code": "RU.51.575549",
     "name": "Bogorodskiy Rayon"
+  },
+  {
+    "code": "RU.76.575585",
+    "name": "Bogoroditsky District"
   },
   {
     "code": "RU.65.575758",
@@ -138858,6 +139670,10 @@
   {
     "code": "RU.08.576124",
     "name": "Blagovarskiy Rayon"
+  },
+  {
+    "code": "RU.70.576176",
+    "name": "Blagodarnensky District"
   },
   {
     "code": "RU.08.576194",
@@ -138878,6 +139694,14 @@
   {
     "code": "RU.65.576588",
     "name": "Bezenchukskiy Rayon"
+  },
+  {
+    "code": "RU.57.576654",
+    "name": "Bessonovsky District"
+  },
+  {
+    "code": "RU.55.577592",
+    "name": "Belyayevsky District"
   },
   {
     "code": "RU.77.577692",
@@ -138920,6 +139744,10 @@
     "name": "Beloglinskiy Rayon"
   },
   {
+    "code": "RU.57.578043",
+    "name": "Belinsky District"
+  },
+  {
     "code": "RU.09.578070",
     "name": "Belgorodskiy Rayon"
   },
@@ -138948,6 +139776,10 @@
     "name": "Batetskiy Rayon"
   },
   {
+    "code": "RU.81.578917",
+    "name": "Baryshsky District"
+  },
+  {
     "code": "RU.25.578944",
     "name": "Baryatinskiy Rayon"
   },
@@ -138958,6 +139790,10 @@
   {
     "code": "RU.73.579382",
     "name": "Baltasinskiy Rayon"
+  },
+  {
+    "code": "RU.67.579454",
+    "name": "Balashovsky District"
   },
   {
     "code": "RU.47.579462",
@@ -138978,6 +139814,10 @@
   {
     "code": "RU.23.579759",
     "name": "Bagrationovskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.61.579769",
+    "name": "Bagayevsky District"
   },
   {
     "code": "RU.25.579834",
@@ -139028,6 +139868,14 @@
     "name": "Ashinskiy Rayon"
   },
   {
+    "code": "RU.55.580674",
+    "name": "Asekeyevsky District"
+  },
+  {
+    "code": "RU.70.580714",
+    "name": "Arzgirsky District"
+  },
+  {
     "code": "RU.51.580722",
     "name": "Arzamasskiy Rayon"
   },
@@ -139042,6 +139890,10 @@
   {
     "code": "RU.08.581029",
     "name": "Arkhangel’skiy Rayon"
+  },
+  {
+    "code": "RU.67.581077",
+    "name": "Arkadaksky District"
   },
   {
     "code": "RU.68.581175",
@@ -139068,12 +139920,20 @@
     "name": "Apastovsky District"
   },
   {
+    "code": "RU.70.581371",
+    "name": "Apanasenkovsky District"
+  },
+  {
     "code": "RU.37.581454",
     "name": "Antropovskiy Rayon"
   },
   {
     "code": "RU.86.581618",
     "name": "Anninskiy Rayon"
+  },
+  {
+    "code": "RU.70.581823",
+    "name": "Andropovsky District"
   },
   {
     "code": "RU.77.582104",
@@ -139108,6 +139968,10 @@
     "name": "Alekseyevskiy Rayon"
   },
   {
+    "code": "RU.65.582786",
+    "name": "Alexeyevsky District"
+  },
+  {
     "code": "RU.09.582787",
     "name": "Alekseyevskiy Rayon"
   },
@@ -139118,6 +139982,18 @@
   {
     "code": "RU.83.582996",
     "name": "Aleksandrovskiy Rayon"
+  },
+  {
+    "code": "RU.55.582997",
+    "name": "Alexandrovsky District"
+  },
+  {
+    "code": "RU.70.582998",
+    "name": "Alexandrovsky District"
+  },
+  {
+    "code": "RU.67.583047",
+    "name": "Alexandrovo-Gaysky District"
   },
   {
     "code": "RU.16.583435",
@@ -139140,6 +140016,10 @@
     "name": "Aksubayevskiy Rayon"
   },
   {
+    "code": "RU.61.583665",
+    "name": "Aksaysky District"
+  },
+  {
     "code": "RU.17.583776",
     "name": "Akhvakhskiy Rayon"
   },
@@ -139150,6 +140030,10 @@
   {
     "code": "RU.07.583796",
     "name": "Akhtubinskiy Rayon"
+  },
+  {
+    "code": "RU.55.583904",
+    "name": "Akbulaksky District"
   },
   {
     "code": "RU.17.583977",
@@ -139176,12 +140060,20 @@
     "name": "Achkhoy-Martanovskiy Rayon"
   },
   {
+    "code": "RU.71.584306",
+    "name": "Achitsky District"
+  },
+  {
     "code": "RU.08.584324",
     "name": "Abzelilovskiy Rayon"
   },
   {
     "code": "RU.38.584439",
     "name": "Abinskiy Rayon"
+  },
+  {
+    "code": "RU.55.584465",
+    "name": "Abdulinsky District"
   },
   {
     "code": "RU.01.824962",
@@ -139432,6 +140324,10 @@
     "name": "Nurlatskiy rayon"
   },
   {
+    "code": "RU.75.1484893",
+    "name": "Zyryansky District"
+  },
+  {
     "code": "RU.04.1484980",
     "name": "Zonal’nyy Rayon"
   },
@@ -139458,6 +140354,10 @@
   {
     "code": "RU.04.1485525",
     "name": "Zalesovskiy Rayon"
+  },
+  {
+    "code": "RU.78.1485713",
+    "name": "Yurginsky District"
   },
   {
     "code": "RU.29.1485714",
@@ -139500,12 +140400,28 @@
     "name": "Yashkinskiy Rayon"
   },
   {
+    "code": "RU.78.1486366",
+    "name": "Yarkovsky District"
+  },
+  {
     "code": "RU.87.1486461",
     "name": "Yamal’skiy Rayon"
   },
   {
+    "code": "RU.78.1486467",
+    "name": "Yalutorovsky District"
+  },
+  {
     "code": "RU.04.1486980",
     "name": "Volchikhinskiy Rayon"
+  },
+  {
+    "code": "RU.78.1487110",
+    "name": "Vikulovsky District"
+  },
+  {
+    "code": "RU.71.1487220",
+    "name": "Verkhotursky District"
   },
   {
     "code": "RU.75.1487567",
@@ -139544,6 +140460,10 @@
     "name": "Uvel’skiy Rayon"
   },
   {
+    "code": "RU.78.1487938",
+    "name": "Uvatsky District"
+  },
+  {
     "code": "RU.53.1488072",
     "name": "Ust’-Tarkskiy Rayon"
   },
@@ -139562,6 +140482,10 @@
   {
     "code": "RU.04.1488199",
     "name": "Ust’-Kalmanskiy Rayon"
+  },
+  {
+    "code": "RU.54.1488205",
+    "name": "Ust-Ishimsky District"
   },
   {
     "code": "RU.31.1488271",
@@ -139588,6 +140512,10 @@
     "name": "Tyumentsevskiy Rayon"
   },
   {
+    "code": "RU.78.1488743",
+    "name": "Tyumensky District"
+  },
+  {
     "code": "RU.91.1488770",
     "name": "Tyukhtetskiy Rayon"
   },
@@ -139606,6 +140534,14 @@
   {
     "code": "RU.03.1488919",
     "name": "Turochakskiy Rayon"
+  },
+  {
+    "code": "RU.71.1488929",
+    "name": "Turinsky District"
+  },
+  {
+    "code": "RU.71.1489055",
+    "name": "Tugulymsky District"
   },
   {
     "code": "RU.40.1489127",
@@ -139646,6 +140582,10 @@
   {
     "code": "RU.53.1489505",
     "name": "Toguchinskiy Rayon"
+  },
+  {
+    "code": "RU.78.1489528",
+    "name": "Tobolsky District"
   },
   {
     "code": "RU.29.1489552",
@@ -139700,16 +140640,32 @@
     "name": "Tal’menskiy Rayon"
   },
   {
+    "code": "RU.71.1490273",
+    "name": "Talitsky District"
+  },
+  {
     "code": "RU.04.1490357",
     "name": "Tabunskiy Rayon"
+  },
+  {
+    "code": "RU.71.1490366",
+    "name": "Taborinsky District"
   },
   {
     "code": "RU.71.1490399",
     "name": "Sysertskiy Rayon"
   },
   {
+    "code": "RU.55.1490518",
+    "name": "Svetlinsky District"
+  },
+  {
     "code": "RU.53.1490549",
     "name": "Suzunskiy Rayon"
+  },
+  {
+    "code": "RU.32.1490620",
+    "name": "Surgutsky District"
   },
   {
     "code": "RU.71.1490708",
@@ -139720,12 +140676,20 @@
     "name": "Sukhobuzimskiy Rayon"
   },
   {
+    "code": "RU.32.1491226",
+    "name": "Sovetsky District"
+  },
+  {
     "code": "RU.04.1491227",
     "name": "Sovetskiy Rayon"
   },
   {
     "code": "RU.13.1491282",
     "name": "Sosnovskiy Rayon"
+  },
+  {
+    "code": "RU.78.1491371",
+    "name": "Sorokinsky District"
   },
   {
     "code": "RU.04.1491425",
@@ -139738,6 +140702,10 @@
   {
     "code": "RU.04.1491634",
     "name": "Smolenskiy Rayon"
+  },
+  {
+    "code": "RU.71.1491678",
+    "name": "Slobodo-Turinsky District"
   },
   {
     "code": "RU.04.1491705",
@@ -139766,6 +140734,10 @@
   {
     "code": "RU.04.1492151",
     "name": "Shipunovskiy Rayon"
+  },
+  {
+    "code": "RU.75.1492290",
+    "name": "Shegarsky District"
   },
   {
     "code": "RU.03.1492297",
@@ -139816,6 +140788,10 @@
     "name": "Rybinskiy Rayon"
   },
   {
+    "code": "RU.54.1493414",
+    "name": "Russko-Polyansky District"
+  },
+  {
     "code": "RU.04.1493465",
     "name": "Rubtsovskiy Rayon"
   },
@@ -139830,6 +140806,10 @@
   {
     "code": "RU.04.1493721",
     "name": "Rebrikhinskiy Rayon"
+  },
+  {
+    "code": "RU.71.1493867",
+    "name": "Pyshminsky District"
   },
   {
     "code": "RU.87.1493994",
@@ -139856,6 +140836,10 @@
     "name": "Pospelikhinskiy Rayon"
   },
   {
+    "code": "RU.54.1494494",
+    "name": "Poltavsky District"
+  },
+  {
     "code": "RU.40.1494512",
     "name": "Polovinskiy Rayon"
   },
@@ -139878,6 +140862,10 @@
   {
     "code": "RU.04.1495439",
     "name": "Pavlovskiy Rayon"
+  },
+  {
+    "code": "RU.54.1495477",
+    "name": "Pavlogradsky District"
   },
   {
     "code": "RU.91.1495539",
@@ -139916,12 +140904,24 @@
     "name": "Okoneshnikovskiy Rayon"
   },
   {
+    "code": "RU.54.1496381",
+    "name": "Odessky District"
+  },
+  {
+    "code": "RU.54.1496632",
+    "name": "Novovarshavsky District"
+  },
+  {
     "code": "RU.53.1496742",
     "name": "Novosibirskiy Rayon"
   },
   {
     "code": "RU.91.1496769",
     "name": "Novosëlovskiy Rayon"
+  },
+  {
+    "code": "RU.71.1496971",
+    "name": "Novolyalinsky District"
   },
   {
     "code": "RU.29.1496989",
@@ -139932,8 +140932,16 @@
     "name": "Novichikhinskiy Rayon"
   },
   {
+    "code": "RU.32.1497542",
+    "name": "Nizhnevartovsky District"
+  },
+  {
     "code": "RU.20.1497548",
     "name": "Nizhneudinskiy Rayon"
+  },
+  {
+    "code": "RU.78.1497551",
+    "name": "Nizhnetavdinsky District"
   },
   {
     "code": "RU.54.1497563",
@@ -139942,6 +140950,14 @@
   {
     "code": "RU.91.1497575",
     "name": "Nizhneingashskiy Rayon"
+  },
+  {
+    "code": "RU.71.1497793",
+    "name": "Nevyansky District"
+  },
+  {
+    "code": "RU.54.1497930",
+    "name": "Nazyvayevsky District"
   },
   {
     "code": "RU.91.1497938",
@@ -140076,6 +141092,10 @@
     "name": "Krutikhinskiy Rayon"
   },
   {
+    "code": "RU.75.1501794",
+    "name": "Krivosheinsky District"
+  },
+  {
     "code": "RU.53.1501989",
     "name": "Krasnozerskiy Rayon"
   },
@@ -140108,6 +141128,10 @@
     "name": "Kozul’skiy Rayon"
   },
   {
+    "code": "RU.75.1502255",
+    "name": "Kozhevnikovsky District"
+  },
+  {
     "code": "RU.04.1502386",
     "name": "Kosikhinskiy Rayon"
   },
@@ -140120,8 +141144,16 @@
     "name": "Kormilovskiy Rayon"
   },
   {
+    "code": "RU.32.1502699",
+    "name": "Kondinsky District"
+  },
+  {
     "code": "RU.53.1502815",
     "name": "Kolyvanskiy Rayon"
+  },
+  {
+    "code": "RU.75.1502861",
+    "name": "Kolpashevsky District"
   },
   {
     "code": "RU.54.1502877",
@@ -140424,6 +141456,10 @@
     "name": "Asinovkiy Rayon"
   },
   {
+    "code": "RU.78.1511380",
+    "name": "Aromashevsky District"
+  },
+  {
     "code": "RU.78.1511383",
     "name": "Armizonskiy Rayon"
   },
@@ -140450,6 +141486,10 @@
   {
     "code": "RU.91.1512163",
     "name": "Achinskiy Rayon"
+  },
+  {
+    "code": "RU.78.1512209",
+    "name": "Abatsky District"
   },
   {
     "code": "RU.91.1512216",
@@ -140736,8 +141776,16 @@
     "name": "Priargunskiy Rayon"
   },
   {
+    "code": "RU.59.2017697",
+    "name": "Pozharsky District"
+  },
+  {
     "code": "RU.93.2017944",
     "name": "Petrovsk-Zabaykal’skiy Rayon"
+  },
+  {
+    "code": "RU.59.2018110",
+    "name": "Partizansky District"
   },
   {
     "code": "RU.20.2018281",
@@ -140754,6 +141802,10 @@
   {
     "code": "RU.20.2018527",
     "name": "Ol’khonskiy Rayon"
+  },
+  {
+    "code": "RU.59.2018541",
+    "name": "Olginsky District"
   },
   {
     "code": "RU.63.2018564",
@@ -141448,10 +142500,6 @@
     "name": "Krasnosulinskiy Rayon"
   },
   {
-    "code": "RU.61.11805539",
-    "name": "Rayon Aksayskiy"
-  },
-  {
     "code": "RU.51.12041465",
     "name": "Arzamas Urban Okrug"
   },
@@ -141638,10 +142686,6 @@
   {
     "code": "RU.17.12540214",
     "name": "Gorodskoy Okrug Khasavyurt"
-  },
-  {
-    "code": "RU.17.12540215",
-    "name": "Gorodskoy Okrug Yuzhno-Sukhokumsk"
   },
   {
     "code": "RU.17.12540216",
@@ -143320,10 +144364,6 @@
     "name": "Tolyatti"
   },
   {
-    "code": "RU.65.12625998",
-    "name": "Syzran"
-  },
-  {
     "code": "RU.65.12625999",
     "name": "Khvorostyansky District"
   },
@@ -143530,10 +144570,6 @@
   {
     "code": "RU.12.12639976",
     "name": "Sharoysky District"
-  },
-  {
-    "code": "RU.17.12639977",
-    "name": "Yuzhno-Sukhok Uban District"
   },
   {
     "code": "RU.20.12639978",
@@ -144130,6 +145166,42 @@
   {
     "code": "RU.33.12693600",
     "name": "Gorodskoy Okrug ZATO Pervomayskiy"
+  },
+  {
+    "code": "RU.49.12723205",
+    "name": "ZATO Aleksandrovsk"
+  },
+  {
+    "code": "RU.49.12723206",
+    "name": "Gorodskoy Okrug Murmansk"
+  },
+  {
+    "code": "RU.80.12723605",
+    "name": "Gorodskoy Okrug Votkins"
+  },
+  {
+    "code": "RU.80.12723607",
+    "name": "Gorodskoy Okrug Sarapul"
+  },
+  {
+    "code": "RU.06.12738770",
+    "name": "Onezhskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.06.12738772",
+    "name": "Gorodskoy Okrug Severodvinsk"
+  },
+  {
+    "code": "RU.06.12738773",
+    "name": "Solovetskiy Rayon"
+  },
+  {
+    "code": "RU.06.12738774",
+    "name": "Gorodskoy Okrug Arkhangel'sk"
+  },
+  {
+    "code": "RU.50.12738775",
+    "name": "Novaya Zemlya Rayon"
   },
   {
     "code": "RW.11.52",
@@ -177205,7 +178277,7 @@
   },
   {
     "code": "VN.21.900",
-    "name": "Thị Xã Hà Tiên"
+    "name": "Thành Phố Hà Tiên"
   },
   {
     "code": "VN.21.912",
@@ -177213,7 +178285,7 @@
   },
   {
     "code": "VN.21.911",
-    "name": "Huyện Phú Quốc"
+    "name": "Thành Phố Phú Quốc"
   },
   {
     "code": "VN.60.582",
@@ -179501,7 +180573,7 @@
   },
   {
     "code": "VN.93.931",
-    "name": "Thị Xã Ngã Bảy"
+    "name": "Thành Phố Ngã Bảy"
   },
   {
     "code": "VN.93.930",
@@ -179825,7 +180897,7 @@
   },
   {
     "code": "XK.10097358.30",
-    "name": "Opština Zvečan"
+    "name": "Komuna e Zveçanit"
   },
   {
     "code": "XK.10097360.31",
