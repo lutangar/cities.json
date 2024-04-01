@@ -145200,7 +145200,7 @@
     "name": "Gorodskoy Okrug Arkhangel'sk"
   },
   {
-    "code": "RU.50.12738775",
+    "code": "RU.06.12738775",
     "name": "Novaya Zemlya Rayon"
   },
   {
@@ -147858,6 +147858,38 @@
   {
     "code": "SE.26.0140",
     "name": "Nykvarns Kommun"
+  },
+  {
+    "code": "SH.02.12746827",
+    "name": "Alarm Forest"
+  },
+  {
+    "code": "SH.02.12746828",
+    "name": "Blue Hill"
+  },
+  {
+    "code": "SH.02.12746829",
+    "name": "Half Tree Hollow"
+  },
+  {
+    "code": "SH.02.12746830",
+    "name": "Jamestown"
+  },
+  {
+    "code": "SH.02.12746831",
+    "name": "Levelwood"
+  },
+  {
+    "code": "SH.02.12746832",
+    "name": "Longwood"
+  },
+  {
+    "code": "SH.02.12746833",
+    "name": "Sandy Bay"
+  },
+  {
+    "code": "SH.02.12746834",
+    "name": "Saint Paul's"
   },
   {
     "code": "SI.09.3196350",
