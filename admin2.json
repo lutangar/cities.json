@@ -40844,7 +40844,7 @@
     "name": "Tshela"
   },
   {
-    "code": "CF.04.2387494",
+    "code": "CF.19.2387494",
     "name": "Carnot"
   },
   {
@@ -40968,7 +40968,7 @@
     "name": "Gamboula"
   },
   {
-    "code": "CF.04.7732917",
+    "code": "CF.19.7732917",
     "name": "Gadzi"
   },
   {
@@ -41036,7 +41036,7 @@
     "name": "Bakala"
   },
   {
-    "code": "CF.12.9143472",
+    "code": "CF.20.9143472",
     "name": "Batangafo"
   },
   {
@@ -41048,15 +41048,15 @@
     "name": "Yalinga"
   },
   {
-    "code": "CF.04.9143476",
+    "code": "CF.19.9143476",
     "name": "Amada-Gaza"
   },
   {
-    "code": "CF.12.9143477",
+    "code": "CF.20.9143477",
     "name": "Bouca"
   },
   {
-    "code": "CF.12.9143478",
+    "code": "CF.20.9143478",
     "name": "Kabo"
   },
   {
@@ -41116,11 +41116,11 @@
     "name": "Koui"
   },
   {
-    "code": "CF.13.9143493",
+    "code": "CF.21.9143493",
     "name": "Ngaoundaye"
   },
   {
-    "code": "CF.13.9143494",
+    "code": "CF.21.9143494",
     "name": "Paoua"
   },
   {
@@ -56236,7 +56236,7 @@
     "name": "Melilla"
   },
   {
-    "code": "ET.54.326423",
+    "code": "ET.56.326423",
     "name": "Wolayita Zone"
   },
   {
@@ -56244,15 +56244,15 @@
     "name": "Metekel Āwraja"
   },
   {
-    "code": "ET.54.331677",
+    "code": "ET.SW.331677",
     "name": "Bench Maji Zone"
   },
   {
-    "code": "ET.54.333384",
+    "code": "ET.55.333384",
     "name": "Hadiya Zone"
   },
   {
-    "code": "ET.54.333465",
+    "code": "ET.SW.333465",
     "name": "Kaffa Zone"
   },
   {
@@ -56260,11 +56260,11 @@
     "name": "Jimma Zone"
   },
   {
-    "code": "ET.52.338829",
+    "code": "ET.48.338829",
     "name": "Dire Dawa Zone"
   },
   {
-    "code": "ET.54.341021",
+    "code": "ET.55.341021",
     "name": "Guraghe Zone"
   },
   {
@@ -56288,15 +56288,15 @@
     "name": "Southern Tigray Zone"
   },
   {
-    "code": "ET.54.7667869",
+    "code": "ET.55.7667869",
     "name": "Alaba Special Wereda"
   },
   {
-    "code": "ET.54.7667870",
+    "code": "ET.55.7667870",
     "name": "Kembata Alaba Tembaro Zone"
   },
   {
-    "code": "ET.54.7670680",
+    "code": "ET.55.7670680",
     "name": "Yem"
   },
   {
@@ -56336,19 +56336,19 @@
     "name": "North Gondar Zone"
   },
   {
-    "code": "ET.54.7670728",
+    "code": "ET.55.7670728",
     "name": "Siltie Zone"
   },
   {
-    "code": "ET.54.7670729",
+    "code": "ET.SW.7670729",
     "name": "Dawuro"
   },
   {
-    "code": "ET.54.7670732",
+    "code": "ET.56.7670732",
     "name": "Gedeo Zone"
   },
   {
-    "code": "ET.54.7729829",
+    "code": "ET.56.7729829",
     "name": "South Omo"
   },
   {
@@ -56444,12 +56444,8 @@
     "name": "Addis Ababa Zone 5"
   },
   {
-    "code": "ET.54.8260659",
+    "code": "ET.SW.8260659",
     "name": "Keficho Shekicho Zone"
-  },
-  {
-    "code": "ET.54.8299784",
-    "name": "Sidama Zone"
   },
   {
     "code": "ET.51.8299785",
@@ -56488,7 +56484,7 @@
     "name": "Mi'irabawi Zone"
   },
   {
-    "code": "ET.54.9159975",
+    "code": "ET.56.9159975",
     "name": "Gamo Gofa Zone"
   },
   {
@@ -56500,23 +56496,23 @@
     "name": "Afder Zone"
   },
   {
-    "code": "ET.54.9410112",
+    "code": "ET.56.9410112",
     "name": "Basketo Special Woreda"
   },
   {
-    "code": "ET.54.9410266",
+    "code": "ET.56.9410266",
     "name": "Amaro Special Woreda"
   },
   {
-    "code": "ET.54.9410393",
+    "code": "ET.56.9410393",
     "name": "Dirashe Special Woreda"
   },
   {
-    "code": "ET.54.9410442",
+    "code": "ET.56.9410442",
     "name": "Konso Special Woreda"
   },
   {
-    "code": "ET.54.9410501",
+    "code": "ET.56.9410501",
     "name": "Burji Special Woreda"
   },
   {
@@ -56528,7 +56524,11 @@
     "name": "Dollo"
   },
   {
-    "code": "ET.54.10377041",
+    "code": "ET.SI.10376725",
+    "name": "Awasa Zuria"
+  },
+  {
+    "code": "ET.56.10377041",
     "name": "South Omo Zone"
   },
   {
@@ -56552,26 +56552,6 @@
     "name": "Western"
   },
   {
-    "code": "ET.46.11750807",
-    "name": "North Gonder"
-  },
-  {
-    "code": "ET.46.11750808",
-    "name": "Wag Himra"
-  },
-  {
-    "code": "ET.46.11750809",
-    "name": "West Gojam"
-  },
-  {
-    "code": "ET.46.11750810",
-    "name": "East Gojam"
-  },
-  {
-    "code": "ET.46.11750811",
-    "name": "South Gonder"
-  },
-  {
     "code": "ET.46.11750812",
     "name": "Oromiya"
   },
@@ -56592,27 +56572,23 @@
     "name": "Majang Zone"
   },
   {
-    "code": "ET.54.11750820",
+    "code": "ET.SW.11750820",
     "name": "Sheka Zone"
   },
   {
-    "code": "ET.54.11750821",
+    "code": "ET.SW.11750821",
     "name": "Konta"
   },
   {
-    "code": "ET.54.11750822",
+    "code": "ET.SW.11750822",
     "name": "Dawro"
   },
   {
-    "code": "ET.54.11750824",
+    "code": "ET.56.11750824",
     "name": "Segen Peoples"
   },
   {
-    "code": "ET.54.11750825",
-    "name": "Gedio"
-  },
-  {
-    "code": "ET.54.11750826",
+    "code": "ET.55.11750826",
     "name": "Selti"
   },
   {
@@ -56628,14 +56604,6 @@
     "name": "Horo Guduru"
   },
   {
-    "code": "ET.51.11750830",
-    "name": "West Harerge"
-  },
-  {
-    "code": "ET.51.11750831",
-    "name": "East Harerge"
-  },
-  {
     "code": "ET.52.11750832",
     "name": "Siti"
   },
@@ -56644,20 +56612,12 @@
     "name": "Nogob"
   },
   {
-    "code": "ET.52.11750834",
-    "name": "Doolo"
-  },
-  {
     "code": "ET.52.11750835",
     "name": "Korahe"
   },
   {
     "code": "ET.52.11750836",
     "name": "Shabelle"
-  },
-  {
-    "code": "ET.51.11750837",
-    "name": "Southwest Shuwa"
   },
   {
     "code": "ET.50.11750838",
@@ -84373,7 +84333,7 @@
   },
   {
     "code": "KP.15.1865786",
-    "name": "Kangsŏ-guyŏk"
+    "name": "Kangsŏ"
   },
   {
     "code": "KP.07.1865966",
@@ -84385,11 +84345,11 @@
   },
   {
     "code": "KP.15.1866047",
-    "name": "Nyŏngwŏn-gun"
+    "name": "Yŏngwŏn-gun"
   },
   {
     "code": "KP.12.1866090",
-    "name": "Ryongsŏng-guyŏk"
+    "name": "Yongsŏng-guyŏk"
   },
   {
     "code": "KP.15.1866367",
@@ -84397,7 +84357,7 @@
   },
   {
     "code": "KP.11.1866454",
-    "name": "Nyŏngbyŏn-gun"
+    "name": "Yŏngbyŏn-gun"
   },
   {
     "code": "KP.06.1866571",
@@ -84409,7 +84369,7 @@
   },
   {
     "code": "KP.12.1866614",
-    "name": "Ryŏkp’o-guyŏk"
+    "name": "Yŏkp’o-guyŏk"
   },
   {
     "code": "KP.03.1866638",
@@ -84441,7 +84401,7 @@
   },
   {
     "code": "KP.07.1867627",
-    "name": "T'osan'-gun"
+    "name": "T’osan-gun"
   },
   {
     "code": "KP.11.1867778",
@@ -84476,7 +84436,7 @@
     "name": "T’aech’ŏn-gun"
   },
   {
-    "code": "KP.12.1868997",
+    "code": "KP.07.1868997",
     "name": "Sŭngho-gun"
   },
   {
@@ -84552,7 +84512,7 @@
     "name": "Sariwŏn-si"
   },
   {
-    "code": "KP.12.1870984",
+    "code": "KP.07.1870984",
     "name": "Sangwŏn-gun"
   },
   {
@@ -84565,7 +84525,7 @@
   },
   {
     "code": "KP.12.1871810",
-    "name": "Sadong-guyŏk"
+    "name": "Sadong"
   },
   {
     "code": "KP.15.1871865",
@@ -84625,7 +84585,7 @@
   },
   {
     "code": "KP.11.1872819",
-    "name": "Pakch’ŏn-gun"
+    "name": "Pakch’ŏn"
   },
   {
     "code": "KP.06.1873016",
@@ -84728,7 +84688,7 @@
     "name": "Kangdong-gun"
   },
   {
-    "code": "KP.06.1876370",
+    "code": "KP.19.1876370",
     "name": "Kaesŏng-si"
   },
   {
@@ -84788,12 +84748,12 @@
     "name": "Chung"
   },
   {
-    "code": "KP.12.1877875",
+    "code": "KP.07.1877875",
     "name": "Chunghwa-gun"
   },
   {
     "code": "KP.09.1878166",
-    "name": "Ch’ŏrwŏn'-gun"
+    "name": "Ch’ŏrwŏn-gun"
   },
   {
     "code": "KP.09.1878230",
@@ -84809,7 +84769,7 @@
   },
   {
     "code": "KP.11.1878391",
-    "name": "Chŏngju-gun"
+    "name": "Chŏngju"
   },
   {
     "code": "KP.06.1878459",
@@ -84824,7 +84784,7 @@
     "name": "Changyŏn-gun"
   },
   {
-    "code": "KP.06.1879105",
+    "code": "KP.19.1879105",
     "name": "Changp’ung-gun"
   },
   {
@@ -84848,12 +84808,12 @@
     "name": "Anak-kun"
   },
   {
-    "code": "KP.15.1883585",
-    "name": "Hanggu-guyŏk"
+    "code": "KP.14.1883585",
+    "name": "Hanggu"
   },
   {
-    "code": "KP.15.1883586",
-    "name": "Waudo-guyŏk"
+    "code": "KP.14.1883586",
+    "name": "Waudo"
   },
   {
     "code": "KP.17.2038910",
@@ -84905,7 +84865,7 @@
   },
   {
     "code": "KP.03.2040063",
-    "name": "Tanch’ŏn-gun"
+    "name": "Tanch’ŏn"
   },
   {
     "code": "KP.15.2040178",
@@ -85009,11 +84969,11 @@
   },
   {
     "code": "KP.18.2042641",
-    "name": "Rajin"
+    "name": "Najin"
   },
   {
     "code": "KP.17.2042710",
-    "name": "Hwasŏng-gun"
+    "name": "Myŏnggan-gun"
   },
   {
     "code": "KP.17.2042719",
@@ -85154,6 +85114,18 @@
   {
     "code": "KP.12.11791938",
     "name": "Ŭnjŏng-guyŏk"
+  },
+  {
+    "code": "KP.03.12902802",
+    "name": "Kumho"
+  },
+  {
+    "code": "KP.15.12902804",
+    "name": "Tukjang"
+  },
+  {
+    "code": "KP.14.12902805",
+    "name": "Nampo City"
   },
   {
     "code": "KR.06.32330",
@@ -114576,6 +114548,10 @@
     "name": "Gemeente Hollands Kroon"
   },
   {
+    "code": "NL.11.1924",
+    "name": "Gemeente Goeree-Overflakkee"
+  },
+  {
     "code": "NL.02.1940",
     "name": "De Fryske Marren"
   },
@@ -118004,195 +117980,195 @@
     "name": "Putumayo"
   },
   {
-    "code": "PF.01.4033777",
+    "code": "PF.01.98738",
     "name": "Punaauia"
   },
   {
-    "code": "PF.01.4034400",
+    "code": "PF.01.98722",
     "name": "Hitiaa O Te Ra"
   },
   {
-    "code": "PF.04.10295149",
+    "code": "PF.04.98718",
     "name": "Fatu-Hiva"
   },
   {
-    "code": "PF.04.10295183",
+    "code": "PF.04.98723",
     "name": "Hiva-Oa"
   },
   {
-    "code": "PF.04.10295204",
+    "code": "PF.04.98731",
     "name": "Nuku-Hiva"
   },
   {
-    "code": "PF.04.10295205",
+    "code": "PF.04.98746",
     "name": "Tahuata"
   },
   {
-    "code": "PF.04.10295206",
+    "code": "PF.04.98756",
     "name": "Ua Huka"
   },
   {
-    "code": "PF.04.10295207",
+    "code": "PF.04.98757",
     "name": "Ua-Pou"
   },
   {
-    "code": "PF.01.10295208",
+    "code": "PF.01.98712",
     "name": "Arue"
   },
   {
-    "code": "PF.01.10295209",
+    "code": "PF.01.98715",
     "name": "Faaa"
   },
   {
-    "code": "PF.01.10295210",
+    "code": "PF.01.98725",
     "name": "Mahina"
   },
   {
-    "code": "PF.01.10295211",
+    "code": "PF.01.98733",
     "name": "Paea"
   },
   {
-    "code": "PF.01.10295212",
+    "code": "PF.01.98734",
     "name": "Papara"
   },
   {
-    "code": "PF.01.10295213",
+    "code": "PF.01.98735",
     "name": "Papeete"
   },
   {
-    "code": "PF.01.10295214",
+    "code": "PF.01.98736",
     "name": "Pirae"
   },
   {
-    "code": "PF.03.10295215",
+    "code": "PF.03.98711",
     "name": "Anaa"
   },
   {
-    "code": "PF.03.10295216",
+    "code": "PF.03.98713",
     "name": "Arutua"
   },
   {
-    "code": "PF.03.10295217",
+    "code": "PF.03.98716",
     "name": "Fakarava"
   },
   {
-    "code": "PF.03.10295218",
+    "code": "PF.03.98717",
     "name": "Fangatau"
   },
   {
-    "code": "PF.03.10295219",
+    "code": "PF.03.98719",
     "name": "Gambier"
   },
   {
-    "code": "PF.03.10295301",
+    "code": "PF.03.98721",
     "name": "Hikueru"
   },
   {
-    "code": "PF.03.10295307",
+    "code": "PF.03.98726",
     "name": "Makemo"
   },
   {
-    "code": "PF.03.10295319",
+    "code": "PF.03.98727",
     "name": "Manihi"
   },
   {
-    "code": "PF.03.10295320",
+    "code": "PF.03.98730",
     "name": "Napuka"
   },
   {
-    "code": "PF.03.10295321",
+    "code": "PF.03.98732",
     "name": "Nukutavake"
   },
   {
-    "code": "PF.03.10295322",
+    "code": "PF.03.98737",
     "name": "Pukapuka"
   },
   {
-    "code": "PF.03.10295326",
+    "code": "PF.03.98740",
     "name": "Rangiroa"
   },
   {
-    "code": "PF.03.10295340",
+    "code": "PF.03.98742",
     "name": "Reao"
   },
   {
-    "code": "PF.03.10295365",
+    "code": "PF.03.98749",
     "name": "Takaroa"
   },
   {
-    "code": "PF.03.10295367",
+    "code": "PF.03.98751",
     "name": "Tatakoto"
   },
   {
-    "code": "PF.03.10295368",
+    "code": "PF.03.98755",
     "name": "Tureia"
   },
   {
-    "code": "PF.05.10295370",
+    "code": "PF.05.98739",
     "name": "Raivavae"
   },
   {
-    "code": "PF.05.10295371",
+    "code": "PF.05.98741",
     "name": "Rapa"
   },
   {
-    "code": "PF.05.10295372",
+    "code": "PF.05.98743",
     "name": "Rimatara"
   },
   {
-    "code": "PF.05.10295374",
+    "code": "PF.05.98744",
     "name": "Rurutu"
   },
   {
-    "code": "PF.05.10295375",
+    "code": "PF.05.98753",
     "name": "Tubuai"
   },
   {
-    "code": "PF.02.10295377",
+    "code": "PF.02.98714",
     "name": "Bora-Bora"
   },
   {
-    "code": "PF.02.10295378",
+    "code": "PF.02.98724",
     "name": "Huahine"
   },
   {
-    "code": "PF.02.10295379",
+    "code": "PF.02.98728",
     "name": "Maupiti"
   },
   {
-    "code": "PF.02.10295380",
+    "code": "PF.02.98745",
     "name": "Tahaa"
   },
   {
-    "code": "PF.02.10295384",
+    "code": "PF.02.98758",
     "name": "Uturoa"
   },
   {
-    "code": "PF.03.10297421",
+    "code": "PF.03.98720",
     "name": "Hao"
   },
   {
-    "code": "PF.02.10297424",
+    "code": "PF.01.98729",
     "name": "Moorea-Maiao"
   },
   {
-    "code": "PF.01.10297425",
+    "code": "PF.01.98747",
     "name": "Taiarapu-Est"
   },
   {
-    "code": "PF.01.10297426",
+    "code": "PF.01.98748",
     "name": "Taiarapu-Ouest"
   },
   {
-    "code": "PF.02.10297427",
+    "code": "PF.02.98750",
     "name": "Taputapuatea"
   },
   {
-    "code": "PF.02.10297428",
+    "code": "PF.02.98754",
     "name": "Tumaraa"
   },
   {
-    "code": "PF.01.10297429",
+    "code": "PF.01.98752",
     "name": "Teva I Uta"
   },
   {
@@ -184997,7 +184973,7 @@
   },
   {
     "code": "VN.91.660",
-    "name": "Thị Xã Gia Nghĩa"
+    "name": "Thành Phố Gia Nghĩa"
   },
   {
     "code": "VN.60.589",

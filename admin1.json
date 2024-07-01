@@ -2084,6 +2084,18 @@
     "name": "Bangui"
   },
   {
+    "code": "CF.19",
+    "name": "Mambéré"
+  },
+  {
+    "code": "CF.20",
+    "name": "Ouham-Fafa"
+  },
+  {
+    "code": "CF.21",
+    "name": "Lim-Pendé"
+  },
+  {
     "code": "CG.10",
     "name": "Sangha"
   },
@@ -3868,8 +3880,20 @@
     "name": "Tigray"
   },
   {
-    "code": "ET.54",
-    "name": "SNNPR"
+    "code": "ET.SI",
+    "name": "Sidama Region"
+  },
+  {
+    "code": "ET.55",
+    "name": "Central Ethiopia Regional State"
+  },
+  {
+    "code": "ET.56",
+    "name": "South Ethiopia Regional State"
+  },
+  {
+    "code": "ET.SW",
+    "name": "South West Ethiopia Peoples' Region"
   },
   {
     "code": "FI.19",
@@ -6005,7 +6029,7 @@
   },
   {
     "code": "JP.32",
-    "name": "Ōsaka"
+    "name": "Osaka"
   },
   {
     "code": "JP.47",
@@ -6561,15 +6585,15 @@
   },
   {
     "code": "KP.06",
-    "name": "Hwanghae-namdo"
+    "name": "South Hwanghae"
   },
   {
     "code": "KP.07",
-    "name": "Hwanghae-bukto"
+    "name": "North Hwanghae"
   },
   {
     "code": "KP.03",
-    "name": "Hamgyŏng-namdo"
+    "name": "South Hamgyong"
   },
   {
     "code": "KP.13",
@@ -6577,15 +6601,23 @@
   },
   {
     "code": "KP.17",
-    "name": "North Hamgyong Province"
+    "name": "North Hamgyong"
   },
   {
     "code": "KP.01",
-    "name": "Chagang-do"
+    "name": "Chagang"
   },
   {
     "code": "KP.18",
     "name": "Rason"
+  },
+  {
+    "code": "KP.14",
+    "name": "Nampo"
+  },
+  {
+    "code": "KP.19",
+    "name": "Kaesong"
   },
   {
     "code": "KR.21",
@@ -9661,11 +9693,11 @@
   },
   {
     "code": "NP.1",
-    "name": "Province 1"
+    "name": "Koshi"
   },
   {
     "code": "NP.2",
-    "name": "Province 2"
+    "name": "Madhesh"
   },
   {
     "code": "NP.3",
@@ -15069,7 +15101,7 @@
   },
   {
     "code": "VN.46",
-    "name": "ình Định Province"
+    "name": "Bình Định Province"
   },
   {
     "code": "VN.03",
