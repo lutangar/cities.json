@@ -72,8 +72,40 @@
     "name": "Al Batayih"
   },
   {
-    "code": "AE.03.201",
-    "name": "Dubai"
+    "code": "AE.03.600",
+    "name": "Sector 6"
+  },
+  {
+    "code": "AE.03.200",
+    "name": "Sector 2"
+  },
+  {
+    "code": "AE.03.800",
+    "name": "Sector 8"
+  },
+  {
+    "code": "AE.03.900",
+    "name": "Sector 9"
+  },
+  {
+    "code": "AE.03.100",
+    "name": "Sector 1"
+  },
+  {
+    "code": "AE.03.500",
+    "name": "Sector 5"
+  },
+  {
+    "code": "AE.03.400",
+    "name": "Sector 4"
+  },
+  {
+    "code": "AE.03.700",
+    "name": "Sector 7"
+  },
+  {
+    "code": "AE.03.300",
+    "name": "Sector 3"
   },
   {
     "code": "AF.01.1109",
@@ -59421,7 +59453,7 @@
   },
   {
     "code": "FR.24.41",
-    "name": "Loir-et-Cher"
+    "name": "Loire-et-Cher"
   },
   {
     "code": "FR.24.45",
@@ -143689,7 +143721,7 @@
   },
   {
     "code": "RU.45.517838",
-    "name": "Novotor”yal’skiy Rayon"
+    "name": "Novotoryal’skiy Rayon"
   },
   {
     "code": "RU.81.517903",
@@ -151524,6 +151556,30 @@
     "name": "Bereznikovskiy Gorodskoy Okrug"
   },
   {
+    "code": "RU.32.13043419",
+    "name": "Gorodskoy Okrug Surgut"
+  },
+  {
+    "code": "RU.32.13043420",
+    "name": "Gorodskoy Okrug Nefteyugansk"
+  },
+  {
+    "code": "RU.78.13043421",
+    "name": "Gorodskoy Okrug Gorod Tobol'sk"
+  },
+  {
+    "code": "RU.78.13043423",
+    "name": "Golyshmanovskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.78.13043424",
+    "name": "Zavodoukovskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.32.13043425",
+    "name": "Gorodskoy Okrug Nizhnevartovsk"
+  },
+  {
     "code": "RW.11.52",
     "name": "Nyagatare District"
   },
@@ -155568,1054 +155624,6 @@
     "name": "Pagué"
   },
   {
-    "code": "SV.06.0821",
-    "name": "Zacatecoluca"
-  },
-  {
-    "code": "SV.14.1123",
-    "name": "Usulután"
-  },
-  {
-    "code": "SV.10.0618",
-    "name": "Tonacatepeque"
-  },
-  {
-    "code": "SV.03.0433",
-    "name": "Tejutla"
-  },
-  {
-    "code": "SV.04.0715",
-    "name": "Suchitoto"
-  },
-  {
-    "code": "SV.13.0315",
-    "name": "Sonsonate"
-  },
-  {
-    "code": "SV.09.1219",
-    "name": "Sesori"
-  },
-  {
-    "code": "SV.02.0906",
-    "name": "Sensuntepeque"
-  },
-  {
-    "code": "SV.12.1010",
-    "name": "San Vicente"
-  },
-  {
-    "code": "SV.10.0616",
-    "name": "Santo Tomás"
-  },
-  {
-    "code": "SV.14.1121",
-    "name": "Santiago de María"
-  },
-  {
-    "code": "SV.07.1416",
-    "name": "Santa Rosa de Lima"
-  },
-  {
-    "code": "SV.11.0210",
-    "name": "Santa Ana"
-  },
-  {
-    "code": "SV.12.1009",
-    "name": "San Sebastián"
-  },
-  {
-    "code": "SV.10.0614",
-    "name": "San Salvador"
-  },
-  {
-    "code": "SV.06.0816",
-    "name": "San Pedro Nonualco"
-  },
-  {
-    "code": "SV.06.0815",
-    "name": "San Pedro Masahuat"
-  },
-  {
-    "code": "SV.09.1217",
-    "name": "San Miguel"
-  },
-  {
-    "code": "SV.05.0515",
-    "name": "San Juan Opico"
-  },
-  {
-    "code": "SV.04.0708",
-    "name": "San Cristóbal"
-  },
-  {
-    "code": "SV.09.1213",
-    "name": "San Antonio"
-  },
-  {
-    "code": "SV.05.0512",
-    "name": "Quezaltepeque"
-  },
-  {
-    "code": "SV.08.1315",
-    "name": "Osicala"
-  },
-  {
-    "code": "SV.06.0805",
-    "name": "Olocuilta"
-  },
-  {
-    "code": "SV.05.0511",
-    "name": "Santa Tecla"
-  },
-  {
-    "code": "SV.11.0207",
-    "name": "Metapán"
-  },
-  {
-    "code": "SV.11.0206",
-    "name": "Masahuat"
-  },
-  {
-    "code": "SV.07.1408",
-    "name": "La Unión"
-  },
-  {
-    "code": "SV.05.0509",
-    "name": "La Libertad"
-  },
-  {
-    "code": "SV.14.1109",
-    "name": "Jucuapa"
-  },
-  {
-    "code": "SV.13.0307",
-    "name": "Juayúa"
-  },
-  {
-    "code": "SV.08.1311",
-    "name": "Jocoaitique"
-  },
-  {
-    "code": "SV.13.0306",
-    "name": "Izalco"
-  },
-  {
-    "code": "SV.02.0903",
-    "name": "Ilobasco"
-  },
-  {
-    "code": "SV.03.0408",
-    "name": "Dulce Nombre de María"
-  },
-  {
-    "code": "SV.04.0702",
-    "name": "Cojutepeque"
-  },
-  {
-    "code": "SV.09.1205",
-    "name": "Chinameca"
-  },
-  {
-    "code": "SV.11.0203",
-    "name": "Chalchuapa"
-  },
-  {
-    "code": "SV.03.0407",
-    "name": "Chalatenango"
-  },
-  {
-    "code": "SV.14.1102",
-    "name": "Berlín"
-  },
-  {
-    "code": "SV.01.0103",
-    "name": "Atiquizaya"
-  },
-  {
-    "code": "SV.01.0101",
-    "name": "Ahuachapán"
-  },
-  {
-    "code": "SV.01.0109",
-    "name": "San Lorenzo"
-  },
-  {
-    "code": "SV.06.0822",
-    "name": "San Luis la Herradura"
-  },
-  {
-    "code": "SV.06.0813",
-    "name": "San Luis Talpa"
-  },
-  {
-    "code": "SV.08.1319",
-    "name": "San Francisco Gotera"
-  },
-  {
-    "code": "SV.12.1002",
-    "name": "Guadalupe"
-  },
-  {
-    "code": "SV.07.1402",
-    "name": "Bolivar"
-  },
-  {
-    "code": "SV.01.0108",
-    "name": "San Francisco Menéndez"
-  },
-  {
-    "code": "SV.01.0107",
-    "name": "Jujutla"
-  },
-  {
-    "code": "SV.01.0106",
-    "name": "Guaymango"
-  },
-  {
-    "code": "SV.01.0104",
-    "name": "Concepción de Ataco"
-  },
-  {
-    "code": "SV.01.0102",
-    "name": "Apaneca"
-  },
-  {
-    "code": "SV.01.0110",
-    "name": "San Pedro Puxtla"
-  },
-  {
-    "code": "SV.01.0111",
-    "name": "Tacuba"
-  },
-  {
-    "code": "SV.01.0112",
-    "name": "Turín"
-  },
-  {
-    "code": "SV.01.0105",
-    "name": "El Refugio"
-  },
-  {
-    "code": "SV.02.0908",
-    "name": "Victoria"
-  },
-  {
-    "code": "SV.02.0909",
-    "name": "Dolores"
-  },
-  {
-    "code": "SV.02.0902",
-    "name": "Guacotecti"
-  },
-  {
-    "code": "SV.02.0905",
-    "name": "San Isidro"
-  },
-  {
-    "code": "SV.02.0904",
-    "name": "Jutiapa"
-  },
-  {
-    "code": "SV.02.0907",
-    "name": "Tejutepeque"
-  },
-  {
-    "code": "SV.02.0901",
-    "name": "Cinquera"
-  },
-  {
-    "code": "SV.03.0416",
-    "name": "Nueva Concepción"
-  },
-  {
-    "code": "SV.03.0401",
-    "name": "Agua Caliente"
-  },
-  {
-    "code": "SV.03.0413",
-    "name": "La Reina"
-  },
-  {
-    "code": "SV.03.0410",
-    "name": "El Paraíso"
-  },
-  {
-    "code": "SV.03.0431",
-    "name": "San Rafael"
-  },
-  {
-    "code": "SV.03.0432",
-    "name": "Santa Rita"
-  },
-  {
-    "code": "SV.03.0424",
-    "name": "San Francisco Morazán"
-  },
-  {
-    "code": "SV.03.0412",
-    "name": "La Palma"
-  },
-  {
-    "code": "SV.03.0422",
-    "name": "San Fernando"
-  },
-  {
-    "code": "SV.03.0425",
-    "name": "San Ignacio"
-  },
-  {
-    "code": "SV.03.0404",
-    "name": "Citalá"
-  },
-  {
-    "code": "SV.03.0405",
-    "name": "Comalapa"
-  },
-  {
-    "code": "SV.03.0411",
-    "name": "La Laguna"
-  },
-  {
-    "code": "SV.03.0418",
-    "name": "Ojos de Agua"
-  },
-  {
-    "code": "SV.03.0409",
-    "name": "El Carrizal"
-  },
-  {
-    "code": "SV.03.0414",
-    "name": "Las Vueltas"
-  },
-  {
-    "code": "SV.03.0406",
-    "name": "Concepción Quezaltepeque"
-  },
-  {
-    "code": "SV.03.0421",
-    "name": "San Antonio los Ranchos"
-  },
-  {
-    "code": "SV.03.0430",
-    "name": "San Miguel de Mercedes"
-  },
-  {
-    "code": "SV.03.0419",
-    "name": "Potonico"
-  },
-  {
-    "code": "SV.03.0427",
-    "name": "Cancasque"
-  },
-  {
-    "code": "SV.03.0426",
-    "name": "San Isidro Labrador"
-  },
-  {
-    "code": "SV.03.0428",
-    "name": "Las Flores"
-  },
-  {
-    "code": "SV.03.0420",
-    "name": "San Antonio de la Cruz"
-  },
-  {
-    "code": "SV.03.0417",
-    "name": "Nueva Trinidad"
-  },
-  {
-    "code": "SV.03.0402",
-    "name": "Arcatao"
-  },
-  {
-    "code": "SV.03.0415",
-    "name": "Nombre de Jesús"
-  },
-  {
-    "code": "SV.03.0429",
-    "name": "San Luis del Carmen"
-  },
-  {
-    "code": "SV.03.0423",
-    "name": "San Francisco Lempa"
-  },
-  {
-    "code": "SV.03.0403",
-    "name": "Azacualpa"
-  },
-  {
-    "code": "SV.04.0713",
-    "name": "Santa Cruz Analquito"
-  },
-  {
-    "code": "SV.04.0712",
-    "name": "San Ramón"
-  },
-  {
-    "code": "SV.04.0701",
-    "name": "Candelaria"
-  },
-  {
-    "code": "SV.04.0703",
-    "name": "El Carmen"
-  },
-  {
-    "code": "SV.04.0711",
-    "name": "San Rafael Cedros"
-  },
-  {
-    "code": "SV.04.0704",
-    "name": "El Rosario"
-  },
-  {
-    "code": "SV.04.0705",
-    "name": "Monte San Juan"
-  },
-  {
-    "code": "SV.04.0714",
-    "name": "Santa Cruz Michapa"
-  },
-  {
-    "code": "SV.04.0710",
-    "name": "San Pedro Perulapán"
-  },
-  {
-    "code": "SV.04.0707",
-    "name": "San Bartolomé Perulapía"
-  },
-  {
-    "code": "SV.04.0716",
-    "name": "Tenancingo"
-  },
-  {
-    "code": "SV.04.0706",
-    "name": "Oratorio de Concepción"
-  },
-  {
-    "code": "SV.04.0709",
-    "name": "San José Guayabal"
-  },
-  {
-    "code": "SV.05.0502",
-    "name": "Ciudad Arce"
-  },
-  {
-    "code": "SV.05.0516",
-    "name": "San Matías"
-  },
-  {
-    "code": "SV.05.0517",
-    "name": "San Pablo Tacachico"
-  },
-  {
-    "code": "SV.05.0503",
-    "name": "Colón"
-  },
-  {
-    "code": "SV.05.0513",
-    "name": "Sacacoyo"
-  },
-  {
-    "code": "SV.05.0521",
-    "name": "Tepecoyo"
-  },
-  {
-    "code": "SV.05.0519",
-    "name": "Talnique"
-  },
-  {
-    "code": "SV.05.0507",
-    "name": "Jayaque"
-  },
-  {
-    "code": "SV.05.0504",
-    "name": "Comasagua"
-  },
-  {
-    "code": "SV.05.0522",
-    "name": "Zaragoza"
-  },
-  {
-    "code": "SV.05.0514",
-    "name": "San José Villanueva"
-  },
-  {
-    "code": "SV.05.0518",
-    "name": "Tamanique"
-  },
-  {
-    "code": "SV.05.0505",
-    "name": "Chiltiupán"
-  },
-  {
-    "code": "SV.05.0508",
-    "name": "Jicalapa"
-  },
-  {
-    "code": "SV.05.0520",
-    "name": "Teotepeque"
-  },
-  {
-    "code": "SV.05.0506",
-    "name": "Huizúcar"
-  },
-  {
-    "code": "SV.05.0510",
-    "name": "Nuevo Cuscatlán"
-  },
-  {
-    "code": "SV.05.0501",
-    "name": "Antiguo Cuscatlán"
-  },
-  {
-    "code": "SV.06.0802",
-    "name": "El Rosario"
-  },
-  {
-    "code": "SV.06.0817",
-    "name": "San Rafael Obrajuelo"
-  },
-  {
-    "code": "SV.06.0819",
-    "name": "Santiago Nonualco"
-  },
-  {
-    "code": "SV.06.0810",
-    "name": "San Juan Nonualco"
-  },
-  {
-    "code": "SV.06.0818",
-    "name": "Santa María Ostuma"
-  },
-  {
-    "code": "SV.06.0804",
-    "name": "Mercedes la Ceiba"
-  },
-  {
-    "code": "SV.06.0803",
-    "name": "Jerusalén"
-  },
-  {
-    "code": "SV.06.0806",
-    "name": "Paraíso de Osorio"
-  },
-  {
-    "code": "SV.06.0808",
-    "name": "San Emigdio"
-  },
-  {
-    "code": "SV.06.0812",
-    "name": "San Juan Tepezontes"
-  },
-  {
-    "code": "SV.06.0814",
-    "name": "San Miguel Tepezontes"
-  },
-  {
-    "code": "SV.06.0807",
-    "name": "San Antonio Masahuat"
-  },
-  {
-    "code": "SV.06.0809",
-    "name": "San Francisco Chinameca"
-  },
-  {
-    "code": "SV.06.0820",
-    "name": "Tapalhuaca"
-  },
-  {
-    "code": "SV.06.0801",
-    "name": "Cuyultitán"
-  },
-  {
-    "code": "SV.06.0811",
-    "name": "San Juan Talpa"
-  },
-  {
-    "code": "SV.08.1306",
-    "name": "El Divisadero"
-  },
-  {
-    "code": "SV.08.1312",
-    "name": "Jocoro"
-  },
-  {
-    "code": "SV.08.1323",
-    "name": "Sociedad"
-  },
-  {
-    "code": "SV.08.1317",
-    "name": "San Carlos"
-  },
-  {
-    "code": "SV.08.1309",
-    "name": "Guatajiagua"
-  },
-  {
-    "code": "SV.08.1322",
-    "name": "Sensembra"
-  },
-  {
-    "code": "SV.08.1325",
-    "name": "Yamabal"
-  },
-  {
-    "code": "SV.08.1304",
-    "name": "Chilanga"
-  },
-  {
-    "code": "SV.08.1313",
-    "name": "Lolotiquillo"
-  },
-  {
-    "code": "SV.08.1326",
-    "name": "Yoloaiquín"
-  },
-  {
-    "code": "SV.08.1305",
-    "name": "Delicias de Concepción"
-  },
-  {
-    "code": "SV.08.1321",
-    "name": "San Simón"
-  },
-  {
-    "code": "SV.08.1308",
-    "name": "Gualococti"
-  },
-  {
-    "code": "SV.08.1307",
-    "name": "El Rosario"
-  },
-  {
-    "code": "SV.08.1320",
-    "name": "San Isidro"
-  },
-  {
-    "code": "SV.08.1314",
-    "name": "Meanguera"
-  },
-  {
-    "code": "SV.08.1310",
-    "name": "Joateca"
-  },
-  {
-    "code": "SV.08.1324",
-    "name": "Torola"
-  },
-  {
-    "code": "SV.08.1301",
-    "name": "Arambala"
-  },
-  {
-    "code": "SV.08.1316",
-    "name": "Perquín"
-  },
-  {
-    "code": "SV.08.1318",
-    "name": "San Fernando"
-  },
-  {
-    "code": "SV.08.1302",
-    "name": "Cacaopera"
-  },
-  {
-    "code": "SV.08.1303",
-    "name": "Corinto"
-  },
-  {
-    "code": "SV.09.1207",
-    "name": "El Tránsito"
-  },
-  {
-    "code": "SV.09.1206",
-    "name": "Chirilagua"
-  },
-  {
-    "code": "SV.09.1220",
-    "name": "Uluazapa"
-  },
-  {
-    "code": "SV.09.1203",
-    "name": "Comacarán"
-  },
-  {
-    "code": "SV.09.1218",
-    "name": "San Rafael Oriente"
-  },
-  {
-    "code": "SV.09.1215",
-    "name": "San Jorge"
-  },
-  {
-    "code": "SV.09.1212",
-    "name": "Quelepa"
-  },
-  {
-    "code": "SV.09.1209",
-    "name": "Moncagua"
-  },
-  {
-    "code": "SV.09.1210",
-    "name": "Nueva Guadalupe"
-  },
-  {
-    "code": "SV.09.1208",
-    "name": "Lolotique"
-  },
-  {
-    "code": "SV.09.1204",
-    "name": "Chapeltique"
-  },
-  {
-    "code": "SV.09.1202",
-    "name": "Ciudad Barrios"
-  },
-  {
-    "code": "SV.09.1216",
-    "name": "San Luis de la Reina"
-  },
-  {
-    "code": "SV.09.1201",
-    "name": "Carolina"
-  },
-  {
-    "code": "SV.09.1214",
-    "name": "San Gerardo"
-  },
-  {
-    "code": "SV.09.1211",
-    "name": "Nuevo Edén de San Juan"
-  },
-  {
-    "code": "SV.10.0605",
-    "name": "Municipio de El Paisnal"
-  },
-  {
-    "code": "SV.10.0601",
-    "name": "Aguilares"
-  },
-  {
-    "code": "SV.10.0606",
-    "name": "Guazapa"
-  },
-  {
-    "code": "SV.10.0609",
-    "name": "Nejapa"
-  },
-  {
-    "code": "SV.10.0602",
-    "name": "Apopa"
-  },
-  {
-    "code": "SV.10.0608",
-    "name": "Mejicanos"
-  },
-  {
-    "code": "SV.10.0603",
-    "name": "Ayutuxtepeque"
-  },
-  {
-    "code": "SV.10.0613",
-    "name": "San Martín"
-  },
-  {
-    "code": "SV.10.0607",
-    "name": "Ilopango"
-  },
-  {
-    "code": "SV.10.0617",
-    "name": "Soyapango"
-  },
-  {
-    "code": "SV.10.0604",
-    "name": "Cuscatancingo"
-  },
-  {
-    "code": "SV.10.0619",
-    "name": "Ciudad Delgado"
-  },
-  {
-    "code": "SV.10.0612",
-    "name": "San Marcos"
-  },
-  {
-    "code": "SV.10.0615",
-    "name": "Santiago Texacuangos"
-  },
-  {
-    "code": "SV.10.0610",
-    "name": "Panchimalco"
-  },
-  {
-    "code": "SV.10.0611",
-    "name": "Rosario de Mora"
-  },
-  {
-    "code": "SV.11.0204",
-    "name": "El Congo"
-  },
-  {
-    "code": "SV.11.0202",
-    "name": "Coatepeque"
-  },
-  {
-    "code": "SV.11.0209",
-    "name": "San Sebastián Salitrillo"
-  },
-  {
-    "code": "SV.11.0205",
-    "name": "El Porvenir"
-  },
-  {
-    "code": "SV.11.0201",
-    "name": "Candelaria de la Frontera"
-  },
-  {
-    "code": "SV.11.0213",
-    "name": "Texistepeque"
-  },
-  {
-    "code": "SV.11.0212",
-    "name": "Santiago de la Frontera"
-  },
-  {
-    "code": "SV.11.0208",
-    "name": "San Antonio Pajonal"
-  },
-  {
-    "code": "SV.11.0211",
-    "name": "Santa Rosa Guachipilín"
-  },
-  {
-    "code": "SV.12.1007",
-    "name": "San Ildefonso"
-  },
-  {
-    "code": "SV.12.1004",
-    "name": "Santa Clara"
-  },
-  {
-    "code": "SV.12.1001",
-    "name": "Apastepeque"
-  },
-  {
-    "code": "SV.12.1006",
-    "name": "San Esteban Catarina"
-  },
-  {
-    "code": "SV.12.1008",
-    "name": "San Lorenzo"
-  },
-  {
-    "code": "SV.12.1005",
-    "name": "Santo Domingo"
-  },
-  {
-    "code": "SV.12.1013",
-    "name": "Verapaz"
-  },
-  {
-    "code": "SV.12.1012",
-    "name": "Tepetitán"
-  },
-  {
-    "code": "SV.12.1003",
-    "name": "San Cayetano Istepeque"
-  },
-  {
-    "code": "SV.12.1011",
-    "name": "Tecoluca"
-  },
-  {
-    "code": "SV.13.0312",
-    "name": "San Julián"
-  },
-  {
-    "code": "SV.13.0302",
-    "name": "Armenia"
-  },
-  {
-    "code": "SV.13.0303",
-    "name": "Caluco"
-  },
-  {
-    "code": "SV.13.0304",
-    "name": "Cuisnahuat"
-  },
-  {
-    "code": "SV.13.0305",
-    "name": "Santa Isabel Ishuatán"
-  },
-  {
-    "code": "SV.13.0301",
-    "name": "Acajutla"
-  },
-  {
-    "code": "SV.13.0309",
-    "name": "Nahulingo"
-  },
-  {
-    "code": "SV.13.0311",
-    "name": "San Antonio del Monte"
-  },
-  {
-    "code": "SV.13.0314",
-    "name": "Santo Domingo de Guzmán"
-  },
-  {
-    "code": "SV.13.0316",
-    "name": "Sonzacate"
-  },
-  {
-    "code": "SV.13.0313",
-    "name": "Santa Catarina Masahuat"
-  },
-  {
-    "code": "SV.13.0308",
-    "name": "Nahuizalco"
-  },
-  {
-    "code": "SV.13.0310",
-    "name": "Salcoatitán"
-  },
-  {
-    "code": "SV.14.1108",
-    "name": "Jiquilisco"
-  },
-  {
-    "code": "SV.14.1114",
-    "name": "Puerto El Triunfo"
-  },
-  {
-    "code": "SV.14.1117",
-    "name": "San Dionisio"
-  },
-  {
-    "code": "SV.14.1104",
-    "name": "Concepción Batres"
-  },
-  {
-    "code": "SV.14.1120",
-    "name": "Santa María"
-  },
-  {
-    "code": "SV.14.1106",
-    "name": "Ereguayquín"
-  },
-  {
-    "code": "SV.14.1118",
-    "name": "Santa Elena"
-  },
-  {
-    "code": "SV.14.1113",
-    "name": "Ozatlán"
-  },
-  {
-    "code": "SV.14.1122",
-    "name": "Tecapán"
-  },
-  {
-    "code": "SV.14.1103",
-    "name": "California"
-  },
-  {
-    "code": "SV.14.1119",
-    "name": "San Francisco Javier"
-  },
-  {
-    "code": "SV.14.1115",
-    "name": "San Agustín"
-  },
-  {
-    "code": "SV.14.1101",
-    "name": "Alegría"
-  },
-  {
-    "code": "SV.14.1111",
-    "name": "Mercedes Umaña"
-  },
-  {
-    "code": "SV.14.1116",
-    "name": "San Buenaventura"
-  },
-  {
-    "code": "SV.14.1105",
-    "name": "El Triunfo"
-  },
-  {
-    "code": "SV.14.1112",
-    "name": "Nueva Granada"
-  },
-  {
-    "code": "SV.14.1107",
-    "name": "Estanzuelas"
-  },
-  {
-    "code": "SV.14.1110",
-    "name": "Jucuarán"
-  },
-  {
-    "code": "SV.07.1410",
-    "name": "Meanguera del Golfo"
-  },
-  {
-    "code": "SV.07.1404",
-    "name": "Conchagua"
-  },
-  {
-    "code": "SV.07.1405",
-    "name": "El Carmen"
-  },
-  {
-    "code": "SV.07.1407",
-    "name": "Intipucá"
-  },
-  {
-    "code": "SV.07.1414",
-    "name": "San Alejo"
-  },
-  {
-    "code": "SV.07.1417",
-    "name": "Yayantique"
-  },
-  {
-    "code": "SV.07.1412",
-    "name": "Pasaquina"
-  },
-  {
-    "code": "SV.07.1415",
-    "name": "San José"
-  },
-  {
-    "code": "SV.07.1418",
-    "name": "Yucuaiquín"
-  },
-  {
-    "code": "SV.07.1406",
-    "name": "El Sauce"
-  },
-  {
-    "code": "SV.07.1401",
-    "name": "Anamorós"
-  },
-  {
-    "code": "SV.07.1409",
-    "name": "Lislique"
-  },
-  {
-    "code": "SV.07.1411",
-    "name": "Nueva Esparta"
-  },
-  {
-    "code": "SV.07.1413",
-    "name": "Polorós"
-  },
-  {
-    "code": "SV.07.1403",
-    "name": "Concepción de Oriente"
-  },
-  {
     "code": "SV.02.12916937",
     "name": "Cabañas Este"
   },
@@ -156714,6 +155722,82 @@
   {
     "code": "SV.04.12916961",
     "name": "Cuscatlán Sur"
+  },
+  {
+    "code": "SV.01.12954151",
+    "name": "Municipio de Ahuachapan Centro"
+  },
+  {
+    "code": "SV.01.12954152",
+    "name": "Municipio de Ahuachapan Sur"
+  },
+  {
+    "code": "SV.03.12954153",
+    "name": "Municipio de Chalatenango Sur"
+  },
+  {
+    "code": "SV.05.12954154",
+    "name": "Municipio de La Libertad Costa"
+  },
+  {
+    "code": "SV.05.12954155",
+    "name": "Municipio de La Libertad Este"
+  },
+  {
+    "code": "SV.05.12954156",
+    "name": "Municipio de La Libertad Sur"
+  },
+  {
+    "code": "SV.07.12954157",
+    "name": "Municipio de La Unión Sur"
+  },
+  {
+    "code": "SV.09.12954158",
+    "name": "Municipio de San Miguel Centro"
+  },
+  {
+    "code": "SV.09.12954159",
+    "name": "Municipio de San Miguel Oeste"
+  },
+  {
+    "code": "SV.10.12954160",
+    "name": "Municipio de San Salvador Centro"
+  },
+  {
+    "code": "SV.10.12954161",
+    "name": "Municipio de San Salvador Este"
+  },
+  {
+    "code": "SV.10.12954162",
+    "name": "Municipio de San Salvador Oeste"
+  },
+  {
+    "code": "SV.10.12954163",
+    "name": "Municipio de San Salvador Sur"
+  },
+  {
+    "code": "SV.11.12954164",
+    "name": "Municipio de Santa Ana Centro"
+  },
+  {
+    "code": "SV.11.12954165",
+    "name": "Municipio de Santa Ana Este"
+  },
+  {
+    "code": "SV.12.12954166",
+    "name": "Municipio de San Vicente Sur"
+  },
+  {
+    "code": "SV.13.12954167",
+    "name": "Municipio de Sonsonate Centro"
+  },
+  {
+    "code": "SV.13.12954168",
+    "name": "Municipio de Sonsonate Oeste"
+  },
+  {
+    "code": "SV.14.12954169",
+    "name": "Municipio de Usulután Este"
   },
   {
     "code": "SY.14.163343",
@@ -168357,7 +167441,7 @@
   },
   {
     "code": "UA.19.5606",
-    "name": "Rivnenska Miskrada"
+    "name": "Rivne Raion"
   },
   {
     "code": "UA.15.4610",
