@@ -35345,7 +35345,7 @@
   },
   {
     "code": "CA.02.5947",
-    "name": "Skeena-Queen Charlotte Regional District"
+    "name": "North Coast Regional District"
   },
   {
     "code": "CA.11.4709033",
@@ -42009,7 +42009,7 @@
   },
   {
     "code": "CH.BE.241",
-    "name": "Jura bernois"
+    "name": "Canton du Jura"
   },
   {
     "code": "CH.BE.244",
@@ -43909,7 +43909,7 @@
   },
   {
     "code": "CN.08.2311",
-    "name": "Heihe Shi"
+    "name": "Heihe"
   },
   {
     "code": "CN.08.2304",
@@ -64208,7 +64208,7 @@
     "name": "Municipio de Sabá"
   },
   {
-    "code": "HN.16.1624",
+    "code": "HN.16.1625",
     "name": "San Vicente Centenario"
   },
   {
@@ -64232,7 +64232,7 @@
     "name": "Santa Rita"
   },
   {
-    "code": "HN.16.1625",
+    "code": "HN.16.1624",
     "name": "Santa Rita"
   },
   {
@@ -142397,7 +142397,7 @@
   },
   {
     "code": "RU.38.482964",
-    "name": "Timashevskiy Rayon"
+    "name": "Timashëvskiy Rayon"
   },
   {
     "code": "RU.42.483008",
@@ -142565,7 +142565,7 @@
   },
   {
     "code": "RU.19.486197",
-    "name": "Sernovodskiy Rayon"
+    "name": "Sunzhensky Rayon"
   },
   {
     "code": "RU.33.486207",
@@ -145133,7 +145133,7 @@
   },
   {
     "code": "RU.84.554403",
-    "name": "Kalachevskiy Rayon"
+    "name": "Kalachëvskiy Rayon"
   },
   {
     "code": "RU.61.554481",
@@ -146705,7 +146705,7 @@
   },
   {
     "code": "RU.91.1488770",
-    "name": "Tyukhtetskiy Rayon"
+    "name": "Tyukhtetskiy Okrug"
   },
   {
     "code": "RU.54.1488778",
@@ -146941,7 +146941,7 @@
   },
   {
     "code": "RU.91.1492400",
-    "name": "Sharypovskiy Rayon"
+    "name": "Sharypovskiy Okrug"
   },
   {
     "code": "RU.40.1492514",
@@ -147033,7 +147033,7 @@
   },
   {
     "code": "RU.91.1494942",
-    "name": "Pirovskiy Rayon"
+    "name": "Pirovskiy Okrug"
   },
   {
     "code": "RU.40.1495014",
@@ -149632,10 +149632,6 @@
     "name": "Derbent Urban Okrug"
   },
   {
-    "code": "RU.19.12625367",
-    "name": "Sunzhensky District"
-  },
-  {
     "code": "RU.20.12625368",
     "name": "Zalari Municipal Region"
   },
@@ -151578,6 +151574,146 @@
   {
     "code": "RU.32.13043425",
     "name": "Gorodskoy Okrug Nizhnevartovsk"
+  },
+  {
+    "code": "RU.84.13071159",
+    "name": "Gorodskoy Okrug Volzhskiy"
+  },
+  {
+    "code": "RU.84.13071160",
+    "name": "Gorodskoy Okrug Volgograd"
+  },
+  {
+    "code": "RU.38.13077910",
+    "name": "Belorechenskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.38.13077911",
+    "name": "Gorodskoy Okrug Sochi"
+  },
+  {
+    "code": "RU.38.13077912",
+    "name": "Labinskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.38.13077913",
+    "name": "Yeyskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.38.13077914",
+    "name": "Tuapinskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.38.13077915",
+    "name": "Gorodskoy Okrug Goryachiy Klyuch"
+  },
+  {
+    "code": "RU.38.13077917",
+    "name": "Krymskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.38.13077918",
+    "name": "Gorodskoy Okrug Sirius"
+  },
+  {
+    "code": "RU.38.13077919",
+    "name": "Gorodskoy Okrug Novorossiysk"
+  },
+  {
+    "code": "RU.38.13077920",
+    "name": "Tikhoretskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.38.13077921",
+    "name": "Slavyanskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.38.13077922",
+    "name": "Gorodskoy Okrug Krasnodar"
+  },
+  {
+    "code": "RU.38.13077923",
+    "name": "Kropotkinskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.75.13081875",
+    "name": "Gorodskoy Okrug Strezhevoy"
+  },
+  {
+    "code": "RU.75.13081876",
+    "name": "Gorodskoy Okrug Tomsk"
+  },
+  {
+    "code": "RU.75.13081877",
+    "name": "Gorodskoy Okrug Kedrovyy"
+  },
+  {
+    "code": "RU.61.13083726",
+    "name": "Sovetskiy Rayon"
+  },
+  {
+    "code": "RU.61.13083727",
+    "name": "Gorodskoy Okrug Kamensk-Shakhtinskiy"
+  },
+  {
+    "code": "RU.61.13083728",
+    "name": "Volgodonskoy Rayon"
+  },
+  {
+    "code": "RU.61.13083729",
+    "name": "Gorodskoy Okrug Zverevo"
+  },
+  {
+    "code": "RU.61.13083730",
+    "name": "Gorodskoy Okrug Shakhty"
+  },
+  {
+    "code": "RU.91.13097872",
+    "name": "Gorodskoy Okrug Lesosibirsk"
+  },
+  {
+    "code": "RU.91.13097873",
+    "name": "ZATO Zheleznogorsk"
+  },
+  {
+    "code": "RU.91.13097874",
+    "name": "Taymyrskiy Dolgano-Nenetskiy Rayon"
+  },
+  {
+    "code": "RU.91.13097875",
+    "name": "Gorodskoy Okrug Krasnoyarsk"
+  },
+  {
+    "code": "RU.91.13097876",
+    "name": "Gorodskoy Okrug Sosnovoborsk"
+  },
+  {
+    "code": "RU.91.13097878",
+    "name": "ZATO Solnechnyy"
+  },
+  {
+    "code": "RU.91.13097879",
+    "name": "Evenkiyskiy Rayon"
+  },
+  {
+    "code": "RU.91.13097880",
+    "name": "Gorodskoy Okrug Divnogorsk"
+  },
+  {
+    "code": "RU.91.13097881",
+    "name": "Gorodskoy Okrug Yeniseysk"
+  },
+  {
+    "code": "RU.91.13097882",
+    "name": "Gorodskoy Okrug Kedrovyy"
+  },
+  {
+    "code": "RU.91.13097884",
+    "name": "Gorodskoy Okrug Minusinsk"
+  },
+  {
+    "code": "RU.91.13097885",
+    "name": "Gorodskoy Okrug Sharypovo"
   },
   {
     "code": "RW.11.52",
