@@ -1,6 +1,6 @@
 {
   "name": "cities.json",
-  "version": "1.1.41",
+  "version": "1.1.42",
   "description": "Cities of the world in Json based on GeoNames Gazetteer",
   "main": "cities.json",
   "scripts": {

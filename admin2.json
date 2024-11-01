@@ -65,7 +65,7 @@
   },
   {
     "code": "AE.02.403",
-    "name": "Masfout"
+    "name": "Masfut"
   },
   {
     "code": "AE.06.308",
@@ -42009,7 +42009,7 @@
   },
   {
     "code": "CH.BE.241",
-    "name": "Canton du Jura"
+    "name": "Bernese Jura"
   },
   {
     "code": "CH.BE.244",
@@ -55925,15 +55925,15 @@
   },
   {
     "code": "EC.08.0713",
-    "name": "Cantón Zaruma"
+    "name": "Zaruma"
   },
   {
     "code": "EC.20.1901",
-    "name": "Cantón Zamora"
+    "name": "Zamora"
   },
   {
     "code": "EC.20.1905",
-    "name": "Cantón Yantzaza"
+    "name": "Yantzaza"
   },
   {
     "code": "EC.10.0920",
@@ -55941,15 +55941,15 @@
   },
   {
     "code": "EC.20.1904",
-    "name": "Cantón Yacuambi"
+    "name": "Yacuambi"
   },
   {
     "code": "EC.13.1208",
-    "name": "Cantón Vinces"
+    "name": "Vinces"
   },
   {
     "code": "EC.13.1207",
-    "name": "Cantón Ventanas"
+    "name": "Ventanas"
   },
   {
     "code": "EC.14.1316",
@@ -55961,7 +55961,7 @@
   },
   {
     "code": "EC.13.1206",
-    "name": "Cantón Urdaneta"
+    "name": "Urdaneta"
   },
   {
     "code": "EC.10.0919",
@@ -55973,7 +55973,7 @@
   },
   {
     "code": "EC.23.1501",
-    "name": "Cantón Tena"
+    "name": "Tena"
   },
   {
     "code": "EC.22.2105",
@@ -55989,19 +55989,19 @@
   },
   {
     "code": "EC.12.1112",
-    "name": "Cantón Sozoranga"
+    "name": "Sozoranga"
   },
   {
     "code": "EC.02.0109",
-    "name": "Cantón Sigsig"
+    "name": "Sígsig"
   },
   {
     "code": "EC.12.1111",
-    "name": "Cantón Saraguro"
+    "name": "Saraguro"
   },
   {
     "code": "EC.26.2301",
-    "name": "Cantón Santo Domingo de los Colorados"
+    "name": "Santo Domingo"
   },
   {
     "code": "EC.15.1405",
@@ -56013,27 +56013,27 @@
   },
   {
     "code": "EC.02.0108",
-    "name": "Cantón Santa Isabel"
+    "name": "Santa Isabel"
   },
   {
     "code": "EC.25.2401",
-    "name": "Cantón Santa Elena"
+    "name": "Santa Elena"
   },
   {
     "code": "EC.01.2003",
-    "name": "Cantón Santa Cruz"
+    "name": "Santa Cruz"
   },
   {
     "code": "EC.14.1313",
-    "name": "Cantón Santa Ana"
+    "name": "Santa Ana"
   },
   {
     "code": "EC.03.0205",
-    "name": "Cantón San Miguel"
+    "name": "San Miguel"
   },
   {
     "code": "EC.09.0805",
-    "name": "Cantón San Lorenzo"
+    "name": "San Lorenzo"
   },
   {
     "code": "EC.01.2001",
@@ -56045,11 +56045,11 @@
   },
   {
     "code": "EC.25.2403",
-    "name": "Cantón Salinas"
+    "name": "Salinas"
   },
   {
     "code": "EC.07.0505",
-    "name": "Cantón Salcedo"
+    "name": "Salcedo"
   },
   {
     "code": "EC.18.1705",
@@ -56057,15 +56057,15 @@
   },
   {
     "code": "EC.14.1312",
-    "name": "Cantón Rocafuerte"
+    "name": "Rocafuerte"
   },
   {
     "code": "EC.06.0601",
-    "name": "Cantón Riobamba"
+    "name": "Riobamba"
   },
   {
     "code": "EC.18.1701",
-    "name": "Cantón Quito"
+    "name": "Quito"
   },
   {
     "code": "EC.09.0804",
@@ -56073,23 +56073,23 @@
   },
   {
     "code": "EC.23.1507",
-    "name": "Cantón Quijos"
+    "name": "Quijos"
   },
   {
     "code": "EC.13.1205",
-    "name": "Cantón Quevedo"
+    "name": "Quevedo"
   },
   {
     "code": "EC.19.1806",
-    "name": "Cantón Quero"
+    "name": "Quero"
   },
   {
     "code": "EC.12.1110",
-    "name": "Cantón Puyango"
+    "name": "Puyango"
   },
   {
     "code": "EC.22.2103",
-    "name": "Cantón Putumayo"
+    "name": "Putumayo"
   },
   {
     "code": "EC.07.0504",
@@ -56097,15 +56097,15 @@
   },
   {
     "code": "EC.13.1204",
-    "name": "Cantón Puebloviejo"
+    "name": "Puebloviejo"
   },
   {
     "code": "EC.14.1301",
-    "name": "Cantón Portoviejo"
+    "name": "Portoviejo"
   },
   {
     "code": "EC.08.0711",
-    "name": "Cantón Portovelo"
+    "name": "Portovelo"
   },
   {
     "code": "EC.08.0710",
@@ -56113,35 +56113,35 @@
   },
   {
     "code": "EC.11.1005",
-    "name": "Cantón Pimampiro"
+    "name": "Pimampiro"
   },
   {
     "code": "EC.19.1808",
-    "name": "Cantón Píllaro"
+    "name": "Santiago de Píllaro"
   },
   {
     "code": "EC.19.1807",
-    "name": "Cantón Pelileo"
+    "name": "San Pedro de Pelileo"
   },
   {
     "code": "EC.18.1704",
-    "name": "Cantón Pedro Moncayo"
+    "name": "Pedro Moncayo"
   },
   {
     "code": "EC.02.0105",
-    "name": "Cantón Paute"
+    "name": "Paute"
   },
   {
     "code": "EC.19.1805",
-    "name": "Cantón Patate"
+    "name": "Patate"
   },
   {
     "code": "EC.17.1601",
-    "name": "Cantón Pastaza"
+    "name": "Pastaza"
   },
   {
     "code": "EC.08.0709",
-    "name": "Cantón Pasaje"
+    "name": "Pasaje"
   },
   {
     "code": "EC.07.0503",
@@ -56149,11 +56149,11 @@
   },
   {
     "code": "EC.12.1109",
-    "name": "Cantón Paltas"
+    "name": "Paltas"
   },
   {
     "code": "EC.15.1404",
-    "name": "Cantón Palora"
+    "name": "Palora"
   },
   {
     "code": "EC.14.1310",
@@ -56161,15 +56161,15 @@
   },
   {
     "code": "EC.11.1004",
-    "name": "Cantón Otavalo"
+    "name": "Otavalo"
   },
   {
     "code": "EC.10.0912",
-    "name": "Cantón Naranjito"
+    "name": "Naranjito"
   },
   {
     "code": "EC.10.0911",
-    "name": "Cantón Naranjal"
+    "name": "Naranjal"
   },
   {
     "code": "EC.09.0803",
@@ -56177,7 +56177,7 @@
   },
   {
     "code": "EC.15.1401",
-    "name": "Cantón Morona"
+    "name": "Morona"
   },
   {
     "code": "EC.05.0405",
@@ -56185,15 +56185,15 @@
   },
   {
     "code": "EC.14.1309",
-    "name": "Cantón Montecristi"
+    "name": "Montecristi"
   },
   {
     "code": "EC.05.0404",
-    "name": "Cantón Mira"
+    "name": "Mira"
   },
   {
     "code": "EC.10.0910",
-    "name": "Cantón Milagro"
+    "name": "Milagro"
   },
   {
     "code": "EC.17.1602",
@@ -56205,11 +56205,11 @@
   },
   {
     "code": "EC.14.1308",
-    "name": "Cantón Manta"
+    "name": "Manta"
   },
   {
     "code": "EC.08.0701",
-    "name": "Cantón Machala"
+    "name": "Machala"
   },
   {
     "code": "EC.12.1108",
@@ -56217,7 +56217,7 @@
   },
   {
     "code": "EC.12.1101",
-    "name": "Cantón Loja"
+    "name": "Loja"
   },
   {
     "code": "EC.15.1403",
@@ -56225,11 +56225,11 @@
   },
   {
     "code": "EC.07.0501",
-    "name": "Cantón Latacunga"
+    "name": "Latacunga"
   },
   {
     "code": "EC.22.2101",
-    "name": "Cantón Lago Agrio"
+    "name": "Lago Agrio"
   },
   {
     "code": "EC.14.1307",
@@ -56237,11 +56237,11 @@
   },
   {
     "code": "EC.14.1306",
-    "name": "Cantón Jipijapa"
+    "name": "Jipijapa"
   },
   {
     "code": "EC.01.2002",
-    "name": "Cantón Isabela"
+    "name": "Isabela"
   },
   {
     "code": "EC.11.1001",
@@ -56249,35 +56249,35 @@
   },
   {
     "code": "EC.08.0707",
-    "name": "Cantón Huaquillas"
+    "name": "Huaquillas"
   },
   {
     "code": "EC.10.0901",
-    "name": "Cantón Guayaquil"
+    "name": "Guayaquil"
   },
   {
     "code": "EC.03.0201",
-    "name": "Cantón Guaranda"
+    "name": "Guaranda"
   },
   {
     "code": "EC.06.0607",
-    "name": "Cantón Guano"
+    "name": "Guano"
   },
   {
     "code": "EC.06.0606",
-    "name": "Cantón Guamote"
+    "name": "Guamote"
   },
   {
     "code": "EC.15.1402",
-    "name": "Cantón Gualaquiza"
+    "name": "Gualaquiza"
   },
   {
     "code": "EC.02.0103",
-    "name": "Cantón Gualaceo"
+    "name": "Gualaceo"
   },
   {
     "code": "EC.08.0706",
-    "name": "Cantón Guabo"
+    "name": "El Guabo"
   },
   {
     "code": "EC.12.1107",
@@ -56289,55 +56289,55 @@
   },
   {
     "code": "EC.12.1106",
-    "name": "Cantón Espindola"
+    "name": "Espíndola"
   },
   {
     "code": "EC.05.0403",
-    "name": "Cantón Espejo"
+    "name": "Espejo"
   },
   {
     "code": "EC.09.0801",
-    "name": "Cantón Esmeraldas"
+    "name": "Esmeraldas"
   },
   {
     "code": "EC.09.0802",
-    "name": "Cantón Eloy Alfaro"
+    "name": "Eloy Alfaro"
   },
   {
     "code": "EC.10.0908",
-    "name": "Cantón El Empalme"
+    "name": "El Empalme"
   },
   {
     "code": "EC.14.1304",
-    "name": "Cantón El Carmen"
+    "name": "El Carmen"
   },
   {
     "code": "EC.10.0906",
-    "name": "Cantón Daule"
+    "name": "Daule"
   },
   {
     "code": "EC.02.0101",
-    "name": "Cantón Cuenca"
+    "name": "Cuenca"
   },
   {
     "code": "EC.11.1003",
-    "name": "Cantón Cotacachi"
+    "name": "Cotacachi"
   },
   {
     "code": "EC.06.0603",
-    "name": "Cantón Colta"
+    "name": "Colta"
   },
   {
     "code": "EC.06.0605",
-    "name": "Cantón Chunchi"
+    "name": "Chunchi"
   },
   {
     "code": "EC.14.1303",
-    "name": "Cantón Chone"
+    "name": "Chone"
   },
   {
     "code": "EC.20.1902",
-    "name": "Cantón Chinchipe"
+    "name": "Chinchipe"
   },
   {
     "code": "EC.03.0203",
@@ -56345,7 +56345,7 @@
   },
   {
     "code": "EC.03.0202",
-    "name": "Cantón Chillanes"
+    "name": "Chillanes"
   },
   {
     "code": "EC.12.1104",
@@ -56353,11 +56353,11 @@
   },
   {
     "code": "EC.18.1702",
-    "name": "Cantón Cayambe"
+    "name": "Cayambe"
   },
   {
     "code": "EC.12.1103",
-    "name": "Cantón Catamayo"
+    "name": "Catamayo"
   },
   {
     "code": "EC.04.0303",
@@ -56365,7 +56365,7 @@
   },
   {
     "code": "EC.12.1102",
-    "name": "Cantón Calvas"
+    "name": "Calvas"
   },
   {
     "code": "EC.14.1302",
@@ -56377,15 +56377,15 @@
   },
   {
     "code": "EC.19.1802",
-    "name": "Cantón Baños"
+    "name": "Baños de Agua Santa"
   },
   {
     "code": "EC.10.0904",
-    "name": "Cantón Balzar"
+    "name": "Balzar"
   },
   {
     "code": "EC.13.1201",
-    "name": "Cantón Babahoyo"
+    "name": "Babahoyo"
   },
   {
     "code": "EC.13.1202",
@@ -56393,15 +56393,15 @@
   },
   {
     "code": "EC.04.0301",
-    "name": "Cantón Azogues"
+    "name": "Azogues"
   },
   {
     "code": "EC.08.0702",
-    "name": "Cantón Arenillas"
+    "name": "Arenillas"
   },
   {
     "code": "EC.23.1503",
-    "name": "Cantón Archidona"
+    "name": "Archidona"
   },
   {
     "code": "EC.11.1002",
@@ -56409,7 +56409,7 @@
   },
   {
     "code": "EC.19.1801",
-    "name": "Cantón Ambato"
+    "name": "Ambato"
   },
   {
     "code": "EC.06.0602",
@@ -56429,19 +56429,19 @@
   },
   {
     "code": "EC.13.1211",
-    "name": "Cantón Valencia"
+    "name": "Valencia"
   },
   {
     "code": "EC.13.1210",
-    "name": "Cantón Buena Fe"
+    "name": "Buena Fe"
   },
   {
     "code": "EC.23.1504",
-    "name": "Cantón Chaco"
+    "name": "El Chaco"
   },
   {
     "code": "EC.07.0507",
-    "name": "Cantón Sigchos"
+    "name": "Sigchos"
   },
   {
     "code": "EC.06.0610",
@@ -146273,7 +146273,7 @@
   },
   {
     "code": "RU.09.824989",
-    "name": "Gorod Alekseyevka"
+    "name": "Gorodskoy Okrug Alekseyevka"
   },
   {
     "code": "RU.09.824990",
@@ -151716,6 +151716,18 @@
     "name": "Gorodskoy Okrug Sharypovo"
   },
   {
+    "code": "RU.09.13109581",
+    "name": "Gorodskoy Okrug Gubkin"
+  },
+  {
+    "code": "RU.09.13109582",
+    "name": "Gorodskoy Okrug Staryy Oskol"
+  },
+  {
+    "code": "RU.09.13109583",
+    "name": "Gorodskoy Okrug Valuyki"
+  },
+  {
     "code": "RW.11.52",
     "name": "Nyagatare District"
   },
@@ -155618,6 +155630,42 @@
   {
     "code": "SR.17.12088745",
     "name": "Kwatta"
+  },
+  {
+    "code": "SR.14.13108205",
+    "name": "Ressort Oostelijke Polders"
+  },
+  {
+    "code": "SR.14.13108206",
+    "name": "Ressort Westelijke Polders"
+  },
+  {
+    "code": "SR.12.13108207",
+    "name": "Ressort Welgelegen"
+  },
+  {
+    "code": "SR.12.13108208",
+    "name": "Ressort Totness"
+  },
+  {
+    "code": "SR.11.13108209",
+    "name": "Meerzorg"
+  },
+  {
+    "code": "SR.10.13108210",
+    "name": "Ressort Marchallkreek"
+  },
+  {
+    "code": "SR.18.13108211",
+    "name": "Paramacca"
+  },
+  {
+    "code": "SR.18.13108212",
+    "name": "Ressort Boven-Coppename"
+  },
+  {
+    "code": "SR.18.13108213",
+    "name": "Ressort Coeroeni"
   },
   {
     "code": "SS.10.363414",
@@ -175257,7 +175305,7 @@
   },
   {
     "code": "US.IL.039",
-    "name": "De Witt County"
+    "name": "DeWitt County"
   },
   {
     "code": "US.IL.037",
@@ -181222,6 +181270,54 @@
   {
     "code": "UY.01.01",
     "name": "Baltasar Brum"
+  },
+  {
+    "code": "UY.03.13107354",
+    "name": "Municipio de Las Cañas"
+  },
+  {
+    "code": "UY.03.13107355",
+    "name": "Municipio de Cerro de las Cuentas"
+  },
+  {
+    "code": "UY.19.13107356",
+    "name": "Villa Sara"
+  },
+  {
+    "code": "UY.19.13107357",
+    "name": "Municipio de General Enrique Martínez"
+  },
+  {
+    "code": "UY.03.13107358",
+    "name": "Bañado de Medina"
+  },
+  {
+    "code": "UY.19.13107359",
+    "name": "Municipio de Cerro Chato"
+  },
+  {
+    "code": "UY.19.13107360",
+    "name": "Municipio de Rincón"
+  },
+  {
+    "code": "UY.08.13107362",
+    "name": "Mariscala"
+  },
+  {
+    "code": "UY.03.13107363",
+    "name": "Municipio de Quebracho"
+  },
+  {
+    "code": "UY.03.13107364",
+    "name": "Centurión"
+  },
+  {
+    "code": "UY.04.13107365",
+    "name": "Municipio de Miguelete"
+  },
+  {
+    "code": "UY.03.13107367",
+    "name": "Municipio de Tres Islas"
   },
   {
     "code": "UZ.09.601276",
