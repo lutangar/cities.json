@@ -59321,7 +59321,7 @@
   },
   {
     "code": "FR.93.84",
-    "name": "Vaucluse"
+    "name": "Département du Vaucluse"
   },
   {
     "code": "FR.93.83",
@@ -61026,6 +61026,10 @@
   {
     "code": "GE.73.10285963",
     "name": "Tskhinvali District"
+  },
+  {
+    "code": "GE.51.13132123",
+    "name": "Samgori District"
   },
   {
     "code": "GF.GF.973",
@@ -148037,7 +148041,7 @@
   },
   {
     "code": "RU.63.2019491",
-    "name": "Namskiy Rayon"
+    "name": "Namskiy Ulus"
   },
   {
     "code": "RU.59.2019548",
@@ -148053,7 +148057,7 @@
   },
   {
     "code": "RU.63.2019952",
-    "name": "Mirninskiy Rayon"
+    "name": "Mirninskiy Ulus"
   },
   {
     "code": "RU.05.2019985",
@@ -148065,7 +148069,7 @@
   },
   {
     "code": "RU.63.2020094",
-    "name": "Megino-Kangalasskiy Rayon"
+    "name": "Megino-Kangalasskiy Ulus"
   },
   {
     "code": "RU.05.2020117",
@@ -148117,7 +148121,7 @@
   },
   {
     "code": "RU.63.2021938",
-    "name": "Kobyayskiy Rayon"
+    "name": "Kobyayskiy Ulus"
   },
   {
     "code": "RU.11.2022001",
@@ -148197,7 +148201,7 @@
   },
   {
     "code": "RU.63.2023916",
-    "name": "Gornyy Rayon"
+    "name": "Gornyy Ulus"
   },
   {
     "code": "RU.93.2024124",
@@ -148213,7 +148217,7 @@
   },
   {
     "code": "RU.63.2025240",
-    "name": "Churapchinskiy Rayon"
+    "name": "Churapchinskiy Ulus"
   },
   {
     "code": "RU.93.2025332",
@@ -148237,7 +148241,7 @@
   },
   {
     "code": "RU.63.2025971",
-    "name": "Bulunskiy Rayon"
+    "name": "Bulunskiy Ulus"
   },
   {
     "code": "RU.20.2026092",
@@ -148301,7 +148305,7 @@
   },
   {
     "code": "RU.63.2027729",
-    "name": "Anabarskiy Rayon"
+    "name": "Anabarskiy Natsional'nyy Ulus"
   },
   {
     "code": "RU.30.2027744",
@@ -148505,7 +148509,7 @@
   },
   {
     "code": "RU.63.2127257",
-    "name": "Allaikhovskiy Rayon"
+    "name": "Allaikhovskiy Ulus"
   },
   {
     "code": "RU.92.2127270",
@@ -151726,6 +151730,66 @@
   {
     "code": "RU.09.13109583",
     "name": "Gorodskoy Okrug Valuyki"
+  },
+  {
+    "code": "RU.55.13130796",
+    "name": "Sorochinskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.55.13130797",
+    "name": "ZATO Komarovskiy"
+  },
+  {
+    "code": "RU.55.13130798",
+    "name": "Yasnenskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.55.13130799",
+    "name": "Gorodskoy Okrug Orenburg"
+  },
+  {
+    "code": "RU.55.13130800",
+    "name": "Gayskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.55.13130801",
+    "name": "Gorodskoy Okrug Buzuluk"
+  },
+  {
+    "code": "RU.55.13130802",
+    "name": "Kuvandykskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.55.13130803",
+    "name": "Sol'-Iletskiy Gorodskoky Okrug"
+  },
+  {
+    "code": "RU.55.13130804",
+    "name": "Gorodskoy Okrug Orsk"
+  },
+  {
+    "code": "RU.55.13130805",
+    "name": "Abdulinskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.63.13131637",
+    "name": "Gorodskoy Okrug Zhatay"
+  },
+  {
+    "code": "RU.63.13131638",
+    "name": "Neryungrinskiy Ulus"
+  },
+  {
+    "code": "RU.63.13131639",
+    "name": "Eveno-Bytantayskiy Natsional'nyy Ulus"
+  },
+  {
+    "code": "RU.15.13131974",
+    "name": "Gorodskoy Okrug Pevek"
+  },
+  {
+    "code": "RU.15.13131975",
+    "name": "Providenskiy Gorodskoy Okrug"
   },
   {
     "code": "RW.11.52",
@@ -168481,7 +168545,7 @@
   },
   {
     "code": "US.AL.115",
-    "name": "Saint Clair County"
+    "name": "St. Clair County"
   },
   {
     "code": "US.AL.117",
@@ -168765,7 +168829,7 @@
   },
   {
     "code": "US.AR.123",
-    "name": "Saint Francis County"
+    "name": "St. Francis County"
   },
   {
     "code": "US.AR.125",
@@ -168818,10 +168882,6 @@
   {
     "code": "US.AR.149",
     "name": "Yell County"
-  },
-  {
-    "code": "US.DC.001",
-    "name": "Washington County"
   },
   {
     "code": "US.DE.001",
@@ -171061,7 +171121,7 @@
   },
   {
     "code": "US.LA.059",
-    "name": "La Salle Parish"
+    "name": "LaSalle Parish"
   },
   {
     "code": "US.LA.055",
@@ -171153,7 +171213,7 @@
   },
   {
     "code": "US.LA.101",
-    "name": "Saint Mary Parish"
+    "name": "St. Mary Parish"
   },
   {
     "code": "US.LA.103",
@@ -171625,7 +171685,7 @@
   },
   {
     "code": "US.MO.185",
-    "name": "Saint Clair County"
+    "name": "St. Clair County"
   },
   {
     "code": "US.MO.187",
@@ -171765,7 +171825,7 @@
   },
   {
     "code": "US.MS.033",
-    "name": "De Soto County"
+    "name": "DeSoto County"
   },
   {
     "code": "US.MS.035",
@@ -172741,7 +172801,7 @@
   },
   {
     "code": "US.OK.079",
-    "name": "Le Flore County"
+    "name": "LeFlore County"
   },
   {
     "code": "US.OK.081",
@@ -180789,39 +180849,39 @@
   },
   {
     "code": "US.CT.120",
-    "name": "Connecticut Metropolitan"
+    "name": "Greater Bridgeport Planning Region"
   },
   {
     "code": "US.CT.140",
-    "name": "Naugatuck Valley"
+    "name": "Naugatuck Valley Planning Region"
   },
   {
     "code": "US.CT.190",
-    "name": "Western Connecticut"
+    "name": "Western Connecticut Planning Region"
   },
   {
     "code": "US.CT.110",
-    "name": "Capitol Region"
+    "name": "Capitol Planning Region"
   },
   {
     "code": "US.CT.130",
-    "name": "Lower Connecticut River Valley"
+    "name": "Lower Connecticut River Valley Planning Region"
   },
   {
     "code": "US.CT.170",
-    "name": "South Central Regional"
+    "name": "South Central Connecticut Planning Region"
   },
   {
     "code": "US.CT.180",
-    "name": "Southeastern Connecticut"
+    "name": "Southeastern Connecticut Planning Region"
   },
   {
     "code": "US.CT.150",
-    "name": "Northeastern Connecticut"
+    "name": "Northeastern Connecticut Planning Region"
   },
   {
     "code": "US.CT.160",
-    "name": "Northwest Hills"
+    "name": "Northwest Hills Planning Region"
   },
   {
     "code": "UY.02.12",
