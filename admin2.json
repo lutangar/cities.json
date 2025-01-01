@@ -1944,44 +1944,336 @@
     "name": "Bashkia Vlorë"
   },
   {
-    "code": "AM.08.174761",
-    "name": "Sisian"
-  },
-  {
-    "code": "AM.10.174959",
-    "name": "Vayk'i Shrjan"
-  },
-  {
-    "code": "AM.11.616200",
-    "name": "Spandaryanskiy Rayon"
-  },
-  {
     "code": "AM.11.616205",
     "name": "Arabkir"
-  },
-  {
-    "code": "AM.11.616233",
-    "name": "Shaumyanskiy Rayon"
   },
   {
     "code": "AM.11.616323",
     "name": "Ordzhonikidzevskiy Rayon"
   },
   {
-    "code": "AM.04.616436",
-    "name": "Martuni"
+    "code": "AM.08.13133004",
+    "name": "Kapan Municipality"
   },
   {
-    "code": "AM.11.616485",
-    "name": "Leninskiy Rayon"
+    "code": "AM.08.13133005",
+    "name": "Goris Municipality"
   },
   {
-    "code": "AM.11.616624",
-    "name": "Imeni Dvadtsati Shesti Komissarov Rayon"
+    "code": "AM.08.13133006",
+    "name": "Meghri Municipality"
   },
   {
-    "code": "AM.01.7874001",
-    "name": "Achtarak"
+    "code": "AM.08.13133007",
+    "name": "Sisian Municipality"
+  },
+  {
+    "code": "AM.08.13133008",
+    "name": "Kajaran Municipality"
+  },
+  {
+    "code": "AM.08.13133009",
+    "name": "Tatev Municipality"
+  },
+  {
+    "code": "AM.08.13133010",
+    "name": "Tegh Municipality"
+  },
+  {
+    "code": "AM.10.13133019",
+    "name": "Yeghegnadzor Municipality"
+  },
+  {
+    "code": "AM.10.13133022",
+    "name": "Jermuk Municipality"
+  },
+  {
+    "code": "AM.10.13133023",
+    "name": "Vayk Municipality"
+  },
+  {
+    "code": "AM.10.13133025",
+    "name": "Areni Municipality"
+  },
+  {
+    "code": "AM.10.13133026",
+    "name": "Yeghegis Municipality"
+  },
+  {
+    "code": "AM.02.13133028",
+    "name": "Artashat Municipality"
+  },
+  {
+    "code": "AM.02.13133029",
+    "name": "Ararat Municipality"
+  },
+  {
+    "code": "AM.02.13133030",
+    "name": "Masis Municipality"
+  },
+  {
+    "code": "AM.02.13133031",
+    "name": "Vedi Municipality"
+  },
+  {
+    "code": "AM.02.13133032",
+    "name": "Verin Dvin Municipality"
+  },
+  {
+    "code": "AM.04.13156120",
+    "name": "Gavar Municipality"
+  },
+  {
+    "code": "AM.04.13156121",
+    "name": "Chambarak Municipality"
+  },
+  {
+    "code": "AM.04.13156122",
+    "name": "Martuni Municipality"
+  },
+  {
+    "code": "AM.04.13156123",
+    "name": "Sevan Municipality"
+  },
+  {
+    "code": "AM.04.13156124",
+    "name": "Vardenis Municipality"
+  },
+  {
+    "code": "AM.09.13156180",
+    "name": "Dilijan Municipality"
+  },
+  {
+    "code": "AM.09.13156181",
+    "name": "Ijevan Municipality"
+  },
+  {
+    "code": "AM.09.13156182",
+    "name": "Berd Municipality"
+  },
+  {
+    "code": "AM.09.13156183",
+    "name": "Noyemberyan Municipality"
+  },
+  {
+    "code": "AM.06.13156275",
+    "name": "Alaverdi Municipality"
+  },
+  {
+    "code": "AM.06.13156276",
+    "name": "Tumanyan Municipality"
+  },
+  {
+    "code": "AM.06.13156277",
+    "name": "Pambak Municipality"
+  },
+  {
+    "code": "AM.06.13156278",
+    "name": "Lermontovo Municipality"
+  },
+  {
+    "code": "AM.06.13156279",
+    "name": "Fioletovo Municipality"
+  },
+  {
+    "code": "AM.06.13156280",
+    "name": "Vanadzor Municipality"
+  },
+  {
+    "code": "AM.06.13156281",
+    "name": "Spitak Municipality"
+  },
+  {
+    "code": "AM.06.13156282",
+    "name": "Stepanavan Municipality"
+  },
+  {
+    "code": "AM.06.13156283",
+    "name": "Tashir Municipality"
+  },
+  {
+    "code": "AM.06.13156284",
+    "name": "Gyulagarak Municipality"
+  },
+  {
+    "code": "AM.06.13156285",
+    "name": "Lori Berd Municipality"
+  },
+  {
+    "code": "AM.07.13156473",
+    "name": "Amasia Municipality"
+  },
+  {
+    "code": "AM.07.13156474",
+    "name": "Ashotsk Municipality"
+  },
+  {
+    "code": "AM.07.13156475",
+    "name": "Gyumri Municipality"
+  },
+  {
+    "code": "AM.07.13156476",
+    "name": "Akhuryan Municipality"
+  },
+  {
+    "code": "AM.07.13156477",
+    "name": "Artik Municipality"
+  },
+  {
+    "code": "AM.07.13156478",
+    "name": "Ani Municipality"
+  },
+  {
+    "code": "AM.01.13156510",
+    "name": "Tsaghkahovit Municipality"
+  },
+  {
+    "code": "AM.01.13156511",
+    "name": "Alagyaz Municipality"
+  },
+  {
+    "code": "AM.01.13156512",
+    "name": "Aparan Municipality"
+  },
+  {
+    "code": "AM.01.13156513",
+    "name": "Ashtarak Municipality"
+  },
+  {
+    "code": "AM.01.13156514",
+    "name": "Talin Municipality"
+  },
+  {
+    "code": "AM.01.13156515",
+    "name": "Arevut Municipality"
+  },
+  {
+    "code": "AM.01.13156516",
+    "name": "Metsadzor Municipality"
+  },
+  {
+    "code": "AM.01.13156517",
+    "name": "Shamiram Municipality"
+  },
+  {
+    "code": "AM.05.13156540",
+    "name": "Nairi Municipality"
+  },
+  {
+    "code": "AM.05.13156542",
+    "name": "Nor Hachn Municipality"
+  },
+  {
+    "code": "AM.05.13156543",
+    "name": "Arzni Municipality"
+  },
+  {
+    "code": "AM.05.13156544",
+    "name": "Abovyan Municipality"
+  },
+  {
+    "code": "AM.05.13156545",
+    "name": "Jrvezh Municipality"
+  },
+  {
+    "code": "AM.05.13156546",
+    "name": "Garni Municipality"
+  },
+  {
+    "code": "AM.05.13156547",
+    "name": "Byureghavan Municipality"
+  },
+  {
+    "code": "AM.05.13156548",
+    "name": "Akunk Municipality"
+  },
+  {
+    "code": "AM.05.13156549",
+    "name": "Charentsavan Municipality"
+  },
+  {
+    "code": "AM.05.13156550",
+    "name": "Hrazdan Municipality"
+  },
+  {
+    "code": "AM.05.13156551",
+    "name": "Tsaghkadzor Municipality"
+  },
+  {
+    "code": "AM.03.13156552",
+    "name": "Ferik Municipality"
+  },
+  {
+    "code": "AM.03.13156553",
+    "name": "Vagharshapat Municipality"
+  },
+  {
+    "code": "AM.03.13156554",
+    "name": "Parakar Municipality"
+  },
+  {
+    "code": "AM.03.13156555",
+    "name": "Khoy Municipality"
+  },
+  {
+    "code": "AM.03.13156556",
+    "name": "Araks Municipality"
+  },
+  {
+    "code": "AM.03.13156557",
+    "name": "Metsamor Municipality"
+  },
+  {
+    "code": "AM.03.13156558",
+    "name": "Armavir Municipality"
+  },
+  {
+    "code": "AM.03.13156559",
+    "name": "Baghramyan Municipality"
+  },
+  {
+    "code": "AM.11.13156594",
+    "name": "Ajapnyak"
+  },
+  {
+    "code": "AM.11.13156595",
+    "name": "Avan"
+  },
+  {
+    "code": "AM.11.13156596",
+    "name": "Davtashen"
+  },
+  {
+    "code": "AM.11.13156597",
+    "name": "Erebuni"
+  },
+  {
+    "code": "AM.11.13156598",
+    "name": "Kanaker-Zeytun"
+  },
+  {
+    "code": "AM.11.13156599",
+    "name": "Kentron District"
+  },
+  {
+    "code": "AM.11.13156600",
+    "name": "Malatia-Sebastia"
+  },
+  {
+    "code": "AM.11.13156601",
+    "name": "Nork-Marash"
+  },
+  {
+    "code": "AM.11.13156602",
+    "name": "Nor Nork"
+  },
+  {
+    "code": "AM.11.13156603",
+    "name": "Nubarashen"
+  },
+  {
+    "code": "AM.11.13156604",
+    "name": "Shengavit"
   },
   {
     "code": "AO.18.145530",
@@ -71645,7 +71937,7 @@
   },
   {
     "code": "IN.10.086",
-    "name": "Gurgaon"
+    "name": "Gurugram district"
   },
   {
     "code": "IN.23.035",
@@ -119009,7 +119301,7 @@
   },
   {
     "code": "PA.10.0912",
-    "name": "Mariato District"
+    "name": "Distrito de Mariato"
   },
   {
     "code": "PA.11.1102",
@@ -151752,7 +152044,7 @@
     "name": "Gayskiy Gorodskoy Okrug"
   },
   {
-    "code": "RU.55.13130801",
+    "code": "RU.61.13130801",
     "name": "Gorodskoy Okrug Buzuluk"
   },
   {
@@ -151790,6 +152082,74 @@
   {
     "code": "RU.15.13131975",
     "name": "Providenskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.08.13138558",
+    "name": "Gorodskoye Poseleniye Meleuz"
+  },
+  {
+    "code": "RU.08.13138559",
+    "name": "Gorodskoye Poseleniye Uchaly"
+  },
+  {
+    "code": "RU.08.13138560",
+    "name": "Gorodskoye Poseleniye Davlekanovo"
+  },
+  {
+    "code": "RU.08.13138561",
+    "name": "Gorodskoy Okrug Sterlitamak"
+  },
+  {
+    "code": "RU.08.13138562",
+    "name": "Gorodskoye Poseleniye Belebey"
+  },
+  {
+    "code": "RU.08.13138563",
+    "name": "Gorodskoye Poseleniye Birsk"
+  },
+  {
+    "code": "RU.08.13138564",
+    "name": "Gorodskoye Poseleniye Ishimbay"
+  },
+  {
+    "code": "RU.08.13138565",
+    "name": "Gorodskoye Poseleniye Yanaul"
+  },
+  {
+    "code": "RU.08.13138566",
+    "name": "Gorodskoy Okrug Oktyabr'skiy"
+  },
+  {
+    "code": "RU.08.13138567",
+    "name": "Gorodskoye Poseleniye Tuymazy"
+  },
+  {
+    "code": "RU.08.13138568",
+    "name": "Gorodskoye Poseleniye Dyurtyuli"
+  },
+  {
+    "code": "RU.08.13138569",
+    "name": "Gorodskoye Poseleniye Beloretsk"
+  },
+  {
+    "code": "RU.08.13138570",
+    "name": "Gorodskoye Poseleniye Blagoveshchensk"
+  },
+  {
+    "code": "RU.08.13138571",
+    "name": "Gorodskoye Poseleniye Baymak"
+  },
+  {
+    "code": "RU.92.13139227",
+    "name": "Gorodskoy Okrug Petropavlovsk-Kamchatskiy"
+  },
+  {
+    "code": "RU.92.13139228",
+    "name": "Yelizovskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.92.13139229",
+    "name": "Vilyuchinskiy Gorodskoy Okrug"
   },
   {
     "code": "RW.11.52",
@@ -186233,7 +186593,7 @@
   },
   {
     "code": "VN.20.767",
-    "name": "Tân Phú"
+    "name": "Tân Phú District"
   },
   {
     "code": "VN.32.127",
