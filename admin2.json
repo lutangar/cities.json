@@ -1948,10 +1948,6 @@
     "name": "Arabkir"
   },
   {
-    "code": "AM.11.616323",
-    "name": "Ordzhonikidzevskiy Rayon"
-  },
-  {
     "code": "AM.08.13133004",
     "name": "Kapan Municipality"
   },
@@ -43057,7 +43053,7 @@
   },
   {
     "code": "CN.13.6531",
-    "name": "Kaxgar Diqu"
+    "name": "Kashi Diqu"
   },
   {
     "code": "CN.15.6209",
@@ -43097,7 +43093,7 @@
   },
   {
     "code": "CN.13.6504",
-    "name": "Turpan Diqu"
+    "name": "Tulufan"
   },
   {
     "code": "CN.13.6542",
@@ -43105,15 +43101,15 @@
   },
   {
     "code": "CN.13.6502",
-    "name": "Karamay Shi"
+    "name": "Kelamayi Shi"
   },
   {
     "code": "CN.13.6540",
-    "name": "Ili Kazak Zizhizhou"
+    "name": "Yili"
   },
   {
     "code": "CN.13.6505",
-    "name": "Kumul Diqu"
+    "name": "Hami"
   },
   {
     "code": "CN.13.6523",
@@ -43121,15 +43117,15 @@
   },
   {
     "code": "CN.13.6527",
-    "name": "Bortala Mongol Zizhizhou"
+    "name": "Bortala"
   },
   {
     "code": "CN.13.6528",
-    "name": "Bayingolin Mongol Zizhizhou"
+    "name": "Bayinguoleng Menggu Zizhizhou"
   },
   {
     "code": "CN.13.6543",
-    "name": "Altay Diqu"
+    "name": "Aletai Diqu"
   },
   {
     "code": "CN.13.6529",
@@ -54901,7 +54897,7 @@
   },
   {
     "code": "DZ.36.12952558",
-    "name": "Ain Larbaa"
+    "name": "Aïn Larbaâ"
   },
   {
     "code": "DZ.36.12952559",
@@ -60280,10 +60276,6 @@
     "name": "North Tyneside"
   },
   {
-    "code": "GB.ENG.J1",
-    "name": "Northamptonshire"
-  },
-  {
     "code": "GB.ENG.I9",
     "name": "Norfolk"
   },
@@ -60898,6 +60890,14 @@
   {
     "code": "GB.ENG.AA",
     "name": "Bournemouth, Christchurch and Poole Council"
+  },
+  {
+    "code": "GB.ENG.WNH",
+    "name": "West Northamptonshire"
+  },
+  {
+    "code": "GB.ENG.NNH",
+    "name": "North Northamptonshire"
   },
   {
     "code": "GE.71.610823",
@@ -80373,7 +80373,7 @@
   },
   {
     "code": "JO.02.8621688",
-    "name": "Liwā’ Māḩiş wa al Fuḩayş"
+    "name": "Liwa Mahis wa-al-Fuhays"
   },
   {
     "code": "JO.17.8621689",
@@ -115492,10 +115492,6 @@
     "name": "Gemeente Wierden"
   },
   {
-    "code": "NL.11.0614",
-    "name": "Gemeente Westvoorne"
-  },
-  {
     "code": "NL.02.0098",
     "name": "Gemeente Weststellingwerf"
   },
@@ -115506,10 +115502,6 @@
   {
     "code": "NL.04.1969",
     "name": "Westerkwartier"
-  },
-  {
-    "code": "NL.07.0457",
-    "name": "Gemeente Weesp"
   },
   {
     "code": "NL.05.0988",
@@ -116044,10 +116036,6 @@
     "name": "Gemeente Helmond"
   },
   {
-    "code": "NL.11.0530",
-    "name": "Gemeente Hellevoetsluis"
-  },
-  {
     "code": "NL.15.0163",
     "name": "Gemeente Hellendoorn"
   },
@@ -116298,10 +116286,6 @@
   {
     "code": "NL.07.0852",
     "name": "Gemeente Waterland"
-  },
-  {
-    "code": "NL.11.0501",
-    "name": "Gemeente Brielle"
   },
   {
     "code": "NL.06.0758",
@@ -116794,6 +116778,10 @@
   {
     "code": "NL.07.1980",
     "name": "Dijk en Waard"
+  },
+  {
+    "code": "NL.11.1992",
+    "name": "Voorne aan Zee"
   },
   {
     "code": "NO.05.5628",
@@ -152053,7 +152041,7 @@
   },
   {
     "code": "RU.55.13130803",
-    "name": "Sol'-Iletskiy Gorodskoky Okrug"
+    "name": "Sol'-Iletskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.55.13130804",
@@ -152746,6 +152734,18 @@
   {
     "code": "SA.14.11906054",
     "name": "Ghran"
+  },
+  {
+    "code": "SA.17.13191966",
+    "name": "Harub"
+  },
+  {
+    "code": "SA.17.13191967",
+    "name": "At-Tuwal"
+  },
+  {
+    "code": "SA.17.13191968",
+    "name": "Fayfa"
   },
   {
     "code": "SB.11.0215",
@@ -186721,7 +186721,7 @@
   },
   {
     "code": "VN.37.817",
-    "name": "Thị Xã Cai Lậy"
+    "name": "Thị xã Cai Lậy"
   },
   {
     "code": "VN.37.825",
