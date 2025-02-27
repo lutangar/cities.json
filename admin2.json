@@ -60969,7 +60969,7 @@
   },
   {
     "code": "GE.65.612535",
-    "name": "Ozurget’is Raioni"
+    "name": "Ozurgetis Munitsip’alit’et’i"
   },
   {
     "code": "GE.70.612571",
@@ -61029,7 +61029,7 @@
   },
   {
     "code": "GE.04.613761",
-    "name": "K’obulet’is Raioni"
+    "name": "Kobuletis Munitsip’alit’et’i"
   },
   {
     "code": "GE.70.613811",
@@ -61049,11 +61049,11 @@
   },
   {
     "code": "GE.73.613987",
-    "name": "Khashuris Raioni"
+    "name": "Khashuris Munitsip'alit'et'i"
   },
   {
     "code": "GE.66.614003",
-    "name": "Kharagaulis Raioni"
+    "name": "Kharagaulis Munitsip'alit'et'i"
   },
   {
     "code": "GE.69.614086",
@@ -61061,7 +61061,7 @@
   },
   {
     "code": "GE.73.614103",
-    "name": "Kaspis Raioni"
+    "name": "K'asp'is Munitsip'alit'et'i"
   },
   {
     "code": "GE.73.614130",
@@ -61169,19 +61169,19 @@
   },
   {
     "code": "GE.66.828308",
-    "name": "K’alak’i Chiat’ura"
+    "name": "Ch'iaturis Munitsip'alit'et'i"
   },
   {
     "code": "GE.66.828310",
-    "name": "Kalaki Kutaisi"
+    "name": "Kutaisis Munitsip'alit'et'i"
   },
   {
     "code": "GE.71.828311",
-    "name": "Kalaki Poti"
+    "name": "Potis Munitsip'alit'et'i"
   },
   {
     "code": "GE.68.828312",
-    "name": "Kalaki Rustavi"
+    "name": "Rustavis Munitsip'alit'et'i"
   },
   {
     "code": "GE.66.828313",
@@ -61322,6 +61322,10 @@
   {
     "code": "GE.51.13132123",
     "name": "Samgori District"
+  },
+  {
+    "code": "GE.04.13216140",
+    "name": "Batumis Munitsip'alit'et'i"
   },
   {
     "code": "GF.GF.973",
@@ -87441,7 +87445,7 @@
   },
   {
     "code": "KR.11.11060",
-    "name": "Dongdaemun-gu"
+    "name": "Dongdaemun District"
   },
   {
     "code": "KR.11.11100",
@@ -87653,7 +87657,7 @@
   },
   {
     "code": "KR.11.11170",
-    "name": "Guro-gu"
+    "name": "Guro District"
   },
   {
     "code": "KR.14.37310",
@@ -88125,7 +88129,7 @@
   },
   {
     "code": "KR.10.21120",
-    "name": "Gangseo-gu"
+    "name": "Gangseo District"
   },
   {
     "code": "KR.10.21110",
@@ -136333,7 +136337,7 @@
   },
   {
     "code": "RO.38.163681",
-    "name": "Comuna Duda  Epureni"
+    "name": "Comuna Duda Epureni"
   },
   {
     "code": "RO.38.163789",
@@ -141741,7 +141745,7 @@
   },
   {
     "code": "RO.20.83632",
-    "name": "Municipiul  Topliţa"
+    "name": "Municipiul Topliţa"
   },
   {
     "code": "RO.29.125347",
@@ -146593,15 +146597,15 @@
   },
   {
     "code": "RU.13.825029",
-    "name": "Gorod Zlatoust"
+    "name": "Zlatoustovskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.825030",
-    "name": "Gorod Magnitogorsk"
+    "name": "Magnitogorskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.825031",
-    "name": "Gorod Ust’-Katav"
+    "name": "Ust'-Katavskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.16.825032",
@@ -147889,7 +147893,7 @@
   },
   {
     "code": "RU.40.1510422",
-    "name": "Belozërskiy Rayon"
+    "name": "Belozerskiy Rayon"
   },
   {
     "code": "RU.71.1510447",
@@ -147989,11 +147993,11 @@
   },
   {
     "code": "RU.13.1535932",
-    "name": "Gorod Chelyabinsk"
+    "name": "Chelyabinskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.1535933",
-    "name": "Gorod Verkhniy Ufaley"
+    "name": "Verkhneufaleyskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.1535934",
@@ -148001,11 +148005,11 @@
   },
   {
     "code": "RU.13.1535935",
-    "name": "Gorod Karabash"
+    "name": "Karabashskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.1535936",
-    "name": "Gorod Kopeysk"
+    "name": "Kopeyskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.1535937",
@@ -148013,11 +148017,11 @@
   },
   {
     "code": "RU.13.1535938",
-    "name": "Gorod Kyshtym"
+    "name": "Kyshtymskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.1535939",
-    "name": "Gorod Miass"
+    "name": "Miasskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.1535940",
@@ -148025,7 +148029,7 @@
   },
   {
     "code": "RU.13.1535941",
-    "name": "Gorod Yuzhnoural’sk"
+    "name": "Yuzhnoural'skiy Gorodskoy Okrug"
   },
   {
     "code": "RU.71.1536221",
@@ -152138,6 +152142,58 @@
   {
     "code": "RU.92.13139229",
     "name": "Vilyuchinskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.13.13197481",
+    "name": "Lokomotivnyy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.13.13197482",
+    "name": "Ashinskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.13.13197483",
+    "name": "Snezhinskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.13.13197485",
+    "name": "Trëkhgornyy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.13.13197486",
+    "name": "Chebarkul'skiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.13.13197487",
+    "name": "Troitskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.40.13216323",
+    "name": "Kurganskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.40.13216324",
+    "name": "Zverinogolovskiy Rayon"
+  },
+  {
+    "code": "RU.20.13216837",
+    "name": "Gorodskoy Okrug Zima"
+  },
+  {
+    "code": "RU.20.13216838",
+    "name": "Gorodskoy Okrug Svirsk"
+  },
+  {
+    "code": "RU.20.13216839",
+    "name": "Gorodskoy Okrug Usol'ye-Sibirskoye"
+  },
+  {
+    "code": "RU.20.13216840",
+    "name": "Gorodskoy Okrug Ust'-Ilimsk"
+  },
+  {
+    "code": "RU.20.13216841",
+    "name": "Gorodskoy Okrug Cheremkhovo"
   },
   {
     "code": "RW.11.52",
@@ -167789,7 +167845,7 @@
   },
   {
     "code": "UA.04.1210",
-    "name": "Novomoskovsk Raion"
+    "name": "Samar Raion"
   },
   {
     "code": "UA.04.1208",
