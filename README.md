@@ -16,22 +16,19 @@ npm install --save cities.json
 
 ## Usage
 
-Either on **node** or the **browser** (with `webpack`) it get as simple as this:
+**Node.js**
 
-**ES5**
+*Since **Node.js** v22 you should import `json` files with [import attributes](https://nodejs.org/docs/latest-v22.x/api/esm.html#import-attributes):*
 
 ```js
-const cities = require('cities.json');
+import cities from 'cities.json' with { type: 'json' }
 ```
 
-**ES6**
-
+**Webpack**
 ```js
 import cities from 'cities.json';
 ```
-
-> Since webpack >= v2.0.0, importing of JSON files will work by default.
-
+> *Since webpack >= v2.0.0, importing of JSON files will work by default.*
 
 ## Description
 
@@ -44,7 +41,7 @@ This Json version is an array of object of the following shape:
 - Admin code 1: the code of an administrative division (see [Administrative divisions](#administrative-divisions))
 - Admin code 2: the code of an administrative subdivision (see [Administrative divisions](#administrative-divisions))
 
-```jsonc
+```json
 [
   {
     "name": "Lyon",
@@ -54,7 +51,6 @@ This Json version is an array of object of the following shape:
     "admin1": "84",
     "admin2": "69"
   }
-  // etc.
 ]
 ```
 
