@@ -8,6 +8,7 @@
     "convert": "node convert",
     "download": "node download",
     "build": "npm run download && npm run convert",
+    "geojson": "node geojson",
     "prettier": "prettier -w -u .",
     "release": "release-it"
   },
