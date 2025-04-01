@@ -1,7 +1,8 @@
 {
   "git": {
     "commitMessage": "chore: release v${version}",
-    "requireCleanWorkingDir": false
+    "requireCleanWorkingDir": false,
+    "pushArgs": "--follow-tags -o ci.skip"
   },
   "github": {
     "release": true
