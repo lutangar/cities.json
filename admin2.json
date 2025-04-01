@@ -61328,6 +61328,10 @@
     "name": "Batumis Munitsip'alit'et'i"
   },
   {
+    "code": "GE.02.13254038",
+    "name": "Azharis Munitsip'alit'et'i"
+  },
+  {
     "code": "GF.GF.973",
     "name": "Guyane"
   },
@@ -141137,7 +141141,7 @@
   },
   {
     "code": "RO.21.87175",
-    "name": "Municipiul  Vulcan"
+    "name": "Municipiul Vulcan"
   },
   {
     "code": "RO.26.110116",
@@ -152194,6 +152198,34 @@
   {
     "code": "RU.20.13216841",
     "name": "Gorodskoy Okrug Cheremkhovo"
+  },
+  {
+    "code": "RU.54.13263937",
+    "name": "Gorodskoy Okrug Omsk"
+  },
+  {
+    "code": "RU.54.13263938",
+    "name": "Isil'kul'skoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.54.13263939",
+    "name": "Nazyvayevskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.54.13263940",
+    "name": "Tyukalinskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.54.13263941",
+    "name": "Tarskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.54.13263942",
+    "name": "Kalachinskoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.54.13263943",
+    "name": "Azovskiy Nemetskiy Natsional'nyy Rayon"
   },
   {
     "code": "RW.11.52",
