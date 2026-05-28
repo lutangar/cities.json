@@ -7,9 +7,7 @@ const removeDoubleQuotes = (value) => value.replaceAll('"', '');
 const txtToJson = (filename, columnNameMapping = {}, jsonFilePath) => {
   const txtFilePath = `./${filename}.txt`;
   jsonFilePath = jsonFilePath || `./${filename}.json`;
-  let entries = [],
-    i = 0,
-    lineValues;
+  const entries = [];
   const mappedColumnIndexes = Object.keys(columnNameMapping).map((index) =>
     parseInt(index)
   );
@@ -21,22 +19,18 @@ const txtToJson = (filename, columnNameMapping = {}, jsonFilePath) => {
       terminal: false,
     })
     .on('line', function (line) {
-      lineValues = line.split('\t');
-      if (i !== 0) {
-        entries.push(
-          lineValues.reduce((entry, value, valueIndex) => {
-            if (mappedColumnIndexes.includes(valueIndex)) {
-              entry[columnNameMapping[valueIndex]] = removeDoubleQuotes(value);
-            }
-
-            return entry;
-          }, {})
-        );
-      }
-      i++;
+      const lineValues = line.split('\t');
+      entries.push(
+        lineValues.reduce((entry, value, valueIndex) => {
+          if (mappedColumnIndexes.includes(valueIndex)) {
+            entry[columnNameMapping[valueIndex]] = removeDoubleQuotes(value);
+          }
+          return entry;
+        }, {})
+      );
     })
     .on('close', function () {
-      console.log(`Writing ${i} entries to ${jsonFilePath}`);
+      console.log(`Writing ${entries.length} entries to ${jsonFilePath}`);
       jsonfile.writeFile(jsonFilePath, entries, { spaces: 2 }, function (err) {
         if (err) {
           console.error(err);
