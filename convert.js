@@ -1,42 +1,37 @@
 const fs = require('fs');
-const jsonfile = require('jsonfile');
 const readline = require('readline');
 
 const removeDoubleQuotes = (value) => value.replaceAll('"', '');
 
-const txtToJson = (filename, columnNameMapping = {}, jsonFilePath) => {
+const txtToJson = async (filename, columnNameMapping, jsonFilePath) => {
   const txtFilePath = `./${filename}.txt`;
   jsonFilePath = jsonFilePath || `./${filename}.json`;
   const entries = [];
-  const mappedColumnIndexes = Object.keys(columnNameMapping).map((index) =>
-    parseInt(index)
-  );
+  const mappingEntries = Object.entries(columnNameMapping);
 
-  readline
-    .createInterface({
-      input: fs.createReadStream(txtFilePath),
-      output: process.stdout,
-      terminal: false,
-    })
-    .on('line', function (line) {
-      const lineValues = line.split('\t');
-      entries.push(
-        lineValues.reduce((entry, value, valueIndex) => {
-          if (mappedColumnIndexes.includes(valueIndex)) {
-            entry[columnNameMapping[valueIndex]] = removeDoubleQuotes(value);
-          }
-          return entry;
-        }, {})
-      );
-    })
-    .on('close', function () {
-      console.log(`Writing ${entries.length} entries to ${jsonFilePath}`);
-      jsonfile.writeFile(jsonFilePath, entries, { spaces: 2 }, function (err) {
-        if (err) {
-          console.error(err);
-        }
-      });
-    });
+  const rl = readline.createInterface({
+    input: fs.createReadStream(txtFilePath),
+    crlfDelay: Infinity,
+  });
+
+  for await (const line of rl) {
+    if (line === '') continue;
+    const lineValues = line.split('\t');
+    const entry = {};
+    for (const [idx, key] of mappingEntries) {
+      const value = lineValues[+idx];
+      if (value !== undefined) {
+        entry[key] = removeDoubleQuotes(value);
+      }
+    }
+    entries.push(entry);
+  }
+
+  console.log(`Writing ${entries.length} entries to ${jsonFilePath}`);
+  await fs.promises.writeFile(
+    jsonFilePath,
+    JSON.stringify(entries, null, 2) + '\n'
+  );
 };
 
 // geonameid         : integer id of record in geonames database
@@ -58,33 +53,26 @@ const txtToJson = (filename, columnNameMapping = {}, jsonFilePath) => {
 // dem               : digital elevation model, srtm3 or gtopo30, average elevation of 3''x3'' (ca 90mx90m) or 30''x30'' (ca 900mx900m) area in meters, integer. srtm processed by cgiar/ciat.
 // timezone          : the iana timezone id (see file timeZone.txt) varchar(40)
 // modification date : date of last modification in yyyy-MM-dd format
-txtToJson(
-  'cities1000',
-  {
-    8: 'country',
-    1: 'name',
-    4: 'lat',
-    5: 'lng',
-    10: 'admin1',
-    11: 'admin2',
-  },
-  './cities.json'
-);
 
-txtToJson(
-  'admin1CodesASCII',
-  {
-    0: 'code',
-    1: 'name',
-  },
-  './admin1.json'
-);
-
-txtToJson(
-  'admin2Codes',
-  {
-    0: 'code',
-    1: 'name',
-  },
-  './admin2.json'
-);
+(async () => {
+  await Promise.all([
+    txtToJson(
+      'cities1000',
+      {
+        1: 'name',
+        4: 'lat',
+        5: 'lng',
+        8: 'country',
+        10: 'admin1',
+        11: 'admin2',
+      },
+      './cities.json'
+    ),
+    txtToJson('admin1CodesASCII', { 0: 'code', 1: 'name' }, './admin1.json'),
+    txtToJson('admin2Codes', { 0: 'code', 1: 'name' }, './admin2.json'),
+  ]);
+  console.log('All conversions complete.');
+})().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
