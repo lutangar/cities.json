@@ -30,7 +30,7 @@ const txtToJson = async (filename, columnNameMapping, jsonFilePath) => {
   console.log(`Writing ${entries.length} entries to ${jsonFilePath}`);
   await fs.promises.writeFile(
     jsonFilePath,
-    JSON.stringify(entries, null, 2) + '\n'
+    JSON.stringify(entries) + '\n'
   );
 };
 
