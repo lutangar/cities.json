@@ -1581,7 +1581,7 @@
   },
   {
     "code": "AF.42.3302",
-    "name": "Darah"
+    "name": "Darah-e Hazara"
   },
   {
     "code": "AF.42.3303",
@@ -2272,42 +2272,6 @@
     "name": "Shengavit"
   },
   {
-    "code": "AM.05.13287720",
-    "name": "Ch’arents’avan Hamaynk’"
-  },
-  {
-    "code": "AM.08.13287721",
-    "name": "Tat'ev Hamaynk’"
-  },
-  {
-    "code": "AM.07.13287722",
-    "name": "Ashots’k’ Hamaynk’"
-  },
-  {
-    "code": "AM.05.13287723",
-    "name": "Garrni Hamaynk’"
-  },
-  {
-    "code": "AM.06.13287724",
-    "name": "P’ambak Hamaynk’"
-  },
-  {
-    "code": "AM.06.13287725",
-    "name": "T’umanyan Hamaynk’"
-  },
-  {
-    "code": "AM.08.13287726",
-    "name": "K’ajaran Hamaynk’"
-  },
-  {
-    "code": "AM.06.13287727",
-    "name": "Step’anavan Hamaynk’"
-  },
-  {
-    "code": "AM.11.13306379",
-    "name": "Yerevan Hamaynk'"
-  },
-  {
     "code": "AO.18.145530",
     "name": "Saurimo"
   },
@@ -2345,7 +2309,7 @@
   },
   {
     "code": "AO.14.876129",
-    "name": "Bundas"
+    "name": "Lumbala Nguimbo"
   },
   {
     "code": "AO.14.876176",
@@ -2405,7 +2369,7 @@
   },
   {
     "code": "AO.15.2237144",
-    "name": "Santa Cruz"
+    "name": "Milunga"
   },
   {
     "code": "AO.15.2237499",
@@ -2433,7 +2397,7 @@
   },
   {
     "code": "AO.19.2238950",
-    "name": "Município Pango Aluquém"
+    "name": "Pango Aluquém"
   },
   {
     "code": "AO.16.2239000",
@@ -2461,7 +2425,7 @@
   },
   {
     "code": "AO.16.2239519",
-    "name": "Mbanza Congo"
+    "name": "Mbanza Kongo"
   },
   {
     "code": "AO.12.2239696",
@@ -2597,7 +2561,7 @@
   },
   {
     "code": "AO.15.2243631",
-    "name": "Município Bembe"
+    "name": "Bembe"
   },
   {
     "code": "AO.03.2243645",
@@ -2645,7 +2609,7 @@
   },
   {
     "code": "AO.08.3345923",
-    "name": "Chicala-Choloanga"
+    "name": "Chicala Choloanga"
   },
   {
     "code": "AO.06.3346014",
@@ -2718,10 +2682,6 @@
   {
     "code": "AO.12.3347614",
     "name": "Luquembo"
-  },
-  {
-    "code": "AO.14.3347741",
-    "name": "Luchazes"
   },
   {
     "code": "AO.09.3347760",
@@ -2865,7 +2825,7 @@
   },
   {
     "code": "AO.02.3351012",
-    "name": "Município Camacupa"
+    "name": "Camacupa"
   },
   {
     "code": "AO.02.3351013",
@@ -2941,7 +2901,7 @@
   },
   {
     "code": "AO.20.10401828",
-    "name": "Município Cazenga"
+    "name": "Cazenga"
   },
   {
     "code": "AO.01.10440258",
@@ -5509,27 +5469,27 @@
   },
   {
     "code": "AU.05.48410",
-    "name": "City of West Torrens"
+    "name": "West Torrens"
   },
   {
     "code": "AU.08.57210",
-    "name": "Plantagenet Shire"
+    "name": "Plantagenet"
   },
   {
     "code": "AU.08.57080",
-    "name": "City of Perth"
+    "name": "Perth"
   },
   {
     "code": "AU.08.54480",
-    "name": "Kent Shire"
+    "name": "Kent"
   },
   {
     "code": "AU.08.53290",
-    "name": "Esperance Shire"
+    "name": "Esperance"
   },
   {
     "code": "AU.08.53010",
-    "name": "Dumbleyung Shire"
+    "name": "Dumbleyung"
   },
   {
     "code": "AU.05.40700",
@@ -5537,7 +5497,7 @@
   },
   {
     "code": "AU.08.50280",
-    "name": "Augusta-Margaret River Shire"
+    "name": "Augusta Margaret River"
   },
   {
     "code": "AU.07.27350",
@@ -5545,23 +5505,23 @@
   },
   {
     "code": "AU.02.17950",
-    "name": "Warren Shire"
+    "name": "Warren"
   },
   {
     "code": "AU.02.17400",
-    "name": "Tenterfield Municipality"
+    "name": "Tenterfield"
   },
   {
     "code": "AU.02.17350",
-    "name": "Temora Municipality"
+    "name": "Temora"
   },
   {
     "code": "AU.02.17310",
-    "name": "Tamworth Municipality"
+    "name": "Tamworth"
   },
   {
     "code": "AU.02.16950",
-    "name": "Shoalhaven Shire"
+    "name": "Shoalhaven"
   },
   {
     "code": "AU.02.16550",
@@ -5569,19 +5529,19 @@
   },
   {
     "code": "AU.02.16400",
-    "name": "Port Stephens Shire"
+    "name": "Port Stephens"
   },
   {
     "code": "AU.02.16350",
-    "name": "Penrith Municipality"
+    "name": "Penrith"
   },
   {
     "code": "AU.02.16150",
-    "name": "Orange Municipality"
+    "name": "Orange"
   },
   {
     "code": "AU.02.15700",
-    "name": "Nambucca Shire"
+    "name": "Nambucca Valley"
   },
   {
     "code": "AU.07.24780",
@@ -5589,19 +5549,19 @@
   },
   {
     "code": "AU.02.15050",
-    "name": "Maitland Municipality"
+    "name": "Maitland"
   },
   {
     "code": "AU.02.14850",
-    "name": "Lismore Municipality"
+    "name": "Lismore"
   },
   {
     "code": "AU.02.14650",
-    "name": "Lake Macquarie Shire"
+    "name": "Lake Macquarie"
   },
   {
     "code": "AU.02.14000",
-    "name": "Hornsby Shire"
+    "name": "Hornsby"
   },
   {
     "code": "AU.07.21890",
@@ -5609,23 +5569,23 @@
   },
   {
     "code": "AU.02.11500",
-    "name": "Campbelltown Municipality"
+    "name": "Campbelltown (NSW)"
   },
   {
     "code": "AU.02.11350",
-    "name": "Byron Shire"
+    "name": "Byron"
   },
   {
     "code": "AU.02.11250",
-    "name": "Broken Hill Municipality"
+    "name": "Broken Hill"
   },
   {
     "code": "AU.02.10900",
-    "name": "Blue Mountains Municipality"
+    "name": "Blue Mountains"
   },
   {
     "code": "AU.04.30300",
-    "name": "Balonne Shire"
+    "name": "Balonne"
   },
   {
     "code": "AU.07.20570",
@@ -5633,11 +5593,11 @@
   },
   {
     "code": "AU.02.10050",
-    "name": "Albury Municipality"
+    "name": "Albury"
   },
   {
     "code": "AU.02.17200",
-    "name": "City of Sydney"
+    "name": "Sydney"
   },
   {
     "code": "AU.04.34860",
@@ -5669,11 +5629,11 @@
   },
   {
     "code": "AU.06.60810",
-    "name": "Central Coast"
+    "name": "Central Coast (Tas.)"
   },
   {
     "code": "AU.06.61010",
-    "name": "Central Highlands"
+    "name": "Central Highlands (Tas.)"
   },
   {
     "code": "AU.06.61210",
@@ -5717,7 +5677,7 @@
   },
   {
     "code": "AU.02.13340",
-    "name": "Greater Hume Shire"
+    "name": "Greater Hume"
   },
   {
     "code": "AU.02.17550",
@@ -5725,11 +5685,11 @@
   },
   {
     "code": "AU.02.17620",
-    "name": "Upper Hunter Shire"
+    "name": "Upper Hunter"
   },
   {
     "code": "AU.06.65410",
-    "name": "Waratah/Wynyard"
+    "name": "Waratah-Wynyard"
   },
   {
     "code": "AU.06.65610",
@@ -5829,7 +5789,7 @@
   },
   {
     "code": "AU.04.36960",
-    "name": "Torres Strait Island Region"
+    "name": "Torres Strait Island"
   },
   {
     "code": "AU.04.37010",
@@ -5953,7 +5913,7 @@
   },
   {
     "code": "AU.05.43360",
-    "name": "Kingston"
+    "name": "Kingston (SA)"
   },
   {
     "code": "AU.05.48640",
@@ -5965,7 +5925,7 @@
   },
   {
     "code": "AU.05.43710",
-    "name": "Lower Eyre Peninsula"
+    "name": "Lower Eyre"
   },
   {
     "code": "AU.05.43790",
@@ -5973,7 +5933,7 @@
   },
   {
     "code": "AU.05.43920",
-    "name": "Mallala"
+    "name": "Adelaide Plains"
   },
   {
     "code": "AU.05.44000",
@@ -6009,7 +5969,7 @@
   },
   {
     "code": "AU.05.45090",
-    "name": "Naracoorte and Lucindale"
+    "name": "Naracoorte Lucindale"
   },
   {
     "code": "AU.05.45120",
@@ -6017,7 +5977,7 @@
   },
   {
     "code": "AU.05.45290",
-    "name": "Norwood Payneham St Peters"
+    "name": "Norwood Payneham and St Peters"
   },
   {
     "code": "AU.05.45340",
@@ -6025,7 +5985,7 @@
   },
   {
     "code": "AU.05.45400",
-    "name": "Orroroo/Carrieton"
+    "name": "Orroroo Carrieton"
   },
   {
     "code": "AU.05.45540",
@@ -6049,7 +6009,7 @@
   },
   {
     "code": "AU.05.46450",
-    "name": "Port Pirie City and Dists"
+    "name": "Port Pirie"
   },
   {
     "code": "AU.05.46510",
@@ -6089,7 +6049,7 @@
   },
   {
     "code": "AU.05.47800",
-    "name": "The Coorong"
+    "name": "Coorong"
   },
   {
     "code": "AU.05.47910",
@@ -6181,7 +6141,7 @@
   },
   {
     "code": "AU.08.51820",
-    "name": "City of Cockburn"
+    "name": "Cockburn"
   },
   {
     "code": "AU.08.51890",
@@ -6309,7 +6269,7 @@
   },
   {
     "code": "AU.08.54280",
-    "name": "Kalgoorlie/Boulder"
+    "name": "Kalgoorlie-Boulder"
   },
   {
     "code": "AU.08.54340",
@@ -6353,7 +6313,7 @@
   },
   {
     "code": "AU.07.20910",
-    "name": "Bayside"
+    "name": "Bayside (Vic.)"
   },
   {
     "code": "AU.07.21010",
@@ -6509,7 +6469,7 @@
   },
   {
     "code": "AU.04.32270",
-    "name": "Central Highlands"
+    "name": "Central Highlands (Qld)"
   },
   {
     "code": "AU.04.32310",
@@ -6525,7 +6485,7 @@
   },
   {
     "code": "AU.04.32500",
-    "name": "Cook Shire"
+    "name": "Cook"
   },
   {
     "code": "AU.04.32600",
@@ -6545,7 +6505,7 @@
   },
   {
     "code": "AU.04.33200",
-    "name": "Flinders"
+    "name": "Flinders (Qld)"
   },
   {
     "code": "AU.04.33220",
@@ -6565,7 +6525,7 @@
   },
   {
     "code": "AU.04.33620",
-    "name": "Gympie Regional Council"
+    "name": "Gympie"
   },
   {
     "code": "AU.04.33800",
@@ -6725,7 +6685,7 @@
   },
   {
     "code": "AU.08.56790",
-    "name": "Northampton Shire"
+    "name": "Northampton"
   },
   {
     "code": "AU.08.56860",
@@ -6809,7 +6769,7 @@
   },
   {
     "code": "AU.05.40250",
-    "name": "Anangu Pitjantjatjara"
+    "name": "Anangu Pitjantjatjara Yankunytjatjara"
   },
   {
     "code": "AU.05.40310",
@@ -6821,11 +6781,11 @@
   },
   {
     "code": "AU.05.40520",
-    "name": "Berri and Barmera"
+    "name": "Berri Barmera"
   },
   {
     "code": "AU.05.40910",
-    "name": "Campbelltown"
+    "name": "Campbelltown (SA)"
   },
   {
     "code": "AU.05.41010",
@@ -6893,7 +6853,7 @@
   },
   {
     "code": "AU.06.62010",
-    "name": "Flinders"
+    "name": "Flinders (Tas.)"
   },
   {
     "code": "AU.06.62210",
@@ -6901,7 +6861,7 @@
   },
   {
     "code": "AU.06.62410",
-    "name": "Glamorgan/Spring Bay"
+    "name": "Glamorgan-Spring Bay"
   },
   {
     "code": "AU.06.62610",
@@ -6929,7 +6889,7 @@
   },
   {
     "code": "AU.06.63810",
-    "name": "Latrobe"
+    "name": "Latrobe (Tas.)"
   },
   {
     "code": "AU.06.64010",
@@ -6965,11 +6925,11 @@
   },
   {
     "code": "AU.02.10470",
-    "name": "Bathurst Regional"
+    "name": "Bathurst"
   },
   {
     "code": "AU.02.17420",
-    "name": "The Hills Shire"
+    "name": "The Hills"
   },
   {
     "code": "AU.02.10550",
@@ -6998,10 +6958,6 @@
   {
     "code": "AU.02.10950",
     "name": "Bogan"
-  },
-  {
-    "code": "AU.02.11100",
-    "name": "Botany Bay"
   },
   {
     "code": "AU.02.11150",
@@ -7069,7 +7025,7 @@
   },
   {
     "code": "AU.02.13510",
-    "name": "Gundagai"
+    "name": "Cootamundra-Gundagai"
   },
   {
     "code": "AU.02.13550",
@@ -7145,7 +7101,7 @@
   },
   {
     "code": "AU.02.15270",
-    "name": "Mid-Western Regional"
+    "name": "Mid-Western"
   },
   {
     "code": "AU.02.15300",
@@ -7200,10 +7156,6 @@
     "name": "Richmond Valley"
   },
   {
-    "code": "AU.02.16650",
-    "name": "City of Rockdale"
-  },
-  {
     "code": "AU.02.16700",
     "name": "Ryde"
   },
@@ -7221,11 +7173,11 @@
   },
   {
     "code": "AU.02.17150",
-    "name": "Sutherland Shire"
+    "name": "Sutherland"
   },
   {
     "code": "AU.02.17640",
-    "name": "Upper Lachlan Shire"
+    "name": "Upper Lachlan"
   },
   {
     "code": "AU.02.17650",
@@ -7245,7 +7197,7 @@
   },
   {
     "code": "AU.02.18020",
-    "name": "Warrumbungle Shire"
+    "name": "Warrumbungle"
   },
   {
     "code": "AU.02.18050",
@@ -7289,7 +7241,7 @@
   },
   {
     "code": "AU.07.23430",
-    "name": "Kingston"
+    "name": "Kingston (Vic.)"
   },
   {
     "code": "AU.07.23670",
@@ -7297,7 +7249,7 @@
   },
   {
     "code": "AU.07.23810",
-    "name": "Latrobe"
+    "name": "Latrobe (Vic.)"
   },
   {
     "code": "AU.07.23940",
@@ -7353,7 +7305,7 @@
   },
   {
     "code": "AU.07.25250",
-    "name": "Moreland"
+    "name": "Merri-bek"
   },
   {
     "code": "AU.07.25340",
@@ -7557,11 +7509,11 @@
   },
   {
     "code": "AU.06.65210",
-    "name": "Tasman Peninsula"
+    "name": "Tasman"
   },
   {
     "code": "AU.02.17040",
-    "name": "Snowy Monaro Regional"
+    "name": "Snowy Monaro"
   },
   {
     "code": "AU.04.32810",
@@ -7573,7 +7525,7 @@
   },
   {
     "code": "AU.02.16490",
-    "name": "Queanbeyan-Palerang Regional"
+    "name": "Queanbeyan-Palerang"
   },
   {
     "code": "AU.04.34880",
@@ -7593,7 +7545,7 @@
   },
   {
     "code": "AU.02.10130",
-    "name": "Armidale Regional"
+    "name": "Armidale"
   },
   {
     "code": "AU.02.17080",
@@ -7601,7 +7553,7 @@
   },
   {
     "code": "AU.02.18230",
-    "name": "Western Plains Regional"
+    "name": "Dubbo"
   },
   {
     "code": "AU.08.53800",
@@ -7637,7 +7589,7 @@
   },
   {
     "code": "AU.02.11650",
-    "name": "Central Coast"
+    "name": "Central Coast (NSW)"
   },
   {
     "code": "AU.02.12380",
@@ -7662,6 +7614,18 @@
   {
     "code": "AU.03.74680",
     "name": "West Daly"
+  },
+  {
+    "code": "AU.02.10500",
+    "name": "Bayside (NSW)"
+  },
+  {
+    "code": "AU.03.71150",
+    "name": "Darwin Waterfront Precinct"
+  },
+  {
+    "code": "AU.03.71700",
+    "name": "Groote Archipelago"
   },
   {
     "code": "AX.213.941",
@@ -8193,7 +8157,7 @@
   },
   {
     "code": "BF.08.42",
-    "name": "Province de la Tapoa"
+    "name": "Province du Gobnangou"
   },
   {
     "code": "BF.01.73",
@@ -8201,7 +8165,7 @@
   },
   {
     "code": "BF.12.40",
-    "name": "Province du Soum"
+    "name": "Province du Djelgodji"
   },
   {
     "code": "BF.06.72",
@@ -8213,7 +8177,7 @@
   },
   {
     "code": "BF.05.70",
-    "name": "Province du Sanmatenga"
+    "name": "Sandbondtenga"
   },
   {
     "code": "BF.06.36",
@@ -8233,7 +8197,7 @@
   },
   {
     "code": "BF.11.68",
-    "name": "Oubritenga"
+    "name": "Province du Bassitenga"
   },
   {
     "code": "BF.07.65",
@@ -8253,7 +8217,7 @@
   },
   {
     "code": "BF.01.58",
-    "name": "Province de la Kossi"
+    "name": "Province de la Koosin"
   },
   {
     "code": "BF.02.55",
@@ -8325,7 +8289,7 @@
   },
   {
     "code": "BF.04.59",
-    "name": "Province du Koulpélogo"
+    "name": "Province du Koulpelogo"
   },
   {
     "code": "BF.11.60",
@@ -8337,7 +8301,7 @@
   },
   {
     "code": "BF.10.62",
-    "name": "Province du Loroum"
+    "name": "Province du Lorum"
   },
   {
     "code": "BF.01.66",
@@ -9464,7 +9428,7 @@
     "name": "Gashoho"
   },
   {
-    "code": "BI.23.7670596",
+    "code": "BI.13.7670596",
     "name": "Gisozi"
   },
   {
@@ -9484,7 +9448,7 @@
     "name": "Kayanza"
   },
   {
-    "code": "BI.23.7670601",
+    "code": "BI.13.7670601",
     "name": "Kayokwe"
   },
   {
@@ -9520,11 +9484,11 @@
     "name": "Muyinga"
   },
   {
-    "code": "BI.23.7670610",
+    "code": "BI.13.7670610",
     "name": "Nyabihanga"
   },
   {
-    "code": "BI.14.7670611",
+    "code": "BI.13.7670611",
     "name": "Nyabikere"
   },
   {
@@ -9636,7 +9600,7 @@
     "name": "Commune of Rumonge"
   },
   {
-    "code": "BI.23.9171802",
+    "code": "BI.13.9171802",
     "name": "Ndava"
   },
   {
@@ -9680,11 +9644,11 @@
     "name": "Songa"
   },
   {
-    "code": "BI.23.9171813",
+    "code": "BI.13.9171813",
     "name": "Rusaka"
   },
   {
-    "code": "BI.23.9171814",
+    "code": "BI.13.9171814",
     "name": "Bisoro"
   },
   {
@@ -9804,7 +9768,7 @@
     "name": "Nyabitsinda"
   },
   {
-    "code": "BI.14.9171852",
+    "code": "BI.13.9171852",
     "name": "Shombo"
   },
   {
@@ -9824,7 +9788,7 @@
     "name": "Bweru"
   },
   {
-    "code": "BI.14.9171861",
+    "code": "BI.13.9171861",
     "name": "Gitaramuka"
   },
   {
@@ -9832,7 +9796,7 @@
     "name": "Nyamurenza"
   },
   {
-    "code": "BI.14.9171866",
+    "code": "BI.13.9171866",
     "name": "Bugenyuzi"
   },
   {
@@ -9848,7 +9812,7 @@
     "name": "Ntega"
   },
   {
-    "code": "BI.14.9171872",
+    "code": "BI.13.9171872",
     "name": "Gihogazi"
   },
   {
@@ -9856,11 +9820,11 @@
     "name": "Kiremba"
   },
   {
-    "code": "BI.14.9171878",
+    "code": "BI.13.9171878",
     "name": "Mutumba"
   },
   {
-    "code": "BI.14.9171879",
+    "code": "BI.13.9171879",
     "name": "Buhiga"
   },
   {
@@ -10278,6 +10242,94 @@
   {
     "code": "BN.02.11821322",
     "name": "Sungai Kebun"
+  },
+  {
+    "code": "BN.01.13602676",
+    "name": "Mukim Sukang"
+  },
+  {
+    "code": "BN.01.13602680",
+    "name": "Mukim Melilas"
+  },
+  {
+    "code": "BN.01.13602684",
+    "name": "Mukim Kuala Belait"
+  },
+  {
+    "code": "BN.01.13602694",
+    "name": "Mukim Labi"
+  },
+  {
+    "code": "BN.01.13602696",
+    "name": "Mukim Seria"
+  },
+  {
+    "code": "BN.01.13602697",
+    "name": "Mukim Liang"
+  },
+  {
+    "code": "BN.01.13602704",
+    "name": "Mukim Bukit Sawat"
+  },
+  {
+    "code": "BN.01.13602705",
+    "name": "Mukim Kuala Balai"
+  },
+  {
+    "code": "BN.03.13603165",
+    "name": "Mukim Labu"
+  },
+  {
+    "code": "BN.03.13603174",
+    "name": "Mukim Batu Apoi"
+  },
+  {
+    "code": "BN.03.13603197",
+    "name": "Mukim Bangar"
+  },
+  {
+    "code": "BN.03.13603198",
+    "name": "Mukim Amo"
+  },
+  {
+    "code": "BN.03.13603207",
+    "name": "Mukim Bokok"
+  },
+  {
+    "code": "BN.04.13606570",
+    "name": "Mukim Keriam"
+  },
+  {
+    "code": "BN.04.13606571",
+    "name": "Mukim Telisai"
+  },
+  {
+    "code": "BN.04.13606572",
+    "name": "Mukim Ukong"
+  },
+  {
+    "code": "BN.04.13606584",
+    "name": "Mukim Tanjong Maya"
+  },
+  {
+    "code": "BN.04.13606590",
+    "name": "Mukim Pekan Tutong"
+  },
+  {
+    "code": "BN.04.13606591",
+    "name": "Mukim Lamunin"
+  },
+  {
+    "code": "BN.04.13606598",
+    "name": "Mukim Rambai"
+  },
+  {
+    "code": "BN.02.13626465",
+    "name": "Mukim Kilanas"
+  },
+  {
+    "code": "BN.02.13626526",
+    "name": "Mukim Pangkalan Batu"
   },
   {
     "code": "BO.08.0705",
@@ -15973,7 +16025,7 @@
   },
   {
     "code": "BR.22.2401305",
-    "name": "Augusto Severo"
+    "name": "Campo Grande"
   },
   {
     "code": "BR.22.2401404",
@@ -19432,7 +19484,7 @@
     "name": "Paripiranga"
   },
   {
-    "code": "BR.05.2923902",
+    "code": "BR.00.2923902",
     "name": "Pau Brasil"
   },
   {
@@ -28001,7 +28053,7 @@
   },
   {
     "code": "BR.26.4206108",
-    "name": "Grão Pará"
+    "name": "Grão-Pará"
   },
   {
     "code": "BR.26.4206207",
@@ -31644,8 +31696,8 @@
     "name": "Nova Veneza"
   },
   {
-    "code": "BR.29.5215207",
-    "name": "Novo Brasil"
+    "code": "BR.00.5215207",
+    "name": "Novo Brazil"
   },
   {
     "code": "BR.29.5215231",
@@ -35225,7 +35277,7 @@
   },
   {
     "code": "CA.01.4813028",
-    "name": "Municipal District of Westlock No. 92"
+    "name": "Westlock County"
   },
   {
     "code": "CA.01.4803018",
@@ -42432,6 +42484,10 @@
     "name": "Region Maloja"
   },
   {
+    "code": "CH.JU.2604",
+    "name": "Moutier"
+  },
+  {
     "code": "CI.97.2597334",
     "name": "Bafing"
   },
@@ -42566,6 +42622,10 @@
   {
     "code": "CK.11695124.4035518",
     "name": "Tautu District"
+  },
+  {
+    "code": "CK.11695425.4035726",
+    "name": "Arorangi District"
   },
   {
     "code": "CK.11695124.4036514",
@@ -45405,7 +45465,7 @@
   },
   {
     "code": "CO.25.88001",
-    "name": "San Andrés"
+    "name": "Saint Andrew"
   },
   {
     "code": "CO.02.05647",
@@ -57996,6 +58056,10 @@
     "name": "Baris Shurtah"
   },
   {
+    "code": "EG.20.13427561",
+    "name": "Markaz Dumyāţ"
+  },
+  {
     "code": "ER.06.307",
     "name": "Af'abet"
   },
@@ -58825,7 +58889,7 @@
   },
   {
     "code": "ET.44.11750840",
-    "name": "Kolfe Keranyo"
+    "name": "Kolife Keraniyo"
   },
   {
     "code": "ET.44.11750841",
@@ -58833,7 +58897,7 @@
   },
   {
     "code": "ET.44.11750842",
-    "name": "Nefas Silk Lafto"
+    "name": "Nifas Silk Lafto"
   },
   {
     "code": "ET.44.11750843",
@@ -58849,7 +58913,7 @@
   },
   {
     "code": "ET.44.11750846",
-    "name": "Gulele"
+    "name": "Gullele"
   },
   {
     "code": "ET.44.11750847",
@@ -58866,6 +58930,62 @@
   {
     "code": "ET.51.11750850",
     "name": "West Arsi"
+  },
+  {
+    "code": "ET.53.13439328",
+    "name": "North Western"
+  },
+  {
+    "code": "ET.45.13439329",
+    "name": "Zone 5"
+  },
+  {
+    "code": "ET.45.13439330",
+    "name": "Zone 1"
+  },
+  {
+    "code": "ET.45.13439331",
+    "name": "Zone 4"
+  },
+  {
+    "code": "ET.45.13439332",
+    "name": "Zone 2"
+  },
+  {
+    "code": "ET.51.13439548",
+    "name": "West Wellega"
+  },
+  {
+    "code": "ET.51.13439549",
+    "name": "East Wellega"
+  },
+  {
+    "code": "ET.51.13439550",
+    "name": "East Shewa"
+  },
+  {
+    "code": "ET.51.13439551",
+    "name": "Arsi"
+  },
+  {
+    "code": "ET.51.13439552",
+    "name": "Borena"
+  },
+  {
+    "code": "ET.52.13439553",
+    "name": "Jarar"
+  },
+  {
+    "code": "ET.52.13439554",
+    "name": "Afder"
+  },
+  {
+    "code": "ET.52.13439555",
+    "name": "Liben"
+  },
+  {
+    "code": "ET.44.13587203",
+    "name": "Lemi Kura Sub-City"
   },
   {
     "code": "FI.15.153",
@@ -60937,11 +61057,11 @@
   },
   {
     "code": "GE.71.610823",
-    "name": "Zugdidis Munitsip’alit’et’i"
+    "name": "Zugdidi Municipality"
   },
   {
     "code": "GE.66.610865",
-    "name": "Zest’aponis Munitsip’alit’et’i"
+    "name": "Zestaponi Municipality"
   },
   {
     "code": "GE.70.611068",
@@ -60949,35 +61069,35 @@
   },
   {
     "code": "GE.66.611214",
-    "name": "Vanis Munitsip’alit’et’i"
+    "name": "Vani Municipality"
   },
   {
     "code": "GE.67.611448",
-    "name": "Dedoplists’q’aros Munitsip’alit’et’i"
+    "name": "Dedoplistsqaro Municipality"
   },
   {
     "code": "GE.68.611547",
-    "name": "Ts’alk’is Munitsip’alit’et’i"
+    "name": "Tsalka Municipality"
   },
   {
     "code": "GE.71.611552",
-    "name": "Ts’alenjikhis Munitsip’alit’et’i"
+    "name": "Tsalenjikha Municipality"
   },
   {
     "code": "GE.70.611565",
-    "name": "Tsageris Munitsip’alit’et’i"
+    "name": "Tsageri Municipality"
   },
   {
     "code": "GE.69.611668",
-    "name": "Tianetis Munitsip’alit’et’i"
+    "name": "Tianeti Municipality"
   },
   {
     "code": "GE.68.611676",
-    "name": "Tetrits’q’alos Munitsip’alit’et’i"
+    "name": "Tetritsqaro Municipality"
   },
   {
     "code": "GE.66.611681",
-    "name": "Terjolis Munitsip’alit’et’i"
+    "name": "Terjola Municipality"
   },
   {
     "code": "GE.02.611818",
@@ -60985,19 +61105,23 @@
   },
   {
     "code": "GE.67.611901",
-    "name": "Sighnaghis Munitsip’alit’et’i"
+    "name": "Sighnaghi Municipality"
+  },
+  {
+    "code": "GE.04.611935",
+    "name": "Shuakhevi Municipality"
   },
   {
     "code": "GE.71.612051",
-    "name": "Senakis Raioni"
+    "name": "Senaki Municipality"
   },
   {
     "code": "GE.66.612124",
-    "name": "Samtredia"
+    "name": "Samtredia Municipality"
   },
   {
     "code": "GE.67.612231",
-    "name": "Sagarejos Munitsip’alit’et’i"
+    "name": "Sagarejo Municipality"
   },
   {
     "code": "GE.70.612422",
@@ -61005,7 +61129,7 @@
   },
   {
     "code": "GE.65.612535",
-    "name": "Ozurgetis Munitsip’alit’et’i"
+    "name": "Ozurgeti Municipality"
   },
   {
     "code": "GE.70.612571",
@@ -61013,7 +61137,7 @@
   },
   {
     "code": "GE.70.612590",
-    "name": "Onis Munitsip’alit’et’i"
+    "name": "Oni Municipality"
   },
   {
     "code": "GE.70.612612",
@@ -61025,27 +61149,27 @@
   },
   {
     "code": "GE.69.612889",
-    "name": "Mtskhetis Munitsip’alit’et’i"
+    "name": "Mtskheta Municipality"
   },
   {
     "code": "GE.71.612985",
-    "name": "Mest’iis Munitsip’alit’et’i"
+    "name": "Mestia Municipality"
   },
   {
     "code": "GE.66.613054",
-    "name": "Baghdatis Munitsip’alit’et’i"
+    "name": "Baghdati Municipality"
   },
   {
     "code": "GE.71.613064",
-    "name": "Mart’vilis Munitsip’alit’et’i"
+    "name": "Martvili Municipality"
   },
   {
     "code": "GE.68.613073",
-    "name": "Marneulis Munitsip’alit’et’i"
+    "name": "Marneuli Municipality"
   },
   {
     "code": "GE.70.613225",
-    "name": "Lent’ekhis Munitsip’alit’et’i"
+    "name": "Lentekhi Municipality"
   },
   {
     "code": "GE.69.613233",
@@ -61053,31 +61177,35 @@
   },
   {
     "code": "GE.65.613310",
-    "name": "Lanchkhutis Munitsip’alit’et’i"
+    "name": "Lanchkhuti Municipality"
   },
   {
     "code": "GE.67.613341",
-    "name": "Lagodekhi"
+    "name": "Lagodekhi Municipality"
   },
   {
     "code": "GE.67.613582",
-    "name": "Q’varlis Munitsip’alit’et’i"
+    "name": "Kvareli Municipality"
   },
   {
     "code": "GE.04.613761",
-    "name": "Kobuletis Munitsip’alit’et’i"
+    "name": "Kobuleti Municipality"
   },
   {
     "code": "GE.70.613811",
     "name": "Kirovskiy Rayon"
   },
   {
+    "code": "GE.04.613869",
+    "name": "Khulo Municipality"
+  },
+  {
     "code": "GE.66.613900",
-    "name": "Khonis Munitsip’alit’et’i"
+    "name": "Khoni Municipality"
   },
   {
     "code": "GE.71.613915",
-    "name": "Khobis Munitsip’alit’et’i"
+    "name": "Khobi Municipality"
   },
   {
     "code": "GE.04.613970",
@@ -61085,23 +61213,27 @@
   },
   {
     "code": "GE.73.613987",
-    "name": "Khashuris Munitsip'alit'et'i"
+    "name": "Khashuri Municipality"
   },
   {
     "code": "GE.66.614003",
-    "name": "Kharagaulis Munitsip'alit'et'i"
+    "name": "Kharagauli Municipality"
+  },
+  {
+    "code": "GE.04.614073",
+    "name": "Keda Municipality"
   },
   {
     "code": "GE.69.614086",
-    "name": "Q’azbegis Munitsip’alit’et‘i"
+    "name": "Kazbegi Municipality"
   },
   {
     "code": "GE.73.614103",
-    "name": "K'asp'is Munitsip'alit'et'i"
+    "name": "Kaspi Municipality"
   },
   {
     "code": "GE.73.614130",
-    "name": "Kareli"
+    "name": "Kareli Municipality"
   },
   {
     "code": "GE.70.614171",
@@ -61113,7 +61245,7 @@
   },
   {
     "code": "GE.67.614356",
-    "name": "Gurjaanis Munitsip’alit’et’i"
+    "name": "Gurjaani Municipality"
   },
   {
     "code": "GE.02.614378",
@@ -61125,7 +61257,7 @@
   },
   {
     "code": "GE.73.614450",
-    "name": "Goris Munitsip’alit’et’i"
+    "name": "Gori Municipality"
   },
   {
     "code": "GE.51.614519",
@@ -61133,7 +61265,7 @@
   },
   {
     "code": "GE.68.614573",
-    "name": "Gardabnis Munitsip’alit’et’i"
+    "name": "Gardabani Municipality"
   },
   {
     "code": "GE.02.614611",
@@ -61145,55 +61277,55 @@
   },
   {
     "code": "GE.69.614841",
-    "name": "Dushetis Munitsip’alit’et’i"
+    "name": "Dusheti Municipality"
   },
   {
     "code": "GE.68.614889",
-    "name": "Dmanisis Munitsip’alit’et’i"
+    "name": "Dmanisi Municipality"
   },
   {
     "code": "GE.65.615117",
-    "name": "Chokhat’auris Munitsip’alit’et’i"
+    "name": "Chokhatauri Municipality"
   },
   {
     "code": "GE.71.615141",
-    "name": "Chkhorots’q’us Munitsip’alit’et’i"
+    "name": "Chkhorotsqu Municipality"
   },
   {
     "code": "GE.72.615400",
-    "name": "Borjomis Munitsip’alit’et’i"
+    "name": "Borjomi Municipality"
   },
   {
     "code": "GE.68.615418",
-    "name": "Bolnisis Munitsip’alit’et’i"
+    "name": "Bolnisi Municipality"
   },
   {
     "code": "GE.72.615428",
-    "name": "Ninots’mindis Munitsip’alit’et’i"
+    "name": "Ninotsminda Municipality"
   },
   {
     "code": "GE.66.615631",
-    "name": "Tsqaltubo"
+    "name": "Tsqaltubo Municipality"
   },
   {
     "code": "GE.72.615659",
-    "name": "Asp’indzis Munitsip’alit’et’i"
+    "name": "Aspindza Municipality"
   },
   {
     "code": "GE.70.615775",
-    "name": "Ambrolauris Munitsip’alit’et’i"
+    "name": "Ambrolauri Municipality"
   },
   {
     "code": "GE.67.615843",
-    "name": "Akhmet’is Munitsip’alit’et’i"
+    "name": "Akhmeta Municipality"
   },
   {
     "code": "GE.72.615856",
-    "name": "Akhaltsikhis Munitsip’alit’et’i"
+    "name": "Akhaltsikhe Municipality"
   },
   {
     "code": "GE.72.615891",
-    "name": "Akhalkalakis Munitsip’alit’et’i"
+    "name": "Akhalkalaki Municipality"
   },
   {
     "code": "GE.72.615972",
@@ -61201,147 +61333,39 @@
   },
   {
     "code": "GE.71.616020",
-    "name": "Abasha"
+    "name": "Abasha Municipality"
   },
   {
     "code": "GE.66.828308",
-    "name": "Ch'iaturis Munitsip'alit'et'i"
+    "name": "Chiatura Municipality"
   },
   {
     "code": "GE.66.828310",
-    "name": "Kalaki Kutaisi"
+    "name": "Kutaisi Municipality"
   },
   {
     "code": "GE.71.828311",
-    "name": "Kalaki Poti"
+    "name": "Poti Municipality"
   },
   {
     "code": "GE.68.828312",
-    "name": "Kalaki Rustavi"
+    "name": "Rustavi Municipality"
   },
   {
     "code": "GE.66.828313",
-    "name": "K’alak’i Tqibuli"
-  },
-  {
-    "code": "GE.66.7667511",
-    "name": "Khoni"
-  },
-  {
-    "code": "GE.66.7667553",
-    "name": "Baghdati"
-  },
-  {
-    "code": "GE.71.7667559",
-    "name": "Mestia"
-  },
-  {
-    "code": "GE.71.7667563",
-    "name": "Chkhorotsqu"
-  },
-  {
-    "code": "GE.71.7667572",
-    "name": "Martvili"
-  },
-  {
-    "code": "GE.69.7667575",
-    "name": "Dusheti"
-  },
-  {
-    "code": "GE.68.7667577",
-    "name": "Gardabani"
-  },
-  {
-    "code": "GE.68.7667578",
-    "name": "Marneuli"
-  },
-  {
-    "code": "GE.67.7667580",
-    "name": "Gurjaani"
+    "name": "Tqibuli Municipality"
   },
   {
     "code": "GE.67.7667581",
-    "name": "Telavi"
-  },
-  {
-    "code": "GE.71.7667584",
-    "name": "Poti"
-  },
-  {
-    "code": "GE.72.7667662",
-    "name": "Ninotsminda"
-  },
-  {
-    "code": "GE.68.7667683",
-    "name": "Tetri Tsqaro"
-  },
-  {
-    "code": "GE.70.7667685",
-    "name": "Tsageri"
-  },
-  {
-    "code": "GE.70.7667690",
-    "name": "Lentekhi"
-  },
-  {
-    "code": "GE.69.7667694",
-    "name": "Akhalgori"
-  },
-  {
-    "code": "GE.69.7667696",
-    "name": "Kazbegi"
-  },
-  {
-    "code": "GE.67.7667701",
-    "name": "Qvareli"
-  },
-  {
-    "code": "GE.67.7667710",
-    "name": "Sagarejo"
-  },
-  {
-    "code": "GE.67.7667711",
-    "name": "Sighnaghi"
-  },
-  {
-    "code": "GE.67.7667712",
-    "name": "Dedoplis Tskaro"
-  },
-  {
-    "code": "GE.68.7667714",
-    "name": "Tsalka"
+    "name": "Telavi Municipality"
   },
   {
     "code": "GE.66.7667754",
-    "name": "Sachkhere"
-  },
-  {
-    "code": "GE.69.7668882",
-    "name": "Mtskheta"
-  },
-  {
-    "code": "GE.71.7668970",
-    "name": "Tsalenjikha"
-  },
-  {
-    "code": "GE.65.7668994",
-    "name": "Chokhatauri"
-  },
-  {
-    "code": "GE.68.7729903",
-    "name": "Dmanisi"
+    "name": "Sachkhere Municipality"
   },
   {
     "code": "GE.02.9021892",
     "name": "Gagra District"
-  },
-  {
-    "code": "GE.04.9093838",
-    "name": "Kedis Munitsip’alit’et’i"
-  },
-  {
-    "code": "GE.04.9093934",
-    "name": "Kobuletis Munitsip’alit’et’i"
   },
   {
     "code": "GE.04.9165838",
@@ -61365,7 +61389,7 @@
   },
   {
     "code": "GE.02.13254038",
-    "name": "Azharis Munitsip'alit'et'i"
+    "name": "Upper Abkhazia"
   },
   {
     "code": "GF.GF.973",
@@ -61401,7 +61425,7 @@
   },
   {
     "code": "GH.10.908",
-    "name": "Garu-Tempane"
+    "name": "Garu District"
   },
   {
     "code": "GH.10.901",
@@ -61429,7 +61453,7 @@
   },
   {
     "code": "GH.15.818",
-    "name": "Bunkpurugu-Yunyoo"
+    "name": "Bunkpurugu Nakpanduri District"
   },
   {
     "code": "GH.11.1009",
@@ -61889,7 +61913,7 @@
   },
   {
     "code": "GH.06.813",
-    "name": "Savelugu/Nanton"
+    "name": "Savelugu Municipal District"
   },
   {
     "code": "GH.09.105",
@@ -61969,7 +61993,7 @@
   },
   {
     "code": "GH.06.812",
-    "name": "Tolon/Kumbungu"
+    "name": "Tolon District"
   },
   {
     "code": "GH.04.216",
@@ -62021,7 +62045,7 @@
   },
   {
     "code": "GH.06.809",
-    "name": "Zabzugu/Tatale"
+    "name": "Zabzugu District"
   },
   {
     "code": "GH.14.718",
@@ -62069,7 +62093,7 @@
   },
   {
     "code": "GH.14.715",
-    "name": "Techiman Municipal"
+    "name": "Techiman North District"
   },
   {
     "code": "GH.17.821",
@@ -62201,7 +62225,7 @@
   },
   {
     "code": "GH.06.825",
-    "name": "Tatale"
+    "name": "Tatale-Sangule District"
   },
   {
     "code": "GH.10.910",
@@ -62234,6 +62258,202 @@
   {
     "code": "GH.08.407",
     "name": "Agotime Ziope"
+  },
+  {
+    "code": "GH.02.13609022",
+    "name": "Adansi Asokwa"
+  },
+  {
+    "code": "GH.02.13609023",
+    "name": "Afigya-Kwabre South"
+  },
+  {
+    "code": "GH.02.13609024",
+    "name": "Ahafo-Ano South East"
+  },
+  {
+    "code": "GH.02.13609025",
+    "name": "Ahafo-Ano South West"
+  },
+  {
+    "code": "GH.02.13609026",
+    "name": "Akrofuom"
+  },
+  {
+    "code": "GH.02.13609027",
+    "name": "Amansie South"
+  },
+  {
+    "code": "GH.02.13609028",
+    "name": "Asokwa"
+  },
+  {
+    "code": "GH.02.13609029",
+    "name": "Atwima-Nwabiagya North"
+  },
+  {
+    "code": "GH.02.13609030",
+    "name": "Juaben"
+  },
+  {
+    "code": "GH.02.13609031",
+    "name": "Kwadaso"
+  },
+  {
+    "code": "GH.02.13609032",
+    "name": "Obuasi East"
+  },
+  {
+    "code": "GH.02.13609033",
+    "name": "Oforikrom"
+  },
+  {
+    "code": "GH.02.13609034",
+    "name": "Old Tafo"
+  },
+  {
+    "code": "GH.02.13609035",
+    "name": "Sekyere Kumawu"
+  },
+  {
+    "code": "GH.02.13609036",
+    "name": "Suame"
+  },
+  {
+    "code": "GH.13.13609037",
+    "name": "Berekum East Municipal"
+  },
+  {
+    "code": "GH.14.13609038",
+    "name": "Pru East District"
+  },
+  {
+    "code": "GH.04.13609039",
+    "name": "Assin Central Municipal"
+  },
+  {
+    "code": "GH.04.13609040",
+    "name": "Gomoa Central District"
+  },
+  {
+    "code": "GH.05.13609041",
+    "name": "Abuakwa North Municipal"
+  },
+  {
+    "code": "GH.05.13609042",
+    "name": "Abuakwa South Municipal"
+  },
+  {
+    "code": "GH.05.13609043",
+    "name": "Achiase District"
+  },
+  {
+    "code": "GH.05.13609044",
+    "name": "Asene Manso Akroso District"
+  },
+  {
+    "code": "GH.05.13609045",
+    "name": "Atiwa East District"
+  },
+  {
+    "code": "GH.05.13609046",
+    "name": "Fanteakwa North District"
+  },
+  {
+    "code": "GH.05.13609047",
+    "name": "Kwahu Afram Plains North District"
+  },
+  {
+    "code": "GH.05.13609048",
+    "name": "New Juaben North Municipal"
+  },
+  {
+    "code": "GH.05.13609049",
+    "name": "Okere Municipal District"
+  },
+  {
+    "code": "GH.01.13609050",
+    "name": "Ablekuma Central Municipal"
+  },
+  {
+    "code": "GH.01.13609051",
+    "name": "Ablekuma North Municipal"
+  },
+  {
+    "code": "GH.01.13609052",
+    "name": "Ablekuma West Municipal"
+  },
+  {
+    "code": "GH.01.13609053",
+    "name": "Ayawaso Central Muncipal"
+  },
+  {
+    "code": "GH.01.13609054",
+    "name": "Ayawaso East Municipal"
+  },
+  {
+    "code": "GH.01.13609055",
+    "name": "Ayawaso North Municipal"
+  },
+  {
+    "code": "GH.01.13609056",
+    "name": "Ayawaso West Municipal"
+  },
+  {
+    "code": "GH.01.13609057",
+    "name": "Ga North Municipal"
+  },
+  {
+    "code": "GH.01.13609058",
+    "name": "Korle-Klottey Municipal"
+  },
+  {
+    "code": "GH.01.13609059",
+    "name": "Krowor Municipal"
+  },
+  {
+    "code": "GH.01.13609060",
+    "name": "Okaikwei North Municipal"
+  },
+  {
+    "code": "GH.01.13609061",
+    "name": "Tema West Municipal"
+  },
+  {
+    "code": "GH.01.13609062",
+    "name": "Weija Gbawe Municipal"
+  },
+  {
+    "code": "GH.06.13609063",
+    "name": "North Gonja District"
+  },
+  {
+    "code": "GH.16.13609064",
+    "name": "Guan District"
+  },
+  {
+    "code": "GH.17.13609065",
+    "name": "North East Gonja District"
+  },
+  {
+    "code": "GH.10.13609066",
+    "name": "Bolgatanga East District"
+  },
+  {
+    "code": "GH.08.13609067",
+    "name": "Anloga District"
+  },
+  {
+    "code": "GH.08.13609068",
+    "name": "Central Tongu District"
+  },
+  {
+    "code": "GH.09.13609069",
+    "name": "Amenfi Central District"
+  },
+  {
+    "code": "GH.09.13609070",
+    "name": "Amenfi West Municipal"
   },
   {
     "code": "GL.04.3420847",
@@ -62592,10 +62812,6 @@
     "name": "Aconibe"
   },
   {
-    "code": "GQ.09.11237863",
-    "name": "Ciudad de la Paz"
-  },
-  {
     "code": "GQ.08.11237864",
     "name": "Río Campo"
   },
@@ -62662,6 +62878,10 @@
   {
     "code": "GQ.07.12168386",
     "name": "Nsok-Nsomo"
+  },
+  {
+    "code": "GQ.03.13448381",
+    "name": "Annobón"
   },
   {
     "code": "GR.ESYE22.28",
@@ -71133,7 +71353,7 @@
   },
   {
     "code": "IN.36.197",
-    "name": "Vārānasi"
+    "name": "Varanasi"
   },
   {
     "code": "IN.09.491",
@@ -71149,7 +71369,7 @@
   },
   {
     "code": "IN.39.056",
-    "name": "Uttarkāshi"
+    "name": "Uttarkashi"
   },
   {
     "code": "IN.19.563",
@@ -71161,7 +71381,7 @@
   },
   {
     "code": "IN.36.156",
-    "name": "Unnāo"
+    "name": "District Unnao"
   },
   {
     "code": "IN.35.435",
@@ -71213,7 +71433,7 @@
   },
   {
     "code": "IN.39.059",
-    "name": "Tehri-Garhwāl"
+    "name": "Tehri Garhwal"
   },
   {
     "code": "IN.37.401",
@@ -71233,7 +71453,7 @@
   },
   {
     "code": "IN.36.179",
-    "name": "Sultānpur"
+    "name": "District Sultanpur"
   },
   {
     "code": "IN.12.010",
@@ -71269,7 +71489,7 @@
   },
   {
     "code": "IN.36.154",
-    "name": "Sītāpur"
+    "name": "Sitapur"
   },
   {
     "code": "IN.34.206",
@@ -71321,7 +71541,7 @@
   },
   {
     "code": "IN.36.152",
-    "name": "Shāhjahānpur"
+    "name": "Shājahānpur"
   },
   {
     "code": "IN.35.460",
@@ -71369,7 +71589,7 @@
   },
   {
     "code": "IN.36.132",
-    "name": "Sahāranpur"
+    "name": "District Saharanpur"
   },
   {
     "code": "IN.35.427",
@@ -71409,7 +71629,7 @@
   },
   {
     "code": "IN.36.136",
-    "name": "Rāmpur"
+    "name": "District Rampur"
   },
   {
     "code": "IN.25.626",
@@ -71449,7 +71669,7 @@
   },
   {
     "code": "IN.36.158",
-    "name": "Rāe Bareli"
+    "name": "District Raebareli"
   },
   {
     "code": "IN.28.340",
@@ -71469,7 +71689,7 @@
   },
   {
     "code": "IN.36.173",
-    "name": "Pratāpgarh"
+    "name": "District Pratapgarh"
   },
   {
     "code": "IN.02.549",
@@ -71481,11 +71701,11 @@
   },
   {
     "code": "IN.39.062",
-    "name": "Pithorāgarh"
+    "name": "Pithoragarh"
   },
   {
     "code": "IN.36.151",
-    "name": "Pīlībhīt"
+    "name": "District Pilibhit"
   },
   {
     "code": "IN.20.266",
@@ -71569,7 +71789,7 @@
   },
   {
     "code": "IN.40.539",
-    "name": "Nalgonda"
+    "name": "Nalgonda District"
   },
   {
     "code": "IN.34.229",
@@ -71577,7 +71797,7 @@
   },
   {
     "code": "IN.39.066",
-    "name": "Naini Tāl"
+    "name": "Nainital"
   },
   {
     "code": "IN.24.112",
@@ -71657,7 +71877,7 @@
   },
   {
     "code": "IN.28.332",
-    "name": "Māldah"
+    "name": "Malda District"
   },
   {
     "code": "IN.13.592",
@@ -71773,7 +71993,7 @@
   },
   {
     "code": "IN.28.329",
-    "name": "Koch Bihār"
+    "name": "Cooch Behar District"
   },
   {
     "code": "IN.11.034",
@@ -71905,7 +72125,7 @@
   },
   {
     "code": "IN.36.165",
-    "name": "Jālaun"
+    "name": "District Jalaun"
   },
   {
     "code": "IN.24.114",
@@ -71973,7 +72193,7 @@
   },
   {
     "code": "IN.36.168",
-    "name": "Hamīrpur"
+    "name": "District Hamirpur"
   },
   {
     "code": "IN.35.421",
@@ -72025,7 +72245,7 @@
   },
   {
     "code": "IN.36.195",
-    "name": "Ghāzīpur"
+    "name": "Ghazipur"
   },
   {
     "code": "IN.36.140",
@@ -72065,7 +72285,7 @@
   },
   {
     "code": "IN.36.159",
-    "name": "Farrukhābād"
+    "name": "Ferrukhabad"
   },
   {
     "code": "IN.23.045",
@@ -72077,11 +72297,11 @@
   },
   {
     "code": "IN.36.161",
-    "name": "Etāwah"
+    "name": "District Etawah"
   },
   {
     "code": "IN.36.201",
-    "name": "Etah"
+    "name": "Etah District"
   },
   {
     "code": "IN.13.595",
@@ -72169,7 +72389,7 @@
   },
   {
     "code": "IN.28.327",
-    "name": "Darjiling"
+    "name": "Darjeeling"
   },
   {
     "code": "IN.34.215",
@@ -72265,7 +72485,7 @@
   },
   {
     "code": "IN.28.334",
-    "name": "Bīrbhūm"
+    "name": "Birbhum"
   },
   {
     "code": "IN.16.523",
@@ -72373,7 +72593,7 @@
   },
   {
     "code": "IN.28.335",
-    "name": "Barddhamān"
+    "name": "Purba Bardhaman"
   },
   {
     "code": "IN.12.008",
@@ -72389,7 +72609,7 @@
   },
   {
     "code": "IN.28.339",
-    "name": "Bānkurā"
+    "name": "Bankura"
   },
   {
     "code": "IN.19.572",
@@ -72401,7 +72621,7 @@
   },
   {
     "code": "IN.36.170",
-    "name": "Bānda"
+    "name": "District Banda"
   },
   {
     "code": "IN.09.469",
@@ -72497,7 +72717,7 @@
   },
   {
     "code": "IN.40.532",
-    "name": "Ādilābād"
+    "name": "Adilabad"
   },
   {
     "code": "IN.25.609",
@@ -74192,7 +74412,7 @@
     "name": "Arbil"
   },
   {
-    "code": "IQ.05.96204",
+    "code": "IQ.19.96204",
     "name": "Qaḑā’ Ḩalabchah"
   },
   {
@@ -74614,6 +74834,10 @@
   {
     "code": "IQ.11.9878719",
     "name": "Qeza-î Ṟuwandiz"
+  },
+  {
+    "code": "IQ.08.13405730",
+    "name": "Batifa district"
   },
   {
     "code": "IR.42.6550",
@@ -76346,6 +76570,14 @@
   {
     "code": "IR.10.12543583",
     "name": "Chardāval"
+  },
+  {
+    "code": "IR.04.13452432",
+    "name": "Hāmūn"
+  },
+  {
+    "code": "IR.04.13452433",
+    "name": "Shahrestān-e Nīmrūz"
   },
   {
     "code": "IS.38.7502",
@@ -86792,8 +87024,8 @@
     "name": "P’ihyŏn-gun"
   },
   {
-    "code": "KP.07.1872688",
-    "name": "P’anmun-gun"
+    "code": "KP.19.1872688",
+    "name": "P’anmun"
   },
   {
     "code": "KP.09.1872704",
@@ -88721,11 +88953,11 @@
   },
   {
     "code": "KZ.07.608048",
-    "name": "Taypakskiy Sel'skiy Okrug"
+    "name": "Taypaq Aūyldyq Okrūgi"
   },
   {
     "code": "KZ.07.608573",
-    "name": "Dar'inskiy Sel'skiy Okrug"
+    "name": "Darīya Aūyldyq Okrūgi"
   },
   {
     "code": "KZ.04.608677",
@@ -88857,7 +89089,7 @@
   },
   {
     "code": "KZ.07.828320",
-    "name": "Ural'sk Gorodskaya Administratsiya"
+    "name": "Ural’sk Gorodskaya Administratsiya"
   },
   {
     "code": "KZ.06.828321",
@@ -88961,7 +89193,7 @@
   },
   {
     "code": "KZ.13.1517715",
-    "name": "Sarykol'skiy Rayon"
+    "name": "Saryköl Aūdany"
   },
   {
     "code": "KZ.12510143.1517718",
@@ -89029,7 +89261,7 @@
   },
   {
     "code": "KZ.12510144.1518545",
-    "name": "Yeskel'dinskiy Rayon"
+    "name": "Eskeldi Aūdany"
   },
   {
     "code": "KZ.17.1518589",
@@ -89205,7 +89437,7 @@
   },
   {
     "code": "KZ.13.1521358",
-    "name": "Uzunkol'skiy Rayon"
+    "name": "Uzynköl Aūdany"
   },
   {
     "code": "KZ.16.1521375",
@@ -89629,7 +89861,7 @@
   },
   {
     "code": "KZ.12.1537268",
-    "name": "Saran' Gorodskaya Administratsiya"
+    "name": "Saran’ Gorodskaya Administratsiya"
   },
   {
     "code": "KZ.12.1537269",
@@ -89641,7 +89873,7 @@
   },
   {
     "code": "KZ.10.1537271",
-    "name": "Arys' Gorodskaya Administratsiya"
+    "name": "Arys Qalalyq Äkimshiligi"
   },
   {
     "code": "KZ.10.1537273",
@@ -89793,7 +90025,7 @@
   },
   {
     "code": "KZ.13.12526813",
-    "name": "Auliyekol'skiy Rayon"
+    "name": "Auliyekol’skiy Rayon"
   },
   {
     "code": "KZ.12510144.12530101",
@@ -93700,8 +93932,16 @@
     "name": "Karluway Number Two District"
   },
   {
+    "code": "LR.16.13423958",
+    "name": "Gee District"
+  },
+  {
     "code": "LS.12.7303922",
     "name": "Khomokhoana Community"
+  },
+  {
+    "code": "LS.14.7304421",
+    "name": "Qiloane Community"
   },
   {
     "code": "LS.14.7522489",
@@ -95081,7 +95321,7 @@
   },
   {
     "code": "LV.B5.0806000",
-    "name": "Garkalnes novads"
+    "name": "Garkalnes pagasts"
   },
   {
     "code": "LV.DN.0641044",
@@ -95173,7 +95413,7 @@
   },
   {
     "code": "LV.04.0406400",
-    "name": "Iecavas novads"
+    "name": "Iecavas pagasts"
   },
   {
     "code": "LV.21.0740625",
@@ -96189,7 +96429,7 @@
   },
   {
     "code": "LV.B5.0808400",
-    "name": "Ropažu novads"
+    "name": "Ropažu pagasts"
   },
   {
     "code": "LV.C7.0801615",
@@ -96357,7 +96597,7 @@
   },
   {
     "code": "LV.01.0328200",
-    "name": "Skrīveru novads"
+    "name": "Skrīveru pagasts"
   },
   {
     "code": "LV.15.0621268",
@@ -96397,7 +96637,7 @@
   },
   {
     "code": "LV.B5.0809600",
-    "name": "Stopiņu novads"
+    "name": "Stopiņu pagasts"
   },
   {
     "code": "LV.31.0941860",
@@ -99618,6 +99858,10 @@
   {
     "code": "MN.11.11898755",
     "name": "Bor-Öndör Sum"
+  },
+  {
+    "code": "MN.23.13442374",
+    "name": "Darhan Sum"
   },
   {
     "code": "MP.085.7733402",
@@ -115457,7 +115701,7 @@
   },
   {
     "code": "NI.14.8530",
-    "name": "San Juan del Nicaragua"
+    "name": "Grey Town"
   },
   {
     "code": "NL.15.0193",
@@ -121694,6 +121938,10 @@
   {
     "code": "PK.05.12105033",
     "name": "District of West Karachi"
+  },
+  {
+    "code": "PK.02.13631695",
+    "name": "Usta Muhammad District"
   },
   {
     "code": "PL.83.2401",
@@ -142153,7 +142401,7 @@
   },
   {
     "code": "RU.47.468247",
-    "name": "Gorodskoy Okrug Yegor'yevsk"
+    "name": "Gorodskoy Okrug Yegor’yevsk"
   },
   {
     "code": "RU.76.468669",
@@ -142285,7 +142533,7 @@
   },
   {
     "code": "RU.86.472069",
-    "name": "Vorob’yevskiy Rayon"
+    "name": "Vorob’yëvskiy Rayon"
   },
   {
     "code": "RU.45.472225",
@@ -143253,7 +143501,7 @@
   },
   {
     "code": "RU.66.496477",
-    "name": "Sestroretskiy Rayon"
+    "name": "Kurortnyy Rayon"
   },
   {
     "code": "RU.47.496526",
@@ -143485,7 +143733,7 @@
   },
   {
     "code": "RU.86.502082",
-    "name": "Rep’yevskiy Rayon"
+    "name": "Rep’yëvskiy Rayon"
   },
   {
     "code": "RU.61.502186",
@@ -144109,7 +144357,7 @@
   },
   {
     "code": "RU.86.518742",
-    "name": "Novokhoperskiy Rayon"
+    "name": "Novokhopërskiy Rayon"
   },
   {
     "code": "RU.69.518911",
@@ -144609,7 +144857,7 @@
   },
   {
     "code": "RU.42.534332",
-    "name": "Lomonosovskiy Rayon"
+    "name": "Petrodvortsovyy Rayon"
   },
   {
     "code": "RU.60.534416",
@@ -145585,7 +145833,7 @@
   },
   {
     "code": "RU.23.557904",
-    "name": "Gur'yevskiy Gorodskoy Okrug"
+    "name": "Gur’yevskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.17.557977",
@@ -146601,7 +146849,7 @@
   },
   {
     "code": "RU.07.824964",
-    "name": "Gorodskoy Okrug Astrakhan'"
+    "name": "Gorodskoy Okrug Astrakhan’"
   },
   {
     "code": "RU.09.824989",
@@ -146649,7 +146897,7 @@
   },
   {
     "code": "RU.13.825031",
-    "name": "Ust'-Katavskiy Gorodskoy Okrug"
+    "name": "Ust’-Katavskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.16.825032",
@@ -146765,7 +147013,7 @@
   },
   {
     "code": "RU.73.862913",
-    "name": "Gorod Kazan’"
+    "name": "Gorodskoy Okrug Kazan’"
   },
   {
     "code": "RU.73.862914",
@@ -146793,31 +147041,31 @@
   },
   {
     "code": "RU.73.862920",
-    "name": "Gorod Al’met’yevsk"
+    "name": "Gorodskoye Poseleniye Al’met’yevsk"
   },
   {
     "code": "RU.73.862921",
-    "name": "Gorod Aznakayevo"
+    "name": "Gorodskoye Poseleniye Aznakayevo"
   },
   {
     "code": "RU.73.862922",
-    "name": "Gorod Bugul’ma"
+    "name": "Gorodskoye Poseleniye Bugul’ma"
   },
   {
     "code": "RU.73.862923",
-    "name": "Gorod Yelabuga"
+    "name": "Gorodskoye Poseleniye Yelabuga"
   },
   {
     "code": "RU.73.862924",
-    "name": "Gorod Zainsk"
+    "name": "Gorodskoye Poseleniye Zainsk"
   },
   {
     "code": "RU.73.862925",
-    "name": "Gorod Zelënodol’sk"
+    "name": "Gorodskoye Poseleniye Zelenodol’sk"
   },
   {
     "code": "RU.73.862926",
-    "name": "Gorod Leninogorsk"
+    "name": "Gorodskoye Poseleniye Leninogorsk"
   },
   {
     "code": "RU.73.862927",
@@ -146825,19 +147073,19 @@
   },
   {
     "code": "RU.73.862928",
-    "name": "Gorod Nizhnekamsk"
+    "name": "Gorodskoye Poseleniye Nizhnekamsk"
   },
   {
     "code": "RU.73.862929",
-    "name": "Gorod Chistopol’"
+    "name": "Gorodskoye Poseleniye Chistopol’"
   },
   {
     "code": "RU.73.862932",
-    "name": "Gorod Buinsk"
+    "name": "Gorodskoye Poseleniye Buinsk"
   },
   {
     "code": "RU.73.862934",
-    "name": "Gorod Bavly"
+    "name": "Gorodskoye Poseleniye Bavly"
   },
   {
     "code": "RU.73.862935",
@@ -147229,7 +147477,7 @@
   },
   {
     "code": "RU.04.1491705",
-    "name": "Slavgorodskiy Rayon"
+    "name": "Munitsipal’nyy Okrug Slavgorod"
   },
   {
     "code": "RU.78.1491718",
@@ -147397,7 +147645,7 @@
   },
   {
     "code": "RU.79.1495790",
-    "name": "Ovyurskiy Rayon"
+    "name": "Ovyurskiy Kozhuun"
   },
   {
     "code": "RU.31.1496096",
@@ -147625,7 +147873,7 @@
   },
   {
     "code": "RU.04.1502065",
-    "name": "Krasnoshchekovskiy Rayon"
+    "name": "Krasnoshchëkovskiy Rayon"
   },
   {
     "code": "RU.87.1502072",
@@ -148021,7 +148269,7 @@
   },
   {
     "code": "RU.04.1535928",
-    "name": "Natsional’nyy Rayon Nemetskiy"
+    "name": "Nemetskiy Natsional’nyy Rayon"
   },
   {
     "code": "RU.04.1535929",
@@ -148073,7 +148321,7 @@
   },
   {
     "code": "RU.13.1535941",
-    "name": "Yuzhnoural'skiy Gorodskoy Okrug"
+    "name": "Yuzhnoural’skiy Gorodskoy Okrug"
   },
   {
     "code": "RU.71.1536221",
@@ -148081,15 +148329,15 @@
   },
   {
     "code": "RU.31.1536883",
-    "name": "Chernogorsk Gorod"
+    "name": "Gorodskoy Okrug Chernogorsk"
   },
   {
     "code": "RU.31.1536884",
-    "name": "Abakan Gorod"
+    "name": "Gorodskoy Okrug Abakan"
   },
   {
     "code": "RU.31.1536885",
-    "name": "Sayanogorsk Gorod"
+    "name": "Gorodskoy Okrug Sayanogorsk"
   },
   {
     "code": "RU.20.2012482",
@@ -148173,7 +148421,7 @@
   },
   {
     "code": "RU.59.2014004",
-    "name": "Ussuriyskiy Rayon"
+    "name": "Ussuriyskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.20.2014025",
@@ -148181,7 +148429,7 @@
   },
   {
     "code": "RU.93.2014372",
-    "name": "Uletovskiy Rayon"
+    "name": "Ulëtovskiy Rayon"
   },
   {
     "code": "RU.30.2014399",
@@ -148633,7 +148881,7 @@
   },
   {
     "code": "RU.63.2027729",
-    "name": "Anabarskiy Natsional'nyy Ulus"
+    "name": "Anabarskiy Natsional’nyy Ulus"
   },
   {
     "code": "RU.30.2027744",
@@ -148673,11 +148921,11 @@
   },
   {
     "code": "RU.05.2050916",
-    "name": "Gorod Blagoveshchensk"
+    "name": "Gorodskoy Okrug Blagoveshchensk"
   },
   {
     "code": "RU.05.2050917",
-    "name": "Gorod Raychikhinsk"
+    "name": "Gorodskoy Okrug Raychikhinsk"
   },
   {
     "code": "RU.20.2050918",
@@ -149089,7 +149337,7 @@
   },
   {
     "code": "RU.10.12522071",
-    "name": "Gorodskoy Okrug Sel'tso"
+    "name": "Gorodskoy Okrug Sel’tso"
   },
   {
     "code": "RU.10.12522072",
@@ -149133,7 +149381,7 @@
   },
   {
     "code": "RU.77.12527691",
-    "name": "Gorodskoy Okrug Tver'"
+    "name": "Gorodskoy Okrug Tver’"
   },
   {
     "code": "RU.76.12531606",
@@ -149173,7 +149421,7 @@
   },
   {
     "code": "RU.62.12535924",
-    "name": "Gorodskoy Okrug Ryazan'"
+    "name": "Gorodskoy Okrug Ryazan’"
   },
   {
     "code": "RU.62.12535925",
@@ -149225,7 +149473,7 @@
   },
   {
     "code": "RU.47.12541991",
-    "name": "Gorodskoy Okrug Elektrostal'"
+    "name": "Gorodskoy Okrug Elektrostal’"
   },
   {
     "code": "RU.47.12541992",
@@ -149261,7 +149509,7 @@
   },
   {
     "code": "RU.47.12542000",
-    "name": "Gorodskoy Okrug Kotel'niki"
+    "name": "Gorodskoy Okrug Kotel’niki"
   },
   {
     "code": "RU.47.12542001",
@@ -149297,7 +149545,7 @@
   },
   {
     "code": "RU.41.12544999",
-    "name": "Gorodskoy Okrug L'gov"
+    "name": "Gorodskoy Okrug L’gov"
   },
   {
     "code": "RU.41.12545000",
@@ -149305,7 +149553,7 @@
   },
   {
     "code": "RU.83.12560941",
-    "name": "Gorodskoy Okrug Gus'-Khrustal'nyy"
+    "name": "Gorodskoy Okrug Gus’-Khrustal’nyy"
   },
   {
     "code": "RU.83.12560942",
@@ -149337,11 +149585,11 @@
   },
   {
     "code": "RU.88.12575051",
-    "name": "Gorodskoy Okrug Yaroslavl'"
+    "name": "Gorodskoy Okrug Yaroslavl’"
   },
   {
     "code": "RU.88.12575052",
-    "name": "Gorodskoy Okrug Pereslavl'-Zalesskiy"
+    "name": "Gorodskoy Okrug Pereslavl’-Zalesskiy"
   },
   {
     "code": "RU.88.12575053",
@@ -150561,11 +150809,11 @@
   },
   {
     "code": "RU.81.12625781",
-    "name": "Dimitrovgr Urban District"
+    "name": "Dimitrovgrad Urban District"
   },
   {
     "code": "RU.81.12625784",
-    "name": "Novoulyano Urban District"
+    "name": "Novoulyanovsk Urban District"
   },
   {
     "code": "RU.84.12625785",
@@ -150593,7 +150841,7 @@
   },
   {
     "code": "RU.87.12625826",
-    "name": "Novy Uren Urban District"
+    "name": "Novy Urengoy Urban District"
   },
   {
     "code": "RU.87.12625827",
@@ -150649,11 +150897,11 @@
   },
   {
     "code": "RU.71.12625851",
-    "name": "Sredneural Urban District"
+    "name": "Sredneuralsk Urban District"
   },
   {
     "code": "RU.71.12625853",
-    "name": "Staroutkin Urban District"
+    "name": "Staroutkinsk Urban District"
   },
   {
     "code": "RU.71.12625858",
@@ -150785,7 +151033,7 @@
   },
   {
     "code": "RU.71.12625948",
-    "name": "Verkhnyaya Tu Urban District"
+    "name": "Verkhnyaya Tura Urban District"
   },
   {
     "code": "RU.70.12625953",
@@ -151581,7 +151829,7 @@
   },
   {
     "code": "RU.37.12648952",
-    "name": "Gorodskoy Okrug Shar'ya"
+    "name": "Gorodskoy Okrug Shar’ya"
   },
   {
     "code": "RU.12.12650623",
@@ -151605,7 +151853,7 @@
   },
   {
     "code": "RU.45.12661325",
-    "name": "Gorodskoy Okrug Koz'modemy'ansk"
+    "name": "Gorodskoy Okrug Koz’modemy’ansk"
   },
   {
     "code": "RU.51.12662531",
@@ -151617,7 +151865,7 @@
   },
   {
     "code": "RU.51.12662533",
-    "name": "Gorodskoy Okrug Sokol'skiy"
+    "name": "Gorodskoy Okrug Sokol’skiy"
   },
   {
     "code": "RU.51.12662534",
@@ -151649,7 +151897,7 @@
   },
   {
     "code": "RU.70.12690099",
-    "name": "Gorodskoy Okrug Stavropol'"
+    "name": "Gorodskoy Okrug Stavropol’"
   },
   {
     "code": "RU.70.12690100",
@@ -151673,7 +151921,7 @@
   },
   {
     "code": "RU.33.12693598",
-    "name": "Gorodskoy Okrug Kotel'nich"
+    "name": "Gorodskoy Okrug Kotel’nich"
   },
   {
     "code": "RU.33.12693599",
@@ -151713,7 +151961,7 @@
   },
   {
     "code": "RU.06.12738774",
-    "name": "Gorodskoy Okrug Arkhangel'sk"
+    "name": "Gorodskoy Okrug Arkhangel’sk"
   },
   {
     "code": "RU.06.12738775",
@@ -151753,7 +152001,7 @@
   },
   {
     "code": "RU.71.12789798",
-    "name": "ZATO Novoural'sk"
+    "name": "ZATO Novoural’sk"
   },
   {
     "code": "RU.71.12789799",
@@ -151769,7 +152017,7 @@
   },
   {
     "code": "RU.71.12789802",
-    "name": "Ivdel'skiy Gorodskoy Okrug"
+    "name": "Ivdel’skiy Gorodskoy Okrug"
   },
   {
     "code": "RU.71.12789803",
@@ -151785,11 +152033,11 @@
   },
   {
     "code": "RU.71.12789806",
-    "name": "Gorodskoy Okrug Krasnoural'sk"
+    "name": "Gorodskoy Okrug Krasnoural’sk"
   },
   {
     "code": "RU.71.12789807",
-    "name": "Kamensk-Ural'skiy Gorodskoy Okrug"
+    "name": "Kamensk-Ural’skiy Gorodskoy Okrug"
   },
   {
     "code": "RU.71.12789808",
@@ -151809,7 +152057,7 @@
   },
   {
     "code": "RU.71.12789813",
-    "name": "Gorodskoy Okrug Krasnotur'insk"
+    "name": "Gorodskoy Okrug Krasnotur’insk"
   },
   {
     "code": "RU.71.12789814",
@@ -151821,11 +152069,11 @@
   },
   {
     "code": "RU.71.12789816",
-    "name": "ZATO Ural'skiy"
+    "name": "ZATO Ural’skiy"
   },
   {
     "code": "RU.71.12789817",
-    "name": "Gorodskoy Okrug Pervoural'sk"
+    "name": "Gorodskoy Okrug Pervoural’sk"
   },
   {
     "code": "RU.71.12789818",
@@ -151833,7 +152081,7 @@
   },
   {
     "code": "RU.71.12789819",
-    "name": "Severoural'skiy Gorodskoy Okrug"
+    "name": "Severoural’skiy Gorodskoy Okrug"
   },
   {
     "code": "RU.34.12817014",
@@ -151857,7 +152105,7 @@
   },
   {
     "code": "RU.50.12837966",
-    "name": "Gorodskoy Okrug Nar'yan Mar"
+    "name": "Gorodskoy Okrug Nar’yan Mar"
   },
   {
     "code": "RU.46.12843387",
@@ -151869,7 +152117,7 @@
   },
   {
     "code": "RU.90.12849167",
-    "name": "Aleksandrovskiy Munitsypal'nyy Okrug"
+    "name": "Aleksandrovskiy Munitsypal’nyy Okrug"
   },
   {
     "code": "RU.90.12849168",
@@ -151877,7 +152125,7 @@
   },
   {
     "code": "RU.90.12849169",
-    "name": "Gubakhinskiy Munitsypal'nyy Okrug"
+    "name": "Gubakhinskiy Munitsypal’nyy Okrug"
   },
   {
     "code": "RU.90.12849170",
@@ -151893,7 +152141,7 @@
   },
   {
     "code": "RU.78.13043421",
-    "name": "Gorodskoy Okrug Gorod Tobol'sk"
+    "name": "Gorodskoy Okrug Gorod Tobol’sk"
   },
   {
     "code": "RU.78.13043423",
@@ -152089,7 +152337,7 @@
   },
   {
     "code": "RU.55.13130803",
-    "name": "Sol'-Iletskiy Gorodskoy Okrug"
+    "name": "Sol’-Iletskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.55.13130804",
@@ -152109,7 +152357,7 @@
   },
   {
     "code": "RU.63.13131639",
-    "name": "Eveno-Bytantayskiy Natsional'nyy Ulus"
+    "name": "Eveno-Bytantayskiy Natsional’nyy Ulus"
   },
   {
     "code": "RU.15.13131974",
@@ -152153,7 +152401,7 @@
   },
   {
     "code": "RU.08.13138566",
-    "name": "Gorodskoy Okrug Oktyabr'skiy"
+    "name": "Gorodskoy Okrug Oktyabr’skiy"
   },
   {
     "code": "RU.08.13138567",
@@ -152205,7 +152453,7 @@
   },
   {
     "code": "RU.13.13197486",
-    "name": "Chebarkul'skiy Gorodskoy Okrug"
+    "name": "Chebarkul’skiy Gorodskoy Okrug"
   },
   {
     "code": "RU.13.13197487",
@@ -152229,11 +152477,11 @@
   },
   {
     "code": "RU.20.13216839",
-    "name": "Gorodskoy Okrug Usol'ye-Sibirskoye"
+    "name": "Gorodskoy Okrug Usol’ye-Sibirskoye"
   },
   {
     "code": "RU.20.13216840",
-    "name": "Gorodskoy Okrug Ust'-Ilimsk"
+    "name": "Gorodskoy Okrug Ust’-Ilimsk"
   },
   {
     "code": "RU.20.13216841",
@@ -152245,7 +152493,7 @@
   },
   {
     "code": "RU.54.13263938",
-    "name": "Isil'kul'skoye Gorodskoye Poseleniye"
+    "name": "Isil’kul’skoye Gorodskoye Poseleniye"
   },
   {
     "code": "RU.54.13263939",
@@ -152265,7 +152513,7 @@
   },
   {
     "code": "RU.54.13263943",
-    "name": "Azovskiy Nemetskiy Natsional'nyy Rayon"
+    "name": "Azovskiy Nemetskiy Natsional’nyy Rayon"
   },
   {
     "code": "RU.53.13290932",
@@ -152273,11 +152521,11 @@
   },
   {
     "code": "RU.53.13290933",
-    "name": "Gorodskoy Okrug Kol'tsovo"
+    "name": "Gorodskoy Okrug Kol’tsovo"
   },
   {
     "code": "RU.53.13290934",
-    "name": "Gorodskoy Okrug Ob'"
+    "name": "Gorodskoy Okrug Ob’"
   },
   {
     "code": "RU.53.13290935",
@@ -152285,7 +152533,7 @@
   },
   {
     "code": "RU.29.13304383",
-    "name": "Prokop'yevskiy Gorodskoy Okrug"
+    "name": "Prokop’yevskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.29.13304384",
@@ -152325,7 +152573,7 @@
   },
   {
     "code": "RU.29.13304394",
-    "name": "Tashtagol'skoye Gorodskoye Poseleniye"
+    "name": "Tashtagol’skoye Gorodskoye Poseleniye"
   },
   {
     "code": "RU.29.13304395",
@@ -152337,7 +152585,7 @@
   },
   {
     "code": "RU.29.13304397",
-    "name": "Gur'yevskiy Gorodskoy Okrug"
+    "name": "Gur’yevskiy Gorodskoy Okrug"
   },
   {
     "code": "RU.29.13304398",
@@ -152350,6 +152598,182 @@
   {
     "code": "RU.29.13304400",
     "name": "Osinnikovskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.04.13312591",
+    "name": "Gorodskoye Poseleniye Kamen’-na-Obi"
+  },
+  {
+    "code": "RU.04.13312592",
+    "name": "Gorodskoy Okrug Novoaltaysk"
+  },
+  {
+    "code": "RU.93.13394471",
+    "name": "Gorodskoy Okrug Aginskoye"
+  },
+  {
+    "code": "RU.93.13394472",
+    "name": "Gorodskoy Okrug Chita"
+  },
+  {
+    "code": "RU.93.13394473",
+    "name": "Gorodskoy Okrug Gornyy"
+  },
+  {
+    "code": "RU.11.13394474",
+    "name": "Gorodskoy Okrug Severobaykal’sk"
+  },
+  {
+    "code": "RU.05.13396900",
+    "name": "ZATO Tsiolkovskiy"
+  },
+  {
+    "code": "RU.05.13396901",
+    "name": "Gorodskoy Okrug Svobodnyy"
+  },
+  {
+    "code": "RU.79.13396902",
+    "name": "Sut-Khol’skiy Kozhuun"
+  },
+  {
+    "code": "RU.79.13396903",
+    "name": "Gorodskoy Okrug Kyzyl"
+  },
+  {
+    "code": "RU.79.13396904",
+    "name": "Tere-Khol’skiy Kozhuun"
+  },
+  {
+    "code": "RU.79.13396905",
+    "name": "Gorodskoy Okrug Ak-Dovurak"
+  },
+  {
+    "code": "RU.79.13396906",
+    "name": "Chedi-Khol’skiy Kozhuun"
+  },
+  {
+    "code": "RU.79.13396907",
+    "name": "Chaa-Khol’skiy Kozhuun"
+  },
+  {
+    "code": "RU.64.13397283",
+    "name": "Gorodskoy Okrug Yuzhno-Sakhalinsk"
+  },
+  {
+    "code": "RU.41.13452994",
+    "name": "Gorodskoy Okrug Kursk"
+  },
+  {
+    "code": "RU.49.13454184",
+    "name": "Kandalakshskiy Rayon"
+  },
+  {
+    "code": "RU.93.13458865",
+    "name": "Krasnochikoyskiy Rayon"
+  },
+  {
+    "code": "RU.30.13465434",
+    "name": "Gorodskoy Okrug Komsomol’sk-na-Amure"
+  },
+  {
+    "code": "RU.30.13465435",
+    "name": "Gorodskoy Okrug Khabarovsk"
+  },
+  {
+    "code": "RU.65.13467273",
+    "name": "Gorodskoy Okrug Pokhvistnevo"
+  },
+  {
+    "code": "RU.65.13467274",
+    "name": "Gorodskoy Okrug Zhigulëvsk"
+  },
+  {
+    "code": "RU.65.13467275",
+    "name": "Gorodskoy Okrug Syzran’"
+  },
+  {
+    "code": "RU.65.13467276",
+    "name": "Kamyshlinskiy Rayon"
+  },
+  {
+    "code": "RU.65.13467277",
+    "name": "Yelkhovskiy Rayon"
+  },
+  {
+    "code": "RU.65.13467278",
+    "name": "Gorodskoy Okrug Novokuybyshevsk"
+  },
+  {
+    "code": "RU.65.13467279",
+    "name": "Gorodskoy Okrug Oktyabr’sk"
+  },
+  {
+    "code": "RU.65.13467280",
+    "name": "Gorodskoy Okrug Tol’yatti"
+  },
+  {
+    "code": "RU.67.13489129",
+    "name": "ZATO Svetlyy"
+  },
+  {
+    "code": "RU.67.13489130",
+    "name": "Gorodskoy Okrug Mikhaylovskiy"
+  },
+  {
+    "code": "RU.86.13491045",
+    "name": "Gorodskoy Okrug Novovoronezh"
+  },
+  {
+    "code": "RU.59.13497836",
+    "name": "ZATO Fokino"
+  },
+  {
+    "code": "RU.59.13497837",
+    "name": "Nakhodkinskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.59.13497838",
+    "name": "Gorodskoy Okrug Bol’shoy Kamen’"
+  },
+  {
+    "code": "RU.59.13497839",
+    "name": "Vladivostokskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.59.13497840",
+    "name": "Lesozavodskiy Munitsipal’nyy Okrug"
+  },
+  {
+    "code": "RU.59.13497841",
+    "name": "Dal’nerechenskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.59.13497842",
+    "name": "Artëmovskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.59.13497843",
+    "name": "Gorodskoy Okrug Spassk-Dal’niy"
+  },
+  {
+    "code": "RU.59.13497844",
+    "name": "Arsen’yevskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.81.13515970",
+    "name": "Gorodskoy Okrug Ul’yanovsk"
+  },
+  {
+    "code": "RU.81.13515971",
+    "name": "Gorodskoy Okrug Novoul’yanovsk"
+  },
+  {
+    "code": "RU.81.13515972",
+    "name": "Gorodskoy Okrug Dimitrovgrad"
+  },
+  {
+    "code": "RU.81.13515973",
+    "name": "Bazarnosyzganskiy Rayon"
   },
   {
     "code": "RW.11.52",
@@ -155053,15 +155477,11 @@
   },
   {
     "code": "SI.09.3196350",
-    "name": "Opština Ljubljana-Vič-Rudnik"
+    "name": "Rudnik District"
   },
   {
     "code": "SI.71.3196352",
-    "name": "Opština [historical] Ljubljana-Šiška"
-  },
-  {
-    "code": "SI.61.3196355",
-    "name": "Opština Ljubljana-Moste-Polje"
+    "name": "Šiška District"
   },
   {
     "code": "SI.61.3196356",
@@ -155069,7 +155489,7 @@
   },
   {
     "code": "SI.61.3196357",
-    "name": "Opčina Ljubljana-Bežigrad"
+    "name": "Bežigrad District"
   },
   {
     "code": "SI.M8.9794374",
@@ -155114,6 +155534,14 @@
   {
     "code": "SI.61.9794386",
     "name": "Vič District"
+  },
+  {
+    "code": "SI.61.13589581",
+    "name": "Moste District"
+  },
+  {
+    "code": "SI.61.13589613",
+    "name": "Polje District"
   },
   {
     "code": "SJ.22.2211",
@@ -155645,7 +156073,7 @@
   },
   {
     "code": "SN.15.10778597",
-    "name": "Département de Ranérou Ferlo"
+    "name": "Département de Ranérou"
   },
   {
     "code": "SN.10.10778869",
@@ -155657,7 +156085,7 @@
   },
   {
     "code": "SN.16.10778871",
-    "name": "Malem Hoddar"
+    "name": "Département de Malèm Hodar"
   },
   {
     "code": "SN.16.10778872",
@@ -155681,7 +156109,7 @@
   },
   {
     "code": "SN.11.10779433",
-    "name": "Département de Médina Yoro Foulah"
+    "name": "Département de Médina-Yorofoula"
   },
   {
     "code": "SN.18.10779434",
@@ -156304,6 +156732,14 @@
     "name": "Ressort Coeroeni"
   },
   {
+    "code": "SR.16.13456230",
+    "name": "Centrum"
+  },
+  {
+    "code": "SR.18.13456231",
+    "name": "Boven-Saramacca"
+  },
+  {
     "code": "SS.10.363414",
     "name": "Province of West Equatoria"
   },
@@ -156765,7 +157201,7 @@
   },
   {
     "code": "SY.03.173335",
-    "name": "Quneitra District"
+    "name": "Quneitra Governorate"
   },
   {
     "code": "SY.02.173365",
@@ -157510,6 +157946,42 @@
   {
     "code": "TD.18.12186910",
     "name": "Haraz-Al-Biar"
+  },
+  {
+    "code": "TD.09.13448894",
+    "name": "La Nya"
+  },
+  {
+    "code": "TD.14.13448895",
+    "name": "Tandjilé-Est"
+  },
+  {
+    "code": "TD.17.13448897",
+    "name": "Barh-Koh"
+  },
+  {
+    "code": "TD.05.13448898",
+    "name": "Barh-Signaka"
+  },
+  {
+    "code": "TD.05.13448899",
+    "name": "Guéra"
+  },
+  {
+    "code": "TD.13.13448900",
+    "name": "Haraze-Mangueigne"
+  },
+  {
+    "code": "TD.06.13448908",
+    "name": "Kanem"
+  },
+  {
+    "code": "TD.07.13448909",
+    "name": "Mamdi"
+  },
+  {
+    "code": "TD.18.13448910",
+    "name": "Dagana"
   },
   {
     "code": "TF.05.TE",
@@ -158297,7 +158769,7 @@
   },
   {
     "code": "TH.35.1506",
-    "name": "Amphoe Wiset Chai Chan"
+    "name": "Amphoe Wiset Chaichan"
   },
   {
     "code": "TH.37.1904",
@@ -158545,7 +159017,7 @@
   },
   {
     "code": "TH.35.1505",
-    "name": "Amphoe Sawaeng Ha"
+    "name": "Amphoe Sawaengha"
   },
   {
     "code": "TH.28.3111",
@@ -158601,7 +159073,7 @@
   },
   {
     "code": "TH.35.1507",
-    "name": "Amphoe Sam Ko"
+    "name": "Amphoe Samko"
   },
   {
     "code": "TH.39.1307",
@@ -159053,7 +159525,7 @@
   },
   {
     "code": "TH.37.1901",
-    "name": "Amphoe Mueang Sara Buri"
+    "name": "Amphoe Mueang Saraburi"
   },
   {
     "code": "TH.54.7501",
@@ -159189,7 +159661,7 @@
   },
   {
     "code": "TH.32.1801",
-    "name": "Amphoe Mueang Chainat"
+    "name": "Amphoe Mueang Chai Nat"
   },
   {
     "code": "TH.44.2401",
@@ -160645,7 +161117,7 @@
   },
   {
     "code": "TH.79.3905",
-    "name": "Amphoe Suwannakhuha"
+    "name": "Amphoe Suwanna Khuha"
   },
   {
     "code": "TH.76.4122",
@@ -160825,7 +161297,7 @@
   },
   {
     "code": "TH.76.4108",
-    "name": "Amphoe Chai Wan"
+    "name": "Amphoe Chaiwan"
   },
   {
     "code": "TH.76.4123",
@@ -161934,6 +162406,46 @@
   {
     "code": "TM.03.11820056",
     "name": "Akdepe District"
+  },
+  {
+    "code": "TM.05.13526664",
+    "name": "Mary District"
+  },
+  {
+    "code": "TM.05.13526677",
+    "name": "Baýramaly District"
+  },
+  {
+    "code": "TM.05.13526678",
+    "name": "Garagum District"
+  },
+  {
+    "code": "TM.05.13526679",
+    "name": "Murgap District"
+  },
+  {
+    "code": "TM.05.13526680",
+    "name": "Sakarçäge District"
+  },
+  {
+    "code": "TM.05.13526681",
+    "name": "Ýolöten District"
+  },
+  {
+    "code": "TM.05.13526682",
+    "name": "Wekilbazar District"
+  },
+  {
+    "code": "TM.03.13526879",
+    "name": "Gubadag District"
+  },
+  {
+    "code": "TM.04.13526881",
+    "name": "Saýat District"
+  },
+  {
+    "code": "TM.05.13526882",
+    "name": "Türkmengala District"
   },
   {
     "code": "TN.37.1651",
@@ -163252,10 +163764,6 @@
     "name": "Dargeçit İlçesi"
   },
   {
-    "code": "TR.72.441866",
-    "name": "Mardin Merkez"
-  },
-  {
     "code": "TR.72.441966",
     "name": "Nusaybin İlçesi"
   },
@@ -163265,7 +163773,7 @@
   },
   {
     "code": "TR.23.6544214",
-    "name": "Karakoçan / Elazığ"
+    "name": "Karakoçan"
   },
   {
     "code": "TR.81.7732059",
@@ -163281,11 +163789,11 @@
   },
   {
     "code": "TR.02.7732069",
-    "name": "Merkez"
+    "name": "Adıyaman"
   },
   {
     "code": "TR.03.7732070",
-    "name": "Merkez"
+    "name": "Afyonkarahisar"
   },
   {
     "code": "TR.03.7732071",
@@ -163293,11 +163801,11 @@
   },
   {
     "code": "TR.75.7732073",
-    "name": "Merkez"
+    "name": "Aksaray"
   },
   {
     "code": "TR.05.7732078",
-    "name": "Merkez"
+    "name": "Amasya"
   },
   {
     "code": "TR.68.7732081",
@@ -163344,10 +163852,6 @@
     "name": "Manavgat İlçesi"
   },
   {
-    "code": "TR.07.7732194",
-    "name": "Merkez"
-  },
-  {
     "code": "TR.07.7732195",
     "name": "Serik"
   },
@@ -163356,28 +163860,24 @@
     "name": "Hopa İlçesi"
   },
   {
-    "code": "TR.10.7732200",
-    "name": "Merkez"
-  },
-  {
     "code": "TR.10.7732201",
     "name": "Bandırma İlçesi"
   },
   {
     "code": "TR.76.7732202",
-    "name": "Merkez"
+    "name": "Batman"
   },
   {
     "code": "TR.12.7732205",
-    "name": "Merkez"
+    "name": "Bingol"
   },
   {
     "code": "TR.13.7732206",
-    "name": "Merkez"
+    "name": "Bitlis"
   },
   {
     "code": "TR.15.7732207",
-    "name": "Merkez"
+    "name": "Burdur"
   },
   {
     "code": "TR.16.7732330",
@@ -163417,11 +163917,11 @@
   },
   {
     "code": "TR.17.7732344",
-    "name": "Merkez"
+    "name": "Canakkale"
   },
   {
     "code": "TR.19.7732348",
-    "name": "Merkez"
+    "name": "Corum"
   },
   {
     "code": "TR.19.7732349",
@@ -163440,20 +163940,8 @@
     "name": "Honaz"
   },
   {
-    "code": "TR.20.7732364",
-    "name": "Merkez"
-  },
-  {
-    "code": "TR.21.7732368",
-    "name": "Merkez"
-  },
-  {
     "code": "TR.23.7732370",
-    "name": "Merkez"
-  },
-  {
-    "code": "TR.26.7732371",
-    "name": "Merkez"
+    "name": "Elazig"
   },
   {
     "code": "TR.83.7732373",
@@ -163461,11 +163949,11 @@
   },
   {
     "code": "TR.28.7732374",
-    "name": "Merkez"
+    "name": "Giresun"
   },
   {
     "code": "TR.69.7732375",
-    "name": "Merkez"
+    "name": "Gumushane"
   },
   {
     "code": "TR.34.7732454",
@@ -163577,7 +164065,7 @@
   },
   {
     "code": "TR.92.7732689",
-    "name": "Merkez"
+    "name": "Yalova"
   },
   {
     "code": "TR.35.7732711",
@@ -163624,10 +164112,6 @@
     "name": "Menemen"
   },
   {
-    "code": "TR.45.7732731",
-    "name": "Merkez"
-  },
-  {
     "code": "TR.35.7732732",
     "name": "Seferihisar"
   },
@@ -163638,10 +164122,6 @@
   {
     "code": "TR.35.7732734",
     "name": "Torbalı"
-  },
-  {
-    "code": "TR.46.7732735",
-    "name": "Merkez"
   },
   {
     "code": "TR.37.7732736",
@@ -163676,10 +164156,6 @@
     "name": "Battalgazi"
   },
   {
-    "code": "TR.44.7732937",
-    "name": "Merkez"
-  },
-  {
     "code": "TR.45.7732938",
     "name": "Saruhanlı"
   },
@@ -163705,11 +164181,11 @@
   },
   {
     "code": "TR.49.7732944",
-    "name": "Merkez"
+    "name": "Mus"
   },
   {
     "code": "TR.50.7732945",
-    "name": "Merkez"
+    "name": "Nevsehir"
   },
   {
     "code": "TR.50.7732946",
@@ -163717,31 +164193,15 @@
   },
   {
     "code": "TR.73.7732948",
-    "name": "Merkez"
-  },
-  {
-    "code": "TR.52.7732951",
-    "name": "Merkez"
-  },
-  {
-    "code": "TR.54.7732953",
-    "name": "Merkez"
+    "name": "Nigde"
   },
   {
     "code": "TR.55.7732956",
     "name": "Bafra"
   },
   {
-    "code": "TR.55.7732982",
-    "name": "Merkez"
-  },
-  {
-    "code": "TR.63.7732984",
-    "name": "Merkez"
-  },
-  {
     "code": "TR.58.7732989",
-    "name": "Merkez"
+    "name": "Sivas"
   },
   {
     "code": "TR.58.7732990",
@@ -163764,20 +164224,16 @@
     "name": "Çarşıbaşı"
   },
   {
-    "code": "TR.61.7732996",
-    "name": "Merkez"
-  },
-  {
     "code": "TR.61.7732997",
     "name": "Vakfıkebir"
   },
   {
     "code": "TR.62.7732998",
-    "name": "Merkez"
+    "name": "Tunceli"
   },
   {
     "code": "TR.64.7732999",
-    "name": "Merkez"
+    "name": "Usak"
   },
   {
     "code": "TR.65.7733001",
@@ -163786,10 +164242,6 @@
   {
     "code": "TR.65.7733002",
     "name": "Erciş"
-  },
-  {
-    "code": "TR.65.7733003",
-    "name": "Merkez"
   },
   {
     "code": "TR.66.7733004",
@@ -163801,7 +164253,7 @@
   },
   {
     "code": "TR.57.7733028",
-    "name": "Merkez"
+    "name": "Sinop"
   },
   {
     "code": "TR.68.7733221",
@@ -163846,10 +164298,6 @@
   {
     "code": "TR.35.7733239",
     "name": "Beydağ"
-  },
-  {
-    "code": "TR.41.7733240",
-    "name": "Merkez"
   },
   {
     "code": "TR.48.7733242",
@@ -164236,7 +164684,7 @@
     "name": "Hamur İlçesi"
   },
   {
-    "code": "TR.02.8630872",
+    "code": "TR.88.8630872",
     "name": "Aralık İlçesi"
   },
   {
@@ -164556,7 +165004,7 @@
     "name": "Arıcak İlçesi"
   },
   {
-    "code": "TR.21.8631566",
+    "code": "TR.23.8631566",
     "name": "Alacakaya İlçesi"
   },
   {
@@ -164688,7 +165136,7 @@
     "name": "Bulancak İlçesi"
   },
   {
-    "code": "TR.52.8631629",
+    "code": "TR.28.8631629",
     "name": "Piraziz İlçesi"
   },
   {
@@ -166932,8 +167380,112 @@
     "name": "Sultanhanı"
   },
   {
-    "code": "TR.68.11791803",
-    "name": "Kazan İlçesi"
+    "code": "TR.86.13308766",
+    "name": "Ardahan"
+  },
+  {
+    "code": "TR.87.13308767",
+    "name": "Bartin"
+  },
+  {
+    "code": "TR.77.13308768",
+    "name": "Bayburt"
+  },
+  {
+    "code": "TR.93.13308769",
+    "name": "Duzce"
+  },
+  {
+    "code": "TR.33.13308770",
+    "name": "Isparta"
+  },
+  {
+    "code": "TR.11.13308771",
+    "name": "Bilecik"
+  },
+  {
+    "code": "TR.79.13308772",
+    "name": "Kirikkale"
+  },
+  {
+    "code": "TR.84.13308773",
+    "name": "Kars"
+  },
+  {
+    "code": "TR.88.13308774",
+    "name": "Igdir"
+  },
+  {
+    "code": "TR.40.13308775",
+    "name": "Kirsehir"
+  },
+  {
+    "code": "TR.89.13308776",
+    "name": "Karabuk"
+  },
+  {
+    "code": "TR.53.13308777",
+    "name": "Rize"
+  },
+  {
+    "code": "TR.14.13308778",
+    "name": "Bolu"
+  },
+  {
+    "code": "TR.08.13308779",
+    "name": "Artvin"
+  },
+  {
+    "code": "TR.85.13308780",
+    "name": "Zonguldak"
+  },
+  {
+    "code": "TR.70.13308781",
+    "name": "Derecik"
+  },
+  {
+    "code": "TR.82.13308782",
+    "name": "Cankiri"
+  },
+  {
+    "code": "TR.22.13308783",
+    "name": "Edirne"
+  },
+  {
+    "code": "TR.24.13308784",
+    "name": "Erzincan"
+  },
+  {
+    "code": "TR.70.13308785",
+    "name": "Hakkari"
+  },
+  {
+    "code": "TR.78.13308786",
+    "name": "Karaman"
+  },
+  {
+    "code": "TR.37.13308787",
+    "name": "Kastamonu"
+  },
+  {
+    "code": "TR.39.13308788",
+    "name": "Kirklareli"
+  },
+  {
+    "code": "TR.43.13308789",
+    "name": "Kutahya"
+  },
+  {
+    "code": "TR.91.13308790",
+    "name": "Osmaniye"
+  },
+  {
+    "code": "TR.60.13308791",
+    "name": "Tokat"
+  },
+  {
+    "code": "TR.66.13308792",
+    "name": "Yozgat"
   },
   {
     "code": "TT.SGE.3573559",
@@ -167864,6 +168416,10 @@
     "name": "Zolochivskyi Raion"
   },
   {
+    "code": "UA.12.687055",
+    "name": "Solomianka Rayon"
+  },
+  {
     "code": "UA.23.0506",
     "name": "Zhmerynka Raion"
   },
@@ -167952,6 +168508,10 @@
     "name": "Simferopol Raion"
   },
   {
+    "code": "UA.12.694120",
+    "name": "Shevchenkivskyi Raion"
+  },
+  {
     "code": "UA.09.6806",
     "name": "Shepetivka Raion"
   },
@@ -167984,8 +168544,16 @@
     "name": "Polohy Raion"
   },
   {
+    "code": "UA.12.696872",
+    "name": "Podilskyi Raion"
+  },
+  {
     "code": "UA.16.4808",
     "name": "Pervomaysk Raion"
+  },
+  {
+    "code": "UA.12.697796",
+    "name": "Pechersk Raion"
   },
   {
     "code": "UA.04.1212",
@@ -168016,6 +168584,10 @@
     "name": "Mukachevo Raion"
   },
   {
+    "code": "UA.12.700708",
+    "name": "Holosiiv Raion"
+  },
+  {
     "code": "UA.23.0508",
     "name": "Mohyliv-Podilskyy Raion"
   },
@@ -168024,12 +168596,20 @@
     "name": "Myrhorod Raion"
   },
   {
+    "code": "UA.12.701078",
+    "name": "Obolonskyi Raion"
+  },
+  {
     "code": "UA.26.2308",
     "name": "Melitopol Raion"
   },
   {
     "code": "UA.18.5304",
     "name": "Lubny Raion"
+  },
+  {
+    "code": "UA.12.703266",
+    "name": "Sviatoshynskyi Raion"
   },
   {
     "code": "UA.04.1206",
@@ -168045,15 +168625,15 @@
   },
   {
     "code": "UA.11.0114",
-    "name": "Krasnoperekopsk Raion"
+    "name": "Perekop Raion"
   },
   {
     "code": "UA.11.0112",
-    "name": "Krasnohvardiiske Raion"
+    "name": "Kurman Raion"
   },
   {
     "code": "UA.07.6306",
-    "name": "Krasnohradskyi Raion"
+    "name": "Berestynskyi Raion"
   },
   {
     "code": "UA.05.1416",
@@ -168144,6 +168724,10 @@
     "name": "Dnipro rural raion"
   },
   {
+    "code": "UA.12.710276",
+    "name": "Darnytsia Raion"
+  },
+  {
     "code": "UA.22.6106",
     "name": "Chortkiv Raion"
   },
@@ -168193,7 +168777,7 @@
   },
   {
     "code": "UA.11.0104",
-    "name": "Belogorskiy rayon"
+    "name": "Bilohirsk Raion"
   },
   {
     "code": "UA.17.5104",
@@ -168217,11 +168801,19 @@
   },
   {
     "code": "UA.11.0120",
-    "name": "Gorodskoy okrug Yalta"
+    "name": "Miskyi okruh Yalta"
   },
   {
     "code": "UA.11.0110",
     "name": "Kerchens'ka Mis'ka Rada"
+  },
+  {
+    "code": "UA.12.8520167",
+    "name": "Desnianskyi Raion"
+  },
+  {
+    "code": "UA.12.8693025",
+    "name": "Dnipro Raion"
   },
   {
     "code": "UA.07.6310",
@@ -168241,7 +168833,7 @@
   },
   {
     "code": "UA.07.6304",
-    "name": "Iziumska Miskrada"
+    "name": "Izyum Raion"
   },
   {
     "code": "UA.24.0702",
@@ -168253,11 +168845,11 @@
   },
   {
     "code": "UA.24.0708",
-    "name": "Luts’ka Mis’krada"
+    "name": "Lutsk Raion"
   },
   {
     "code": "UA.19.5604",
-    "name": "Dubenska Miskrada"
+    "name": "Dubno Raion"
   },
   {
     "code": "UA.19.5606",
@@ -168305,11 +168897,11 @@
   },
   {
     "code": "UA.11.0118",
-    "name": "Feodosiiskyi Raion"
+    "name": "Feodosiya Raion"
   },
   {
     "code": "UA.11.0108",
-    "name": "Yevpatoriiskyi Raion"
+    "name": "Yevpatoriya Raion"
   },
   {
     "code": "UA.19.5602",
@@ -168325,7 +168917,7 @@
   },
   {
     "code": "UA.15.4612",
-    "name": "Chervonohradskyi Raion"
+    "name": "Sheptytskyi Raion"
   },
   {
     "code": "UA.15.4602",
@@ -168345,7 +168937,7 @@
   },
   {
     "code": "UA.14.4406",
-    "name": "Luhanskyi Raion"
+    "name": "Luhansk Raion"
   },
   {
     "code": "UA.14.4408",
@@ -168381,7 +168973,7 @@
   },
   {
     "code": "UA.05.1408",
-    "name": "Donetskyi Raion"
+    "name": "Donetsk Raion"
   },
   {
     "code": "UA.04.1204",
@@ -168393,7 +168985,7 @@
   },
   {
     "code": "UA.03.7306",
-    "name": "Chernivestkyi Raion"
+    "name": "Chernivetskyi Raion"
   },
   {
     "code": "UG.C.89",
@@ -182325,7 +182917,7 @@
   },
   {
     "code": "UZ.13.1512848",
-    "name": "Sirg'ali Tumani"
+    "name": "Sirg’ali Tumani"
   },
   {
     "code": "UZ.13.1512949",
@@ -184256,2856 +184848,2896 @@
     "name": "Northcentral"
   },
   {
-    "code": "VN.75.726",
+    "code": "VN.79.726",
     "name": "Tân Uyên"
   },
   {
-    "code": "VN.23.674",
+    "code": "VN.82.1574213",
+    "name": "Xã Mỹ An Hưng"
+  },
+  {
+    "code": "VN.82.1577922",
+    "name": "Xã Lai Vung"
+  },
+  {
+    "code": "VN.68.674",
     "name": "Đam Rong"
   },
   {
-    "code": "VN.03.837",
+    "code": "VN.86.837",
     "name": "Huyện Thạnh Phú"
   },
   {
-    "code": "VN.03.833",
+    "code": "VN.86.833",
     "name": "Huyện Mỏ Cày Nam"
   },
   {
-    "code": "VN.03.832",
+    "code": "VN.86.832",
     "name": "Huyện Chợ Lách"
   },
   {
-    "code": "VN.03.831",
+    "code": "VN.86.831",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.03.834",
+    "code": "VN.86.834",
     "name": "Huyện Giồng Trôm"
   },
   {
-    "code": "VN.03.835",
+    "code": "VN.86.835",
     "name": "Huyện Bình Đại"
   },
   {
-    "code": "VN.03.836",
+    "code": "VN.86.836",
     "name": "Huyện Ba Tri"
   },
   {
-    "code": "VN.03.829",
+    "code": "VN.86.829",
     "name": "Thành Phố Bến Tre"
   },
   {
-    "code": "VN.37.815",
+    "code": "VN.82.815",
     "name": "Thành Phố Mỹ Tho"
   },
   {
-    "code": "VN.37.816",
+    "code": "VN.82.816",
     "name": "Thị Xã Gò Công"
   },
   {
-    "code": "VN.37.824",
+    "code": "VN.82.824",
     "name": "Huyện Gò Công Đông"
   },
   {
-    "code": "VN.37.823",
+    "code": "VN.82.823",
     "name": "Huyện Gò Công Tây"
   },
   {
-    "code": "VN.37.822",
+    "code": "VN.82.822",
     "name": "Huyện Chợ Gạo"
   },
   {
-    "code": "VN.37.821",
+    "code": "VN.82.821",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.37.818",
+    "code": "VN.82.818",
     "name": "Huyện Tân Phước"
   },
   {
-    "code": "VN.37.820",
+    "code": "VN.82.820",
     "name": "Huyện Cai Lậy"
   },
   {
-    "code": "VN.37.819",
+    "code": "VN.82.819",
     "name": "Huyện Cái Bè"
   },
   {
-    "code": "VN.33.703",
+    "code": "VN.80.703",
     "name": "Thành Phố Tây Ninh"
   },
   {
-    "code": "VN.33.709",
+    "code": "VN.80.709",
     "name": "Huyện Hòa Thành"
   },
   {
-    "code": "VN.33.708",
+    "code": "VN.80.708",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.33.711",
+    "code": "VN.80.711",
     "name": "Huyện Bến Cầu"
   },
   {
-    "code": "VN.33.710",
+    "code": "VN.80.710",
     "name": "Huyện Gò Dầu"
   },
   {
-    "code": "VN.33.712",
+    "code": "VN.80.712",
     "name": "Huyện Trảng Bàng"
   },
   {
-    "code": "VN.33.707",
+    "code": "VN.80.707",
     "name": "Huyện Dương Minh Châu"
   },
   {
-    "code": "VN.33.706",
+    "code": "VN.80.706",
     "name": "Huyện Tân Châu"
   },
   {
-    "code": "VN.33.705",
+    "code": "VN.80.705",
     "name": "Huyện Tân Biên"
   },
   {
-    "code": "VN.20.760",
+    "code": "VN.79.760",
     "name": "Quận Một"
   },
   {
-    "code": "VN.20.769",
+    "code": "VN.79.769",
     "name": "Quận Hai"
   },
   {
-    "code": "VN.20.770",
+    "code": "VN.79.770",
     "name": "Quận Ba"
   },
   {
-    "code": "VN.20.773",
+    "code": "VN.79.773",
     "name": "Quận Bốn"
   },
   {
-    "code": "VN.20.774",
+    "code": "VN.79.774",
     "name": "Quận Năm"
   },
   {
-    "code": "VN.20.775",
+    "code": "VN.79.775",
     "name": "Quận Sáu"
   },
   {
-    "code": "VN.20.778",
+    "code": "VN.79.778",
     "name": "Quận Bảy"
   },
   {
-    "code": "VN.20.776",
+    "code": "VN.79.776",
     "name": "Quận Tám"
   },
   {
-    "code": "VN.20.763",
+    "code": "VN.79.763",
     "name": "Quận Chín"
   },
   {
-    "code": "VN.20.771",
+    "code": "VN.79.771",
     "name": "Quận Mười"
   },
   {
-    "code": "VN.20.772",
+    "code": "VN.79.772",
     "name": "Quận Mười Một"
   },
   {
-    "code": "VN.20.761",
+    "code": "VN.79.761",
     "name": "Quận 12"
   },
   {
-    "code": "VN.20.768",
+    "code": "VN.79.768",
     "name": "Phu Nhuan"
   },
   {
-    "code": "VN.20.766",
+    "code": "VN.79.766",
     "name": "Quận Tân Bình"
   },
   {
-    "code": "VN.20.765",
+    "code": "VN.79.765",
     "name": "Quận Bình Thạnh"
   },
   {
-    "code": "VN.20.764",
+    "code": "VN.79.764",
     "name": "Quận Gò Vấp"
   },
   {
-    "code": "VN.20.762",
+    "code": "VN.79.762",
     "name": "Quận Thủ Đức"
   },
   {
-    "code": "VN.20.784",
+    "code": "VN.79.784",
     "name": "Huyện Hóc Môn"
   },
   {
-    "code": "VN.20.783",
+    "code": "VN.79.783",
     "name": "Huyện Củ Chi"
   },
   {
-    "code": "VN.20.785",
+    "code": "VN.79.785",
     "name": "Huyện Bình Chánh"
   },
   {
-    "code": "VN.20.786",
+    "code": "VN.79.786",
     "name": "Huyện Nhà Bè"
   },
   {
-    "code": "VN.20.787",
+    "code": "VN.79.787",
     "name": "Huyện Cần Giờ"
   },
   {
-    "code": "VN.45.747",
+    "code": "VN.79.747",
     "name": "Thành Phố Vũng Tàu"
   },
   {
-    "code": "VN.45.748",
+    "code": "VN.79.748",
     "name": "Thành Phố Bà Rịa"
   },
   {
-    "code": "VN.45.754",
+    "code": "VN.79.754",
     "name": "Thị Xã Phú Mỹ"
   },
   {
-    "code": "VN.45.750",
+    "code": "VN.79.750",
     "name": "Huyện Châu Đức"
   },
   {
-    "code": "VN.45.753",
+    "code": "VN.79.753",
     "name": "Huyện Đất Đỏ"
   },
   {
-    "code": "VN.45.751",
+    "code": "VN.79.751",
     "name": "Huyện Xuyên Mộc"
   },
   {
-    "code": "VN.45.755",
+    "code": "VN.79.755",
     "name": "Huyện Côn Đảo"
   },
   {
-    "code": "VN.69.855",
+    "code": "VN.86.855",
     "name": "Thành phố Vĩnh Long"
   },
   {
-    "code": "VN.69.857",
+    "code": "VN.86.857",
     "name": "Huyện Long Hồ"
   },
   {
-    "code": "VN.69.858",
+    "code": "VN.86.858",
     "name": "Huyện Mang Thít"
   },
   {
-    "code": "VN.69.860",
+    "code": "VN.86.860",
     "name": "Huyện Tam Bình"
   },
   {
-    "code": "VN.69.861",
+    "code": "VN.86.861",
     "name": "Thị Xã Bình Minh"
   },
   {
-    "code": "VN.69.859",
+    "code": "VN.86.859",
     "name": "Huyện Vũng Liêm"
   },
   {
-    "code": "VN.69.862",
+    "code": "VN.86.862",
     "name": "Huyện Trà Ôn"
   },
   {
-    "code": "VN.67.842",
+    "code": "VN.86.842",
     "name": "Thành Phố Trà Vinh"
   },
   {
-    "code": "VN.67.847",
+    "code": "VN.86.847",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.67.844",
+    "code": "VN.86.844",
     "name": "Huyện Càng Long"
   },
   {
-    "code": "VN.67.848",
+    "code": "VN.86.848",
     "name": "Huyện Cầu Ngang"
   },
   {
-    "code": "VN.67.845",
+    "code": "VN.86.845",
     "name": "Huyện Cầu Kè"
   },
   {
-    "code": "VN.67.846",
+    "code": "VN.86.846",
     "name": "Huyện Tiểu Cần"
   },
   {
-    "code": "VN.67.849",
+    "code": "VN.86.849",
     "name": "Huyện Trà Cú"
   },
   {
-    "code": "VN.67.850",
+    "code": "VN.86.850",
     "name": "Huyện Duyên Hải"
   },
   {
-    "code": "VN.65.941",
+    "code": "VN.92.941",
     "name": "Thành Phố Sóc Trăng"
   },
   {
-    "code": "VN.65.946",
+    "code": "VN.92.946",
     "name": "Huyện Long Phú"
   },
   {
-    "code": "VN.65.943",
+    "code": "VN.92.943",
     "name": "Huyện Kế Sách"
   },
   {
-    "code": "VN.65.944",
+    "code": "VN.92.944",
     "name": "Huyện Mỹ Tú"
   },
   {
-    "code": "VN.65.947",
+    "code": "VN.92.947",
     "name": "Huyện Mỹ Xuyên"
   },
   {
-    "code": "VN.65.949",
+    "code": "VN.92.949",
     "name": "Huyện Thạnh Trị"
   },
   {
-    "code": "VN.65.950",
+    "code": "VN.92.950",
     "name": "Thị Xã Vĩnh Châu"
   },
   {
-    "code": "VN.87.916",
+    "code": "VN.92.916",
     "name": "Quận Ninh Kiều"
   },
   {
-    "code": "VN.93.933",
+    "code": "VN.92.933",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.87.917",
+    "code": "VN.92.917",
     "name": "Quận Ô Môn"
   },
   {
-    "code": "VN.87.923",
+    "code": "VN.92.923",
     "name": "Quận Thốt Nốt"
   },
   {
-    "code": "VN.93.934",
+    "code": "VN.92.934",
     "name": "Huyện Phụng Hiệp"
   },
   {
-    "code": "VN.93.935",
+    "code": "VN.92.935",
     "name": "Vị Thủy District"
   },
   {
-    "code": "VN.93.936",
+    "code": "VN.92.936",
     "name": "Huyện Long Mỹ"
   },
   {
-    "code": "VN.09.866",
+    "code": "VN.82.866",
     "name": "Thành Phố Cao Lãnh"
   },
   {
-    "code": "VN.09.867",
+    "code": "VN.82.867",
     "name": "Sa Dec city"
   },
   {
-    "code": "VN.09.877",
+    "code": "VN.82.877",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.09.876",
+    "code": "VN.82.876",
     "name": "Huyện Lai Vung"
   },
   {
-    "code": "VN.09.875",
+    "code": "VN.82.875",
     "name": "Huyện Lấp Vò"
   },
   {
-    "code": "VN.09.873",
+    "code": "VN.82.873",
     "name": "Huyện Cao Lãnh"
   },
   {
-    "code": "VN.09.872",
+    "code": "VN.82.872",
     "name": "Huyện Tháp Mười"
   },
   {
-    "code": "VN.09.874",
+    "code": "VN.82.874",
     "name": "Huyện Thanh Bình"
   },
   {
-    "code": "VN.09.871",
+    "code": "VN.82.871",
     "name": "Huyện Tam Nông"
   },
   {
-    "code": "VN.09.870",
+    "code": "VN.82.870",
     "name": "Huyện Hồng Ngự"
   },
   {
-    "code": "VN.09.869",
+    "code": "VN.82.869",
     "name": "Huyện Tân Hồng"
   },
   {
-    "code": "VN.21.899",
+    "code": "VN.91.899",
     "name": "Thành Phố Rạch Giá"
   },
   {
-    "code": "VN.21.905",
+    "code": "VN.91.905",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.21.906",
+    "code": "VN.91.906",
     "name": "Huyện Giồng Riềng"
   },
   {
-    "code": "VN.21.904",
+    "code": "VN.91.904",
     "name": "Huyện Tân Hiệp"
   },
   {
-    "code": "VN.21.907",
+    "code": "VN.91.907",
     "name": "Huyện Gò Quao"
   },
   {
-    "code": "VN.21.908",
+    "code": "VN.91.908",
     "name": "Huyện An Biên"
   },
   {
-    "code": "VN.21.909",
+    "code": "VN.91.909",
     "name": "Huyện An Minh"
   },
   {
-    "code": "VN.21.910",
+    "code": "VN.91.910",
     "name": "Huyện Vĩnh Thuận"
   },
   {
-    "code": "VN.21.903",
+    "code": "VN.91.903",
     "name": "Huyện Hòn Đất"
   },
   {
-    "code": "VN.21.900",
+    "code": "VN.91.900",
     "name": "Thành Phố Hà Tiên"
   },
   {
-    "code": "VN.21.912",
+    "code": "VN.91.912",
     "name": "Huyện Kiên Hải"
   },
   {
-    "code": "VN.21.911",
+    "code": "VN.91.911",
     "name": "Thành Phố Phú Quốc"
   },
   {
-    "code": "VN.60.582",
+    "code": "VN.56.582",
     "name": "Thành Phố Phan Rang-Tháp Chàm"
   },
   {
-    "code": "VN.60.586",
+    "code": "VN.56.586",
     "name": "Huyện Ninh Hải"
   },
   {
-    "code": "VN.60.587",
+    "code": "VN.56.587",
     "name": "Huyện Ninh Phước"
   },
   {
-    "code": "VN.60.585",
+    "code": "VN.56.585",
     "name": "Huyện Ninh Sơn"
   },
   {
-    "code": "VN.49.622",
+    "code": "VN.52.622",
     "name": "Thành Phố Pleiku"
   },
   {
-    "code": "VN.49.627",
+    "code": "VN.52.627",
     "name": "Huyện Chư Păh"
   },
   {
-    "code": "VN.49.628",
+    "code": "VN.52.628",
     "name": "Huyện Ia Grai"
   },
   {
-    "code": "VN.49.631",
+    "code": "VN.52.631",
     "name": "Huyện Đức Cơ"
   },
   {
-    "code": "VN.49.632",
+    "code": "VN.52.632",
     "name": "Huyện Chư Prông"
   },
   {
-    "code": "VN.49.633",
+    "code": "VN.52.633",
     "name": "Huyện Chư Sê"
   },
   {
-    "code": "VN.49.637",
+    "code": "VN.52.637",
     "name": "Huyện Krông Pa"
   },
   {
-    "code": "VN.49.624",
+    "code": "VN.52.624",
     "name": "Thị Xã A Yun Pa"
   },
   {
-    "code": "VN.49.630",
+    "code": "VN.52.630",
     "name": "Huyện Kông Chro"
   },
   {
-    "code": "VN.49.623",
+    "code": "VN.52.623",
     "name": "Thị Xã An Khê"
   },
   {
-    "code": "VN.49.629",
+    "code": "VN.52.629",
     "name": "Huyện Mang Yang"
   },
   {
-    "code": "VN.49.625",
+    "code": "VN.52.625",
     "name": "Huyện KBang"
   },
   {
-    "code": "VN.88.643",
+    "code": "VN.66.643",
     "name": "Thành Phố Buôn Ma Thuột"
   },
   {
-    "code": "VN.91.666",
+    "code": "VN.68.666",
     "name": "Huyện Đắk R’Lấp"
   },
   {
-    "code": "VN.91.664",
+    "code": "VN.68.664",
     "name": "Huyện Krông Nô"
   },
   {
-    "code": "VN.88.647",
+    "code": "VN.66.647",
     "name": "Huyện Buôn Đôn"
   },
   {
-    "code": "VN.88.646",
+    "code": "VN.66.646",
     "name": "Huyện Ea Súp"
   },
   {
-    "code": "VN.24.794",
+    "code": "VN.80.794",
     "name": "Thành Phố Tân An"
   },
   {
-    "code": "VN.24.808",
+    "code": "VN.80.808",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.24.805",
+    "code": "VN.80.805",
     "name": "Huyện Tân Trụ"
   },
   {
-    "code": "VN.24.806",
+    "code": "VN.80.806",
     "name": "Huyện Cần Đước"
   },
   {
-    "code": "VN.24.807",
+    "code": "VN.80.807",
     "name": "Huyện Cần Giuộc"
   },
   {
-    "code": "VN.24.803",
+    "code": "VN.80.803",
     "name": "Huyện Bến Lức"
   },
   {
-    "code": "VN.24.804",
+    "code": "VN.80.804",
     "name": "Huyện Thủ Thừa"
   },
   {
-    "code": "VN.24.800",
+    "code": "VN.80.800",
     "name": "Huyện Thạnh Hóa"
   },
   {
-    "code": "VN.24.801",
+    "code": "VN.80.801",
     "name": "Huyện Đức Huệ"
   },
   {
-    "code": "VN.24.802",
+    "code": "VN.80.802",
     "name": "Huyện Đức Hòa"
   },
   {
-    "code": "VN.24.799",
+    "code": "VN.80.799",
     "name": "Huyện Tân Thạnh"
   },
   {
-    "code": "VN.24.798",
+    "code": "VN.80.798",
     "name": "Huyện Mộc Hóa"
   },
   {
-    "code": "VN.24.796",
+    "code": "VN.80.796",
     "name": "Huyện Tân Hưng"
   },
   {
-    "code": "VN.24.797",
+    "code": "VN.80.797",
     "name": "Huyện Vĩnh Hưng"
   },
   {
-    "code": "VN.90.080",
+    "code": "VN.15.080",
     "name": "Thành Phố Lào Cai"
   },
   {
-    "code": "VN.90.086",
+    "code": "VN.15.086",
     "name": "Huyện Bảo Thắng"
   },
   {
-    "code": "VN.90.088",
+    "code": "VN.15.088",
     "name": "Huyện Sa Pa"
   },
   {
-    "code": "VN.90.082",
+    "code": "VN.15.082",
     "name": "Huyện Bát Xát"
   },
   {
-    "code": "VN.90.083",
+    "code": "VN.15.083",
     "name": "Huyện Mường Khương"
   },
   {
-    "code": "VN.90.085",
+    "code": "VN.15.085",
     "name": "Huyện Bắc Hà"
   },
   {
-    "code": "VN.90.087",
+    "code": "VN.15.087",
     "name": "Huyện Bảo Yên"
   },
   {
-    "code": "VN.90.089",
+    "code": "VN.15.089",
     "name": "Huyện Văn Bàn"
   },
   {
-    "code": "VN.89.110",
+    "code": "VN.12.110",
     "name": "Huyện Than Uyên"
   },
   {
-    "code": "VN.53.148",
+    "code": "VN.25.148",
     "name": "Thành Phố Hòa Bình"
   },
   {
-    "code": "VN.53.151",
+    "code": "VN.25.151",
     "name": "Huyện Kỳ Sơn"
   },
   {
-    "code": "VN.53.150",
+    "code": "VN.25.150",
     "name": "Huyện Đà Bắc"
   },
   {
-    "code": "VN.53.156",
+    "code": "VN.25.156",
     "name": "Huyện Mai Châu"
   },
   {
-    "code": "VN.53.155",
+    "code": "VN.25.155",
     "name": "Huyện Tân Lạc"
   },
   {
-    "code": "VN.53.152",
+    "code": "VN.25.152",
     "name": "Huyện Lương Sơn"
   },
   {
-    "code": "VN.53.153",
+    "code": "VN.25.153",
     "name": "Huyện Kim Bôi"
   },
   {
-    "code": "VN.53.157",
+    "code": "VN.25.157",
     "name": "Huyện Lạc Sơn"
   },
   {
-    "code": "VN.53.159",
+    "code": "VN.25.159",
     "name": "Huyện Lạc Thủy"
   },
   {
-    "code": "VN.53.158",
+    "code": "VN.25.158",
     "name": "Huyện Yên Thủy"
   },
   {
-    "code": "VN.50.024",
+    "code": "VN.08.024",
     "name": "Thành Phố Hà Giang"
   },
   {
-    "code": "VN.50.030",
+    "code": "VN.08.030",
     "name": "Huyện Vị Xuyên"
   },
   {
-    "code": "VN.50.031",
+    "code": "VN.08.031",
     "name": "Huyện Bắc Mê"
   },
   {
-    "code": "VN.50.028",
+    "code": "VN.08.028",
     "name": "Huyện Yên Minh"
   },
   {
-    "code": "VN.50.029",
+    "code": "VN.08.029",
     "name": "Huyện Quản Bạ"
   },
   {
-    "code": "VN.50.026",
+    "code": "VN.08.026",
     "name": "Huyện Đồng Văn"
   },
   {
-    "code": "VN.50.027",
+    "code": "VN.08.027",
     "name": "Huyện Mèo Vạc"
   },
   {
-    "code": "VN.50.033",
+    "code": "VN.08.033",
     "name": "Huyện Xín Mần"
   },
   {
-    "code": "VN.50.032",
+    "code": "VN.08.032",
     "name": "Huyện Hoàng Su Phì"
   },
   {
-    "code": "VN.50.034",
+    "code": "VN.08.034",
     "name": "Huyện Bắc Quang"
   },
   {
-    "code": "VN.44.268",
+    "code": "VN.01.268",
     "name": "Quận Hà Đông"
   },
   {
-    "code": "VN.44.269",
+    "code": "VN.01.269",
     "name": "Thị Xã Sơn Tây"
   },
   {
-    "code": "VN.44.278",
+    "code": "VN.01.278",
     "name": "Huyện Thanh Oai"
   },
   {
-    "code": "VN.44.277",
+    "code": "VN.01.277",
     "name": "Huyện Chương Mỹ"
   },
   {
-    "code": "VN.44.274",
+    "code": "VN.01.274",
     "name": "Huyện Hoài Đức"
   },
   {
-    "code": "VN.44.275",
+    "code": "VN.01.275",
     "name": "Huyện Quốc Oai"
   },
   {
-    "code": "VN.44.276",
+    "code": "VN.01.276",
     "name": "Huyện Thạch Thất"
   },
   {
-    "code": "VN.44.273",
+    "code": "VN.01.273",
     "name": "Huyện Đan Phượng"
   },
   {
-    "code": "VN.44.272",
+    "code": "VN.01.272",
     "name": "Huyện Phúc Thọ"
   },
   {
-    "code": "VN.44.271",
+    "code": "VN.01.271",
     "name": "Huyện Ba Vì"
   },
   {
-    "code": "VN.44.279",
+    "code": "VN.01.279",
     "name": "Huyện Thường Tín"
   },
   {
-    "code": "VN.44.280",
+    "code": "VN.01.280",
     "name": "Huyện Phú Xuyên"
   },
   {
-    "code": "VN.44.281",
+    "code": "VN.01.281",
     "name": "Huyện Ứng Hòa"
   },
   {
-    "code": "VN.44.282",
+    "code": "VN.01.282",
     "name": "Huyện Mỹ Đức"
   },
   {
-    "code": "VN.58.412",
+    "code": "VN.40.412",
     "name": "Thành Phố Vinh"
   },
   {
-    "code": "VN.58.431",
+    "code": "VN.40.431",
     "name": "Huyện Hưng Nguyên"
   },
   {
-    "code": "VN.58.430",
+    "code": "VN.40.430",
     "name": "Huyện Nam Đàn"
   },
   {
-    "code": "VN.58.429",
+    "code": "VN.40.429",
     "name": "Huyện Nghi Lộc"
   },
   {
-    "code": "VN.58.413",
+    "code": "VN.40.413",
     "name": "Thị Xã Cửa Lò"
   },
   {
-    "code": "VN.58.425",
+    "code": "VN.40.425",
     "name": "Huyện Diễn Châu"
   },
   {
-    "code": "VN.58.426",
+    "code": "VN.40.426",
     "name": "Huyện Yên Thành"
   },
   {
-    "code": "VN.58.427",
+    "code": "VN.40.427",
     "name": "Huyện Đô Lương"
   },
   {
-    "code": "VN.58.428",
+    "code": "VN.40.428",
     "name": "Huyện Thanh Chương"
   },
   {
-    "code": "VN.58.424",
+    "code": "VN.40.424",
     "name": "Huyện Anh Sơn"
   },
   {
-    "code": "VN.58.422",
+    "code": "VN.40.422",
     "name": "Huyện Con Cuông"
   },
   {
-    "code": "VN.58.423",
+    "code": "VN.40.423",
     "name": "Huyện Tân Kỳ"
   },
   {
-    "code": "VN.58.421",
+    "code": "VN.40.421",
     "name": "Huyện Quỳnh Lưu"
   },
   {
-    "code": "VN.58.419",
+    "code": "VN.40.419",
     "name": "Huyện Nghĩa Đàn"
   },
   {
-    "code": "VN.58.420",
+    "code": "VN.40.420",
     "name": "Huyện Quỳ Hợp"
   },
   {
-    "code": "VN.58.416",
+    "code": "VN.40.416",
     "name": "Huyện Quỳ Châu"
   },
   {
-    "code": "VN.58.415",
+    "code": "VN.40.415",
     "name": "Huyện Quế Phong"
   },
   {
-    "code": "VN.58.418",
+    "code": "VN.40.418",
     "name": "Huyện Tương Dương"
   },
   {
-    "code": "VN.58.417",
+    "code": "VN.40.417",
     "name": "Huyện Kỳ Sơn"
   },
   {
-    "code": "VN.35.336",
+    "code": "VN.33.336",
     "name": "Thành Phố Thái Bình"
   },
   {
-    "code": "VN.35.344",
+    "code": "VN.33.344",
     "name": "Huyện Vũ Thư"
   },
   {
-    "code": "VN.35.340",
+    "code": "VN.33.340",
     "name": "Huyện Ðông Hưng"
   },
   {
-    "code": "VN.35.343",
+    "code": "VN.33.343",
     "name": "Huyện Kiến Xương"
   },
   {
-    "code": "VN.35.342",
+    "code": "VN.33.342",
     "name": "Huyện Tiền Hải"
   },
   {
-    "code": "VN.35.341",
+    "code": "VN.33.341",
     "name": "Huyện Thái Thụy"
   },
   {
-    "code": "VN.35.338",
+    "code": "VN.33.338",
     "name": "Huyện Quỳnh Phụ"
   },
   {
-    "code": "VN.35.339",
+    "code": "VN.33.339",
     "name": "Huyện Hưng Hà"
   },
   {
-    "code": "VN.32.116",
+    "code": "VN.14.116",
     "name": "Thành Phố Sơn La"
   },
   {
-    "code": "VN.32.120",
+    "code": "VN.14.120",
     "name": "Huyện Mường La"
   },
   {
-    "code": "VN.32.118",
+    "code": "VN.14.118",
     "name": "Huyện Quỳnh Nhai"
   },
   {
-    "code": "VN.32.119",
+    "code": "VN.14.119",
     "name": "Huyện Thuận Châu"
   },
   {
-    "code": "VN.32.126",
+    "code": "VN.14.126",
     "name": "Huyện Sông Mã"
   },
   {
-    "code": "VN.32.125",
+    "code": "VN.14.125",
     "name": "Huyện Mai Sơn"
   },
   {
-    "code": "VN.32.121",
+    "code": "VN.14.121",
     "name": "Huyện Bắc Yên"
   },
   {
-    "code": "VN.32.124",
+    "code": "VN.14.124",
     "name": "Huyện Yên Châu"
   },
   {
-    "code": "VN.32.122",
+    "code": "VN.14.122",
     "name": "Huyện Phù Yên"
   },
   {
-    "code": "VN.32.123",
+    "code": "VN.14.123",
     "name": "Huyện Mộc Châu"
   },
   {
-    "code": "VN.13.305",
+    "code": "VN.31.305",
     "name": "Quận Lê Chân"
   },
   {
-    "code": "VN.13.304",
+    "code": "VN.31.304",
     "name": "Quận Ngô Quyền"
   },
   {
-    "code": "VN.13.307",
+    "code": "VN.31.307",
     "name": "Quận Kiến An"
   },
   {
-    "code": "VN.13.308",
+    "code": "VN.31.308",
     "name": "Quận Đồ Sơn"
   },
   {
-    "code": "VN.13.312",
+    "code": "VN.31.312",
     "name": "Huyện An Dương"
   },
   {
-    "code": "VN.13.311",
+    "code": "VN.31.311",
     "name": "Huyện Thủy Nguyên"
   },
   {
-    "code": "VN.13.313",
+    "code": "VN.31.313",
     "name": "Huyện An Lão"
   },
   {
-    "code": "VN.13.314",
+    "code": "VN.31.314",
     "name": "Huyện Kiến Thụy"
   },
   {
-    "code": "VN.13.315",
+    "code": "VN.31.315",
     "name": "Huyện Tiên Lãng"
   },
   {
-    "code": "VN.13.316",
+    "code": "VN.31.316",
     "name": "Huyện Vĩnh Bảo"
   },
   {
-    "code": "VN.13.317",
+    "code": "VN.31.317",
     "name": "Huyện Cát Hải"
   },
   {
-    "code": "VN.13.318",
+    "code": "VN.31.318",
     "name": "Huyện Bạch Long Vỹ"
   },
   {
-    "code": "VN.92.094",
+    "code": "VN.11.094",
     "name": "Thành Phố Điện Biên Phủ"
   },
   {
-    "code": "VN.92.101",
+    "code": "VN.11.101",
     "name": "Huyện Điện Biên Đông"
   },
   {
-    "code": "VN.92.099",
+    "code": "VN.11.099",
     "name": "Huyện Tuần Giáo"
   },
   {
-    "code": "VN.92.098",
+    "code": "VN.11.098",
     "name": "Huyện Tủa Chùa"
   },
   {
-    "code": "VN.92.095",
+    "code": "VN.11.095",
     "name": "Thị Xã Mưòng Lay"
   },
   {
-    "code": "VN.89.108",
+    "code": "VN.12.108",
     "name": "Huyện Sìn Hồ"
   },
   {
-    "code": "VN.89.109",
+    "code": "VN.12.109",
     "name": "Huyện Phong Thổ"
   },
   {
-    "code": "VN.89.107",
+    "code": "VN.12.107",
     "name": "Huyện Mưòng Tè"
   },
   {
-    "code": "VN.30.193",
+    "code": "VN.22.193",
     "name": "Hạ Long District"
   },
   {
-    "code": "VN.30.195",
+    "code": "VN.22.195",
     "name": "Cẩm Phả District"
   },
   {
-    "code": "VN.30.196",
+    "code": "VN.22.196",
     "name": "Thành Phố Uông Bí"
   },
   {
-    "code": "VN.30.205",
+    "code": "VN.22.205",
     "name": "Huyện Đông Triều"
   },
   {
-    "code": "VN.30.206",
+    "code": "VN.22.206",
     "name": "Thị Xã Quảng Yên"
   },
   {
-    "code": "VN.30.204",
+    "code": "VN.22.204",
     "name": "Huyện Hoành Bồ"
   },
   {
-    "code": "VN.30.202",
+    "code": "VN.22.202",
     "name": "Huyện Ba Chẽ"
   },
   {
-    "code": "VN.30.199",
+    "code": "VN.22.199",
     "name": "Huyện Tiên Yên"
   },
   {
-    "code": "VN.30.198",
+    "code": "VN.22.198",
     "name": "Huyện Bình Liêu"
   },
   {
-    "code": "VN.30.201",
+    "code": "VN.22.201",
     "name": "Huyện Hải Hà"
   },
   {
-    "code": "VN.30.194",
+    "code": "VN.22.194",
     "name": "Thành Phố Móng Cái"
   },
   {
-    "code": "VN.30.203",
+    "code": "VN.22.203",
     "name": "Huyện Vân Đồn"
   },
   {
-    "code": "VN.30.207",
+    "code": "VN.22.207",
     "name": "Huyện Cô Tô"
   },
   {
-    "code": "VN.44.001",
+    "code": "VN.01.001",
     "name": "Quận Ba Đình"
   },
   {
-    "code": "VN.44.005",
+    "code": "VN.01.005",
     "name": "Quận Cầu Giấy"
   },
   {
-    "code": "VN.44.017",
+    "code": "VN.01.017",
     "name": "Huyện Đông Anh"
   },
   {
-    "code": "VN.44.006",
+    "code": "VN.01.006",
     "name": "Quận Đống Đa"
   },
   {
-    "code": "VN.44.018",
+    "code": "VN.01.018",
     "name": "Huyện Gia Lâm"
   },
   {
-    "code": "VN.44.007",
+    "code": "VN.01.007",
     "name": "Quận Hai Bà Trưng"
   },
   {
-    "code": "VN.44.002",
+    "code": "VN.01.002",
     "name": "Quận Hoàn Kiếm"
   },
   {
-    "code": "VN.44.016",
+    "code": "VN.01.016",
     "name": "Huyện Sóc Sơn"
   },
   {
-    "code": "VN.44.003",
+    "code": "VN.01.003",
     "name": "Quận Tây Hồ"
   },
   {
-    "code": "VN.44.020",
+    "code": "VN.01.020",
     "name": "Huyện Thanh Trì"
   },
   {
-    "code": "VN.44.009",
+    "code": "VN.01.009",
     "name": "Quận Thanh Xuân"
   },
   {
-    "code": "VN.23.672",
+    "code": "VN.68.672",
     "name": "Thành Phố Đà Lạt"
   },
   {
-    "code": "VN.23.673",
+    "code": "VN.68.673",
     "name": "Thành Phố Bảo Lộc"
   },
   {
-    "code": "VN.23.680",
+    "code": "VN.68.680",
     "name": "Huyện Bảo Lâm"
   },
   {
-    "code": "VN.23.681",
+    "code": "VN.68.681",
     "name": "Huyện Đạ Huoai"
   },
   {
-    "code": "VN.23.682",
+    "code": "VN.68.682",
     "name": "Huyện Đạ Tẻh"
   },
   {
-    "code": "VN.23.683",
+    "code": "VN.68.683",
     "name": "Huyện Cát Tiên"
   },
   {
-    "code": "VN.23.679",
+    "code": "VN.68.679",
     "name": "Huyện Di Linh"
   },
   {
-    "code": "VN.23.678",
+    "code": "VN.68.678",
     "name": "Huyện Đức Trọng"
   },
   {
-    "code": "VN.23.677",
+    "code": "VN.68.677",
     "name": "Huyện Đơn Dương"
   },
   {
-    "code": "VN.23.676",
+    "code": "VN.68.676",
     "name": "Huyện Lâm Hà"
   },
   {
-    "code": "VN.23.675",
+    "code": "VN.68.675",
     "name": "Huyện Lạc Dương"
   },
   {
-    "code": "VN.59.369",
+    "code": "VN.37.369",
     "name": "Thành Phố Ninh Bình"
   },
   {
-    "code": "VN.59.376",
+    "code": "VN.37.376",
     "name": "Huyện Kim Sơn"
   },
   {
-    "code": "VN.59.377",
+    "code": "VN.37.377",
     "name": "Huyện Yên Mô"
   },
   {
-    "code": "VN.59.375",
+    "code": "VN.37.375",
     "name": "Huyện Yên Khánh"
   },
   {
-    "code": "VN.59.370",
+    "code": "VN.37.370",
     "name": "Thị Xã Tam Điệp"
   },
   {
-    "code": "VN.59.374",
+    "code": "VN.37.374",
     "name": "Huyện Hoa Lư"
   },
   {
-    "code": "VN.59.373",
+    "code": "VN.37.373",
     "name": "Huyện Gia Viễn"
   },
   {
-    "code": "VN.59.372",
+    "code": "VN.37.372",
     "name": "Huyện Nho Quan"
   },
   {
-    "code": "VN.34.380",
+    "code": "VN.38.380",
     "name": "Thành Phố Thanh Hóa"
   },
   {
-    "code": "VN.34.407",
+    "code": "VN.38.407",
     "name": "Huyện Tĩnh Gia"
   },
   {
-    "code": "VN.34.404",
+    "code": "VN.38.404",
     "name": "Huyện Nông Cống"
   },
   {
-    "code": "VN.34.403",
+    "code": "VN.38.403",
     "name": "Huyện Như Thanh"
   },
   {
-    "code": "VN.34.402",
+    "code": "VN.38.402",
     "name": "Huyện Như Xuân"
   },
   {
-    "code": "VN.34.406",
+    "code": "VN.38.406",
     "name": "Huyện Quảng Xương"
   },
   {
-    "code": "VN.34.382",
+    "code": "VN.38.382",
     "name": "Thành Phố Sầm Sơn"
   },
   {
-    "code": "VN.34.399",
+    "code": "VN.38.399",
     "name": "Huyện Hoằng Hóa"
   },
   {
-    "code": "VN.34.405",
+    "code": "VN.38.405",
     "name": "Huyện Đông Sơn"
   },
   {
-    "code": "VN.34.398",
+    "code": "VN.38.398",
     "name": "Huyện Thiệu Hóa"
   },
   {
-    "code": "VN.34.394",
+    "code": "VN.38.394",
     "name": "Huyện Yên Định"
   },
   {
-    "code": "VN.34.397",
+    "code": "VN.38.397",
     "name": "Huyện Triệu Sơn"
   },
   {
-    "code": "VN.34.395",
+    "code": "VN.38.395",
     "name": "Huyện Thọ Xuân"
   },
   {
-    "code": "VN.34.396",
+    "code": "VN.38.396",
     "name": "Huyện Thường Xuân"
   },
   {
-    "code": "VN.34.389",
+    "code": "VN.38.389",
     "name": "Huyện Ngọc Lặc"
   },
   {
-    "code": "VN.34.388",
+    "code": "VN.38.388",
     "name": "Huyện Lang Chánh"
   },
   {
-    "code": "VN.34.390",
+    "code": "VN.38.390",
     "name": "Huyện Cẩm Thủy"
   },
   {
-    "code": "VN.34.393",
+    "code": "VN.38.393",
     "name": "Huyện Vĩnh Lộc"
   },
   {
-    "code": "VN.34.400",
+    "code": "VN.38.400",
     "name": "Huyện Hậu Lộc"
   },
   {
-    "code": "VN.34.401",
+    "code": "VN.38.401",
     "name": "Huyện Nga Sơn"
   },
   {
-    "code": "VN.34.392",
+    "code": "VN.38.392",
     "name": "Huyện Hà Trung"
   },
   {
-    "code": "VN.34.381",
+    "code": "VN.38.381",
     "name": "Thị Xã Bỉm Sơn"
   },
   {
-    "code": "VN.34.391",
+    "code": "VN.38.391",
     "name": "Huyện Thạch Thành"
   },
   {
-    "code": "VN.34.386",
+    "code": "VN.38.386",
     "name": "Huyện Bá Thước"
   },
   {
-    "code": "VN.34.387",
+    "code": "VN.38.387",
     "name": "Huyện Quan Sơn"
   },
   {
-    "code": "VN.34.385",
+    "code": "VN.38.385",
     "name": "Huyện Quan Hóa"
   },
   {
-    "code": "VN.34.384",
+    "code": "VN.38.384",
     "name": "Huyện Mường Lát"
   },
   {
-    "code": "VN.64.461",
+    "code": "VN.44.461",
     "name": "Thành Phố Đông Hà"
   },
   {
-    "code": "VN.64.467",
+    "code": "VN.44.467",
     "name": "Huyện ĐaKrông"
   },
   {
-    "code": "VN.64.465",
+    "code": "VN.44.465",
     "name": "Huyện Hướng Hóa"
   },
   {
-    "code": "VN.64.470",
+    "code": "VN.44.470",
     "name": "Huyện Hải Lăng"
   },
   {
-    "code": "VN.64.462",
+    "code": "VN.44.462",
     "name": "Thị Xã Quảng Trị"
   },
   {
-    "code": "VN.64.469",
+    "code": "VN.44.469",
     "name": "Huyện Triệu Phong"
   },
   {
-    "code": "VN.64.468",
+    "code": "VN.44.468",
     "name": "Huyện Cam Lộ"
   },
   {
-    "code": "VN.64.466",
+    "code": "VN.44.466",
     "name": "Huyện Gio Linh"
   },
   {
-    "code": "VN.64.464",
+    "code": "VN.44.464",
     "name": "Huyện Vĩnh Linh"
   },
   {
-    "code": "VN.62.450",
+    "code": "VN.44.450",
     "name": "Thành Phố Đồng Hới"
   },
   {
-    "code": "VN.62.457",
+    "code": "VN.44.457",
     "name": "Huyện Lệ Thủy"
   },
   {
-    "code": "VN.62.456",
+    "code": "VN.44.456",
     "name": "Huyện Quảng Ninh"
   },
   {
-    "code": "VN.62.455",
+    "code": "VN.44.455",
     "name": "Huyện Bố Trạch"
   },
   {
-    "code": "VN.62.454",
+    "code": "VN.44.454",
     "name": "Huyện Quảng Trạch"
   },
   {
-    "code": "VN.62.453",
+    "code": "VN.44.453",
     "name": "Huyện Tuyên Hóa"
   },
   {
-    "code": "VN.62.452",
+    "code": "VN.44.452",
     "name": "Huyện Minh Hóa"
   },
   {
-    "code": "VN.74.256",
+    "code": "VN.24.256",
     "name": "Thành Phố Bắc Ninh"
   },
   {
-    "code": "VN.74.258",
+    "code": "VN.24.258",
     "name": "Huyện Yên Phong"
   },
   {
-    "code": "VN.74.259",
+    "code": "VN.24.259",
     "name": "Huyện Quế Võ"
   },
   {
-    "code": "VN.74.260",
+    "code": "VN.24.260",
     "name": "Huyện Tiên Du"
   },
   {
-    "code": "VN.74.263",
+    "code": "VN.24.263",
     "name": "Huyện Gia Bình"
   },
   {
-    "code": "VN.74.262",
+    "code": "VN.24.262",
     "name": "Huyện Thuận Thành"
   },
   {
-    "code": "VN.71.222",
+    "code": "VN.24.222",
     "name": "Huyện Việt Yên"
   },
   {
-    "code": "VN.71.221",
+    "code": "VN.24.221",
     "name": "Huyện Yên Dũng"
   },
   {
-    "code": "VN.71.217",
+    "code": "VN.24.217",
     "name": "Huyện Lạng Giang"
   },
   {
-    "code": "VN.71.216",
+    "code": "VN.24.216",
     "name": "Huyện Tân Yên"
   },
   {
-    "code": "VN.71.223",
+    "code": "VN.24.223",
     "name": "Huyện Hiệp Hòa"
   },
   {
-    "code": "VN.71.215",
+    "code": "VN.24.215",
     "name": "Huyện Yên Thế"
   },
   {
-    "code": "VN.71.218",
+    "code": "VN.24.218",
     "name": "Huyện Lục Nam"
   },
   {
-    "code": "VN.71.219",
+    "code": "VN.24.219",
     "name": "Huyện Lục Ngạn"
   },
   {
-    "code": "VN.71.220",
+    "code": "VN.24.220",
     "name": "Huyện Sơn Động"
   },
   {
-    "code": "VN.78.491",
+    "code": "VN.48.491",
     "name": "Quận Thanh Khê"
   },
   {
-    "code": "VN.78.493",
+    "code": "VN.48.493",
     "name": "Quận Sơn Trà"
   },
   {
-    "code": "VN.78.494",
+    "code": "VN.48.494",
     "name": "Quận Ngũ Hành Sơn"
   },
   {
-    "code": "VN.78.490",
+    "code": "VN.48.490",
     "name": "Quận Liên Chiểu"
   },
   {
-    "code": "VN.78.497",
+    "code": "VN.48.497",
     "name": "Huyện Hòa Vang"
   },
   {
-    "code": "VN.78.498",
+    "code": "VN.48.498",
     "name": "Huyện Hoàng Sa"
   },
   {
-    "code": "VN.75.718",
+    "code": "VN.79.718",
     "name": "Thành Phố Thủ Dầu Một"
   },
   {
-    "code": "VN.75.725",
+    "code": "VN.79.725",
     "name": "Thành Phố Thuận An"
   },
   {
-    "code": "VN.75.723",
+    "code": "VN.79.723",
     "name": "Thị Xã Tân Uyên"
   },
   {
-    "code": "VN.75.721",
+    "code": "VN.79.721",
     "name": "Thị Xã Bến Cát"
   },
   {
-    "code": "VN.76.695",
+    "code": "VN.75.695",
     "name": "Huyện Đồng Phú"
   },
   {
-    "code": "VN.76.690",
+    "code": "VN.75.690",
     "name": "Thị Xã Bình Long"
   },
   {
-    "code": "VN.76.692",
+    "code": "VN.75.692",
     "name": "Huyện Lộc Ninh"
   },
   {
-    "code": "VN.76.688",
+    "code": "VN.75.688",
     "name": "Thị Xã Phước Long"
   },
   {
-    "code": "VN.76.696",
+    "code": "VN.75.696",
     "name": "Huyện Bù Đăng"
   },
   {
-    "code": "VN.01.883",
+    "code": "VN.91.883",
     "name": "Long Xuyên City"
   },
   {
-    "code": "VN.01.884",
+    "code": "VN.91.884",
     "name": "Thành phố Châu Đốc"
   },
   {
-    "code": "VN.01.894",
+    "code": "VN.91.894",
     "name": "Huyện Thoại Sơn"
   },
   {
-    "code": "VN.01.892",
+    "code": "VN.91.892",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.01.893",
+    "code": "VN.91.893",
     "name": "Huyện Chợ Mới"
   },
   {
-    "code": "VN.01.888",
+    "code": "VN.91.888",
     "name": "Huyện Phú Tân"
   },
   {
-    "code": "VN.01.889",
+    "code": "VN.91.889",
     "name": "Huyện Châu Phú"
   },
   {
-    "code": "VN.01.891",
+    "code": "VN.91.891",
     "name": "Huyện Tri Tôn"
   },
   {
-    "code": "VN.01.890",
+    "code": "VN.91.890",
     "name": "Huyện Tịnh Biên"
   },
   {
-    "code": "VN.01.887",
+    "code": "VN.91.887",
     "name": "Thị Xã Tân Châu"
   },
   {
-    "code": "VN.01.886",
+    "code": "VN.91.886",
     "name": "Huyện An Phú"
   },
   {
-    "code": "VN.85.165",
+    "code": "VN.19.165",
     "name": "Thị Xã Sông Công"
   },
   {
-    "code": "VN.85.173",
+    "code": "VN.19.173",
     "name": "Huyện Phú Bình"
   },
   {
-    "code": "VN.85.172",
+    "code": "VN.19.172",
     "name": "Huyện Phổ Yên"
   },
   {
-    "code": "VN.85.171",
+    "code": "VN.19.171",
     "name": "Huyện Đại Từ"
   },
   {
-    "code": "VN.85.167",
+    "code": "VN.19.167",
     "name": "Huyện Định Hóa"
   },
   {
-    "code": "VN.85.168",
+    "code": "VN.19.168",
     "name": "Huyện Phú Lương"
   },
   {
-    "code": "VN.85.169",
+    "code": "VN.19.169",
     "name": "Huyện Đồng Hỷ"
   },
   {
-    "code": "VN.85.170",
+    "code": "VN.19.170",
     "name": "Huyện Võ Nhai"
   },
   {
-    "code": "VN.05.051",
+    "code": "VN.04.051",
     "name": "Huyện Hòa An"
   },
   {
-    "code": "VN.05.046",
+    "code": "VN.04.046",
     "name": "Huyện Trà Lĩnh"
   },
   {
-    "code": "VN.05.047",
+    "code": "VN.04.047",
     "name": "Huyện Trùng Khánh"
   },
   {
-    "code": "VN.05.048",
+    "code": "VN.04.048",
     "name": "Huyện Hạ Lang"
   },
   {
-    "code": "VN.05.053",
+    "code": "VN.04.053",
     "name": "Huyện Thạch An"
   },
   {
-    "code": "VN.05.052",
+    "code": "VN.04.052",
     "name": "Huyện Nguyên Bình"
   },
   {
-    "code": "VN.05.044",
+    "code": "VN.04.044",
     "name": "Huyện Thông Nông"
   },
   {
-    "code": "VN.05.045",
+    "code": "VN.04.045",
     "name": "Huyện Hà Quảng"
   },
   {
-    "code": "VN.05.043",
+    "code": "VN.04.043",
     "name": "Huyện Bảo Lac"
   },
   {
-    "code": "VN.84.502",
+    "code": "VN.48.502",
     "name": "Thành Phố Tam Kỳ"
   },
   {
-    "code": "VN.84.503",
+    "code": "VN.48.503",
     "name": "Thành Phố Hội An"
   },
   {
-    "code": "VN.84.513",
+    "code": "VN.48.513",
     "name": "Huyện Thăng Bình"
   },
   {
-    "code": "VN.84.509",
+    "code": "VN.48.509",
     "name": "Huyện Quế Sơn"
   },
   {
-    "code": "VN.84.508",
+    "code": "VN.48.508",
     "name": "Huyện Duy Xuyên"
   },
   {
-    "code": "VN.84.507",
+    "code": "VN.48.507",
     "name": "Huyện Điện Bàn"
   },
   {
-    "code": "VN.84.506",
+    "code": "VN.48.506",
     "name": "Huyện Đại Lộc"
   },
   {
-    "code": "VN.84.510",
+    "code": "VN.48.510",
     "name": "Huyện Nam Giang"
   },
   {
-    "code": "VN.84.511",
+    "code": "VN.48.511",
     "name": "Huyện Phước Sơn"
   },
   {
-    "code": "VN.84.512",
+    "code": "VN.48.512",
     "name": "Huyện Hiệp Đức"
   },
   {
-    "code": "VN.84.514",
+    "code": "VN.48.514",
     "name": "Huyện Tiên Phước"
   },
   {
-    "code": "VN.84.517",
+    "code": "VN.48.517",
     "name": "Huyện Núi Thành"
   },
   {
-    "code": "VN.84.516",
+    "code": "VN.48.516",
     "name": "Huyện Trà My"
   },
   {
-    "code": "VN.39.178",
+    "code": "VN.20.178",
     "name": "Thành Phố Lạng Sơn"
   },
   {
-    "code": "VN.39.182",
+    "code": "VN.20.182",
     "name": "Huyện Văn Lãng"
   },
   {
-    "code": "VN.39.183",
+    "code": "VN.20.183",
     "name": "Huyện Cao Lộc"
   },
   {
-    "code": "VN.39.184",
+    "code": "VN.20.184",
     "name": "Huyện Vặn Quan"
   },
   {
-    "code": "VN.39.187",
+    "code": "VN.20.187",
     "name": "Huyện Chi Lăng"
   },
   {
-    "code": "VN.39.188",
+    "code": "VN.20.188",
     "name": "Huyện Lộc Bình"
   },
   {
-    "code": "VN.39.189",
+    "code": "VN.20.189",
     "name": "Huyện Đình Lập"
   },
   {
-    "code": "VN.39.186",
+    "code": "VN.20.186",
     "name": "Huyện Hũu Lũng"
   },
   {
-    "code": "VN.39.185",
+    "code": "VN.20.185",
     "name": "Huyện Bắc Sơn"
   },
   {
-    "code": "VN.39.181",
+    "code": "VN.20.181",
     "name": "Huyện Bình Gia"
   },
   {
-    "code": "VN.39.180",
+    "code": "VN.20.180",
     "name": "Huyện Tràng Định"
   },
   {
-    "code": "VN.43.731",
+    "code": "VN.75.731",
     "name": "Thành Phố Biên Hòa"
   },
   {
-    "code": "VN.43.735",
+    "code": "VN.75.735",
     "name": "Huyện Vĩnh Cửu"
   },
   {
-    "code": "VN.43.738",
+    "code": "VN.75.738",
     "name": "Huyện Thống Nhất"
   },
   {
-    "code": "VN.43.740",
+    "code": "VN.75.740",
     "name": "Huyện Long Thành"
   },
   {
-    "code": "VN.43.742",
+    "code": "VN.75.742",
     "name": "Huyện Nhơn Trạch"
   },
   {
-    "code": "VN.43.732",
+    "code": "VN.75.732",
     "name": "Thị Xã Long Khánh"
   },
   {
-    "code": "VN.43.741",
+    "code": "VN.75.741",
     "name": "Huyện Xuân Lộc"
   },
   {
-    "code": "VN.43.736",
+    "code": "VN.75.736",
     "name": "Huyện Định Quán"
   },
   {
-    "code": "VN.43.734",
+    "code": "VN.75.734",
     "name": "Huyện Tân Phú"
   },
   {
-    "code": "VN.46.540",
+    "code": "VN.52.540",
     "name": "Thành Phố Quy Nhơn"
   },
   {
-    "code": "VN.46.550",
+    "code": "VN.52.550",
     "name": "Huyện Tuy Phước"
   },
   {
-    "code": "VN.46.549",
+    "code": "VN.52.549",
     "name": "Thị Xã An Nhơn"
   },
   {
-    "code": "VN.46.551",
+    "code": "VN.52.551",
     "name": "Huyện Vân Canh"
   },
   {
-    "code": "VN.46.547",
+    "code": "VN.52.547",
     "name": "Huyện Tây Sơn"
   },
   {
-    "code": "VN.46.548",
+    "code": "VN.52.548",
     "name": "Phu Cat District"
   },
   {
-    "code": "VN.46.545",
+    "code": "VN.52.545",
     "name": "Huyện Phù Mỹ"
   },
   {
-    "code": "VN.46.543",
+    "code": "VN.52.543",
     "name": "Thị Xã Hoài Nhơn"
   },
   {
-    "code": "VN.46.546",
+    "code": "VN.52.546",
     "name": "Huyện Vĩnh Thạnh"
   },
   {
-    "code": "VN.46.544",
+    "code": "VN.52.544",
     "name": "Huyện Hoài Ân"
   },
   {
-    "code": "VN.46.542",
+    "code": "VN.52.542",
     "name": "Huyện An Lão"
   },
   {
-    "code": "VN.47.593",
+    "code": "VN.68.593",
     "name": "Thành Phố Phan Thiết"
   },
   {
-    "code": "VN.47.598",
+    "code": "VN.68.598",
     "name": "Huyện Hàm Thuận Nam"
   },
   {
-    "code": "VN.47.597",
+    "code": "VN.68.597",
     "name": "Huyện Hàm Thuận Bắc"
   },
   {
-    "code": "VN.47.596",
+    "code": "VN.68.596",
     "name": "Huyện Bắc Bình"
   },
   {
-    "code": "VN.47.595",
+    "code": "VN.68.595",
     "name": "Huyện Tuy Phong"
   },
   {
-    "code": "VN.47.601",
+    "code": "VN.68.601",
     "name": "Huyện Hàm Tân"
   },
   {
-    "code": "VN.47.599",
+    "code": "VN.68.599",
     "name": "Huyện Tánh Linh"
   },
   {
-    "code": "VN.47.600",
+    "code": "VN.68.600",
     "name": "Huyện Đức Linh"
   },
   {
-    "code": "VN.47.602",
+    "code": "VN.68.602",
     "name": "Huyện Phú Quý"
   },
   {
-    "code": "VN.86.243",
+    "code": "VN.25.243",
     "name": "Thành Phố Vĩnh Yên"
   },
   {
-    "code": "VN.86.248",
+    "code": "VN.25.248",
     "name": "Huyện Tam Đảo"
   },
   {
-    "code": "VN.44.250",
+    "code": "VN.01.250",
     "name": "Huyện Mê Linh"
   },
   {
-    "code": "VN.86.251",
+    "code": "VN.25.251",
     "name": "Huyện Yên Lạc"
   },
   {
-    "code": "VN.86.252",
+    "code": "VN.25.252",
     "name": "Huyện Vĩnh Tường"
   },
   {
-    "code": "VN.86.246",
+    "code": "VN.25.246",
     "name": "Huyện Lập Thạch"
   },
   {
-    "code": "VN.83.227",
+    "code": "VN.25.227",
     "name": "Thành Phố Việt Trì"
   },
   {
-    "code": "VN.83.228",
+    "code": "VN.25.228",
     "name": "Thị xã Phú Thọ"
   },
   {
-    "code": "VN.83.233",
+    "code": "VN.25.233",
     "name": "Huyện Phù Ninh"
   },
   {
-    "code": "VN.83.232",
+    "code": "VN.25.232",
     "name": "Huyện Thanh Ba"
   },
   {
-    "code": "VN.83.235",
+    "code": "VN.25.235",
     "name": "Huyện Cẩm Khê"
   },
   {
-    "code": "VN.83.236",
+    "code": "VN.25.236",
     "name": "Huyện Tam Nông"
   },
   {
-    "code": "VN.83.238",
+    "code": "VN.25.238",
     "name": "Huyện Thanh Sơn"
   },
   {
-    "code": "VN.83.234",
+    "code": "VN.25.234",
     "name": "Huyện Yên Lập"
   },
   {
-    "code": "VN.83.231",
+    "code": "VN.25.231",
     "name": "Huyện Hạ Hòa"
   },
   {
-    "code": "VN.83.230",
+    "code": "VN.25.230",
     "name": "Huyện Đoan Hùng"
   },
   {
-    "code": "VN.52.436",
+    "code": "VN.42.436",
     "name": "Thành Phố Hà Tĩnh"
   },
   {
-    "code": "VN.52.446",
+    "code": "VN.42.446",
     "name": "Huyện Cẩm Xuyên"
   },
   {
-    "code": "VN.52.447",
+    "code": "VN.42.447",
     "name": "Huyện Kỳ Anh"
   },
   {
-    "code": "VN.52.444",
+    "code": "VN.42.444",
     "name": "Huyện Hương Khê"
   },
   {
-    "code": "VN.52.445",
+    "code": "VN.42.445",
     "name": "Huyện Thạch Hà"
   },
   {
-    "code": "VN.52.443",
+    "code": "VN.42.443",
     "name": "Huyện Can Lộc"
   },
   {
-    "code": "VN.52.442",
+    "code": "VN.42.442",
     "name": "Huyện Nghi Xuân"
   },
   {
-    "code": "VN.52.437",
+    "code": "VN.42.437",
     "name": "Thị Xã Hồng Lĩnh"
   },
   {
-    "code": "VN.52.440",
+    "code": "VN.42.440",
     "name": "Huyện Ðức Thọ"
   },
   {
-    "code": "VN.52.439",
+    "code": "VN.42.439",
     "name": "Huyện Hương Sơn"
   },
   {
-    "code": "VN.54.568",
+    "code": "VN.56.568",
     "name": "Thành Phố Nha Trang"
   },
   {
-    "code": "VN.54.574",
+    "code": "VN.56.574",
     "name": "Huyện Diên Khánh"
   },
   {
-    "code": "VN.54.569",
+    "code": "VN.56.569",
     "name": "Thành Phố Cam Ranh"
   },
   {
-    "code": "VN.54.575",
+    "code": "VN.56.575",
     "name": "Huyện Khánh Sơn"
   },
   {
-    "code": "VN.54.573",
+    "code": "VN.56.573",
     "name": "Huyện Khánh Vĩnh"
   },
   {
-    "code": "VN.54.572",
+    "code": "VN.56.572",
     "name": "Thị Xã Ninh Hòa"
   },
   {
-    "code": "VN.54.571",
+    "code": "VN.56.571",
     "name": "Huyện Vạn Ninh"
   },
   {
-    "code": "VN.54.576",
+    "code": "VN.56.576",
     "name": "Huyện Trường Sa"
   },
   {
-    "code": "VN.55.608",
+    "code": "VN.51.608",
     "name": "Thành Phố Kon Tum"
   },
   {
-    "code": "VN.55.615",
+    "code": "VN.51.615",
     "name": "Huyện Đắk Hà"
   },
   {
-    "code": "VN.55.613",
+    "code": "VN.51.613",
     "name": "Huyện Kon Plông"
   },
   {
-    "code": "VN.55.612",
+    "code": "VN.51.612",
     "name": "Huyện Đắk Tô"
   },
   {
-    "code": "VN.55.616",
+    "code": "VN.51.616",
     "name": "Huyện Sa Thầy"
   },
   {
-    "code": "VN.55.611",
+    "code": "VN.51.611",
     "name": "Huyện Ngọc Hồi"
   },
   {
-    "code": "VN.55.610",
+    "code": "VN.51.610",
     "name": "Huyện Đắk Glei"
   },
   {
-    "code": "VN.63.522",
+    "code": "VN.51.522",
     "name": "Thành Phố Quảng Ngãi"
   },
   {
-    "code": "VN.63.528",
+    "code": "VN.51.528",
     "name": "Huyện Tư Nghĩa"
   },
   {
-    "code": "VN.63.527",
+    "code": "VN.51.527",
     "name": "Huyện Sơn Tịnh"
   },
   {
-    "code": "VN.63.524",
+    "code": "VN.51.524",
     "name": "Huyện Bình Sơn"
   },
   {
-    "code": "VN.63.525",
+    "code": "VN.51.525",
     "name": "Huyện Trà Bồng"
   },
   {
-    "code": "VN.63.530",
+    "code": "VN.51.530",
     "name": "Huyện Sơn Tây"
   },
   {
-    "code": "VN.63.529",
+    "code": "VN.51.529",
     "name": "Huyện Sơn Hà"
   },
   {
-    "code": "VN.63.531",
+    "code": "VN.51.531",
     "name": "Huyện Minh Long"
   },
   {
-    "code": "VN.63.532",
+    "code": "VN.51.532",
     "name": "Huyện Nghĩa Hành"
   },
   {
-    "code": "VN.63.533",
+    "code": "VN.51.533",
     "name": "Huyện Mộ Đức"
   },
   {
-    "code": "VN.63.535",
+    "code": "VN.51.535",
     "name": "Huyện Ba Tơ"
   },
   {
-    "code": "VN.63.534",
+    "code": "VN.51.534",
     "name": "Huyện Đức Phổ"
   },
   {
-    "code": "VN.63.536",
+    "code": "VN.51.536",
     "name": "Huyện Lý Sơn"
   },
   {
-    "code": "VN.82.356",
+    "code": "VN.37.356",
     "name": "Thành Phố Nam Định"
   },
   {
-    "code": "VN.82.358",
+    "code": "VN.37.358",
     "name": "Huyện Mỹ Lộc"
   },
   {
-    "code": "VN.82.359",
+    "code": "VN.37.359",
     "name": "Huyện Vụ Bản"
   },
   {
-    "code": "VN.82.360",
+    "code": "VN.37.360",
     "name": "Huyện Ý Yên"
   },
   {
-    "code": "VN.82.362",
+    "code": "VN.37.362",
     "name": "Huyện Nam Trực"
   },
   {
-    "code": "VN.82.363",
+    "code": "VN.37.363",
     "name": "Huyện Trực Ninh"
   },
   {
-    "code": "VN.82.364",
+    "code": "VN.37.364",
     "name": "Huyện Xuân Trường"
   },
   {
-    "code": "VN.82.365",
+    "code": "VN.37.365",
     "name": "Huyện Giao Thủy"
   },
   {
-    "code": "VN.82.366",
+    "code": "VN.37.366",
     "name": "Huyện Hải Hậu"
   },
   {
-    "code": "VN.82.361",
+    "code": "VN.37.361",
     "name": "Huyện Nghĩa Hưng"
   },
   {
-    "code": "VN.80.347",
+    "code": "VN.37.347",
     "name": "Thành Phố Phủ Lý"
   },
   {
-    "code": "VN.80.349",
+    "code": "VN.37.349",
     "name": "Thị Xã Duy Tiên"
   },
   {
-    "code": "VN.80.350",
+    "code": "VN.37.350",
     "name": "Huyện Kim Bảng"
   },
   {
-    "code": "VN.80.351",
+    "code": "VN.37.351",
     "name": "Huyện Thanh Liêm"
   },
   {
-    "code": "VN.80.352",
+    "code": "VN.37.352",
     "name": "Huyện Bình Lục"
   },
   {
-    "code": "VN.80.353",
+    "code": "VN.37.353",
     "name": "Huyện Lý Nhân"
   },
   {
-    "code": "VN.66.474",
+    "code": "VN.46.474",
     "name": "Thành Phố Huế"
   },
   {
-    "code": "VN.66.479",
+    "code": "VN.46.479",
     "name": "Thị Xã Hương Thủy"
   },
   {
-    "code": "VN.66.478",
+    "code": "VN.46.478",
     "name": "Huyện Phú Vang"
   },
   {
-    "code": "VN.66.477",
+    "code": "VN.46.477",
     "name": "Huyện Quảng Ðiền"
   },
   {
-    "code": "VN.66.476",
+    "code": "VN.46.476",
     "name": "Huyện Phong Điền"
   },
   {
-    "code": "VN.66.480",
+    "code": "VN.46.480",
     "name": "Thị Xã Hương Trà"
   },
   {
-    "code": "VN.66.481",
+    "code": "VN.46.481",
     "name": "Huyện A Lưới"
   },
   {
-    "code": "VN.66.483",
+    "code": "VN.46.483",
     "name": "Huyện Nam Đông"
   },
   {
-    "code": "VN.66.482",
+    "code": "VN.46.482",
     "name": "Huyện Phú Lộc"
   },
   {
-    "code": "VN.61.555",
+    "code": "VN.66.555",
     "name": "Thành Phố Tuy Hòa"
   },
   {
-    "code": "VN.61.561",
+    "code": "VN.66.561",
     "name": "Huyện Sông Hinh"
   },
   {
-    "code": "VN.61.560",
+    "code": "VN.66.560",
     "name": "Huyện Sơn Hòa"
   },
   {
-    "code": "VN.61.559",
+    "code": "VN.66.559",
     "name": "Huyện Tuy An"
   },
   {
-    "code": "VN.61.557",
+    "code": "VN.66.557",
     "name": "Thị Xã Sông Cầu"
   },
   {
-    "code": "VN.61.558",
+    "code": "VN.66.558",
     "name": "Huyện Đồng Xuân"
   },
   {
-    "code": "VN.70.132",
+    "code": "VN.15.132",
     "name": "Thành Phố Yên Bái"
   },
   {
-    "code": "VN.70.133",
+    "code": "VN.15.133",
     "name": "Nghĩa Lộ"
   },
   {
-    "code": "VN.70.138",
+    "code": "VN.15.138",
     "name": "Huyện Trấn Yên"
   },
   {
-    "code": "VN.70.140",
+    "code": "VN.15.140",
     "name": "Huyện Văn Chấn"
   },
   {
-    "code": "VN.70.141",
+    "code": "VN.15.141",
     "name": "Huyện Yên Bình"
   },
   {
-    "code": "VN.70.136",
+    "code": "VN.15.136",
     "name": "Huyện Văn Yên"
   },
   {
-    "code": "VN.70.135",
+    "code": "VN.15.135",
     "name": "Huyện Lục Yên"
   },
   {
-    "code": "VN.70.139",
+    "code": "VN.15.139",
     "name": "Huyện Trạm Tấu"
   },
   {
-    "code": "VN.70.137",
+    "code": "VN.15.137",
     "name": "Huyện Mù Cang Chải"
   },
   {
-    "code": "VN.72.063",
+    "code": "VN.19.063",
     "name": "Huyện Bạch Thông"
   },
   {
-    "code": "VN.72.064",
+    "code": "VN.19.064",
     "name": "Huyện Chợ Đồn"
   },
   {
-    "code": "VN.72.061",
+    "code": "VN.19.061",
     "name": "Huyện Ba Bể"
   },
   {
-    "code": "VN.72.062",
+    "code": "VN.19.062",
     "name": "Huyện Ngân Sơn"
   },
   {
-    "code": "VN.72.066",
+    "code": "VN.19.066",
     "name": "Huyện Na Rì"
   },
   {
-    "code": "VN.73.959",
+    "code": "VN.96.959",
     "name": "Huyện Giá Rai"
   },
   {
-    "code": "VN.73.956",
+    "code": "VN.96.956",
     "name": "Huyện Hồng Dân"
   },
   {
-    "code": "VN.77.964",
+    "code": "VN.96.964",
     "name": "Thành Phố Cà Mau"
   },
   {
-    "code": "VN.77.967",
+    "code": "VN.96.967",
     "name": "Huyện Thới Bình"
   },
   {
-    "code": "VN.77.966",
+    "code": "VN.96.966",
     "name": "Huyện U Minh"
   },
   {
-    "code": "VN.77.968",
+    "code": "VN.96.968",
     "name": "Huyện Trần Văn Thời"
   },
   {
-    "code": "VN.77.969",
+    "code": "VN.96.969",
     "name": "Huyện Cái Nước"
   },
   {
-    "code": "VN.77.970",
+    "code": "VN.96.970",
     "name": "Huyện Đầm Dơi"
   },
   {
-    "code": "VN.77.973",
+    "code": "VN.96.973",
     "name": "Huyện Ngọc Hiển"
   },
   {
-    "code": "VN.79.288",
+    "code": "VN.31.288",
     "name": "Thành Phố Hải Dương"
   },
   {
-    "code": "VN.79.295",
+    "code": "VN.31.295",
     "name": "Huyện Cẩm Giàng"
   },
   {
-    "code": "VN.79.296",
+    "code": "VN.31.296",
     "name": "Huyện Bình Giang"
   },
   {
-    "code": "VN.79.297",
+    "code": "VN.31.297",
     "name": "Huyện Gia Lộc"
   },
   {
-    "code": "VN.79.300",
+    "code": "VN.31.300",
     "name": "Huyện Thanh Miện"
   },
   {
-    "code": "VN.79.299",
+    "code": "VN.31.299",
     "name": "Huyện Ninh Giang"
   },
   {
-    "code": "VN.79.298",
+    "code": "VN.31.298",
     "name": "Huyện Tứ Kỳ"
   },
   {
-    "code": "VN.79.294",
+    "code": "VN.31.294",
     "name": "Huyện Thanh Hà"
   },
   {
-    "code": "VN.79.293",
+    "code": "VN.31.293",
     "name": "Huyện Kim Thành"
   },
   {
-    "code": "VN.79.291",
+    "code": "VN.31.291",
     "name": "Huyện Nam Sách"
   },
   {
-    "code": "VN.79.292",
+    "code": "VN.31.292",
     "name": "Thị Xã Kinh Môn"
   },
   {
-    "code": "VN.79.290",
+    "code": "VN.31.290",
     "name": "Thành Phố Chí Linh"
   },
   {
-    "code": "VN.81.332",
+    "code": "VN.33.332",
     "name": "Huyện Tiên Lữ"
   },
   {
-    "code": "VN.81.331",
+    "code": "VN.33.331",
     "name": "Huyện Kim Động"
   },
   {
-    "code": "VN.81.333",
+    "code": "VN.33.333",
     "name": "Huyện Phù Cừ"
   },
   {
-    "code": "VN.81.329",
+    "code": "VN.33.329",
     "name": "Huyện Ân Thi"
   },
   {
-    "code": "VN.81.330",
+    "code": "VN.33.330",
     "name": "Huyện Khoái Châu"
   },
   {
-    "code": "VN.81.328",
+    "code": "VN.33.328",
     "name": "Huyện Mỹ Hào"
   },
   {
-    "code": "VN.81.323",
+    "code": "VN.33.323",
     "name": "Thành Phố Hưng Yên"
   },
   {
-    "code": "VN.85.164",
+    "code": "VN.19.164",
     "name": "Thành Phố Thái Nguyên"
   },
   {
-    "code": "VN.05.040",
+    "code": "VN.04.040",
     "name": "Thành Phố Cao Bằng"
   },
   {
-    "code": "VN.13.303",
+    "code": "VN.31.303",
     "name": "Quận Hồng Bàng"
   },
   {
-    "code": "VN.68.070",
+    "code": "VN.08.070",
     "name": "Thành Phố Tuyên Quang"
   },
   {
-    "code": "VN.68.076",
+    "code": "VN.08.076",
     "name": "Huyện Sơn Dương"
   },
   {
-    "code": "VN.68.075",
+    "code": "VN.08.075",
     "name": "Huyện Yên Sơn"
   },
   {
-    "code": "VN.68.074",
+    "code": "VN.08.074",
     "name": "Huyện Hàm Yên"
   },
   {
-    "code": "VN.68.073",
+    "code": "VN.08.073",
     "name": "Huyện Chiêm Hóa"
   },
   {
-    "code": "VN.68.072",
+    "code": "VN.08.072",
     "name": "Huyện Na Hang"
   },
   {
-    "code": "VN.71.213",
+    "code": "VN.24.213",
     "name": "Thành phố Bắc Giang"
   },
   {
-    "code": "VN.72.058",
+    "code": "VN.19.058",
     "name": "Thành Phố Bắc Kạn"
   },
   {
-    "code": "VN.73.954",
+    "code": "VN.96.954",
     "name": "Thành phố Bạc Liêu"
   },
   {
-    "code": "VN.78.492",
+    "code": "VN.48.492",
     "name": "Quận Hải Châu"
   },
   {
-    "code": "VN.88.656",
+    "code": "VN.66.656",
     "name": "Huyện Lắk"
   },
   {
-    "code": "VN.91.663",
+    "code": "VN.68.663",
     "name": "Huyện Đắk Mil"
   },
   {
-    "code": "VN.88.655",
+    "code": "VN.66.655",
     "name": "Huyện Krông Ana"
   },
   {
-    "code": "VN.88.653",
+    "code": "VN.66.653",
     "name": "Huyện Krông Bông"
   },
   {
-    "code": "VN.88.654",
+    "code": "VN.66.654",
     "name": "Huyện Krông Pắk"
   },
   {
-    "code": "VN.88.651",
+    "code": "VN.66.651",
     "name": "Huyện Ea Kar"
   },
   {
-    "code": "VN.88.652",
+    "code": "VN.66.652",
     "name": "Huyện M’Đrắk"
   },
   {
-    "code": "VN.88.648",
+    "code": "VN.66.648",
     "name": "Huyện Cư M’Gar"
   },
   {
-    "code": "VN.88.649",
+    "code": "VN.66.649",
     "name": "Huyện Krông Búk"
   },
   {
-    "code": "VN.88.650",
+    "code": "VN.66.650",
     "name": "Huyện Krông Năng"
   },
   {
-    "code": "VN.88.645",
+    "code": "VN.66.645",
     "name": "Huyện Ea H'Leo"
   },
   {
-    "code": "VN.91.662",
+    "code": "VN.68.662",
     "name": "Huyện Cư Jút"
   },
   {
-    "code": "VN.74.261",
+    "code": "VN.79.8336104",
+    "name": "Phường Sài Gòn"
+  },
+  {
+    "code": "VN.24.261",
     "name": "Thị Xã Từ Sơn"
   },
   {
-    "code": "VN.73.957",
+    "code": "VN.96.957",
     "name": "Huyện Phước Long"
   },
   {
-    "code": "VN.73.958",
+    "code": "VN.96.958",
     "name": "Huyện Vĩnh Lợi"
   },
   {
-    "code": "VN.73.960",
+    "code": "VN.96.960",
     "name": "Huyện Đông Hải"
   },
   {
-    "code": "VN.74.264",
+    "code": "VN.24.264",
     "name": "Huyện Lương Tài"
   },
   {
-    "code": "VN.72.060",
+    "code": "VN.19.060",
     "name": "Huyện Pác Nặm"
   },
   {
-    "code": "VN.72.065",
+    "code": "VN.19.065",
     "name": "Huyện Chợ Mới"
   },
   {
-    "code": "VN.45.752",
+    "code": "VN.79.752",
     "name": "Huyện Long Điền"
   },
   {
-    "code": "VN.89.106",
+    "code": "VN.12.106",
     "name": "Huyện Tam Đường"
   },
   {
-    "code": "VN.90.084",
+    "code": "VN.15.084",
     "name": "Huyện Si Ma Cai"
   },
   {
-    "code": "VN.50.035",
+    "code": "VN.08.035",
     "name": "Huyện Quang Bình"
   },
   {
-    "code": "VN.68.071",
+    "code": "VN.08.071",
     "name": "Huyện Lâm Bình"
   },
   {
-    "code": "VN.92.096",
+    "code": "VN.11.096",
     "name": "Huyện Mường Nhé"
   },
   {
-    "code": "VN.92.097",
+    "code": "VN.11.097",
     "name": "Huyện Mường Chà"
   },
   {
-    "code": "VN.92.102",
+    "code": "VN.11.102",
     "name": "Huyện Mường Ảng"
   },
   {
-    "code": "VN.05.042",
+    "code": "VN.04.042",
     "name": "Huyện Bảo Lâm"
   },
   {
-    "code": "VN.53.154",
+    "code": "VN.25.154",
     "name": "Huyện Cao Phong"
   },
   {
-    "code": "VN.75.722",
+    "code": "VN.79.722",
     "name": "Phu Giao District"
   },
   {
-    "code": "VN.13.309",
+    "code": "VN.31.309",
     "name": "Quận Dương Kinh"
   },
   {
-    "code": "VN.30.200",
+    "code": "VN.22.200",
     "name": "Huyện Đầm Hà"
   },
   {
-    "code": "VN.83.240",
+    "code": "VN.25.240",
     "name": "Huyện Tân Sơn"
   },
   {
-    "code": "VN.86.253",
+    "code": "VN.25.253",
     "name": "Huyện Sông Lô"
   },
   {
-    "code": "VN.86.247",
+    "code": "VN.25.247",
     "name": "Huyện Tam Dương"
   },
   {
-    "code": "VN.86.249",
+    "code": "VN.25.249",
     "name": "Huyện Bình Xuyên"
   },
   {
-    "code": "VN.44.004",
+    "code": "VN.01.004",
     "name": "Quận Long Biên"
   },
   {
-    "code": "VN.44.008",
+    "code": "VN.01.008",
     "name": "Quận Hoàng Mai"
   },
   {
-    "code": "VN.58.414",
+    "code": "VN.40.414",
     "name": "Thị Xã Thái Hòa"
   },
   {
-    "code": "VN.58.432",
+    "code": "VN.40.432",
     "name": "Thị Xã Hoàng Mai"
   },
   {
-    "code": "VN.52.441",
+    "code": "VN.42.441",
     "name": "Huyện Vũ Quang"
   },
   {
-    "code": "VN.64.471",
+    "code": "VN.44.471",
     "name": "Huyện Cồn Cỏ"
   },
   {
-    "code": "VN.78.495",
+    "code": "VN.48.495",
     "name": "Quận Cẩm Lệ"
   },
   {
-    "code": "VN.84.519",
+    "code": "VN.48.519",
     "name": "Huyện Nông Sơn"
   },
   {
-    "code": "VN.84.505",
+    "code": "VN.48.505",
     "name": "Huyện Đông Giang"
   },
   {
-    "code": "VN.84.504",
+    "code": "VN.48.504",
     "name": "Huyện Tây Giang"
   },
   {
-    "code": "VN.84.515",
+    "code": "VN.48.515",
     "name": "Huyện Bắc Trà My"
   },
   {
-    "code": "VN.84.518",
+    "code": "VN.48.518",
     "name": "Huyện Phú Ninh"
   },
   {
-    "code": "VN.63.526",
+    "code": "VN.51.526",
     "name": "Huyện Tây Trà"
   },
   {
-    "code": "VN.55.617",
+    "code": "VN.51.617",
     "name": "Huyện Tu Mơ Rông"
   },
   {
-    "code": "VN.55.614",
+    "code": "VN.51.614",
     "name": "Huyện Kon Rẫy"
   },
   {
-    "code": "VN.49.639",
+    "code": "VN.52.639",
     "name": "Huyện Chư Pưh"
   },
   {
-    "code": "VN.49.638",
+    "code": "VN.52.638",
     "name": "Huyện Phú Thiện"
   },
   {
-    "code": "VN.49.635",
+    "code": "VN.52.635",
     "name": "Huyện Ia Pa"
   },
   {
-    "code": "VN.49.626",
+    "code": "VN.52.626",
     "name": "Huyện Đak Đoa"
   },
   {
-    "code": "VN.49.634",
+    "code": "VN.52.634",
     "name": "Huyện Đak Pơ"
   },
   {
-    "code": "VN.20.767",
+    "code": "VN.79.767",
     "name": "Tân Phú District"
   },
   {
-    "code": "VN.32.127",
+    "code": "VN.14.127",
     "name": "Huyen Sop Cop"
   },
   {
-    "code": "VN.61.564",
+    "code": "VN.66.564",
     "name": "Thị Xã Đông Hòa"
   },
   {
-    "code": "VN.88.657",
+    "code": "VN.66.657",
     "name": "Huyện Cư Kuin"
   },
   {
-    "code": "VN.88.644",
+    "code": "VN.66.644",
     "name": "Thị Xã Buôn Hồ"
   },
   {
-    "code": "VN.91.661",
+    "code": "VN.68.661",
     "name": "Huyen Dak Glong"
   },
   {
-    "code": "VN.91.667",
+    "code": "VN.68.667",
     "name": "Huyen Tuy Duc"
   },
   {
-    "code": "VN.91.665",
+    "code": "VN.68.665",
     "name": "Huyen Dak Song"
   },
   {
-    "code": "VN.60.584",
+    "code": "VN.56.584",
     "name": "Huyen Bac Ai"
   },
   {
-    "code": "VN.21.902",
+    "code": "VN.91.902",
     "name": "Kien Luong Town"
   },
   {
-    "code": "VN.65.948",
+    "code": "VN.92.948",
     "name": "Huyen Nga Nam"
   },
   {
-    "code": "VN.77.971",
+    "code": "VN.96.971",
     "name": "Huyen Nam Can"
   },
   {
-    "code": "VN.05.050",
+    "code": "VN.04.050",
     "name": "Huyen Phuc Hoa"
   },
   {
-    "code": "VN.83.237",
+    "code": "VN.25.237",
     "name": "Huyen Lam Thao"
   },
   {
-    "code": "VN.54.570",
+    "code": "VN.56.570",
     "name": "Huyện Cam Lâm"
   },
   {
-    "code": "VN.91.660",
+    "code": "VN.68.660",
     "name": "Thành Phố Gia Nghĩa"
   },
   {
-    "code": "VN.60.589",
+    "code": "VN.56.589",
     "name": "Huyện Thuận Nam"
   },
   {
-    "code": "VN.47.594",
+    "code": "VN.68.594",
     "name": "Thị Xã La Gi"
   },
   {
-    "code": "VN.87.919",
+    "code": "VN.92.919",
     "name": "Cái Răng"
   },
   {
-    "code": "VN.93.932",
+    "code": "VN.92.932",
     "name": "Huyện Châu Thành A"
   },
   {
-    "code": "VN.43.739",
+    "code": "VN.75.739",
     "name": "Huyện Cẩm Mỹ"
   },
   {
-    "code": "VN.43.737",
+    "code": "VN.75.737",
     "name": "Huyện Trảng Bom"
   },
   {
-    "code": "VN.76.694",
+    "code": "VN.75.694",
     "name": "Huyện Hớn Quản"
   },
   {
-    "code": "VN.76.691",
+    "code": "VN.75.691",
     "name": "Huyện Bù Gia Mập"
   },
   {
-    "code": "VN.76.693",
+    "code": "VN.75.693",
     "name": "Huyện Bù Đốp"
   },
   {
-    "code": "VN.76.697",
+    "code": "VN.75.697",
     "name": "Huyện Chơn Thành"
   },
   {
-    "code": "VN.76.689",
+    "code": "VN.75.689",
     "name": "Thị Xã Đồng Xoài"
   },
   {
-    "code": "VN.76.698",
+    "code": "VN.75.698",
     "name": "Huyện Phú Riềng"
   },
   {
-    "code": "VN.75.719",
+    "code": "VN.79.719",
     "name": "Huyện Bàu Bàng"
   },
   {
-    "code": "VN.75.724",
+    "code": "VN.79.724",
     "name": "Thành Phố Dĩ An"
   },
   {
-    "code": "VN.75.720",
+    "code": "VN.79.720",
     "name": "Huyện Dầu Tiêng"
   },
   {
-    "code": "VN.24.795",
+    "code": "VN.80.795",
     "name": "Thị Xã Kiến Tường"
   },
   {
-    "code": "VN.37.817",
+    "code": "VN.82.817",
     "name": "Thị xã Cai Lậy"
   },
   {
-    "code": "VN.37.825",
+    "code": "VN.82.825",
     "name": "Huyện Tân Phú Đông"
   },
   {
-    "code": "VN.21.913",
+    "code": "VN.91.913",
     "name": "Huyện U Minh Thượng"
   },
   {
-    "code": "VN.09.868",
+    "code": "VN.82.868",
     "name": "Thị Xã Hồng Ngự"
   },
   {
-    "code": "VN.69.863",
+    "code": "VN.82.9289604",
+    "name": "Xã Mỹ Thọ"
+  },
+  {
+    "code": "VN.82.9289614",
+    "name": "Xã Tân Khánh Trung"
+  },
+  {
+    "code": "VN.82.8714525",
+    "name": "Xã Lấp Vò"
+  },
+  {
+    "code": "VN.82.9289619",
+    "name": "Xã Phong Hòa"
+  },
+  {
+    "code": "VN.82.9289623",
+    "name": "Xã Tân Nhuận Đông"
+  },
+  {
+    "code": "VN.82.9289624",
+    "name": "Xã Phú Hựu"
+  },
+  {
+    "code": "VN.86.863",
     "name": "Huyện Bình Tân"
   },
   {
-    "code": "VN.03.838",
+    "code": "VN.86.838",
     "name": "Huyện Mỏ Cày Bắc"
   },
   {
-    "code": "VN.87.918",
+    "code": "VN.92.918",
     "name": "Quận Bình Thủy"
   },
   {
-    "code": "VN.87.926",
+    "code": "VN.92.926",
     "name": "Huyện Phong Điền"
   },
   {
-    "code": "VN.87.927",
+    "code": "VN.92.927",
     "name": "Huyện Thới Lai"
   },
   {
-    "code": "VN.87.925",
+    "code": "VN.92.925",
     "name": "Huyện Cờ Đỏ"
   },
   {
-    "code": "VN.87.924",
+    "code": "VN.92.924",
     "name": "Huyện Vĩnh Thạnh"
   },
   {
-    "code": "VN.93.931",
+    "code": "VN.92.931",
     "name": "Thành Phố Ngã Bảy"
   },
   {
-    "code": "VN.93.930",
+    "code": "VN.92.930",
     "name": "Thành Phố Vị Thanh"
   },
   {
-    "code": "VN.65.951",
+    "code": "VN.92.951",
     "name": "Huyện Trần Đề"
   },
   {
-    "code": "VN.65.945",
+    "code": "VN.92.945",
     "name": "Huyện Cù Lao Dung"
   },
   {
-    "code": "VN.77.972",
+    "code": "VN.96.972",
     "name": "Huyện Phú Tân"
   },
   {
-    "code": "VN.89.112",
+    "code": "VN.12.112",
     "name": "Huyện Nậm Nhùn"
   },
   {
-    "code": "VN.89.111",
+    "code": "VN.12.111",
     "name": "Huyện Tân Uyên"
   },
   {
-    "code": "VN.05.049",
+    "code": "VN.04.049",
     "name": "Huyện Quảng Uyên"
   },
   {
-    "code": "VN.13.306",
+    "code": "VN.31.306",
     "name": "Quận Hải An"
   },
   {
-    "code": "VN.21.914",
+    "code": "VN.91.914",
     "name": "Huyện Giang Thành"
   },
   {
-    "code": "VN.44.019",
+    "code": "VN.01.019",
     "name": "Quận Nam Từ Liêm"
   },
   {
-    "code": "VN.52.448",
+    "code": "VN.42.448",
     "name": "Huyện Lộc Hà"
   },
   {
-    "code": "VN.52.449",
+    "code": "VN.42.449",
     "name": "Thị xã Kỳ Anh"
   },
   {
-    "code": "VN.60.588",
+    "code": "VN.56.588",
     "name": "Huyện Thuận Bắc"
   },
   {
-    "code": "VN.61.563",
+    "code": "VN.66.563",
     "name": "Huyện Phú Hoà"
   },
   {
-    "code": "VN.61.562",
+    "code": "VN.66.562",
     "name": "Huyện Tây Hoà"
   },
   {
-    "code": "VN.67.851",
+    "code": "VN.86.851",
     "name": "Thị xã Duyên Hải"
   },
   {
-    "code": "VN.73.961",
+    "code": "VN.96.961",
     "name": "Huyện Hoà Bình"
   },
   {
-    "code": "VN.81.326",
+    "code": "VN.33.326",
     "name": "Huyện Văn Giang"
   },
   {
-    "code": "VN.81.327",
+    "code": "VN.33.327",
     "name": "Huyện Yên Mỹ"
   },
   {
-    "code": "VN.83.239",
+    "code": "VN.25.239",
     "name": "Huyện Thanh Thuỷ"
   },
   {
-    "code": "VN.86.244",
+    "code": "VN.25.244",
     "name": "Thị xã Phúc Yên"
   },
   {
-    "code": "VN.89.105",
+    "code": "VN.12.105",
     "name": "Thành phố Lai Châu"
   },
   {
-    "code": "VN.93.937",
+    "code": "VN.92.937",
     "name": "Thị xã Long Mỹ"
   },
   {
-    "code": "VN.20.777",
+    "code": "VN.79.777",
     "name": "Quận Bình Tân"
   },
   {
-    "code": "VN.32.128",
+    "code": "VN.14.128",
     "name": "Huyện Vân Hồ"
   },
   {
-    "code": "VN.62.458",
+    "code": "VN.44.458",
     "name": "Thị xã Ba Đồn"
   },
   {
-    "code": "VN.81.325",
+    "code": "VN.33.325",
     "name": "Huyện Văn Lâm"
   },
   {
-    "code": "VN.92.100",
+    "code": "VN.11.100",
     "name": "Huyện Điện Biên"
   },
   {
-    "code": "VN.44.021",
+    "code": "VN.01.021",
     "name": "Quảng trường Ba Đình"
   },
   {
-    "code": "VN.65.942",
+    "code": "VN.92.942",
     "name": "Huyện Châu Thành"
   },
   {
-    "code": "VN.55.618",
+    "code": "VN.51.618",
     "name": "Huyện Ia H'Drai"
   },
   {
-    "code": "VN.92.103",
+    "code": "VN.11.103",
     "name": "Huyện Nậm Pồ"
+  },
+  {
+    "code": "VN.82.12166264",
+    "name": "Xã Hòa Long"
   },
   {
     "code": "WF.98613.5",
@@ -189294,6 +189926,18 @@
   {
     "code": "ZM.10.11169209",
     "name": "Shiwang’andu District"
+  },
+  {
+    "code": "ZM.02.13429164",
+    "name": "Chibombo"
+  },
+  {
+    "code": "ZM.09.13429165",
+    "name": "Chongwe"
+  },
+  {
+    "code": "ZM.08.13429166",
+    "name": "Mpongwe"
   },
   {
     "code": "ZW.02.878548",

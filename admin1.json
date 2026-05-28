@@ -25,11 +25,11 @@
   },
   {
     "code": "AE.07",
-    "name": "Imārat Umm al Qaywayn"
+    "name": "Umm Al Quwain"
   },
   {
     "code": "AE.05",
-    "name": "Raʼs al Khaymah"
+    "name": "Ras Al Khaimah"
   },
   {
     "code": "AE.03",
@@ -380,10 +380,6 @@
     "name": "Moxico"
   },
   {
-    "code": "AO.04",
-    "name": "Cuando Cobango"
-  },
-  {
     "code": "AO.16",
     "name": "Zaire"
   },
@@ -557,7 +553,7 @@
   },
   {
     "code": "AT.09",
-    "name": "Vienna"
+    "name": "State of Vienna"
   },
   {
     "code": "AT.08",
@@ -573,7 +569,7 @@
   },
   {
     "code": "AT.05",
-    "name": "Salzburg"
+    "name": "State of Salzburg"
   },
   {
     "code": "AT.04",
@@ -625,7 +621,7 @@
   },
   {
     "code": "AX.211",
-    "name": "Mariehamns stad"
+    "name": "Mariehamn"
   },
   {
     "code": "AX.212",
@@ -673,7 +669,7 @@
   },
   {
     "code": "AZ.35",
-    "name": "Nakhichevan ASSR"
+    "name": "Nakhchivan"
   },
   {
     "code": "AZ.32",
@@ -689,7 +685,7 @@
   },
   {
     "code": "AZ.28",
-    "name": "Laçın"
+    "name": "Lachin Rayon"
   },
   {
     "code": "AZ.43",
@@ -717,7 +713,7 @@
   },
   {
     "code": "AZ.64",
-    "name": "Xocalı"
+    "name": "Khojaly"
   },
   {
     "code": "AZ.02",
@@ -753,7 +749,7 @@
   },
   {
     "code": "AZ.71",
-    "name": "Zərdab"
+    "name": "Zardab"
   },
   {
     "code": "AZ.70",
@@ -881,7 +877,7 @@
   },
   {
     "code": "AZ.33",
-    "name": "Mingǝcevir"
+    "name": "Mingacevir City"
   },
   {
     "code": "AZ.34",
@@ -1224,10 +1220,6 @@
     "name": "Cankuzo"
   },
   {
-    "code": "BI.14",
-    "name": "Karuzi"
-  },
-  {
     "code": "BI.09",
     "name": "Bubanza"
   },
@@ -1254,10 +1246,6 @@
   {
     "code": "BI.20",
     "name": "Rutana"
-  },
-  {
-    "code": "BI.23",
-    "name": "Mwaro"
   },
   {
     "code": "BI.24",
@@ -1829,7 +1817,7 @@
   },
   {
     "code": "BY.02",
-    "name": "Gomel Oblast"
+    "name": "Homyel’ Voblasc’"
   },
   {
     "code": "BY.01",
@@ -1933,7 +1921,7 @@
   },
   {
     "code": "CD.11",
-    "name": "Nord Kivu"
+    "name": "North Kivu"
   },
   {
     "code": "CD.25",
@@ -1949,7 +1937,7 @@
   },
   {
     "code": "CD.04",
-    "name": "Kasaï-Oriental"
+    "name": "East Kasai"
   },
   {
     "code": "CD.18",
@@ -2265,7 +2253,7 @@
   },
   {
     "code": "CI.95",
-    "name": "Gôh-Djiboua"
+    "name": "Goh-Djiboua"
   },
   {
     "code": "CI.81",
@@ -2281,7 +2269,7 @@
   },
   {
     "code": "CI.96",
-    "name": "Sassandra-Marahoué"
+    "name": "Sassandra-Marahoue"
   },
   {
     "code": "CI.87",
@@ -2349,7 +2337,7 @@
   },
   {
     "code": "CL.01",
-    "name": "Valparaíso"
+    "name": "Valparaiso"
   },
   {
     "code": "CL.15",
@@ -2377,7 +2365,7 @@
   },
   {
     "code": "CL.06",
-    "name": "Biobío"
+    "name": "Biobio"
   },
   {
     "code": "CL.05",
@@ -2385,7 +2373,7 @@
   },
   {
     "code": "CL.04",
-    "name": "Araucanía"
+    "name": "Araucania"
   },
   {
     "code": "CL.03",
@@ -2921,35 +2909,35 @@
   },
   {
     "code": "CZ.79",
-    "name": "Jihočeský kraj"
+    "name": "South Bohemian Region"
   },
   {
     "code": "CZ.80",
-    "name": "Vysočina"
+    "name": "Vysocina"
   },
   {
     "code": "CZ.81",
-    "name": "Karlovarský kraj"
+    "name": "Carlsbad Region"
   },
   {
     "code": "CZ.82",
-    "name": "Královéhradecký kraj"
+    "name": "Hradec Králové Region"
   },
   {
     "code": "CZ.83",
-    "name": "Liberecký kraj"
+    "name": "Liberec Region"
   },
   {
     "code": "CZ.84",
-    "name": "Olomoucký"
+    "name": "Olomouc Region"
   },
   {
     "code": "CZ.85",
-    "name": "Moravskoslezský"
+    "name": "Moravian-Silesian Region"
   },
   {
     "code": "CZ.86",
-    "name": "Pardubický"
+    "name": "Pardubice Region"
   },
   {
     "code": "CZ.87",
@@ -2961,7 +2949,7 @@
   },
   {
     "code": "CZ.89",
-    "name": "Ústecký kraj"
+    "name": "Ústí nad Labem Region"
   },
   {
     "code": "CZ.90",
@@ -3013,7 +3001,7 @@
   },
   {
     "code": "DE.03",
-    "name": "City state Bremen"
+    "name": "Bremen"
   },
   {
     "code": "DE.11",
@@ -3545,7 +3533,7 @@
   },
   {
     "code": "EC.04",
-    "name": "Cañar"
+    "name": "Canar"
   },
   {
     "code": "EC.03",
@@ -4045,7 +4033,7 @@
   },
   {
     "code": "FR.24",
-    "name": "Centre"
+    "name": "Centre-Val de Loire"
   },
   {
     "code": "FR.53",
@@ -4053,11 +4041,11 @@
   },
   {
     "code": "FR.27",
-    "name": "Bourgogne-Franche-Comté"
+    "name": "Bourgogne"
   },
   {
     "code": "FR.75",
-    "name": "Nouvelle-Aquitaine"
+    "name": "New Aquitaine"
   },
   {
     "code": "FR.28",
@@ -4077,7 +4065,7 @@
   },
   {
     "code": "FR.84",
-    "name": "Auvergne-Rhône-Alpes"
+    "name": "Rhône-Alpes"
   },
   {
     "code": "GA.09",
@@ -4741,7 +4729,7 @@
   },
   {
     "code": "HK.NSK",
-    "name": "Sai Kung"
+    "name": "Sai Kung District"
   },
   {
     "code": "HK.NIS",
@@ -4757,19 +4745,19 @@
   },
   {
     "code": "HK.HEA",
-    "name": "Eastern"
+    "name": "Eastern District"
   },
   {
     "code": "HK.HSO",
-    "name": "Southern"
+    "name": "Southern District"
   },
   {
     "code": "HK.KYT",
-    "name": "Yau Tsim Mong"
+    "name": "Yau Tsim Mong District"
   },
   {
     "code": "HK.KSS",
-    "name": "Sham Shui Po"
+    "name": "Sham Shui Po District"
   },
   {
     "code": "HK.KKC",
@@ -4777,15 +4765,15 @@
   },
   {
     "code": "HK.KWT",
-    "name": "Wong Tai Sin"
+    "name": "Wong Tai Sin District"
   },
   {
     "code": "HK.KKT",
-    "name": "Kwun Tong"
+    "name": "Kwun Tong District"
   },
   {
     "code": "HK.NKT",
-    "name": "Kwai Tsing"
+    "name": "Kwai Tsing District"
   },
   {
     "code": "HK.NTM",
@@ -4793,7 +4781,7 @@
   },
   {
     "code": "HK.NNO",
-    "name": "North"
+    "name": "North District"
   },
   {
     "code": "HK.NST",
@@ -5433,7 +5421,7 @@
   },
   {
     "code": "IN.14",
-    "name": "Laccadives"
+    "name": "Lakshadweep"
   },
   {
     "code": "IN.13",
@@ -5517,7 +5505,7 @@
   },
   {
     "code": "IQ.16",
-    "name": "Wāsiţ"
+    "name": "Wasit"
   },
   {
     "code": "IQ.18",
@@ -5533,7 +5521,7 @@
   },
   {
     "code": "IQ.12",
-    "name": "Karbalāʼ"
+    "name": "Karbala"
   },
   {
     "code": "IQ.11",
@@ -5541,7 +5529,7 @@
   },
   {
     "code": "IQ.10",
-    "name": "Diyālá"
+    "name": "Diyala"
   },
   {
     "code": "IQ.09",
@@ -5557,7 +5545,7 @@
   },
   {
     "code": "IQ.06",
-    "name": "Bābil"
+    "name": "Babil"
   },
   {
     "code": "IQ.13",
@@ -5569,23 +5557,23 @@
   },
   {
     "code": "IQ.17",
-    "name": "An Najaf"
+    "name": "Najaf"
   },
   {
     "code": "IQ.04",
-    "name": "Al Qādisīyah"
+    "name": "Al-Qadisiyah"
   },
   {
     "code": "IQ.03",
-    "name": "Al Muthanna Governorate"
+    "name": "Muthanna"
   },
   {
     "code": "IQ.01",
-    "name": "Al Anbar"
+    "name": "Anbar"
   },
   {
     "code": "IQ.19",
-    "name": "Halabja Governorate"
+    "name": "Halabja"
   },
   {
     "code": "IR.26",
@@ -5961,7 +5949,7 @@
   },
   {
     "code": "JO.20",
-    "name": "Ajlun"
+    "name": "Ajloun"
   },
   {
     "code": "JO.22",
@@ -6737,11 +6725,11 @@
   },
   {
     "code": "KZ.07",
-    "name": "Batys Qazaqstan"
+    "name": "West Kazakhstan"
   },
   {
     "code": "KZ.09",
-    "name": "Mangghystaū"
+    "name": "Mangystau"
   },
   {
     "code": "KZ.06",
@@ -6749,7 +6737,7 @@
   },
   {
     "code": "KZ.04",
-    "name": "Aktyubinskaya Oblast’"
+    "name": "Aktobe"
   },
   {
     "code": "KZ.15",
@@ -6769,11 +6757,11 @@
   },
   {
     "code": "KZ.14",
-    "name": "Qyzylorda"
+    "name": "Kyzylorda"
   },
   {
     "code": "KZ.13",
-    "name": "Qostanay"
+    "name": "Kostanay"
   },
   {
     "code": "KZ.12",
@@ -6793,7 +6781,7 @@
   },
   {
     "code": "KZ.01",
-    "name": "Almaty Oblysy"
+    "name": "Almaty Region"
   },
   {
     "code": "KZ.1537272",
@@ -6813,7 +6801,7 @@
   },
   {
     "code": "KZ.12510144",
-    "name": "Jetisu Region"
+    "name": "Zhetysu Region"
   },
   {
     "code": "KZ.12510145",
@@ -6893,15 +6881,15 @@
   },
   {
     "code": "LB.05",
-    "name": "Mont-Liban"
+    "name": "Mount Lebanon"
   },
   {
     "code": "LB.04",
-    "name": "Beyrouth"
+    "name": "Beirut"
   },
   {
     "code": "LB.09",
-    "name": "Liban-Nord"
+    "name": "North Lebanon"
   },
   {
     "code": "LB.06",
@@ -6909,15 +6897,15 @@
   },
   {
     "code": "LB.08",
-    "name": "Béqaa"
+    "name": "Bekaa"
   },
   {
     "code": "LB.07",
-    "name": "Nabatîyé"
+    "name": "Nabatieh"
   },
   {
     "code": "LB.10",
-    "name": "Aakkâr"
+    "name": "Akkar"
   },
   {
     "code": "LB.11",
@@ -7253,7 +7241,7 @@
   },
   {
     "code": "LV.28",
-    "name": "Talsi Municipality"
+    "name": "Talsu novads"
   },
   {
     "code": "LV.27",
@@ -7281,7 +7269,7 @@
   },
   {
     "code": "LV.20",
-    "name": "Madona Municipality"
+    "name": "Madonas novads"
   },
   {
     "code": "LV.19",
@@ -7293,7 +7281,7 @@
   },
   {
     "code": "LV.16",
-    "name": "Liepāja"
+    "name": "Liepaja"
   },
   {
     "code": "LV.15",
@@ -7409,7 +7397,7 @@
   },
   {
     "code": "LY.69",
-    "name": "Banghāzī"
+    "name": "Banghazi"
   },
   {
     "code": "LY.66",
@@ -7421,7 +7409,7 @@
   },
   {
     "code": "LY.63",
-    "name": "Al Jabal al Akhḑar"
+    "name": "Al Jabal al Akhdar"
   },
   {
     "code": "LY.77",
@@ -7437,7 +7425,7 @@
   },
   {
     "code": "LY.74",
-    "name": "Nālūt"
+    "name": "Nalut"
   },
   {
     "code": "LY.73",
@@ -7445,19 +7433,19 @@
   },
   {
     "code": "LY.72",
-    "name": "Mişrātah"
+    "name": "Misratah"
   },
   {
     "code": "LY.71",
-    "name": "Ghāt"
+    "name": "Ghat"
   },
   {
     "code": "LY.68",
-    "name": "Az Zāwiyah"
+    "name": "Az Zawiyah"
   },
   {
     "code": "LY.78",
-    "name": "Ash Shāţiʼ"
+    "name": "Wadi ash Shati'"
   },
   {
     "code": "LY.64",
@@ -7465,11 +7453,11 @@
   },
   {
     "code": "LY.67",
-    "name": "An Nuqāţ al Khams"
+    "name": "An Nuqat al Khams"
   },
   {
     "code": "LY.79",
-    "name": "Al Buţnān"
+    "name": "Al Butnan"
   },
   {
     "code": "LY.80",
@@ -7477,7 +7465,7 @@
   },
   {
     "code": "LY.81",
-    "name": "Al Jafārah"
+    "name": "Al Jafarah"
   },
   {
     "code": "LY.82",
@@ -7485,11 +7473,11 @@
   },
   {
     "code": "LY.83",
-    "name": "Al Wāḩāt"
+    "name": "Al Wahat"
   },
   {
     "code": "LY.84",
-    "name": "Wādī al Ḩayāt"
+    "name": "Wadi al Hayat"
   },
   {
     "code": "MA.01",
@@ -7501,7 +7489,7 @@
   },
   {
     "code": "MA.03",
-    "name": "Fès-Meknès"
+    "name": "Fes-Meknes"
   },
   {
     "code": "MA.04",
@@ -7509,7 +7497,7 @@
   },
   {
     "code": "MA.05",
-    "name": "Béni Mellal-Khénifra"
+    "name": "Beni Mellal-Khenifra"
   },
   {
     "code": "MA.06",
@@ -7533,7 +7521,7 @@
   },
   {
     "code": "MA.11",
-    "name": "Laâyoune-Sakia El Hamra"
+    "name": "Laayoune-Sakia El Hamra"
   },
   {
     "code": "MA.12",
@@ -7561,7 +7549,7 @@
   },
   {
     "code": "MD.88",
-    "name": "Ştefan-Vodă"
+    "name": "Stefan-Voda"
   },
   {
     "code": "MD.89",
@@ -8425,7 +8413,7 @@
   },
   {
     "code": "MN.02",
-    "name": "Bayanhongor"
+    "name": "Bayankhongor"
   },
   {
     "code": "MN.20",
@@ -8513,7 +8501,7 @@
   },
   {
     "code": "MO.11875159",
-    "name": "Nossa Senhora do Carmo"
+    "name": "Our Lady of Carmo"
   },
   {
     "code": "MO.11875160",
@@ -8521,7 +8509,7 @@
   },
   {
     "code": "MO.11875161",
-    "name": "São Francisco Xavier"
+    "name": "Saint Francis Xavier"
   },
   {
     "code": "MP.100",
@@ -8593,15 +8581,15 @@
   },
   {
     "code": "MR.13",
-    "name": "Nouakchott Ouest"
+    "name": "Nouakchott West"
   },
   {
     "code": "MR.14",
-    "name": "Nouakchott Nord"
+    "name": "Nouakchott North"
   },
   {
     "code": "MR.15",
-    "name": "Nouakchott Sud"
+    "name": "Nouakchott South"
   },
   {
     "code": "MS.03",
@@ -8657,7 +8645,7 @@
   },
   {
     "code": "MT.11",
-    "name": "Għajnsielem"
+    "name": "Ghajnsielem"
   },
   {
     "code": "MT.12",
@@ -9705,7 +9693,7 @@
   },
   {
     "code": "NP.4",
-    "name": "Province 4"
+    "name": "Gandaki Pradesh"
   },
   {
     "code": "NP.5",
@@ -9929,7 +9917,7 @@
   },
   {
     "code": "PA.11",
-    "name": "Emberá"
+    "name": "Embera"
   },
   {
     "code": "PA.12",
@@ -10049,11 +10037,11 @@
   },
   {
     "code": "PF.04",
-    "name": "Îles Marquises"
+    "name": "Marquesas Islands"
   },
   {
     "code": "PF.03",
-    "name": "Îles Tuamotu-Gambier"
+    "name": "Tuamotu-Gambier Islands"
   },
   {
     "code": "PF.02",
@@ -10065,7 +10053,7 @@
   },
   {
     "code": "PF.05",
-    "name": "Îles Australes"
+    "name": "Austral Islands"
   },
   {
     "code": "PG.17",
@@ -10221,7 +10209,7 @@
   },
   {
     "code": "PH.NCR",
-    "name": "Metro Manila"
+    "name": "National Capital Region"
   },
   {
     "code": "PK.08",
@@ -10241,7 +10229,7 @@
   },
   {
     "code": "PK.07",
-    "name": "Gilgit-Baltistan(POK)"
+    "name": "Gilgit-Baltistan"
   },
   {
     "code": "PK.02",
@@ -10853,7 +10841,7 @@
   },
   {
     "code": "PY.22",
-    "name": "Asunción"
+    "name": "Asuncion"
   },
   {
     "code": "PY.24",
@@ -10861,7 +10849,7 @@
   },
   {
     "code": "QA.08",
-    "name": "Madīnat ash Shamāl"
+    "name": "Madinat ash Shamal"
   },
   {
     "code": "QA.04",
@@ -10873,11 +10861,11 @@
   },
   {
     "code": "QA.06",
-    "name": "Baladīyat ar Rayyān"
+    "name": "Baladiyat ar Rayyan"
   },
   {
     "code": "QA.01",
-    "name": "Baladīyat ad Dawḩah"
+    "name": "Baladiyat ad Dawhah"
   },
   {
     "code": "QA.10",
@@ -10893,7 +10881,7 @@
   },
   {
     "code": "RE.RE",
-    "name": "Réunion"
+    "name": "Reunion"
   },
   {
     "code": "RO.40",
@@ -11021,7 +11009,7 @@
   },
   {
     "code": "RO.10",
-    "name": "București"
+    "name": "Bucharest"
   },
   {
     "code": "RO.09",
@@ -11641,7 +11629,7 @@
   },
   {
     "code": "SD.38",
-    "name": "Al Jazīrah"
+    "name": "Al Jazirah"
   },
   {
     "code": "SD.39",
@@ -11661,7 +11649,7 @@
   },
   {
     "code": "SD.62",
-    "name": "West Kordofan State"
+    "name": "West Kordofan"
   },
   {
     "code": "SD.49",
@@ -11689,7 +11677,7 @@
   },
   {
     "code": "SD.58",
-    "name": "Sinnār"
+    "name": "Sennar"
   },
   {
     "code": "SD.60",
@@ -11797,19 +11785,19 @@
   },
   {
     "code": "SI.N5",
-    "name": "Žalec"
+    "name": "Municipality of Žalec"
   },
   {
     "code": "SI.E7",
-    "name": "Zagorje ob Savi Municipality"
+    "name": "Municipality of Zagorje ob Savi"
   },
   {
     "code": "SI.E5",
-    "name": "Vrhnika"
+    "name": "Municipality of Vrhnika"
   },
   {
     "code": "SI.D5",
-    "name": "Tržič"
+    "name": "Municipality of Tržič"
   },
   {
     "code": "SI.D4",
@@ -11817,31 +11805,31 @@
   },
   {
     "code": "SI.D3",
-    "name": "Trbovlje"
+    "name": "Municipality of Trbovlje"
   },
   {
     "code": "SI.D2",
-    "name": "Tolmin"
+    "name": "Municipality of Tolmin"
   },
   {
     "code": "SI.D7",
-    "name": "Velenje"
+    "name": "Urban Municipality of Velenje"
   },
   {
     "code": "SI.C5",
-    "name": "Šmarje pri Jelšah"
+    "name": "Municipality of Šmarje pri Jelšah"
   },
   {
     "code": "SI.C4",
-    "name": "Slovenska Konjice"
+    "name": "Municipality of Slovenske Konjice"
   },
   {
     "code": "SI.L8",
-    "name": "Slovenska Bistrica"
+    "name": "Municipality of Slovenska Bistrica"
   },
   {
     "code": "SI.C2",
-    "name": "Slovenj Gradec"
+    "name": "Urban Municipality of Slovenj Gradec"
   },
   {
     "code": "SI.B9",
@@ -11849,11 +11837,11 @@
   },
   {
     "code": "SI.B7",
-    "name": "Sežana"
+    "name": "Municipality of Sežana"
   },
   {
     "code": "SI.B6",
-    "name": "Sevnica Municipality"
+    "name": "Municipality of Sevnica"
   },
   {
     "code": "SI.L7",
@@ -11861,7 +11849,7 @@
   },
   {
     "code": "SI.L1",
-    "name": "Ribnica"
+    "name": "Municipality of Ribnica"
   },
   {
     "code": "SI.A3",
@@ -11869,47 +11857,47 @@
   },
   {
     "code": "SI.A2",
-    "name": "Radlje ob Dravi"
+    "name": "Municipality of Radlje ob Dravi"
   },
   {
     "code": "SI.K7",
-    "name": "Ptuj"
+    "name": "Urban Municipality of Ptuj"
   },
   {
     "code": "SI.94",
-    "name": "Postojna"
+    "name": "Municipality of Postojna"
   },
   {
     "code": "SI.J9",
-    "name": "Piran-Pirano"
+    "name": "Municipality of Piran"
   },
   {
     "code": "SI.87",
-    "name": "Ormož"
+    "name": "Municipality of Ormož"
   },
   {
     "code": "SI.J7",
-    "name": "Novo Mesto"
+    "name": "Urban Municipality of Novo Mesto"
   },
   {
     "code": "SI.84",
-    "name": "Nova Gorica"
+    "name": "Urban Municipality of Nova Gorica"
   },
   {
     "code": "SI.80",
-    "name": "Murska Sobota"
+    "name": "Urban Municipality of Murska Sobota"
   },
   {
     "code": "SI.79",
-    "name": "Mozirje"
+    "name": "Municipality of Mozirje"
   },
   {
     "code": "SI.73",
-    "name": "Metlika"
+    "name": "Municipality of Metlika"
   },
   {
     "code": "SI.J2",
-    "name": "Maribor City Municipality"
+    "name": "Urban Municipality of Maribor"
   },
   {
     "code": "SI.64",
@@ -11921,99 +11909,99 @@
   },
   {
     "code": "SI.I5",
-    "name": "Litija"
+    "name": "Municipality of Litija"
   },
   {
     "code": "SI.I3",
-    "name": "Lenart"
+    "name": "Municipality of Lenart"
   },
   {
     "code": "SI.57",
-    "name": "Laško Municipality"
+    "name": "Municipality of Laško"
   },
   {
     "code": "SI.54",
-    "name": "Krško"
+    "name": "Urban Municipality of Krško"
   },
   {
     "code": "SI.52",
-    "name": "Kranj"
+    "name": "Urban Municipality of Kranj"
   },
   {
     "code": "SI.50",
-    "name": "Koper-Capodistria"
+    "name": "Urban Municipality of Koper"
   },
   {
     "code": "SI.H7",
-    "name": "Kočevje"
+    "name": "Municipality of Kočevje"
   },
   {
     "code": "SI.H6",
-    "name": "Kamnik"
+    "name": "Municipality of Kamnik"
   },
   {
     "code": "SI.H4",
-    "name": "Jesenice"
+    "name": "Municipality of Jesenice"
   },
   {
     "code": "SI.40",
-    "name": "Izola-Isola"
+    "name": "Municipality of Izola"
   },
   {
     "code": "SI.38",
-    "name": "Ilirska Bistrica"
+    "name": "Municipality of Ilirska Bistrica"
   },
   {
     "code": "SI.36",
-    "name": "Idrija"
+    "name": "Municipality of Idrija"
   },
   {
     "code": "SI.34",
-    "name": "Hrastnik Municipality"
+    "name": "Municipality of Hrastnik"
   },
   {
     "code": "SI.32",
-    "name": "Grosuplje"
+    "name": "Municipality of Grosuplje"
   },
   {
     "code": "SI.29",
-    "name": "Gornja Radgona"
+    "name": "Municipality of Gornja Radgona"
   },
   {
     "code": "SI.25",
-    "name": "Dravograd"
+    "name": "Municipality of Dravograd"
   },
   {
     "code": "SI.G7",
-    "name": "Domžale"
+    "name": "Municipality of Domžale"
   },
   {
     "code": "SI.17",
-    "name": "Črnomelj Municipality"
+    "name": "Municipality of Črnomelj"
   },
   {
     "code": "SI.13",
-    "name": "Cerknica"
+    "name": "Municipality of Cerknica"
   },
   {
     "code": "SI.11",
-    "name": "Celje"
+    "name": "Urban Municipality of Celje"
   },
   {
     "code": "SI.08",
-    "name": "Brežice"
+    "name": "Municipality of Brežice"
   },
   {
     "code": "SI.01",
-    "name": "Ajdovščina Municipality"
+    "name": "Municipality of Ajdovščina"
   },
   {
     "code": "SI.35",
-    "name": "Hrpelje-Kozina"
+    "name": "Municipality of Hrpelje–Kozina"
   },
   {
     "code": "SI.19",
-    "name": "Divača"
+    "name": "Municipality of Divača"
   },
   {
     "code": "SI.91",
@@ -12021,123 +12009,123 @@
   },
   {
     "code": "SI.I7",
-    "name": "Loška Dolina Municipality"
+    "name": "Municipality of Loška Dolina"
   },
   {
     "code": "SI.66",
-    "name": "Loški Potok"
+    "name": "Municipality of Loški Potok"
   },
   {
     "code": "SI.88",
-    "name": "Osilnica"
+    "name": "Municipality of Osilnica"
   },
   {
     "code": "SI.D8",
-    "name": "Velike Lašče"
+    "name": "Municipality of Velike Lašče"
   },
   {
     "code": "SI.C1",
-    "name": "Škofljica"
+    "name": "Municipality of Škofljica"
   },
   {
     "code": "SI.37",
-    "name": "Ig Municipality"
+    "name": "Municipality of Ig"
   },
   {
     "code": "SI.09",
-    "name": "Brezovica"
+    "name": "Municipality of Brezovica"
   },
   {
     "code": "SI.05",
-    "name": "Borovnica"
+    "name": "Municipality of Borovnica"
   },
   {
     "code": "SI.E1",
-    "name": "Vipava"
+    "name": "Municipality of Vipava"
   },
   {
     "code": "SI.49",
-    "name": "Komen"
+    "name": "Municipality of Komen"
   },
   {
     "code": "SI.J5",
-    "name": "Miren-Kostanjevica"
+    "name": "Municipality of Miren–Kostanjevica"
   },
   {
     "code": "SI.07",
-    "name": "Brda"
+    "name": "Municipality of Brda"
   },
   {
     "code": "SI.44",
-    "name": "Kanal ob Soči Municipality"
+    "name": "Municipality of Kanal ob Soči"
   },
   {
     "code": "SI.F2",
-    "name": "Žiri"
+    "name": "Municipality of Žiri"
   },
   {
     "code": "SI.14",
-    "name": "Cerkno"
+    "name": "Municipality of Cerkno"
   },
   {
     "code": "SI.F1",
-    "name": "Železniki Municipality"
+    "name": "Municipality of Železniki"
   },
   {
     "code": "SI.27",
-    "name": "Občina Gorenja vas-Poljane"
+    "name": "Municipality of Gorenja Vas–Poljane"
   },
   {
     "code": "SI.G4",
-    "name": "Dobrova-Horjul-Polhov Gradec"
+    "name": "Municipality of Dobrova–Polhov Gradec"
   },
   {
     "code": "SI.46",
-    "name": "Kobarid Municipality"
+    "name": "Municipality of Kobarid"
   },
   {
     "code": "SI.06",
-    "name": "Bovec"
+    "name": "Municipality of Bovec"
   },
   {
     "code": "SI.04",
-    "name": "Bohinj Municipality"
+    "name": "Municipality of Bohinj"
   },
   {
     "code": "SI.03",
-    "name": "Bled"
+    "name": "Municipality of Bled"
   },
   {
     "code": "SI.82",
-    "name": "Naklo"
+    "name": "Municipality of Naklo"
   },
   {
     "code": "SI.53",
-    "name": "Kranjska Gora"
+    "name": "Municipality of Kranjska Gora"
   },
   {
     "code": "SI.K5",
-    "name": "Preddvor"
+    "name": "Municipality of Preddvor"
   },
   {
     "code": "SI.12",
-    "name": "Cerklje na Gorenjskem"
+    "name": "Municipality of Cerklje na Gorenjskem"
   },
   {
     "code": "SI.B2",
-    "name": "Šenčur"
+    "name": "Municipality of Šenčur"
   },
   {
     "code": "SI.E3",
-    "name": "Vodice"
+    "name": "Municipality of Vodice"
   },
   {
     "code": "SI.71",
-    "name": "Medvode"
+    "name": "Municipality of Medvode"
   },
   {
     "code": "SI.72",
-    "name": "Mengeš"
+    "name": "Municipality of Mengeš"
   },
   {
     "code": "SI.22",
@@ -12145,47 +12133,47 @@
   },
   {
     "code": "SI.77",
-    "name": "Moravče"
+    "name": "Municipality of Moravče"
   },
   {
     "code": "SI.30",
-    "name": "Gornji Grad"
+    "name": "Municipality of Gornji Grad"
   },
   {
     "code": "SI.I9",
-    "name": "Luče"
+    "name": "Municipality of Luče"
   },
   {
     "code": "SI.K8",
-    "name": "Ravne na Koroškem"
+    "name": "Municipality of Ravne na Koroškem"
   },
   {
     "code": "SI.74",
-    "name": "Mežica"
+    "name": "Municipality of Mežica"
   },
   {
     "code": "SI.81",
-    "name": "Muta"
+    "name": "Municipality of Muta"
   },
   {
     "code": "SI.E6",
-    "name": "Vuzenica"
+    "name": "Municipality of Vuzenica"
   },
   {
     "code": "SI.16",
-    "name": "Črna na Koroškem Municipality"
+    "name": "Municipality of Črna na Koroškem"
   },
   {
     "code": "SI.62",
-    "name": "Ljubno"
+    "name": "Municipality of Ljubno"
   },
   {
     "code": "SI.C7",
-    "name": "Šoštanj"
+    "name": "Municipality of Šoštanj"
   },
   {
     "code": "SI.C6",
-    "name": "Šmartno ob Paki"
+    "name": "Municipality of Šmartno ob Paki"
   },
   {
     "code": "SI.68",
@@ -12193,59 +12181,59 @@
   },
   {
     "code": "SI.99",
-    "name": "Radeče Municipality"
+    "name": "Municipality of Radeče"
   },
   {
     "code": "SI.39",
-    "name": "Ivančna Gorica"
+    "name": "Municipality of Ivančna Gorica"
   },
   {
     "code": "SI.20",
-    "name": "Dobrepolje"
+    "name": "Municipality of Dobrepolje"
   },
   {
     "code": "SI.B1",
-    "name": "Semič"
+    "name": "Municipality of Semič"
   },
   {
     "code": "SI.B4",
-    "name": "Šentjernej"
+    "name": "Municipality of Šentjernej"
   },
   {
     "code": "SI.B8",
-    "name": "Škocjan"
+    "name": "Municipality of Škocjan"
   },
   {
     "code": "SI.C9",
-    "name": "Štore"
+    "name": "Municipality of Štore"
   },
   {
     "code": "SI.N3",
-    "name": "Vojnik"
+    "name": "Municipality of Vojnik"
   },
   {
     "code": "SI.E2",
-    "name": "Vitanje"
+    "name": "Municipality of Vitanje"
   },
   {
     "code": "SI.F3",
-    "name": "Zreče Municipality"
+    "name": "Municipality of Zreče"
   },
   {
     "code": "SI.76",
-    "name": "Mislinja"
+    "name": "Municipality of Mislinja"
   },
   {
     "code": "SI.L3",
-    "name": "Ruše Municipality"
+    "name": "Municipality of Ruše"
   },
   {
     "code": "SI.55",
-    "name": "Kungota"
+    "name": "Municipality of Kungota"
   },
   {
     "code": "SI.B3",
-    "name": "Šentilj"
+    "name": "Municipality of Šentilj"
   },
   {
     "code": "SI.89",
@@ -12253,111 +12241,111 @@
   },
   {
     "code": "SI.26",
-    "name": "Duplek"
+    "name": "Municipality of Duplek"
   },
   {
     "code": "SI.98",
-    "name": "Rače-Fram"
+    "name": "Municipality of Rače–Fram"
   },
   {
     "code": "SI.C8",
-    "name": "Starše"
+    "name": "Municipality of Starše"
   },
   {
     "code": "SI.45",
-    "name": "Kidričevo"
+    "name": "Municipality of Kidričevo"
   },
   {
     "code": "SI.J1",
-    "name": "Majšperk"
+    "name": "Municipality of Majšperk"
   },
   {
     "code": "SI.N2",
-    "name": "Videm"
+    "name": "Municipality of Videm"
   },
   {
     "code": "SI.A7",
-    "name": "Rogaška Slatina"
+    "name": "Municipality of Rogaška Slatina"
   },
   {
     "code": "SI.A8",
-    "name": "Rogatec"
+    "name": "Municipality of Rogatec"
   },
   {
     "code": "SI.92",
-    "name": "Podčetrtek"
+    "name": "Municipality of Podčetrtek"
   },
   {
     "code": "SI.51",
-    "name": "Kozje"
+    "name": "Municipality of Kozje"
   },
   {
     "code": "SI.28",
-    "name": "Gorišnica"
+    "name": "Municipality of Gorišnica"
   },
   {
     "code": "SI.E9",
-    "name": "Zavrč"
+    "name": "Municipality of Zavrč"
   },
   {
     "code": "SI.24",
-    "name": "Dornava"
+    "name": "Municipality of Dornava"
   },
   {
     "code": "SI.42",
-    "name": "Juršinci"
+    "name": "Municipality of Juršinci"
   },
   {
     "code": "SI.D1",
-    "name": "Sveti Jurij"
+    "name": "Municipality of Sveti Jurij ob Ščavnici"
   },
   {
     "code": "SI.A1",
-    "name": "Radenci"
+    "name": "Municipality of Radenci"
   },
   {
     "code": "SI.97",
-    "name": "Puconci"
+    "name": "Municipality of Puconci"
   },
   {
     "code": "SI.A6",
-    "name": "Rogašovci"
+    "name": "Municipality of Rogašovci"
   },
   {
     "code": "SI.I2",
-    "name": "Kuzma"
+    "name": "Municipality of Kuzma"
   },
   {
     "code": "SI.31",
-    "name": "Gornji Petrovci"
+    "name": "Municipality of Gornji Petrovci"
   },
   {
     "code": "SI.78",
-    "name": "Moravske Toplice"
+    "name": "Municipality of Moravske Toplice"
   },
   {
     "code": "SI.47",
-    "name": "Kobilje"
+    "name": "Municipality of Kobilje"
   },
   {
     "code": "SI.02",
-    "name": "Beltinci"
+    "name": "Municipality of Beltinci"
   },
   {
     "code": "SI.D6",
-    "name": "Turnišče"
+    "name": "Municipality of Turnišče"
   },
   {
     "code": "SI.86",
-    "name": "Odranci"
+    "name": "Municipality of Odranci"
   },
   {
     "code": "SI.15",
-    "name": "Črenšovci"
+    "name": "Municipality of Črenšovci"
   },
   {
     "code": "SI.83",
-    "name": "Nazarje"
+    "name": "Municipality of Nazarje"
   },
   {
     "code": "SI.61",
@@ -12365,15 +12353,15 @@
   },
   {
     "code": "SI.N7",
-    "name": "Žirovnica"
+    "name": "Municipality of Žirovnica"
   },
   {
     "code": "SI.H5",
-    "name": "Jezersko"
+    "name": "Municipality of Jezersko"
   },
   {
     "code": "SI.M2",
-    "name": "Solčava Municipality"
+    "name": "Municipality of Solčava"
   },
   {
     "code": "SI.H8",
@@ -12381,43 +12369,43 @@
   },
   {
     "code": "SI.H3",
-    "name": "Horjul"
+    "name": "Municipality of Horjul"
   },
   {
     "code": "SI.L6",
-    "name": "Šempeter-Vrtojba"
+    "name": "Municipality of Šempeter–Vrtojba"
   },
   {
     "code": "SI.F6",
-    "name": "Bloke"
+    "name": "Municipality of Bloke"
   },
   {
     "code": "SI.M1",
-    "name": "Sodražica"
+    "name": "Municipality of Sodražica"
   },
   {
     "code": "SI.M8",
-    "name": "Trzin"
+    "name": "Municipality of Trzin"
   },
   {
     "code": "SI.K6",
-    "name": "Prevalje"
+    "name": "Municipality of Prevalje"
   },
   {
     "code": "SI.N4",
-    "name": "Vransko"
+    "name": "Municipality of Vransko"
   },
   {
     "code": "SI.M5",
-    "name": "Tabor"
+    "name": "Municipality of Tabor"
   },
   {
     "code": "SI.F7",
-    "name": "Braslovče"
+    "name": "Municipality of Braslovče"
   },
   {
     "code": "SI.K3",
-    "name": "Polzela"
+    "name": "Municipality of Polzela"
   },
   {
     "code": "SI.K4",
@@ -12425,11 +12413,11 @@
   },
   {
     "code": "SI.H9",
-    "name": "Kostel"
+    "name": "Municipality of Kostel"
   },
   {
     "code": "SI.N8",
-    "name": "Žužemberk"
+    "name": "Municipality of Žužemberk"
   },
   {
     "code": "SI.G6",
@@ -12437,15 +12425,15 @@
   },
   {
     "code": "SI.J6",
-    "name": "Mirna Peč Municipality"
+    "name": "Municipality of Mirna Peč"
   },
   {
     "code": "SI.F5",
-    "name": "Bistrica ob Sotli"
+    "name": "Municipality of Bistrica ob Sotli"
   },
   {
     "code": "SI.G2",
-    "name": "Dobje"
+    "name": "Municipality of Dobje"
   },
   {
     "code": "SI.G3",
@@ -12453,31 +12441,31 @@
   },
   {
     "code": "SI.J8",
-    "name": "Oplotnica Municipality"
+    "name": "Municipality of Oplotnica"
   },
   {
     "code": "SI.K2",
-    "name": "Podvelka"
+    "name": "Municipality of Podvelka"
   },
   {
     "code": "SI.L2",
-    "name": "Ribnica na Pohorju"
+    "name": "Municipality of Ribnica na Pohorju"
   },
   {
     "code": "SI.I8",
-    "name": "Lovrenc na Pohorju"
+    "name": "Municipality of Lovrenc na Pohorju"
   },
   {
     "code": "SI.L5",
-    "name": "Selnica ob Dravi"
+    "name": "Municipality of Selnica ob Dravi"
   },
   {
     "code": "SI.H1",
-    "name": "Hoče-Slivnica"
+    "name": "Municipality of Hoče–Slivnica"
   },
   {
     "code": "SI.J4",
-    "name": "Miklavž na Dravskem Polju"
+    "name": "Municipality of Miklavž na Dravskem Polju"
   },
   {
     "code": "SI.G9",
@@ -12485,15 +12473,15 @@
   },
   {
     "code": "SI.N6",
-    "name": "Žetale"
+    "name": "Municipality of Žetale"
   },
   {
     "code": "SI.K1",
-    "name": "Podlehnik"
+    "name": "Municipality of Podlehnik"
   },
   {
     "code": "SI.J3",
-    "name": "Markovci"
+    "name": "Municipality of Markovci"
   },
   {
     "code": "SI.G1",
@@ -12501,51 +12489,51 @@
   },
   {
     "code": "SI.M7",
-    "name": "Trnovska Vas"
+    "name": "Municipality of Trnovska Vas"
   },
   {
     "code": "SI.M4",
-    "name": "Sveti Andraž v Slovenskih Goricah"
+    "name": "Municipality of Sveti Andraž v Slovenskih Goricah"
   },
   {
     "code": "SI.F9",
-    "name": "Cerkvenjak"
+    "name": "Municipality of Cerkvenjak"
   },
   {
     "code": "SI.F4",
-    "name": "Benedikt"
+    "name": "Municipality of Benedikt"
   },
   {
     "code": "SI.M3",
-    "name": "Sveta Ana Municipality"
+    "name": "Municipality of Sveta Ana"
   },
   {
     "code": "SI.I1",
-    "name": "Križevci"
+    "name": "Municipality of Križevci"
   },
   {
     "code": "SI.N1",
-    "name": "Veržej"
+    "name": "Municipality of Veržej"
   },
   {
     "code": "SI.M9",
-    "name": "Velika Polana"
+    "name": "Municipality of Velika Polana"
   },
   {
     "code": "SI.I4",
-    "name": "Lendava-Lendva"
+    "name": "Municipality of Lendava"
   },
   {
     "code": "SI.G5",
-    "name": "Dobrovnik-Dobronak"
+    "name": "Municipality of Dobrovnik"
   },
   {
     "code": "SI.M6",
-    "name": "Tišina"
+    "name": "Municipality of Tišina"
   },
   {
     "code": "SI.F8",
-    "name": "Cankova"
+    "name": "Municipality of Cankova"
   },
   {
     "code": "SI.G8",
@@ -12553,31 +12541,31 @@
   },
   {
     "code": "SI.H2",
-    "name": "Hodoš-Hodos"
+    "name": "Municipality of Hodoš"
   },
   {
     "code": "SI.K9",
-    "name": "Razkrižje"
+    "name": "Municipality of Razkrižje"
   },
   {
     "code": "SI.L9",
-    "name": "Šmartno pri Litiji"
+    "name": "Municipality of Šmartno pri Litiji"
   },
   {
     "code": "SI.L4",
-    "name": "Šalovci"
+    "name": "Municipality of Šalovci"
   },
   {
     "code": "SI.N9",
-    "name": "Apače"
+    "name": "Municipality of Apače"
   },
   {
     "code": "SI.O1",
-    "name": "Cirkulane"
+    "name": "Municipality of Cirkulane"
   },
   {
     "code": "SI.O3",
-    "name": "Kostanjevica na Krki"
+    "name": "Municipality of Kostanjevica na Krki"
   },
   {
     "code": "SI.O4",
@@ -12585,51 +12573,51 @@
   },
   {
     "code": "SI.O5",
-    "name": "Makole"
+    "name": "Municipality of Makole"
   },
   {
     "code": "SI.O7",
-    "name": "Mokronog-Trebelno Municipality"
+    "name": "Municipality of Mokronog–Trebelno"
   },
   {
     "code": "SI.O8",
-    "name": "Poljčane"
+    "name": "Municipality of Poljčane"
   },
   {
     "code": "SI.O9",
-    "name": "Rečica ob Savinji"
+    "name": "Municipality of Rečica ob Savinji"
   },
   {
     "code": "SI.P1",
-    "name": "Renče-Vogrsko"
+    "name": "Municipality of Renče–Vogrsko"
   },
   {
     "code": "SI.P4",
-    "name": "Središče ob Dravi"
+    "name": "Municipality of Središče ob Dravi"
   },
   {
     "code": "SI.P5",
-    "name": "Straža"
+    "name": "Municipality of Straža"
   },
   {
     "code": "SI.P6",
-    "name": "Sv. Trojica v Slov. Goricah"
+    "name": "Municipality of Sveta Trojica v Slovenskih Goricah"
   },
   {
     "code": "SI.P8",
-    "name": "Sveti Tomaž"
+    "name": "Municipality of Sveti Tomaž"
   },
   {
     "code": "SI.P2",
-    "name": "Šentrupert"
+    "name": "Municipality of Šentrupert"
   },
   {
     "code": "SI.P3",
-    "name": "Šmarješke Toplice"
+    "name": "Municipality of Šmarješke Toplice"
   },
   {
     "code": "SI.P7",
-    "name": "Sveti Jurij v Slovenskih Goricah"
+    "name": "Municipality of Sveti Jurij v Slovenskih Goricah"
   },
   {
     "code": "SI.O2",
@@ -12637,11 +12625,11 @@
   },
   {
     "code": "SI.P9",
-    "name": "Ankaran Municipality"
+    "name": "Municipality of Ankaran"
   },
   {
     "code": "SI.O6",
-    "name": "Mirna"
+    "name": "Municipality of Mirna"
   },
   {
     "code": "SJ.22",
@@ -12745,7 +12733,7 @@
   },
   {
     "code": "SN.07",
-    "name": "Thiès"
+    "name": "Thies"
   },
   {
     "code": "SN.05",
@@ -12789,7 +12777,7 @@
   },
   {
     "code": "SN.17",
-    "name": "Kédougou"
+    "name": "Kedougou"
   },
   {
     "code": "SN.18",
@@ -12957,7 +12945,7 @@
   },
   {
     "code": "SV.14",
-    "name": "Usulután"
+    "name": "Usulutan"
   },
   {
     "code": "SV.13",
@@ -12981,11 +12969,11 @@
   },
   {
     "code": "SV.08",
-    "name": "Morazán"
+    "name": "Morazan"
   },
   {
     "code": "SV.07",
-    "name": "La Unión"
+    "name": "La Union"
   },
   {
     "code": "SV.06",
@@ -12997,7 +12985,7 @@
   },
   {
     "code": "SV.04",
-    "name": "Cuscatlán"
+    "name": "Cuscatlan"
   },
   {
     "code": "SV.03",
@@ -13005,11 +12993,11 @@
   },
   {
     "code": "SV.02",
-    "name": "Cabañas"
+    "name": "Cabanas"
   },
   {
     "code": "SV.01",
-    "name": "Ahuachapán"
+    "name": "Ahuachapan"
   },
   {
     "code": "SY.14",
@@ -13017,7 +13005,7 @@
   },
   {
     "code": "SY.13",
-    "name": "Dimashq"
+    "name": "Damascus Governorate"
   },
   {
     "code": "SY.12",
@@ -13049,11 +13037,11 @@
   },
   {
     "code": "SY.05",
-    "name": "As-Suwayda"
+    "name": "Suwayda"
   },
   {
     "code": "SY.04",
-    "name": "Ar-Raqqah"
+    "name": "Raqqa"
   },
   {
     "code": "SY.03",
@@ -13621,7 +13609,7 @@
   },
   {
     "code": "TM.03",
-    "name": "Daşoguz"
+    "name": "Dasoguz"
   },
   {
     "code": "TM.05",
@@ -13729,7 +13717,7 @@
   },
   {
     "code": "TO.03",
-    "name": "Vava‘u"
+    "name": "Vavau"
   },
   {
     "code": "TO.02",
@@ -13737,7 +13725,7 @@
   },
   {
     "code": "TO.01",
-    "name": "Ha‘apai"
+    "name": "Haapai"
   },
   {
     "code": "TO.EU",
@@ -14305,7 +14293,7 @@
   },
   {
     "code": "UA.27",
-    "name": "Zhytomyr"
+    "name": "Zhytomyr Oblast"
   },
   {
     "code": "UA.26",
@@ -14313,7 +14301,7 @@
   },
   {
     "code": "UA.25",
-    "name": "Transcarpathia"
+    "name": "Zakarpattia"
   },
   {
     "code": "UA.24",
@@ -14337,7 +14325,7 @@
   },
   {
     "code": "UA.19",
-    "name": "Rivne"
+    "name": "Rivne Oblast"
   },
   {
     "code": "UA.18",
@@ -14345,7 +14333,7 @@
   },
   {
     "code": "UA.17",
-    "name": "Odessa"
+    "name": "Odesa"
   },
   {
     "code": "UA.16",
@@ -14361,7 +14349,7 @@
   },
   {
     "code": "UA.13",
-    "name": "Kiev"
+    "name": "Kyiv Oblast"
   },
   {
     "code": "UA.12",
@@ -14385,7 +14373,7 @@
   },
   {
     "code": "UA.07",
-    "name": "Kharkivs’ka Oblast’"
+    "name": "Kharkiv"
   },
   {
     "code": "UA.06",
@@ -14405,7 +14393,7 @@
   },
   {
     "code": "UA.02",
-    "name": "Chernihiv"
+    "name": "Chernihiv Oblast"
   },
   {
     "code": "UA.01",
@@ -14936,256 +14924,140 @@
     "name": "Saint Thomas Island"
   },
   {
-    "code": "VN.58",
+    "code": "VN.40",
     "name": "Nghệ An Province"
   },
   {
-    "code": "VN.59",
-    "name": "Ninh Bình Province"
-  },
-  {
-    "code": "VN.60",
-    "name": "Ninh Thuận Province"
-  },
-  {
-    "code": "VN.65",
-    "name": "Sóc Trăng Province"
-  },
-  {
-    "code": "VN.67",
-    "name": "Trà Vinh Province"
-  },
-  {
-    "code": "VN.68",
-    "name": "Tuyên Quang Province"
-  },
-  {
-    "code": "VN.69",
-    "name": "Vĩnh Long Province"
-  },
-  {
-    "code": "VN.70",
-    "name": "Yên Bái Province"
-  },
-  {
-    "code": "VN.90",
-    "name": "Lào Cai Province"
-  },
-  {
-    "code": "VN.37",
-    "name": "Tiền Giang"
-  },
-  {
-    "code": "VN.66",
+    "code": "VN.46",
     "name": "Thừa Thiên Huế Province"
   },
   {
-    "code": "VN.55",
-    "name": "Kon Tum"
-  },
-  {
-    "code": "VN.34",
+    "code": "VN.38",
     "name": "Thanh Hóa Province"
   },
   {
-    "code": "VN.35",
-    "name": "Thái Bình Province"
-  },
-  {
-    "code": "VN.33",
-    "name": "Tây Ninh Province"
-  },
-  {
-    "code": "VN.32",
+    "code": "VN.14",
     "name": "Sơn La Province"
   },
   {
-    "code": "VN.64",
-    "name": "Quảng Trị Province"
-  },
-  {
-    "code": "VN.30",
+    "code": "VN.22",
     "name": "Quảng Ninh"
   },
   {
-    "code": "VN.63",
-    "name": "Quảng Ngãi Province"
-  },
-  {
-    "code": "VN.62",
-    "name": "Quảng Bình Province"
-  },
-  {
-    "code": "VN.61",
-    "name": "Phú Yên Province"
-  },
-  {
-    "code": "VN.53",
-    "name": "Hòa Bình Province"
-  },
-  {
-    "code": "VN.24",
-    "name": "Long An Povince"
-  },
-  {
-    "code": "VN.39",
+    "code": "VN.20",
     "name": "Lạng Sơn Province"
   },
   {
-    "code": "VN.23",
-    "name": "Lâm Đồng Province"
-  },
-  {
-    "code": "VN.89",
+    "code": "VN.12",
     "name": "Lai Châu Province"
   },
   {
-    "code": "VN.21",
-    "name": "Kiên Giang Province"
-  },
-  {
-    "code": "VN.54",
-    "name": "Khánh Hòa Province"
-  },
-  {
-    "code": "VN.20",
-    "name": "Ho Chi Minh"
-  },
-  {
-    "code": "VN.52",
+    "code": "VN.42",
     "name": "Hà Tĩnh Province"
   },
   {
-    "code": "VN.50",
-    "name": "Hà Giang Province"
-  },
-  {
-    "code": "VN.49",
-    "name": "Gia Lai Province"
-  },
-  {
-    "code": "VN.44",
+    "code": "VN.01",
     "name": "Hanoi"
   },
   {
-    "code": "VN.87",
-    "name": "Can Tho"
-  },
-  {
-    "code": "VN.13",
-    "name": "Haiphong"
-  },
-  {
-    "code": "VN.47",
-    "name": "Bình Thuận Province"
-  },
-  {
-    "code": "VN.09",
-    "name": "Đồng Tháp Province"
-  },
-  {
-    "code": "VN.43",
-    "name": "Đồng Nai Province"
-  },
-  {
-    "code": "VN.88",
-    "name": "Đắk Lắk"
-  },
-  {
-    "code": "VN.45",
-    "name": "Bà Rịa–Vũng Tàu Province"
-  },
-  {
-    "code": "VN.05",
+    "code": "VN.04",
     "name": "Cao Bằng Province"
   },
   {
-    "code": "VN.46",
-    "name": "Bình Định Province"
-  },
-  {
-    "code": "VN.03",
-    "name": "Bến Tre Province"
-  },
-  {
-    "code": "VN.01",
-    "name": "An Giang Province"
-  },
-  {
-    "code": "VN.91",
-    "name": "Đăk Nông Province"
-  },
-  {
-    "code": "VN.92",
+    "code": "VN.11",
     "name": "Điện Biên Province"
   },
   {
-    "code": "VN.74",
-    "name": "Bắc Ninh Province"
+    "code": "VN.15",
+    "name": "Lao Cai"
   },
   {
-    "code": "VN.71",
-    "name": "Bắc Giang Province"
+    "code": "VN.19",
+    "name": "Thai Nguyen"
   },
   {
-    "code": "VN.78",
-    "name": "Da Nang"
+    "code": "VN.24",
+    "name": "Bac Ninh"
   },
   {
-    "code": "VN.75",
-    "name": "Bình Dương Province"
+    "code": "VN.25",
+    "name": "Phu Tho"
   },
   {
-    "code": "VN.76",
-    "name": "Bình Phước Province"
+    "code": "VN.31",
+    "name": "Hai Phong"
   },
   {
-    "code": "VN.85",
-    "name": "Thái Nguyên Province"
-  },
-  {
-    "code": "VN.84",
-    "name": "Quảng Nam Province"
-  },
-  {
-    "code": "VN.83",
-    "name": "Phú Thọ Province"
-  },
-  {
-    "code": "VN.82",
-    "name": "Nam Định Province"
-  },
-  {
-    "code": "VN.80",
-    "name": "Hà Nam Province"
-  },
-  {
-    "code": "VN.72",
-    "name": "Bắc Kạn Province"
-  },
-  {
-    "code": "VN.73",
-    "name": "Bạc Liêu Province"
-  },
-  {
-    "code": "VN.77",
-    "name": "Cà Mau Province"
-  },
-  {
-    "code": "VN.79",
-    "name": "Hải Dương Province"
-  },
-  {
-    "code": "VN.81",
+    "code": "VN.33",
     "name": "Hưng Yên Province"
   },
   {
-    "code": "VN.86",
-    "name": "Vĩnh Phúc Province"
+    "code": "VN.37",
+    "name": "Ninh Binh"
   },
   {
-    "code": "VN.93",
-    "name": "Hậu Giang"
+    "code": "VN.44",
+    "name": "Quang Tri"
+  },
+  {
+    "code": "VN.48",
+    "name": "Da Nang City"
+  },
+  {
+    "code": "VN.51",
+    "name": "Quang Ngai"
+  },
+  {
+    "code": "VN.52",
+    "name": "Gia Lai"
+  },
+  {
+    "code": "VN.56",
+    "name": "Khanh Hoa"
+  },
+  {
+    "code": "VN.66",
+    "name": "Dak Lak"
+  },
+  {
+    "code": "VN.68",
+    "name": "Lam Dong"
+  },
+  {
+    "code": "VN.75",
+    "name": "Dong Nai"
+  },
+  {
+    "code": "VN.79",
+    "name": "Ho Chi Minh City (HCMC)"
+  },
+  {
+    "code": "VN.80",
+    "name": "Tay Ninh"
+  },
+  {
+    "code": "VN.82",
+    "name": "Dong Thap"
+  },
+  {
+    "code": "VN.86",
+    "name": "Vinh Long"
+  },
+  {
+    "code": "VN.91",
+    "name": "An Giang"
+  },
+  {
+    "code": "VN.92",
+    "name": "Can Tho City"
+  },
+  {
+    "code": "VN.96",
+    "name": "Ca Mau"
+  },
+  {
+    "code": "VN.08",
+    "name": "Tuyen Quang"
   },
   {
     "code": "VU.15",
