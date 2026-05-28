@@ -4,6 +4,14 @@
   "description": "Cities of the world in Json based on GeoNames Gazetteer",
   "main": "cities.json",
   "types": "cities.d.ts",
+  "exports": {
+    ".":               { "types": "./cities.d.ts", "default": "./cities.json" },
+    "./cities.json":   { "types": "./cities.d.ts", "default": "./cities.json" },
+    "./admin1":        { "types": "./admin1.d.ts", "default": "./admin1.json" },
+    "./admin2":        { "types": "./admin2.d.ts", "default": "./admin2.json" },
+    "./admin1.json":   { "types": "./admin1.d.ts", "default": "./admin1.json" },
+    "./admin2.json":   { "types": "./admin2.d.ts", "default": "./admin2.json" }
+  },
   "scripts": {
     "test": "node test",
     "convert": "node convert",

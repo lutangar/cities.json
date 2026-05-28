@@ -88,6 +88,28 @@ For [./admin2.json](./admin2.json), concatenate the `country`, `admin1`, and `ad
 
 - `US.MA.025` → **Suffolk County**
 
+### Full example
+
+```ts
+import cities from 'cities.json' with { type: 'json' };
+import admin1 from 'cities.json/admin1' with { type: 'json' };
+import admin2 from 'cities.json/admin2' with { type: 'json' };
+
+const boston = cities.find(
+  (c) => c.name === 'Boston' && c.country === 'US' && c.admin1 === 'MA'
+);
+// { name: 'Boston', lat: '42.35843', lng: '-71.05977',
+//   country: 'US', admin1: 'MA', admin2: '025' }
+
+const state = admin1.find((a) => a.code === `${boston.country}.${boston.admin1}`);
+// { code: 'US.MA', name: 'Massachusetts' }
+
+const county = admin2.find(
+  (a) => a.code === `${boston.country}.${boston.admin1}.${boston.admin2}`
+);
+// { code: 'US.MA.025', name: 'Suffolk County' }
+```
+
 ## Resource
 
 - https://download.geonames.org/export/dump/
