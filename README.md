@@ -1,10 +1,10 @@
 # :cityscape: Cities of the World [![CC BY 4.0][cc-by-shield]][cc-by]
 
-These **cities** are coming from the [GeoNames Gazetteer](http://www.geonames.org).
+These **cities** come from the [GeoNames Gazetteer](http://www.geonames.org).
 
 > _all cities with a population > 1000 or seats of adm div down to PPLA3 (ca 130.000) [...]_
 
-_Thus, this file is updated **monthly** and new cities are added as world population rises._
+_Thus, this file is updated **monthly**, and new cities are added as the world's population rises._
 
 > See https://www.geonames.org/datasources/ for the list of data sources used by **GeoNames**.
 
@@ -18,7 +18,7 @@ npm install --save cities.json
 
 **Node.js**
 
-*Since **Node.js** v22 you should import `json` files with [import attributes](https://nodejs.org/docs/latest-v22.x/api/esm.html#import-attributes):*
+*Since **Node.js** v22, you should import JSON files with [import attributes](https://nodejs.org/docs/latest-v22.x/api/esm.html#import-attributes):*
 
 ```js
 import cities from 'cities.json' with { type: 'json' }
@@ -32,7 +32,7 @@ import cities from 'cities.json';
 
 ## Description
 
-This Json version is an array of object of the following shape:
+Each entry has the following shape:
 
 - ISO 3166-1 alpha-2 country code
 - name
@@ -59,13 +59,13 @@ This Json version is an array of object of the following shape:
 
 ## Administrative divisions
 
-Names and depth of these divisions (and subdivisions) may vary greatly between countries, thus the use of these less expressive property names :
+Names and depths of these divisions (and subdivisions) may vary greatly between countries, hence the use of these less expressive property names:
 
 - `admin1` code
 - `admin2` code
 - _etc._
 
-For example `admin1` code for a **US** city, would stand for the **state** :
+For example, the `admin1` code for a **US** city stands for the **state**:
 
 ```jsonc
 [
@@ -80,12 +80,11 @@ For example `admin1` code for a **US** city, would stand for the **state** :
 ]
 ```
 
-You may map the `admin1` code to the full **English** name through the [./admin1.json](./admin1.json) file.
-Where the `code` is the concatenation of the `country` code and the `admin1` code, for example:
+You may map the `admin1` code to the full **English** name through the [./admin1.json](./admin1.json) file, where the `code` is the concatenation of the `country` code and the `admin1` code — for example:
 
 - `US.MA` → **Massachusetts**
 
-For [./admin2.json](./admin2.json) concatenate `country`, `admin1` code and the `admin2` code:
+For [./admin2.json](./admin2.json), concatenate the `country`, `admin1`, and `admin2` codes:
 
 - `US.MA.025` → **Suffolk County**
 
