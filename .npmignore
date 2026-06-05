@@ -42,6 +42,7 @@ packages
 
 # Project
 .github/
+docs/
 .prettierignore
 .prettierrc
 .release-it.json
