@@ -54,7 +54,7 @@
   "homepage": "https://github.com/lutangar/cities.json#readme",
   "devDependencies": {
     "prettier": "^2.7.1",
-    "release-it": "^19.2.4",
+    "release-it": "^21.1.0",
     "yauzl": "^2.10.0"
   }
 }
