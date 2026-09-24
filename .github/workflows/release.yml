@@ -8,6 +8,11 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
+    # npm trusted publishing (OIDC): no npm token to rotate. contents: write lets
+    # release-it push the release commit and tag and create the GitHub release.
+    permissions:
+      contents: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
       - name: git config
@@ -16,12 +21,12 @@ jobs:
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
       - uses: actions/setup-node@v4
         with:
-          node-version: '22.x'
+          node-version: '24.x'
           registry-url: 'https://registry.npmjs.org'
+      - run: npm install -g npm@^11.5.1 # the first npm that publishes through OIDC
       - run: npm install
       - run: npm run build
       - run: npm test
       - run: npm run release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
